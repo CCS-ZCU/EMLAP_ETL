@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+references:
+  - type: "software"
+authors: 
+  affiliation: ""
+      family-names: ""
+      given-names: ""
+      orcid: ""-
+license: cc-by-nc-4.0
+repository-code: ""
+title: ""
+version:
+doi: 
+date-released: 2023-04-27
+abstract: ""
+keywords:
+  - ""
