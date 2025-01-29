@@ -11,7 +11,8 @@ CC-BY-SA 4.0, see attached License.md
 ---
 ## Description
 
-[What is the purpose of this repo? Is it related to any specific dataset or publication output?]
+This repo contains a machine-readable and morphologically annotated corpus of Early Modern Latin Alchemy accompanied by 
+1) a catalogue of individual works with various metadata and 2) scripts used for preprocessing of the data.
 
 ## Getting started
 
