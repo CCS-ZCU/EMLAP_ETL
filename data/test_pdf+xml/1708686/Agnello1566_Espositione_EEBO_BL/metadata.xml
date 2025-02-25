@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>1708686</docId>
+    <title>Agnello1566_Espositione_EEBO_BL</title>
+    <uploadTimestamp>1702699611253</uploadTimestamp>
+    <uploader>jsvadlen@ff.zcu.cz</uploader>
+    <uploaderId>97036</uploaderId>
+    <nrOfPages>27</nrOfPages>
+    <pageId>62644559</pageId>
+    <url>https://files.transkribus.eu/Get?fileType=view&amp;id=ZEOQDESOGSIMFFFQSPVUENVF</url>
+    <thumbUrl>https://files.transkribus.eu/Get?fileType=thumb&amp;id=ZEOQDESOGSIMFFFQSPVUENVF</thumbUrl>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_1708686</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>240387</colId>
+            <colName>TOME I.I</colName>
+            <description>created by pavlas.petr@post.cz</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+            <isFavorite>false</isFavorite>
+        </colList>
+    </collectionList>
+    <mainColId>240387</mainColId>
+</trpDocMetadata>
