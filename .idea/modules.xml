@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../WEEMS/.idea/WEEMS.iml" filepath="$PROJECT_DIR$/../WEEMS/.idea/WEEMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../noscemus_ETF/.idea/noscemus_ETF.iml" filepath="$PROJECT_DIR$/../noscemus_ETF/.idea/noscemus_ETF.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/tome-corpus.iml" filepath="$PROJECT_DIR$/.idea/tome-corpus.iml" />
     </modules>
   </component>

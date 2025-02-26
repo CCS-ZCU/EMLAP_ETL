@@ -5,9 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75201beb-1fa6-4e18-bc91-110abd07ddb8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/tome-corpus.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tome-corpus.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/0_extract-pdf.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/0_extract-pdf.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WEEMS/.idea/WEEMS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WEEMS/scripts/test.rmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEEMS/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WEEMS/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEEMS/.idea/noscemus_ETF.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEEMS/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noscemus_ETF/scripts/.ipynb_checkpoints/1_reorganize-noscemus-directories-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../noscemus_ETF/scripts/.ipynb_checkpoints/1_reorganize-noscemus-directories-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noscemus_ETF/scripts/.ipynb_checkpoints/4_metadata-aggregation&amp;cleaning-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../noscemus_ETF/scripts/.ipynb_checkpoints/4_metadata-aggregation&amp;cleaning-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noscemus_ETF/scripts/1_reorganize-noscemus-directories.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../noscemus_ETF/scripts/1_reorganize-noscemus-directories.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noscemus_ETF/scripts/2_noscemus-spacy-preprocess.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../noscemus_ETF/scripts/2_noscemus-spacy-preprocess.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noscemus_ETF/scripts/4_metadata-aggregation&amp;cleaning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../noscemus_ETF/scripts/4_metadata-aggregation&amp;cleaning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noscemus_ETF/scripts/archive/.ipynb_checkpoints/_lemmata-extraction-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../noscemus_ETF/scripts/archive/.ipynb_checkpoints/_lemmata-extraction-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noscemus_ETF/scripts/archive/_lemmata-extraction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../noscemus_ETF/scripts/archive/_lemmata-extraction.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,16 +31,19 @@
   "associatedIndex": 7
 }]]></component>
   <component name="ProjectId" id="2tamnsT4yb1yxmnxU4xgnv2lCh0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/jupyter-vojta/notebooks/LAGT",
+    "last_opened_file_path": "/home/jupyter-vojta/notebooks/WEEMS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,7 +60,7 @@
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
       <window_info id="R_Remote_Host" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17256945" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24687499" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="R_Jobs" />
@@ -61,7 +74,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.03388889" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.28388888" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
       <window_info anchor="bottom" id="mopdf" order="6" />
@@ -95,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740598729694</updated>
-      <workItem from="1740598730756" duration="2060000" />
+      <workItem from="1740598730756" duration="3213000" />
     </task>
     <servers />
   </component>
