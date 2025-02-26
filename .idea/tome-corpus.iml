@@ -4,5 +4,7 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.10 virtualenv at /srv/venvs/latin_venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="noscemus_ETF" />
+    <orderEntry type="module" module-name="WEEMS" />
   </component>
 </module>
