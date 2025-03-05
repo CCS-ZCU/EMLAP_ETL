@@ -7,7 +7,8 @@
     <list default="true" id="75201beb-1fa6-4e18-bc91-110abd07ddb8" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../WEEMS/.idea/WEEMS.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../WEEMS/scripts/test.rmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/0_extract-pdf.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/0_extract-pdf.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WEEMS/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WEEMS/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WEEMS/.idea/noscemus_ETF.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../WEEMS/.idea/workspace.xml" beforeDir="false" />
@@ -27,11 +28,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2tamnsT4yb1yxmnxU4xgnv2lCh0" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,6 +40,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -60,7 +61,7 @@
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
       <window_info id="R_Remote_Host" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24687499" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23993056" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="R_Jobs" />
@@ -74,18 +75,18 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.28388888" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.27166665" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
       <window_info anchor="bottom" id="mopdf" order="6" />
-      <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.1" />
       <window_info anchor="right" id="PR AI Assistant" />
       <window_info anchor="right" id="Endpoints" />
       <window_info anchor="right" id="R_Tools" />
       <window_info anchor="right" id="Coverage" side_tool="true" />
       <window_info anchor="right" id="SciView" />
       <window_info anchor="right" id="Notifications" order="0" weight="0.33020833" />
-      <window_info anchor="right" id="AIAssistant" order="1" weight="0.33020833" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.32118055" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
@@ -95,8 +96,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-PY-243.23654.74" />
-        <option value="bundled-python-sdk-48e0493ecb77-43b77aa2d136-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.23654.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-45be767fe593-JavaScript-PY-251.23536.40" />
+        <option value="bundled-python-sdk-ed726c817bc5-aeb89614ce15-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23536.40" />
       </set>
     </attachedChunks>
   </component>
@@ -108,7 +109,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740598729694</updated>
-      <workItem from="1740598730756" duration="3213000" />
+      <workItem from="1740598730756" duration="10006000" />
+      <workItem from="1741162842680" duration="1705000" />
     </task>
     <servers />
   </component>
