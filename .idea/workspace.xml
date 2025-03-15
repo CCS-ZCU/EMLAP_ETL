@@ -8,7 +8,6 @@
       <change afterPath="$PROJECT_DIR$/../WEEMS/.idea/WEEMS.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../WEEMS/scripts/test.rmd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/0_extract-pdf.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/0_extract-pdf.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1621506/Pantheus1518_Ars_Transmutationis_Metallicae_BL_GB.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1621506/Pantheus1518_Ars_Transmutationis_Metallicae_BL_GB/metadata.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1624435/Bracesco1548_De_alchemia_dialogi_II_IA_Madrid.pdf" beforeDir="false" />
@@ -195,6 +194,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -278,6 +278,7 @@
       <workItem from="1741559458667" duration="809000" />
       <workItem from="1741560551970" duration="1258000" />
       <workItem from="1741561846254" duration="2519000" />
+      <workItem from="1742062240826" duration="63000" />
     </task>
     <servers />
   </component>
