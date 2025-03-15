@@ -8,7 +8,6 @@
       <change afterPath="$PROJECT_DIR$/../WEEMS/.idea/WEEMS.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../WEEMS/scripts/test.rmd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/0_download-pdf.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/0_download-pdf.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/0_extract-pdf.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/0_extract-pdf.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1621506/Pantheus1518_Ars_Transmutationis_Metallicae_BL_GB.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1621506/Pantheus1518_Ars_Transmutationis_Metallicae_BL_GB/metadata.xml" beforeDir="false" />
@@ -217,7 +216,7 @@
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
       <window_info id="R_Remote_Host" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18715277" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18229166" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="R_Jobs" />
@@ -231,7 +230,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.21833333" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.18944445" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
       <window_info anchor="bottom" id="mopdf" order="6" />
