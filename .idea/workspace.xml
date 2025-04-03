@@ -212,12 +212,13 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/srv/webserver/apps/iweems_app/data",
+    "last_opened_file_path": "/home/jupyter-vojta/notebooks/EMLAP_ETL/scripts",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "configurable.group.project",
     "vue.rearranger.settings.migration": "true"
   }
@@ -233,7 +234,7 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17951389" />
       <window_info id="Commit" order="1" weight="0.17951389" />
       <window_info id="Activity" order="2" weight="0.17951389" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="R_Jobs" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -244,12 +245,12 @@
       <window_info anchor="bottom" id="Find" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
-      <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.23277777" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.23277777" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.100555554" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
       <window_info anchor="bottom" id="mopdf" order="6" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.100555554" />
       <window_info anchor="bottom" id="Jupyter" order="8" weight="0.33055556" />
       <window_info anchor="right" id="PR AI Assistant" />
       <window_info anchor="right" id="R_Tools" />
@@ -267,6 +268,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scripts" />
       <recent name="/srv/webserver/apps/iweems_app/data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -299,7 +301,8 @@
       <workItem from="1742062240826" duration="63000" />
       <workItem from="1742719070116" duration="1497000" />
       <workItem from="1743414171428" duration="26449000" />
-      <workItem from="1743665926670" duration="10419000" />
+      <workItem from="1743665926670" duration="11917000" />
+      <workItem from="1743704354338" duration="3326000" />
     </task>
     <servers />
   </component>
