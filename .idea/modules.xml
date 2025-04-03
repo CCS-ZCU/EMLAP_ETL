@@ -4,8 +4,14 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/EMLAP_ETL.iml" filepath="$PROJECT_DIR$/.idea/EMLAP_ETL.iml" />
       <module fileurl="file://$PROJECT_DIR$/../WEEMS/.idea/WEEMS.iml" filepath="$PROJECT_DIR$/../WEEMS/.idea/WEEMS.iml" />
+      <module fileurl="file:///srv/webserver/apps/amed_app/.idea/amed_app.iml" filepath="/srv/webserver/apps/amed_app/.idea/amed_app.iml" />
+      <module fileurl="file:///srv/webserver/apps/iweems_app/.idea/iweems_app.iml" filepath="/srv/webserver/apps/iweems_app/.idea/iweems_app.iml" />
+      <module fileurl="file:///srv/models/.idea/models.iml" filepath="/srv/models/.idea/models.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mops/.idea/mops.iml" filepath="$PROJECT_DIR$/../mops/.idea/mops.iml" />
       <module fileurl="file://$PROJECT_DIR$/../noscemus_ETF/.idea/noscemus_ETF.iml" filepath="$PROJECT_DIR$/../noscemus_ETF/.idea/noscemus_ETF.iml" />
       <module fileurl="file://$PROJECT_DIR$/../EMLAP_ETL__backup/.idea/tome-corpus.iml" filepath="$PROJECT_DIR$/../EMLAP_ETL__backup/.idea/tome-corpus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tomeviz/.idea/tomeviz.iml" filepath="$PROJECT_DIR$/../tomeviz/.idea/tomeviz.iml" />
+      <module fileurl="file:///srv/webserver/.idea/webserver.iml" filepath="/srv/webserver/.idea/webserver.iml" />
     </modules>
   </component>
 </project>
