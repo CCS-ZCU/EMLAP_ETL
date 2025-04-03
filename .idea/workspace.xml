@@ -188,6 +188,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -231,7 +238,7 @@
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
       <window_info id="R_Remote_Host" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17951389" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13463542" />
       <window_info id="Commit" order="1" weight="0.17951389" />
       <window_info id="Activity" order="2" weight="0.17951389" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
@@ -245,12 +252,13 @@
       <window_info anchor="bottom" id="Find" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
-      <window_info anchor="bottom" id="Problems View" order="2" weight="0.23277777" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.100555554" />
+      <window_info active="true" anchor="bottom" id="Problems View" order="2" visible="true" weight="0.40708333" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.40708333" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
       <window_info anchor="bottom" id="mopdf" order="6" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.100555554" />
+      <window_info anchor="bottom" id="Duplicates" order="8" weight="0.33041668" />
       <window_info anchor="bottom" id="Jupyter" order="8" weight="0.33055556" />
       <window_info anchor="right" id="PR AI Assistant" />
       <window_info anchor="right" id="R_Tools" />
@@ -258,7 +266,7 @@
       <window_info anchor="right" id="Coverage" side_tool="true" />
       <window_info anchor="right" id="SciView" />
       <window_info anchor="right" id="Notifications" order="0" weight="0.2954861" />
-      <window_info active="true" anchor="right" id="AIAssistant" order="1" visible="true" weight="0.2954861" />
+      <window_info active="true" anchor="right" id="AIAssistant" order="1" visible="true" weight="0.3596354" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
@@ -302,7 +310,7 @@
       <workItem from="1742719070116" duration="1497000" />
       <workItem from="1743414171428" duration="26449000" />
       <workItem from="1743665926670" duration="11917000" />
-      <workItem from="1743704354338" duration="3326000" />
+      <workItem from="1743704354338" duration="12018000" />
     </task>
     <servers />
   </component>
