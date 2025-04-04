@@ -192,6 +192,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -252,8 +253,8 @@
       <window_info anchor="bottom" id="Find" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
-      <window_info active="true" anchor="bottom" id="Problems View" order="2" visible="true" weight="0.40708333" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.40708333" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.34958333" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.34958333" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
       <window_info anchor="bottom" id="mopdf" order="6" />
@@ -310,7 +311,7 @@
       <workItem from="1742719070116" duration="1497000" />
       <workItem from="1743414171428" duration="26449000" />
       <workItem from="1743665926670" duration="11917000" />
-      <workItem from="1743704354338" duration="12018000" />
+      <workItem from="1743704354338" duration="19134000" />
     </task>
     <servers />
   </component>
