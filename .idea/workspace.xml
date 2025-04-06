@@ -252,8 +252,8 @@
       <window_info anchor="bottom" id="HfCacheToolWindow" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
-      <window_info active="true" anchor="bottom" id="Problems View" order="2" visible="true" weight="0.33055556" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.22833332" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.33055556" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.33055556" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
       <window_info anchor="bottom" id="mopdf" order="6" />
@@ -266,7 +266,7 @@
       <window_info anchor="right" id="documentation.v2" side_tool="true" />
       <window_info anchor="right" id="Coverage" side_tool="true" />
       <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Notifications" order="0" weight="0.2954861" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.22673611" />
       <window_info active="true" anchor="right" id="AIAssistant" order="1" visible="true" weight="0.22673611" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
@@ -311,7 +311,7 @@
       <workItem from="1742719070116" duration="1497000" />
       <workItem from="1743414171428" duration="26449000" />
       <workItem from="1743665926670" duration="11917000" />
-      <workItem from="1743704354338" duration="36749000" />
+      <workItem from="1743704354338" duration="38152000" />
     </task>
     <servers />
   </component>
