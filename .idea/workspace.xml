@@ -203,6 +203,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file:///srv/webserver/apps/tomeviz/tomeviz-streamlit.py" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -220,7 +223,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/jupyter-vojta/notebooks/EMLAP_ETL/scripts",
+    "last_opened_file_path": "/home/jupyter-vojta/notebooks/EMLAP_ETL",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -239,7 +242,7 @@
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
       <window_info id="R_Remote_Host" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17951389" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19618055" />
       <window_info id="Commit" order="1" weight="0.17951389" />
       <window_info id="Activity" order="2" weight="0.17951389" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
@@ -253,7 +256,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" weight="0.33055556" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.33055556" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.25166667" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
       <window_info anchor="bottom" id="mopdf" order="6" />
@@ -267,7 +270,7 @@
       <window_info anchor="right" id="Coverage" side_tool="true" />
       <window_info anchor="right" id="SciView" />
       <window_info anchor="right" id="Notifications" order="0" weight="0.22673611" />
-      <window_info active="true" anchor="right" id="AIAssistant" order="1" visible="true" weight="0.22673611" />
+      <window_info active="true" anchor="right" id="AIAssistant" order="1" visible="true" weight="0.2482639" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
@@ -277,6 +280,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/scripts" />
       <recent name="/srv/webserver/apps/iweems_app/data" />
     </key>
@@ -311,7 +315,7 @@
       <workItem from="1742719070116" duration="1497000" />
       <workItem from="1743414171428" duration="26449000" />
       <workItem from="1743665926670" duration="11917000" />
-      <workItem from="1743704354338" duration="38152000" />
+      <workItem from="1743704354338" duration="52567000" />
     </task>
     <servers />
   </component>
