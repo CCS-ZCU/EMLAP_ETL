@@ -206,9 +206,10 @@ params = {"header_width_proportion_max" : 0.8,
           "textblock_char_density_ratio_max" : 0.75}
 
 #%%
-source_dir = "/srv/data/tome/tome-corpus/emlap_raw_2025-03-10/"
+source_dir = "/srv/data/tome/tome-corpus/emlap_raw_2025-04-08/"
 
 dest_dir = "/srv/data/tome/tome-corpus/emlap_annotated_textblocks/"
+
 try:
     os.mkdir(dest_dir)
 except:
