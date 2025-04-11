@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/../EMLAP_ETL__backup/.idea/tome-corpus.iml" filepath="$PROJECT_DIR$/../EMLAP_ETL__backup/.idea/tome-corpus.iml" />
       <module fileurl="file://$PROJECT_DIR$/../tomeviz/.idea/tomeviz.iml" filepath="$PROJECT_DIR$/../tomeviz/.idea/tomeviz.iml" />
       <module fileurl="file:///srv/webserver/.idea/webserver.iml" filepath="/srv/webserver/.idea/webserver.iml" />
+      <module fileurl="file:///srv/webserver/data/www/.idea/www.iml" filepath="/srv/webserver/data/www/.idea/www.iml" />
     </modules>
   </component>
 </project>
