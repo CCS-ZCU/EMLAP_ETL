@@ -1,0 +1,4627 @@
+[
+  [],
+  [
+    {
+      "coordinates": [
+        71.04000091552734,
+        96.9839859008789,
+        399.87310791015625,
+        101.90398406982422
+      ],
+      "text": "EPISTOLA\n",
+      "tag": "title"
+    },
+    {
+      "coordinates": [
+        82.80000305175781,
+        132.95999145507812,
+        388.3856201171875,
+        137.75999450683594
+      ],
+      "text": "SCRIPTA THEO¬\n",
+      "tag": "title"
+    },
+    {
+      "coordinates": [
+        111.5999984741211,
+        163.94400024414062,
+        361.0834045410156,
+        168.86399841308594
+      ],
+      "text": "PHRASTO PARACELSO.\n",
+      "tag": "title"
+    },
+    {
+      "coordinates": [
+        66.0,
+        206.18399047851562,
+        403.52777099609375,
+        211.10398864746094
+      ],
+      "text": "In qua ratio ordinis & nominum, adeoque totius Phi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        105.5999984741211,
+        227.51998901367188,
+        364.232177734375,
+        232.3199920654297
+      ],
+      "text": "losophiae. Adeptae Methodus compen¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        153.60000610351562,
+        248.16000366210938,
+        312.99658203125,
+        252.9600067138672
+      ],
+      "text": "diosè & eruditè osten¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        209.52000427246094,
+        269.0400085449219,
+        256.7099914550781,
+        273.8399963378906
+      ],
+      "text": "ditur:\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        81.12000274658203,
+        357.8399963378906,
+        381.2735900878906,
+        362.6399841308594
+      ],
+      "text": "PETRO SEVERINO DANO PHI¬\n",
+      "tag": "title"
+    },
+    {
+      "coordinates": [
+        126.4800033569336,
+        378.9839782714844,
+        340.07257080078125,
+        383.90399169921875
+      ],
+      "text": "losophiae & Medicinae Doctore.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        132.0,
+        577.4640502929688,
+        333.30181884765625,
+        582.384033203125
+      ],
+      "text": "BASILEAE.\n",
+      "tag": "title"
+    }
+  ],
+  [
+    {
+      "coordinates": [
+        225.36000061035156,
+        181.92001342773438,
+        488.88897705078125,
+        186.7200164794922
+      ],
+      "text": "Typographus Lectori S.\n",
+      "tag": "title"
+    },
+    {
+      "coordinates": [
+        219.60000610351562,
+        207.36001586914062,
+        528.4425659179688,
+        212.16001892089844
+      ],
+      "text": "CVm uiderem à multis desiderari iudicium de scri¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        222.47999572753906,
+        227.51998901367188,
+        529.3709106445312,
+        232.3199920654297
+      ],
+      "text": "ptis Theophrasti Paracelse, ineidissemque fortè in\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        224.63999938964844,
+        247.43997192382812,
+        527.9392700195312,
+        252.23997497558594
+      ],
+      "text": "hanc Epistolam, in qua tam doctè nominum ratio¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        185.27999877929688,
+        268.3199768066406,
+        529.7264404296875,
+        273.1199645996094
+      ],
+      "text": "nes, ordinis leges, praeparationum consilia, explicata erant:\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        186.47999572753906,
+        287.7599792480469,
+        529.7247924804688,
+        292.5599670410156
+      ],
+      "text": "operae me facturum precium arbitratus sum, authore can¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        188.16000366210938,
+        307.6799621582031,
+        530.6640014648438,
+        312.4799499511719
+      ],
+      "text": "didè annuente, si typis nostris excusa, multorum manibus\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        188.16000366210938,
+        327.8399963378906,
+        530.1060180664062,
+        332.6399841308594
+      ],
+      "text": "tereretur. Quòd si grato animo hunc nostrum laborem\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        186.47999572753906,
+        348.47998046875,
+        531.0343627929688,
+        353.27996826171875
+      ],
+      "text": "receperis, proximis nundinis Francofurdensibus, Ideam\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        187.44000244140625,
+        368.1839904785156,
+        531.6954956054688,
+        373.10400390625
+      ],
+      "text": "Medicinae Philosophicae eiusdem authoris, proferemus. In\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        187.44000244140625,
+        387.6239929199219,
+        530.8739624023438,
+        392.54400634765625
+      ],
+      "text": "quo libello fundamenta Philosophiae & Medicinae Paracel¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        200.16000366210938,
+        408.7200012207031,
+        518.6925659179688,
+        413.5199890136719
+      ],
+      "text": "sicae demonstrantur, & cum Hippocraticis ac Galeni¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        227.52000427246094,
+        427.7039794921875,
+        491.8470764160156,
+        432.6239929199219
+      ],
+      "text": "cis decretis conferuntur. Aequo interea ani¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        294.4800109863281,
+        447.3599853515625,
+        422.41778564453125,
+        452.15997314453125
+      ],
+      "text": "mo his fruere. Vale.\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": [
+        75.12000274658203,
+        88.55996704101562,
+        392.96221923828125,
+        93.3599624633789
+      ],
+      "text": "THEOPHRASTO\n",
+      "tag": "title"
+    },
+    {
+      "coordinates": [
+        154.32000732421875,
+        111.36001586914062,
+        314.14501953125,
+        116.1600112915039
+      ],
+      "text": "PARACELSO¬\n",
+      "tag": "header"
+    },
+    {
+      "coordinates": [
+        103.68000030517578,
+        135.83999633789062,
+        363.27642822265625,
+        140.63999938964844
+      ],
+      "text": "PETRVS SEVERINVS\n",
+      "tag": "title"
+    },
+    {
+      "coordinates": [
+        161.0399932861328,
+        156.48001098632812,
+        311.4615783691406,
+        161.28001403808594
+      ],
+      "text": "Lampades & Lucernas.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        183.1199951171875,
+        200.90396118164062,
+        404.08282470703125,
+        205.82395935058594
+      ],
+      "text": "LEgi libros Philoso¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        179.75999450683594,
+        229.19998168945312,
+        406.78521728515625,
+        233.99998474121094
+      ],
+      "text": "phiae tuae, Theophra¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        178.0800018310547,
+        256.0799865722656,
+        405.9600524902344,
+        260.8799743652344
+      ],
+      "text": "ste Paracelse: in qui¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        175.44000244140625,
+        284.4239807128906,
+        407.3329162597656,
+        289.343994140625
+      ],
+      "text": "bus diuinitatem inge¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        61.91999816894531,
+        311.9999694824219,
+        406.519287109375,
+        316.7999572753906
+      ],
+      "text": "nij, contemplationumque tuarum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        61.91999816894531,
+        339.6239929199219,
+        404.2769470214844,
+        344.54400634765625
+      ],
+      "text": "maiestatem admirandam cogno¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        63.84000015258789,
+        367.4639892578125,
+        406.2392272949219,
+        372.3840026855469
+      ],
+      "text": "ui. Et quamuis aliorum Philoso¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        67.19999694824219,
+        395.7599792480469,
+        409.9776611328125,
+        400.5599670410156
+      ],
+      "text": "phorum ingenia ijsdem implica¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        62.880001068115234,
+        422.90399169921875,
+        409.4842224121094,
+        427.8240051269531
+      ],
+      "text": "ta fuisse difficultatibus sciam: pau¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        62.400001525878906,
+        450.9599914550781,
+        404.49127197265625,
+        455.7599792480469
+      ],
+      "text": "cis tamen datum fuit aequali men¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        60.720001220703125,
+        478.3199768066406,
+        406.8672180175781,
+        483.1199645996094
+      ],
+      "text": "tis acie, ad Mosaicorum mysterio¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        60.720001220703125,
+        506.8799743652344,
+        405.445068359375,
+        511.6799621582031
+      ],
+      "text": "rum penetralia ascendere. Orphei¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        61.20000076293945,
+        534.5039672851562,
+        405.6725769042969,
+        539.4239501953125
+      ],
+      "text": "admiramur pietatem, Pythagorae\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        61.20000076293945,
+        562.0799560546875,
+        404.50396728515625,
+        566.8800048828125
+      ],
+      "text": "maiestatem, & absconditam toti¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        61.68000030517578,
+        590.1599731445312,
+        402.4956970214844,
+        594.9600219726562
+      ],
+      "text": "us Creaturae scientiam, Socratis\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        62.400001525878906,
+        618.2639770507812,
+        403.493408203125,
+        623.1839599609375
+      ],
+      "text": "humanitatem, Platonis eloquen¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        61.91999816894531,
+        646.5599365234375,
+        406.9259948730469,
+        651.3599853515625
+      ],
+      "text": "tiam, & inquisitionum subtilita¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        258.4800109863281,
+        676.0799560546875,
+        402.11041259765625,
+        682.4639892578125
+      ],
+      "text": "tem:\ng 2\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": [
+        188.63999938964844,
+        90.72000122070312,
+        535.6548461914062,
+        95.5199966430664
+      ],
+      "text": "tem tibi uero haec omnia, uel plu¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        190.55999755859375,
+        119.54398345947266,
+        538.9070434570312,
+        124.46398162841797
+      ],
+      "text": "rima certe, uni contigisse, etiam\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        190.55999755859375,
+        147.11996459960938,
+        535.296142578125,
+        151.9199676513672
+      ],
+      "text": "nostro hoc, seculo gratulamur.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        191.75999450683594,
+        175.46395874023438,
+        539.4788818359375,
+        180.3839569091797
+      ],
+      "text": "Nec dubito quin ex uiuentibus\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        192.9600067138672,
+        202.31997680664062,
+        539.18505859375,
+        207.11997985839844
+      ],
+      "text": "uigentibusque riuulis, non ex mor¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        192.24000549316406,
+        229.94400024414062,
+        535.2828979492188,
+        234.86399841308594
+      ],
+      "text": "tuis & silentibus literis, ut nos so¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        195.1199951171875,
+        258.2399597167969,
+        537.6150512695312,
+        263.0399475097656
+      ],
+      "text": "lemus, horùm arcanorum thesau¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        192.24000549316406,
+        285.8639831542969,
+        538.9844360351562,
+        290.78399658203125
+      ],
+      "text": "rum receperis: adeoque diuina\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        194.8800048828125,
+        313.4399719238281,
+        541.1044311523438,
+        318.2399597167969
+      ],
+      "text": "quadam copulatione, ex totius)\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        195.1199951171875,
+        341.03997802734375,
+        541.1160278320312,
+        345.8399658203125
+      ],
+      "text": "circuli ambitu, ad unicum centrum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        192.72000122070312,
+        369.3599853515625,
+        543.1567993164062,
+        374.15997314453125
+      ],
+      "text": "reuocasse uniuersam scientiarum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        195.1199951171875,
+        396.47998046875,
+        529.5718994140625,
+        401.27996826171875
+      ],
+      "text": "ac Musarum consonantiam. O\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        190.55999755859375,
+        424.1039733886719,
+        538.5233154296875,
+        429.02398681640625
+      ],
+      "text": "beatam animam tali praedestina¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        194.8800048828125,
+        452.6639709472656,
+        542.9391479492188,
+        457.583984375
+      ],
+      "text": "tioni consęcratam. Nos uerò, quos\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        197.52000427246094,
+        480.239990234375,
+        546.3967895507812,
+        485.03997802734375
+      ],
+      "text": "longò à tergo reliquisti, obscurita¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        192.9600067138672,
+        507.8639831542969,
+        544.1260986328125,
+        512.7839965820312
+      ],
+      "text": "item. Commentariorum: tuorum de¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        198.72000122070312,
+        536.1840209960938,
+        545.6751708984375,
+        541.10400390625
+      ],
+      "text": "ploramus, nominum inauditam\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        198.72000122070312,
+        563.7599487304688,
+        544.4544067382812,
+        568.5599975585938
+      ],
+      "text": "nouitatem accusamus; constanti¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        194.8800048828125,
+        591.6240234375,
+        545.1513671875,
+        596.5440063476562
+      ],
+      "text": "eam & tractandi aequabilitatem re¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        197.52000427246094,
+        618.7440185546875,
+        544.8356323242188,
+        623.6640014648438
+      ],
+      "text": "quirimus, & in processu mecha¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        197.75999450683594,
+        647.3040161132812,
+        548.818359375,
+        652.2239990234375
+      ],
+      "text": "nico praeparationum ueritatem\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        489.6000061035156,
+        672.7440185546875,
+        540.3334350585938,
+        677.6640014648438
+      ],
+      "text": "desi¬\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": [
+        59.7599983215332,
+        80.63998413085938,
+        412.1291198730469,
+        85.43997955322266
+      ],
+      "text": "desideramus. Quas difficultates,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        58.08000183105469,
+        105.8639907836914,
+        408.32257080078125,
+        110.78398895263672
+      ],
+      "text": "animos etiam confirmatos, fatiga¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        54.959999084472656,
+        134.39999389648438,
+        402.1886291503906,
+        139.1999969482422
+      ],
+      "text": "re posse, quis dubitat: huius, uero\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        56.880001068115234,
+        162.95999145507812,
+        403.68505859375,
+        167.75999450683594
+      ],
+      "text": "seculi ingenia planę superarunt.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        59.040000915527344,
+        189.36001586914062,
+        408.6900634765625,
+        194.16001892089844
+      ],
+      "text": "Itaque ueremur ne pio & amico tuo\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        59.7599983215332,
+        217.19998168945312,
+        394.642822265625,
+        221.99998474121094
+      ],
+      "text": "proposito plurimum detrahatur\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        56.400001525878906,
+        244.82400512695312,
+        401.1148681640625,
+        249.74400329589844
+      ],
+      "text": "authoritate obscurata: & ne ueri¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        59.7599983215332,
+        274.7999572753906,
+        406.1304626464844,
+        279.5999450683594
+      ],
+      "text": "tate, quod Deus omen auertat,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        56.880001068115234,
+        300.5039978027344,
+        409.5530090332031,
+        305.42401123046875
+      ],
+      "text": "nunc perumbras exiguum illuce¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        55.439998626708984,
+        330.9599914550781,
+        412.0247497558594,
+        335.7599792480469
+      ],
+      "text": "scente, neglecta, ac, propulsata,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        56.400001525878906,
+        355.4639892578125,
+        405.0191650390625,
+        360.3840026855469
+      ],
+      "text": "rursus in antiquam, tenebrarum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        57.599998474121094,
+        383.7599792480469,
+        402.8644104003906,
+        388.5599670410156
+      ],
+      "text": "& errorum confusionem relaba¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        55.439998626708984,
+        411.5999755859375,
+        407.10882568359375,
+        416.39996337890625
+      ],
+      "text": "mur. Sl. fons ueritatis & sapien¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        58.08000183105469,
+        439.9439697265625,
+        406.31463623046875,
+        444.8639831542969
+      ],
+      "text": "tiae, aspice res nostras, & corda\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        55.439998626708984,
+        466.823974609375,
+        406.3542785644531,
+        471.7439880371094
+      ],
+      "text": "eorum qui pio desiderio ardenti¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        56.880001068115234,
+        494.90399169921875,
+        401.479248046875,
+        499.8240051269531
+      ],
+      "text": "busque uotis, aduersus imminen¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        54.2400016784668,
+        522.719970703125,
+        407.11566162109375,
+        527.52001953125
+      ],
+      "text": "tem hanc metamorphosin, dies &\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        53.279998779296875,
+        551.2799682617188,
+        407.9568176269531,
+        556.0800170898438
+      ],
+      "text": "noctes reluctantur. Tu qui lux\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        56.880001068115234,
+        578.9039916992188,
+        408.61651611328125,
+        583.823974609375
+      ],
+      "text": "es, & in tenebris luces, illumina\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        56.400001525878906,
+        606.4799194335938,
+        405.447998046875,
+        611.2799682617188
+      ],
+      "text": "oculos nostros, ut lumine acce¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        56.400001525878906,
+        635.5199584960938,
+        405.7415466308594,
+        640.3200073242188
+      ],
+      "text": "pto in te uiuamus; & pio amore\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        235.9199981689453,
+        661.9440307617188,
+        406.8100891113281,
+        666.864013671875
+      ],
+      "text": "a 3 mutui\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": [
+        186.47999572753906,
+        83.78397369384766,
+        532.0824584960938,
+        88.70397186279297
+      ],
+      "text": "mutuisque officijs in unionem con¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        185.0399932861328,
+        110.63998413085938,
+        527.8900146484375,
+        115.43997955322266
+      ],
+      "text": "spirare possimus, repudiata multi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        186.0,
+        139.43997192382812,
+        532.5471801757812,
+        144.23997497558594
+      ],
+      "text": "tudine & fornicatione. Et quia di¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        185.52000427246094,
+        167.27999877929688,
+        525.1217041015625,
+        172.0800018310547
+      ],
+      "text": "xisti, Pulsanti aperietur, utique pate¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        184.8000030517578,
+        194.63998413085938,
+        524.5945434570312,
+        199.4399871826172
+      ],
+      "text": "ret nobis ianua, modò non dees¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        186.0,
+        222.48001098632812,
+        529.2544555664062,
+        227.28001403808594
+      ],
+      "text": "sent qui debitis temporibus ido¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        184.8000030517578,
+        249.86398315429688,
+        530.7791137695312,
+        254.7839813232422
+      ],
+      "text": "neè pulsarent. Surgamus itaque\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        193.1999969482422,
+        277.6799621582031,
+        531.9344482421875,
+        282.4799499511719
+      ],
+      "text": "Musarum filij, quibus ueritas cu¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        185.0399932861328,
+        306.2399597167969,
+        530.7682495117188,
+        311.0399475097656
+      ],
+      "text": "rae est, & diuturna patientia caligi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        186.9600067138672,
+        334.3199768066406,
+        527.8350219726562,
+        339.1199645996094
+      ],
+      "text": "nem impuritatemque animorum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        188.16000366210938,
+        362.90399169921875,
+        528.4539184570312,
+        367.8240051269531
+      ],
+      "text": "exuamus. Mens enim purificata,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        188.16000366210938,
+        389.7839660644531,
+        532.5216674804688,
+        394.7039794921875
+      ],
+      "text": "fulminis instar, penetralia rerum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        186.9600067138672,
+        417.3599853515625,
+        531.2910766601562,
+        422.15997314453125
+      ],
+      "text": "attingit, superatis umbris. Tum¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        188.8800048828125,
+        444.7439880371094,
+        531.6400756835938,
+        449.66400146484375
+      ],
+      "text": "demum nutrimenta haurire licebit\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        187.67999267578125,
+        472.823974609375,
+        533.7196044921875,
+        477.7439880371094
+      ],
+      "text": "ex Philosophorum adytis & cu¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        188.8800048828125,
+        499.9439697265625,
+        531.1094970703125,
+        504.8639831542969
+      ],
+      "text": "stoditis thesauris. Antea enim ue¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        188.16000366210938,
+        527.7599487304688,
+        532.383056640625,
+        532.5599975585938
+      ],
+      "text": "terno oppressi, siliquas & corti¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        189.83999633789062,
+        555.3839721679688,
+        531.975341796875,
+        560.303955078125
+      ],
+      "text": "ces à nucleo non potuimus separa¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        186.9600067138672,
+        584.3999633789062,
+        532.9697265625,
+        589.2000122070312
+      ],
+      "text": "re. Quid igitur caeci & lusci splen¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        188.63999938964844,
+        611.5199584960938,
+        536.2911987304688,
+        616.3200073242188
+      ],
+      "text": "dorem obscuritate definimus, ut\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        188.16000366210938,
+        640.5599365234375,
+        534.4191284179688,
+        645.3599853515625
+      ],
+      "text": "febricitantes etiam saque hari dulce¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        454.32000732421875,
+        668.4240112304688,
+        525.7542724609375,
+        673.343994140625
+      ],
+      "text": "dinem\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": [
+        74.87999725341797,
+        84.48001098632812,
+        410.8180236816406,
+        89.2800064086914
+      ],
+      "text": "dinem amaritudinis insimulant?\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        86.63999938964844,
+        112.79995727539062,
+        412.674560546875,
+        117.5999526977539
+      ],
+      "text": "Quid nominum nouitatem ride¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        72.23999786376953,
+        141.11996459960938,
+        409.1709899902344,
+        145.9199676513672
+      ],
+      "text": "mus admirantes, si tamen res no¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        74.4000015258789,
+        168.95999145507812,
+        413.9071960449219,
+        173.75999450683594
+      ],
+      "text": "uae & nobis inauditae proponun¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        72.72000122070312,
+        196.31997680664062,
+        414.62884521484375,
+        201.11997985839844
+      ],
+      "text": "tur? Est ea facultas Philosophis\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        74.87999725341797,
+        223.92001342773438,
+        415.27020263671875,
+        228.7200164794922
+      ],
+      "text": "concessa, ut quia rerum domini\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        74.4000015258789,
+        251.30398559570312,
+        414.78778076171875,
+        256.2239990234375
+      ],
+      "text": "facti sunt, etiam nomina ad arbi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        74.87999725341797,
+        279.6239929199219,
+        414.9891662597656,
+        284.54400634765625
+      ],
+      "text": "trium dispensare possint, & suos\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        76.55999755859375,
+        307.9440002441406,
+        411.89080810546875,
+        312.864013671875
+      ],
+      "text": "partus pro libito uestire. Dianam\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        74.4000015258789,
+        335.03997802734375,
+        414.0235900878906,
+        339.8399658203125
+      ],
+      "text": "enim nudam conspicere nefas. Or¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        77.27999877929688,
+        363.14398193359375,
+        411.3451843261719,
+        368.0639953613281
+      ],
+      "text": "dinis immutatas leges tractandique\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        75.5999984741211,
+        391.1999816894531,
+        410.904052734375,
+        395.9999694824219
+      ],
+      "text": "uarietatem, utique non culparemus,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        77.27999877929688,
+        418.79998779296875,
+        413.5252685546875,
+        423.5999755859375
+      ],
+      "text": "si sciremus angustiam & pauper¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        74.4000015258789,
+        446.1839904785156,
+        415.1103820800781,
+        451.10400390625
+      ],
+      "text": "tatis miseriam in Methodis no¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        76.55999755859375,
+        474.26397705078125,
+        414.9296569824219,
+        479.1839904785156
+      ],
+      "text": "stris, qui nec solidi & cogniti quic¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        75.5999984741211,
+        501.8399963378906,
+        414.7926025390625,
+        506.6399841308594
+      ],
+      "text": "quàm scribimus, sed furta inuer¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        74.87999725341797,
+        530.6399536132812,
+        411.7523193359375,
+        535.4400024414062
+      ],
+      "text": "sa. Ita sunt omnia abstrusa & den¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        75.5999984741211,
+        557.3040161132812,
+        414.9422302246094,
+        562.2239990234375
+      ],
+      "text": "sa caligine inuoluta, posteaquam\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        79.44000244140625,
+        583.9440307617188,
+        416.8670654296875,
+        588.864013671875
+      ],
+      "text": "Musam nostram pio coniugio no¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        76.80000305175781,
+        613.2239990234375,
+        417.5772705078125,
+        618.1439819335938
+      ],
+      "text": "bis non copulauimus. Ipsius e¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        76.80000305175781,
+        641.5440063476562,
+        418.8121337890625,
+        646.4639892578125
+      ],
+      "text": "nim beneficio ad sacra Musarum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        294.9599914550781,
+        669.8399658203125,
+        416.8187561035156,
+        674.6400146484375
+      ],
+      "text": "a 4 con¬\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": [
+        184.32000732421875,
+        86.39999389648438,
+        523.85205078125,
+        91.19998931884766
+      ],
+      "text": "conuiuia admittimur, ambro¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        182.63999938964844,
+        113.78397369384766,
+        522.299560546875,
+        118.70397186279297
+      ],
+      "text": "siam & nectar usque ad ebrieta¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        181.44000244140625,
+        141.14395141601562,
+        522.7246704101562,
+        146.06394958496094
+      ],
+      "text": "tem haurimus: ex hac opulen¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        183.1199951171875,
+        168.98397827148438,
+        518.0285034179688,
+        173.9039764404297
+      ],
+      "text": "tia; liberalitate incomprehensibi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        184.0800018310547,
+        196.55996704101562,
+        519.1715698242188,
+        201.35997009277344
+      ],
+      "text": "li munera largimur mortalibus.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        186.9600067138672,
+        225.36001586914062,
+        521.0716552734375,
+        230.16001892089844
+      ],
+      "text": "Quòd si tantas diuitias & tam in¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        182.16000366210938,
+        252.48001098632812,
+        522.6640014648438,
+        257.2799987792969
+      ],
+      "text": "exhaustos thesauros nostris tungu¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        183.1199951171875,
+        281.5439758300781,
+        522.9854125976562,
+        286.4639892578125
+      ],
+      "text": "rijs & angustis limitibus compre¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        182.63999938964844,
+        308.3999938964844,
+        520.8295288085938,
+        313.1999816894531
+      ],
+      "text": "hendere non possimus, quid mi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        181.9199981689453,
+        336.7439880371094,
+        521.498291015625,
+        341.66400146484375
+      ],
+      "text": "rum? Sanè, quae certa lege & Me¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        183.1199951171875,
+        363.6239929199219,
+        519.5496215820312,
+        368.54400634765625
+      ],
+      "text": "thodo scribere uoluerunt Philo¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        184.0800018310547,
+        391.91998291015625,
+        519.20166015625,
+        396.719970703125
+      ],
+      "text": "sophi, ea usqueadeò ordinatè e¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        180.47999572753906,
+        418.79998779296875,
+        520.5179443359375,
+        423.5999755859375
+      ],
+      "text": "dita sunt, ut nobis spem omnem\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        180.9600067138672,
+        446.90399169921875,
+        524.9639282226562,
+        451.8240051269531
+      ],
+      "text": "imitationis abstulerint. Ita scripsit\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        182.63999938964844,
+        475.7039794921875,
+        520.8277587890625,
+        480.6239929199219
+      ],
+      "text": "librum Chirurgiae magnae, Para¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        178.0800018310547,
+        504.0,
+        521.7360229492188,
+        508.79998779296875
+      ],
+      "text": "mirum, Paragranum, de Tar¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        180.47999572753906,
+        531.8399658203125,
+        521.992431640625,
+        536.6400146484375
+      ],
+      "text": "taro, de morbis Amentiarum, de\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        183.1199951171875,
+        558.4799194335938,
+        517.4820556640625,
+        563.2799682617188
+      ],
+      "text": "Contractura. Interdum ex com¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        183.60000610351562,
+        587.2799682617188,
+        518.5751953125,
+        592.0800170898438
+      ],
+      "text": "posito ordinem inuertunt, ubi ar¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        180.9600067138672,
+        615.1199340820312,
+        523.2630615234375,
+        619.9199829101562
+      ],
+      "text": "cana Naturae mysteria sapientiae\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        180.9600067138672,
+        642.0239868164062,
+        524.1306762695312,
+        646.9439697265625
+      ],
+      "text": "filijs proponunt; Sacramenti &\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        423.8399963378906,
+        672.7440185546875,
+        519.55615234375,
+        677.6640014648438
+      ],
+      "text": "mandati\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": [
+        68.4000015258789,
+        76.5839614868164,
+        407.935302734375,
+        81.50395965576172
+      ],
+      "text": "mandati memores, non licere sa¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        70.55999755859375,
+        104.87997436523438,
+        408.73602294921875,
+        109.67996978759766
+      ],
+      "text": "crum dari canibus. Ita inquit Ge¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        71.27999877929688,
+        132.23995971679688,
+        408.4229736328125,
+        137.0399627685547
+      ],
+      "text": "ber, Scientiam nostram non conti¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        70.55999755859375,
+        160.07998657226562,
+        405.2856750488281,
+        164.87998962402344
+      ],
+      "text": "nua sermonis serie, sed in diuersis\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        69.12000274658203,
+        188.42398071289062,
+        409.926025390625,
+        193.34397888183594
+      ],
+      "text": "sparsimus capitulis: quia si conti¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        69.12000274658203,
+        215.54397583007812,
+        408.43572998046875,
+        220.46397399902344
+      ],
+      "text": "nuè fuisset tradita, tam probi; quàm\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        73.44000244140625,
+        243.86398315429688,
+        407.3235778808594,
+        248.7839813232422
+      ],
+      "text": "improbi indignè eam usurpassent.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        70.08000183105469,
+        271.4639587402344,
+        410.9503479003906,
+        276.38397216796875
+      ],
+      "text": "Ita scripta sunt Archidoxa praepa¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        68.4000015258789,
+        299.7599792480469,
+        408.0351257324219,
+        304.5599670410156
+      ],
+      "text": "rationum, de uita longa, de uexa¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        70.08000183105469,
+        326.6639709472656,
+        407.0726013183594,
+        331.583984375
+      ],
+      "text": "tionib. Alchymistarum, de Tinctu¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        68.4000015258789,
+        354.9599914550781,
+        405.9316711425781,
+        359.7599792480469
+      ],
+      "text": "ra Philosophorum. Est & alia ratio¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        68.4000015258789,
+        382.583984375,
+        408.5356750488281,
+        387.5039978027344
+      ],
+      "text": "ordinis, ubi meditationes nostras\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        66.23999786376953,
+        410.8799743652344,
+        409.3177490234375,
+        415.6799621582031
+      ],
+      "text": "receptas à mentis lumine in lucem\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        67.91999816894531,
+        438.26397705078125,
+        408.43121337890625,
+        443.1839904785156
+      ],
+      "text": "damus. Hîc admirabili continuita¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        67.91999816894531,
+        465.6239929199219,
+        405.71453857421875,
+        470.54400634765625
+      ],
+      "text": "te iunguntur inuentiones, accedunt\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        66.23999786376953,
+        493.9439697265625,
+        410.31817626953125,
+        498.8639831542969
+      ],
+      "text": "amplificationes, insurgunt dubi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        68.4000015258789,
+        521.5440063476562,
+        409.4113464355469,
+        526.4639892578125
+      ],
+      "text": "tationes, nouarum & incognitarum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        67.91999816894531,
+        548.6640014648438,
+        409.9907531738281,
+        553.583984375
+      ],
+      "text": "contemplationum recordationes re¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        68.4000015258789,
+        576.7440185546875,
+        405.82244873046875,
+        581.6640014648438
+      ],
+      "text": "pręsentantur, & rerum prius com¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        70.08000183105469,
+        604.5840454101562,
+        409.34783935546875,
+        609.5040283203125
+      ],
+      "text": "prehensarum rationes confirman¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        67.19999694824219,
+        633.3839721679688,
+        405.8115539550781,
+        638.303955078125
+      ],
+      "text": "tur: qua uarietate & copiam, incre¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        247.44000244140625,
+        660.5040283203125,
+        404.0511474609375,
+        666.1439819335938
+      ],
+      "text": "dibili\na 5\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": [
+        186.72000122070312,
+        75.60000610351562,
+        528.8280029296875,
+        80.4000015258789
+      ],
+      "text": "dibili suauitate animos eorum de-\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        181.1999969482422,
+        103.4639663696289,
+        527.7012329101562,
+        108.38396453857422
+      ],
+      "text": "mulcent, qui Musarum Sacerdotes\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        184.55999755859375,
+        131.06399536132812,
+        527.8836059570312,
+        135.98399353027344
+      ],
+      "text": "& ministri facti sunt. Aliorum e¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        184.55999755859375,
+        159.60000610351562,
+        526.4498291015625,
+        164.40000915527344
+      ],
+      "text": "nim sensus & obtusi radij pene¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        185.52000427246094,
+        187.43997192382812,
+        527.1339111328125,
+        192.23997497558594
+      ],
+      "text": "trare non possunt, nec iungi, quia\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        190.32000732421875,
+        214.31997680664062,
+        527.0100708007812,
+        219.11997985839844
+      ],
+      "text": "proportionem non habent. Phi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        186.0,
+        242.42398071289062,
+        525.6338500976562,
+        247.34397888183594
+      ],
+      "text": "losophi enim, dum hanc citharam\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        183.83999633789062,
+        270.4800109863281,
+        527.4202880859375,
+        275.2799987792969
+      ],
+      "text": "resonant, à corpore separati, ad\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        188.16000366210938,
+        297.8639831542969,
+        527.0128173828125,
+        302.78399658203125
+      ],
+      "text": "intima Mentis penetralia scan¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        185.52000427246094,
+        325.2239685058594,
+        527.2742919921875,
+        330.14398193359375
+      ],
+      "text": "dunt: ibi reseruatas accipiunt &\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        183.36000061035156,
+        353.7839660644531,
+        527.1390380859375,
+        358.7039794921875
+      ],
+      "text": "reddunt diuitias: demonstrantes\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        184.55999755859375,
+        380.8799743652344,
+        527.9915161132812,
+        385.6799621582031
+      ],
+      "text": "in hoc Animi nostri diuinitatem\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        186.72000122070312,
+        408.7439880371094,
+        526.5911865234375,
+        413.66400146484375
+      ],
+      "text": "& continuitatem cum Ideis & Vni¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        183.36000061035156,
+        438.239990234375,
+        527.278076171875,
+        443.03997802734375
+      ],
+      "text": "tatè prima, immortalitatem quoque,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        187.67999267578125,
+        464.6399841308594,
+        528.1800537109375,
+        469.4399719238281
+      ],
+      "text": "& rerum omnium scientiam, antea\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        187.67999267578125,
+        492.7439880371094,
+        528.27734375,
+        497.66400146484375
+      ],
+      "text": "quàm huius tetri caliginosique do¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        186.0,
+        520.5599975585938,
+        529.8692626953125,
+        525.3600463867188
+      ],
+      "text": "micilij hospes fieret. Itaque pietatis\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        186.72000122070312,
+        547.9440307617188,
+        531.1936645507812,
+        552.864013671875
+      ],
+      "text": "& officij memores, dum haec filijs\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        189.83999633789062,
+        576.0239868164062,
+        528.1549072265625,
+        580.9439697265625
+      ],
+      "text": "suis communicare nituntur, inge¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        187.67999267578125,
+        603.864013671875,
+        529.82666015625,
+        608.7839965820312
+      ],
+      "text": "miscunt ac deplorant, se tam leuibus\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        188.16000366210938,
+        632.3999633789062,
+        528.9840698242188,
+        637.2000122070312
+      ],
+      "text": "& abiectis uestimentis tantam reru¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        460.0799865722656,
+        661.2239990234375,
+        525.6799926757812,
+        666.1439819335938
+      ],
+      "text": "maie¬\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": [
+        72.23999786376953,
+        80.16000366210938,
+        413.5903625488281,
+        84.95999908447266
+      ],
+      "text": "maiestatem adaptaturos: & qua pos¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        76.55999755859375,
+        106.82401275634766,
+        414.2200622558594,
+        111.74401092529297
+      ],
+      "text": "sunt uarietate, Metaphoris, Meto¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        73.44000244140625,
+        135.38400268554688,
+        417.91082763671875,
+        140.3040008544922
+      ],
+      "text": "nymijs, Allegorijs, Aenigmati¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        75.5999984741211,
+        162.50399780273438,
+        412.4219055175781,
+        167.4239959716797
+      ],
+      "text": "bus, Inuersionibus, nouis Resolu¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        75.5999984741211,
+        190.58395385742188,
+        415.0357971191406,
+        195.5039520263672
+      ],
+      "text": "tionibus & Compositionibus, hanc\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        74.4000015258789,
+        218.16000366210938,
+        415.0187072753906,
+        222.9600067138672
+      ],
+      "text": "nominum paupertatem excusare co¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        72.72000122070312,
+        246.72000122070312,
+        413.34503173828125,
+        251.52000427246094
+      ],
+      "text": "nantur. Sit liberalitati locus. Tota¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        75.5999984741211,
+        273.6239929199219,
+        412.012451171875,
+        278.54400634765625
+      ],
+      "text": "scribendi ratio Philosophis usi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        74.4000015258789,
+        301.1999816894531,
+        414.1249694824219,
+        305.9999694824219
+      ],
+      "text": "tata, Magica est. Etenim inuisibi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        78.4800033569336,
+        329.5439758300781,
+        415.5543212890625,
+        334.4639892578125
+      ],
+      "text": "lium rerum absconditam Mechanicam\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        74.87999725341797,
+        357.1199951171875,
+        416.6596984863281,
+        361.91998291015625
+      ],
+      "text": "uisibili specie palam sensibus exhibe¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        74.87999725341797,
+        384.7439880371094,
+        412.9203186035156,
+        389.66400146484375
+      ],
+      "text": "re conantur: quemadmodum Spirituum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        74.4000015258789,
+        413.03997802734375,
+        414.7261047363281,
+        417.8399658203125
+      ],
+      "text": "inuisibilis natura, uisibili forma in\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        74.87999725341797,
+        439.7039794921875,
+        415.8852233886719,
+        444.6239929199219
+      ],
+      "text": "speculis eadem industria repraesen¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        74.87999725341797,
+        467.7839660644531,
+        412.30242919921875,
+        472.7039794921875
+      ],
+      "text": "tantur. Rursus uisibilia & manife¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        76.80000305175781,
+        496.3439636230469,
+        411.4350280761719,
+        501.26397705078125
+      ],
+      "text": "sta occultant, oculosque perstringunt,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        76.55999755859375,
+        524.1599731445312,
+        414.9474182128906,
+        528.9600219726562
+      ],
+      "text": "ut uidentes non uideant, & audientes\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        76.55999755859375,
+        551.9999389648438,
+        418.6561584472656,
+        556.7999877929688
+      ],
+      "text": "non audiant: atque hoc pacto inuisibi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        77.76000213623047,
+        579.6240234375,
+        415.8744812011719,
+        584.5440063476562
+      ],
+      "text": "liter obambulant. Huius rei exempla ha¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        74.87999725341797,
+        607.4639892578125,
+        417.87261962890625,
+        612.3839721679688
+      ],
+      "text": "bemus manifestis. in libello de mor¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        77.27999877929688,
+        636.719970703125,
+        409.4327392578125,
+        641.52001953125
+      ],
+      "text": "bis Elementalibus u[unclear] de Podagra,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        348.4800109863281,
+        663.3839721679688,
+        414.2677917480469,
+        668.303955078125
+      ],
+      "text": "Apo¬\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": [
+        174.47999572753906,
+        80.18399810791016,
+        516.0424194335938,
+        85.10399627685547
+      ],
+      "text": "Apoplexia, Mania, Epilepsia, Hy¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        173.0399932861328,
+        107.04000854492188,
+        514.2666015625,
+        111.84000396728516
+      ],
+      "text": "drope, Colica, Hectica; Dyar¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        172.32000732421875,
+        135.38400268554688,
+        515.7574462890625,
+        140.3040008544922
+      ],
+      "text": "rhoea, &c. Ibi sanè mirabili uarie¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        172.32000732421875,
+        162.50399780273438,
+        513.1871337890625,
+        167.4239959716797
+      ],
+      "text": "tate morborum illorum genera¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        173.0399932861328,
+        190.55996704101562,
+        518.181640625,
+        195.35997009277344
+      ],
+      "text": "tionem & occultam fabricam, nunc\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        171.83999633789062,
+        219.14395141601562,
+        511.9435119628906,
+        224.06394958496094
+      ],
+      "text": "Astronomicè, nunc Philosophice,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        171.83999633789062,
+        246.72000122070312,
+        518.0376586914062,
+        251.52000427246094
+      ],
+      "text": "nunc Alchymicè, aliàs Necroman¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        172.32000732421875,
+        274.0799865722656,
+        513.6512451171875,
+        278.8799743652344
+      ],
+      "text": "ticè, Hydromanticè, Pyromanti¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        174.47999572753906,
+        301.9200134277344,
+        511.7003479003906,
+        306.7200012207031
+      ],
+      "text": "cè, exposuit. Et in expositione Phy¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        174.0,
+        329.5199890136719,
+        518.5247192382812,
+        334.3199768066406
+      ],
+      "text": "sica, nunc ex familia Mineralium)\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        171.83999633789062,
+        358.1039733886719,
+        521.1206665039062,
+        363.02398681640625
+      ],
+      "text": "translationes muntuatur, aliàs ex¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        174.0,
+        385.67999267578125,
+        515.97021484375,
+        390.47998046875
+      ],
+      "text": "Metallorum & Marchasitarum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        174.0,
+        413.3039855957031,
+        515.9910888671875,
+        418.2239990234375
+      ],
+      "text": "prouincia, interdum ex scena her¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        172.32000732421875,
+        440.6639709472656,
+        515.4967651367188,
+        445.583984375
+      ],
+      "text": "barum uestimenta & habitus de¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        170.8800048828125,
+        468.50396728515625,
+        517.3563232421875,
+        473.4239807128906
+      ],
+      "text": "sumit. Et, si fluente Comoedia, Per\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        173.0399932861328,
+        496.55999755859375,
+        516.9912109375,
+        501.3599853515625
+      ],
+      "text": "sonas, loca, & tempora famosa,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        174.47999572753906,
+        524.1599731445312,
+        518.7840576171875,
+        528.9600219726562
+      ],
+      "text": "proprijs nominibus ad arbitrium\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        171.83999633789062,
+        551.9999389648438,
+        516.0430908203125,
+        556.7999877929688
+      ],
+      "text": "impositis describat, laudem & uer¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        170.16000366210938,
+        581.7839965820312,
+        523.0326538085938,
+        586.7039794921875
+      ],
+      "text": "niam meretur. Itaquem Principia,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        171.36000061035156,
+        607.9440307617188,
+        522.5964965820312,
+        612.864013671875
+      ],
+      "text": "Abyssos, Radices, Mineras, unde\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        171.83999633789062,
+        636.9840087890625,
+        523.9664916992188,
+        641.9039916992188
+      ],
+      "text": "exordia rerum omnium ducuntur,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        439.9200134277344,
+        664.8240356445312,
+        507.50543212890625,
+        669.7440185546875
+      ],
+      "text": "Ares,\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": [
+        78.4800033569336,
+        82.79995727539062,
+        416.8152160644531,
+        87.5999526977539
+      ],
+      "text": "Ares, lliados, Idaeos, Iliastros ap¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        79.68000030517578,
+        110.90396881103516,
+        419.390869140625,
+        115.82396697998047
+      ],
+      "text": "pellare illi placuit, gratiam aequa¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        77.27999877929688,
+        138.72000122070312,
+        417.1574401855469,
+        143.52000427246094
+      ],
+      "text": "lem meriturus; siue Gut, siue Bini\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        79.44000244140625,
+        166.82400512695312,
+        419.2800598144531,
+        171.74400329589844
+      ],
+      "text": "dixisset. Rursus quod uitali & as¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        79.44000244140625,
+        194.63998413085938,
+        421.6920166015625,
+        199.4399871826172
+      ],
+      "text": "sidua agitatione, delitescentia &\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        80.63999938964844,
+        222.48001098632812,
+        418.0650939941406,
+        227.28001403808594
+      ],
+      "text": "quieta haec semina, in hanc mun¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        81.5999984741211,
+        249.60000610351562,
+        414.8070373535156,
+        254.40000915527344
+      ],
+      "text": "danam scenam ad uigilias & de¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        80.63999938964844,
+        279.1199645996094,
+        420.3112487792969,
+        283.9199523925781
+      ],
+      "text": "stinata officia promouet, Archęum,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        84.4800033569336,
+        305.5199890136719,
+        418.92547607421875,
+        310.3199768066406
+      ],
+      "text": "Vulcanos, nominat: quod si Par¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        80.63999938964844,
+        333.5999755859375,
+        419.3023681640625,
+        338.39996337890625
+      ],
+      "text": "menones & Syros dixisset, Natu¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        77.76000213623047,
+        360.9839782714844,
+        420.7344055175781,
+        365.90399169921875
+      ],
+      "text": "ram habuisset pari fauore coniun¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        79.68000030517578,
+        390.0,
+        423.9737548828125,
+        394.79998779296875
+      ],
+      "text": "ctam. Aliquando mutata rerum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        81.5999984741211,
+        416.90399169921875,
+        420.4115295410156,
+        421.8240051269531
+      ],
+      "text": "facie, personas & officia commu¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        79.68000030517578,
+        444.50396728515625,
+        420.2025451660156,
+        449.4239807128906
+      ],
+      "text": "tat, uestimenta Radicum & mecha¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        81.5999984741211,
+        472.823974609375,
+        421.5859680175781,
+        477.7439880371094
+      ],
+      "text": "nicorum locis accommodat, & ui¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        82.31999969482422,
+        500.6639709472656,
+        424.584228515625,
+        505.583984375
+      ],
+      "text": "cissim. Neque enim sufficiunt Per¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        82.31999969482422,
+        528.2399291992188,
+        419.6700134277344,
+        533.0399780273438
+      ],
+      "text": "sonae ad uarietatem tam decorae\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        83.5199966430664,
+        556.3199462890625,
+        425.5450439453125,
+        561.1199951171875
+      ],
+      "text": "& diuitis Comoediae repręsentan¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        82.31999969482422,
+        584.4240112304688,
+        424.4318542480469,
+        589.343994140625
+      ],
+      "text": "dam. Praeterea, nefas est, quietum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        82.31999969482422,
+        612.5040283203125,
+        425.0749816894531,
+        617.4240112304688
+      ],
+      "text": "mentis fluxum, graui & turbida\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        79.68000030517578,
+        640.3199462890625,
+        425.5246276855469,
+        645.1199951171875
+      ],
+      "text": "uocabulorum  [GR]αηξιβολογια[/GR] confundere.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        367.67999267578125,
+        668.8799438476562,
+        423.41619873046875,
+        673.6799926757812
+      ],
+      "text": "Hoc\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": [
+        180.72000122070312,
+        85.67996215820312,
+        521.6521606445312,
+        90.4799575805664
+      ],
+      "text": "Hoc pacto in libello de procrea¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        180.47999572753906,
+        113.78397369384766,
+        518.67138671875,
+        118.70397186279297
+      ],
+      "text": "tionibus Elementi Aquae Iliadi si¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        182.8800048828125,
+        142.31997680664062,
+        520.3200073242188,
+        147.11997985839844
+      ],
+      "text": "gnificationem alterauit. Item Elemen¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        180.47999572753906,
+        169.43997192382812,
+        518.7318115234375,
+        174.23997497558594
+      ],
+      "text": "ti appellationem in libro Philoso¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        185.52000427246094,
+        198.72000122070312,
+        516.97265625,
+        203.52000427246094
+      ],
+      "text": "phiae ad Athenienses, Paramiro,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        182.8800048828125,
+        224.66397094726562,
+        521.8036499023438,
+        229.58396911621094
+      ],
+      "text": "Chirurgia magna, de Gradibus &\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        180.0,
+        252.02395629882812,
+        519.4599609375,
+        256.9439697265625
+      ],
+      "text": "compositionibus, & omnibus ferè li¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        177.36000061035156,
+        280.8240051269531,
+        523.2754516601562,
+        285.7440185546875
+      ],
+      "text": "bris mirabiliter uariauit. Quid mi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        179.0399932861328,
+        307.9440002441406,
+        515.7886352539062,
+        312.864013671875
+      ],
+      "text": "rum: In qualibet natura sunt mille¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        180.72000122070312,
+        336.239990234375,
+        521.672119140625,
+        341.03997802734375
+      ],
+      "text": "dotes, infinita officiorum & proprie¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        178.32000732421875,
+        363.5999755859375,
+        519.3635864257812,
+        368.39996337890625
+      ],
+      "text": "tatum conspiratio & confluxus, quae\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        180.72000122070312,
+        390.9839782714844,
+        517.0050659179688,
+        395.90399169921875
+      ],
+      "text": "praedestinationis occulto imperio¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        178.8000030517578,
+        418.823974609375,
+        518.1519165039062,
+        423.7439880371094
+      ],
+      "text": "silentes progrediuntur, & pensum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        175.1999969482422,
+        446.90399169921875,
+        521.3340454101562,
+        451.8240051269531
+      ],
+      "text": "absoluunt. Et quia diuersissima¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        176.63999938964844,
+        475.1999816894531,
+        520.0530395507812,
+        479.9999694824219
+      ],
+      "text": "rum Rerumpub. ciues & incolae\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        177.36000061035156,
+        501.8399963378906,
+        517.509521484375,
+        506.6399841308594
+      ],
+      "text": "fiunt, diuersos quoque habitus, mo¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        174.47999572753906,
+        530.4240112304688,
+        521.4916381835938,
+        535.343994140625
+      ],
+      "text": "res & signaturas assumunt. Sic\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        176.63999938964844,
+        558.0239868164062,
+        519.6683349609375,
+        562.9439697265625
+      ],
+      "text": "complexionum & trium primarum,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        174.0,
+        586.5599365234375,
+        522.9960327148438,
+        591.3599853515625
+      ],
+      "text": "nomina frequenter immutauit. Sa¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        174.47999572753906,
+        614.6640014648438,
+        523.9967041015625,
+        619.583984375
+      ],
+      "text": "nè Sapientiae filijs, qui mentis acie,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        174.0,
+        642.5040283203125,
+        519.2360229492188,
+        647.4240112304688
+      ],
+      "text": "ad quietam Naturae lithurgiam pe¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        430.55999755859375,
+        671.7599487304688,
+        515.2239990234375,
+        676.5599975585938
+      ],
+      "text": "netrare\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": [
+        69.12000274658203,
+        85.94400787353516,
+        411.9265441894531,
+        90.86400604248047
+      ],
+      "text": "netrare sciunt, abiectis nucleis &\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        69.12000274658203,
+        115.67996215820312,
+        409.37005615234375,
+        120.4799575805664
+      ],
+      "text": "corticibs uarietate hac admirandus\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        68.63999938964844,
+        145.94400024414062,
+        407.69134521484375,
+        150.86399841308594
+      ],
+      "text": "occurrit: Sophistarum adulterina\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        66.95999908447266,
+        175.46395874023438,
+        413.18719482421875,
+        180.3839569091797
+      ],
+      "text": "ingenia confusione implicauit. Sed\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        68.63999938964844,
+        205.70394897460938,
+        410.1549377441406,
+        210.6239471435547
+      ],
+      "text": "horas his usuris producere iniu¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        69.83999633789062,
+        236.16000366210938,
+        408.625244140625,
+        240.9600067138672
+      ],
+      "text": "stum est: contracta rerum amplitu\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        70.80000305175781,
+        265.7039489746094,
+        409.4546203613281,
+        270.62396240234375
+      ],
+      "text": "dine paucis negotium expediam.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        78.0,
+        296.4239807128906,
+        409.297119140625,
+        301.343994140625
+      ],
+      "text": "Qui res nominare poterit, Ma¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        76.31999969482422,
+        325.9440002441406,
+        406.02813720703125,
+        330.864013671875
+      ],
+      "text": "gus est: huic perinde erit, Dauus¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        66.95999908447266,
+        357.1199951171875,
+        402.4620361328125,
+        361.91998291015625
+      ],
+      "text": "ne loquatur an Heros: & clausis\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        72.95999908447266,
+        387.3599853515625,
+        416.3321228027344,
+        392.15997314453125
+      ],
+      "text": "oculis ex officijs, proprietatibus¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        70.80000305175781,
+        415.4399719238281,
+        408.9576416015625,
+        420.2399597167969
+      ],
+      "text": "que, personarum discrimina oc¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        72.0,
+        443.03997802734375,
+        410.8750915527344,
+        447.8399658203125
+      ],
+      "text": "cultae huius Comoediae, facillimè\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        68.63999938964844,
+        471.1199951171875,
+        411.11260986328125,
+        475.91998291015625
+      ],
+      "text": "internoscet, utcunque Choragus\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        69.83999633789062,
+        498.02398681640625,
+        411.5093688964844,
+        502.9440002441406
+      ],
+      "text": "mutabili earundem uarietate de¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        71.27999877929688,
+        527.0399780273438,
+        410.4122009277344,
+        531.8400268554688
+      ],
+      "text": "lectatus fuerit. Hic potenti Sa¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        73.44000244140625,
+        554.4240112304688,
+        399.72039794921875,
+        559.343994140625
+      ],
+      "text": "pientia Rerum dominus factus\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        72.0,
+        582.719970703125,
+        413.702392578125,
+        587.52001953125
+      ],
+      "text": "Indiuidua constituet singulari\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        73.68000030517578,
+        610.343994140625,
+        414.3924560546875,
+        615.2639770507812
+      ],
+      "text": "proprietatum conditione uigen¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        71.27999877929688,
+        640.0799560546875,
+        415.8240661621094,
+        644.8800048828125
+      ],
+      "text": "tia, quae rarissimè mortalium\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        304.32000732421875,
+        667.43994140625,
+        410.3160400390625,
+        672.239990234375
+      ],
+      "text": "Rempub.\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": [
+        185.52000427246094,
+        84.95999145507812,
+        524.9786376953125,
+        89.7599868774414
+      ],
+      "text": "Rempub. ingressa sunt, habebit\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        185.27999877929688,
+        112.79995727539062,
+        525.9456176757812,
+        117.5999526977539
+      ],
+      "text": "immortalitatis infallibilem fidu¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        186.0,
+        140.87997436523438,
+        520.328369140625,
+        145.6799774169922
+      ],
+      "text": "ciam, & stantia ad motum, quan¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        185.52000427246094,
+        168.98397827148438,
+        524.8516235351562,
+        173.9039764404297
+      ],
+      "text": "tum fas est, promouebit. Ignosci¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        184.8000030517578,
+        196.82400512695312,
+        520.7817993164062,
+        201.74400329589844
+      ],
+      "text": "te sapientes, si planius haec propo¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        185.52000427246094,
+        224.18399047851562,
+        525.4859619140625,
+        229.10398864746094
+      ],
+      "text": "sui. Quod ad Praeparationum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        183.83999633789062,
+        251.30398559570312,
+        522.0066528320312,
+        256.2239990234375
+      ],
+      "text": "aenigmata attinet, non sunt ita oc¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        184.8000030517578,
+        279.1199645996094,
+        524.8182983398438,
+        283.9199523925781
+      ],
+      "text": "clusa, quin aperiri possint, si quis\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        186.9600067138672,
+        306.9599914550781,
+        524.1360473632812,
+        311.7599792480469
+      ],
+      "text": "ex Theoriae penetralibus claues\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        185.27999877929688,
+        335.03997802734375,
+        521.1050415039062,
+        339.8399658203125
+      ],
+      "text": "eruere potuerit. Praesertim, si as¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        186.47999572753906,
+        362.4239807128906,
+        524.7644653320312,
+        367.343994140625
+      ],
+      "text": "sidua operum naturalium inspe¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        185.52000427246094,
+        390.239990234375,
+        522.0200805664062,
+        395.03997802734375
+      ],
+      "text": "ctione, quae ignis & caloris mini¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        186.47999572753906,
+        419.7839660644531,
+        524.8325805664062,
+        424.7039794921875
+      ],
+      "text": "sterio perficiuntur, claues has, a¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        186.47999572753906,
+        446.6639709472656,
+        526.6011962890625,
+        451.583984375
+      ],
+      "text": "lioquin rubigine obductas, expo¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        187.44000244140625,
+        474.7200012207031,
+        524.6460571289062,
+        479.5199890136719
+      ],
+      "text": "liuerit. In uanum curret, qui lite¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        184.8000030517578,
+        502.1039733886719,
+        524.2744140625,
+        507.02398681640625
+      ],
+      "text": "ram & externum sensum seque¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        185.27999877929688,
+        529.4640502929688,
+        527.2396240234375,
+        534.384033203125
+      ],
+      "text": "tur. Cur igitur scripsit, si ad lite¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        186.0,
+        559.2239990234375,
+        528.644287109375,
+        564.1439819335938
+      ],
+      "text": "ram intelligi non uoluit? cur tot\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        183.60000610351562,
+        586.10400390625,
+        530.5054931640625,
+        591.0239868164062
+      ],
+      "text": "uana spe seductos, magna faculta\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        184.32000732421875,
+        613.6799926757812,
+        527.1141967773438,
+        618.4800415039062
+      ],
+      "text": "tum opulentia spoliauit? ut tem¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        188.16000366210938,
+        642.2639770507812,
+        529.331298828125,
+        647.1839599609375
+      ],
+      "text": "poris iacturam & laborum onera¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        443.5199890136719,
+        672.2399291992188,
+        523.9146118164062,
+        677.0399780273438
+      ],
+      "text": "sileam.\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": [
+        68.63999938964844,
+        81.6240005493164,
+        411.3656005859375,
+        86.54399871826172
+      ],
+      "text": "sileam Sapientiae filijs ista scripsit, non\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        72.0,
+        109.4639663696289,
+        411.886962890625,
+        114.38396453857422
+      ],
+      "text": "Sophisticis & auri fame fascina¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        68.63999938964844,
+        137.54397583007812,
+        409.8076171875,
+        142.46397399902344
+      ],
+      "text": "tis Alchymistis, non aurifabris,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        69.36000061035156,
+        164.87997436523438,
+        414.3354797363281,
+        169.6799774169922
+      ],
+      "text": "non fodinarijs metallorum fuso¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        68.63999938964844,
+        193.70394897460938,
+        406.474853515625,
+        198.6239471435547
+      ],
+      "text": "ribus, non nominum, linguarum,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        70.55999755859375,
+        220.31997680664062,
+        409.16650390625,
+        225.11997985839844
+      ],
+      "text": "& externarum superficierum satel¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        72.0,
+        248.16000366210938,
+        412.56005859375,
+        252.9600067138672
+      ],
+      "text": "litibus. Itaque si in alienam segetem\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        71.5199966430664,
+        276.5039978027344,
+        412.106201171875,
+        281.42401123046875
+      ],
+      "text": "falcem mittunt, iure optimo casti¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        73.68000030517578,
+        303.8399963378906,
+        412.82171630859375,
+        308.6399841308594
+      ],
+      "text": "gantur. Si manifestius ista scripsis\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        69.36000061035156,
+        331.7039794921875,
+        413.8091735839844,
+        336.6239929199219
+      ],
+      "text": "set, fabri, fodinarum periti, aurifa¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        71.5199966430664,
+        360.0,
+        414.35040283203125,
+        364.79998779296875
+      ],
+      "text": "bri, circumforanei, Alchymistae,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        69.83999633789062,
+        388.3439636230469,
+        408.14971923828125,
+        393.26397705078125
+      ],
+      "text": "nunc Medicos omnes superassent.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        70.55999755859375,
+        415.91998291015625,
+        412.3796691894531,
+        420.719970703125
+      ],
+      "text": "ac artem prostituissent, magna Na¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        71.5199966430664,
+        443.06396484375,
+        414.9082946777344,
+        447.9839782714844
+      ],
+      "text": "turae iniuria. Haec ijs tuo nomi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        69.83999633789062,
+        472.1039733886719,
+        415.3039855957031,
+        477.02398681640625
+      ],
+      "text": "ne, Pater uenerande, respondere,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        70.55999755859375,
+        499.4399719238281,
+        416.3599853515625,
+        504.2399597167969
+      ],
+      "text": "ut potui, debui, qui sacrilego &\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        71.5199966430664,
+        527.3040161132812,
+        417.5731506347656,
+        532.2239990234375
+      ],
+      "text": "nefario ausu scurram te appellare\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        71.5199966430664,
+        555.1439819335938,
+        414.9073486328125,
+        560.06396484375
+      ],
+      "text": "non uerentur, circumforaneum, o¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        72.0,
+        583.4639892578125,
+        415.3753662109375,
+        588.3839721679688
+      ],
+      "text": "mnis Philosophiae inscium: quia lin¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        80.87999725341797,
+        611.2799682617188,
+        413.5184326171875,
+        616.0800170898438
+      ],
+      "text": "guarum subtilitates nudas & ina¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        73.68000030517578,
+        639.3599243164062,
+        411.5542297363281,
+        645.3599853515625
+      ],
+      "text": "Qui uitae tuae\nnes contemsisti.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        344.8800048828125,
+        666.2639770507812,
+        404.8155517578125,
+        671.1839599609375
+      ],
+      "text": "b Oeco¬\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": [
+        185.52000427246094,
+        93.6240005493164,
+        526.8953857421875,
+        98.54399871826172
+      ],
+      "text": "Oeconomia odio prosequuntur\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        182.39999389648438,
+        121.7039566040039,
+        529.5653076171875,
+        126.62395477294922
+      ],
+      "text": "uiperino, uitia exaggerantes hu¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        182.39999389648438,
+        149.99996948242188,
+        529.3699340820312,
+        154.7999725341797
+      ],
+      "text": "mana, magna temeritate, in semet\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        183.83999633789062,
+        177.62399291992188,
+        530.621826171875,
+        182.5439910888672
+      ],
+      "text": "ipsos legem statuunt iniquam. Sine\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        183.83999633789062,
+        205.19998168945312,
+        532.7598876953125,
+        209.99998474121094
+      ],
+      "text": "uitijs non uiuitur. Optimus ille est\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        187.67999267578125,
+        233.54397583007812,
+        530.7528076171875,
+        238.46397399902344
+      ],
+      "text": "qui minimis urgetur: nec uident\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        183.36000061035156,
+        261.1199645996094,
+        530.7312622070312,
+        265.9199523925781
+      ],
+      "text": "manticę, quòd a tergo est. Possem\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        181.67999267578125,
+        289.1999816894531,
+        535.1141967773438,
+        293.9999694824219
+      ],
+      "text": "ijs longe aliter satisfacere, sed au¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        186.0,
+        317.0400085449219,
+        528.8250122070312,
+        321.8399963378906
+      ],
+      "text": "res eorum & obtusi sensus minimè\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        183.36000061035156,
+        344.6399841308594,
+        530.7557373046875,
+        349.4399719238281
+      ],
+      "text": "adhuc ferrent: lacte nutriendi sunt.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        192.72000122070312,
+        372.50396728515625,
+        528.7313232421875,
+        377.4239807128906
+      ],
+      "text": "Vlcerosam enim animi dispositio¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        183.36000061035156,
+        400.79998779296875,
+        528.5552978515625,
+        405.5999755859375
+      ],
+      "text": "nem per Epicrasin curare tutius.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        188.39999389648438,
+        428.8799743652344,
+        530.4168701171875,
+        433.6799621582031
+      ],
+      "text": "Ipse ulceri ęstiomeno mitem inue¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        185.0399932861328,
+        456.02398681640625,
+        530.5416259765625,
+        460.9440002441406
+      ],
+      "text": "nit mitigationem. Legant libros\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        186.72000122070312,
+        485.06396484375,
+        531.7042846679688,
+        489.9839782714844
+      ],
+      "text": "ipsius, Soliloquia, Hymnos, quos\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        185.52000427246094,
+        512.9039916992188,
+        530.5358276367188,
+        517.823974609375
+      ],
+      "text": "aliquot annos, ante obitum, quie¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        186.72000122070312,
+        541.2239990234375,
+        532.9909057617188,
+        546.1439819335938
+      ],
+      "text": "tę uiuens conscripsit: mitiores e¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        184.0800018310547,
+        568.8240356445312,
+        530.6325073242188,
+        573.7440185546875
+      ],
+      "text": "runt. Aëtatis feruor & impetus\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        187.9199981689453,
+        596.6640014648438,
+        530.7747802734375,
+        601.583984375
+      ],
+      "text": "tam generosi animi, ueniam mere¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        187.67999267578125,
+        625.4639892578125,
+        529.1595458984375,
+        630.3839721679688
+      ],
+      "text": "tur. num restat, quod plurimum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        187.67999267578125,
+        654.0239868164062,
+        532.9754028320312,
+        658.9439697265625
+      ],
+      "text": "nos detinuit. Antiquitatem & pri¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        442.55999755859375,
+        680.1840209960938,
+        525.0536499023438,
+        685.10400390625
+      ],
+      "text": "scorum\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": [
+        62.63999938964844,
+        71.99996948242188,
+        403.4609680175781,
+        76.79996490478516
+      ],
+      "text": "scorum Sapientum dogmata di¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        64.31999969482422,
+        99.3840103149414,
+        406.4420166015625,
+        104.30400848388672
+      ],
+      "text": "cunt te contemsisse, penitusque no¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        62.63999938964844,
+        127.4639663696289,
+        406.5479431152344,
+        132.3839569091797
+      ],
+      "text": "ua introducendo Monarchiam con¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        65.76000213623047,
+        155.04000854492188,
+        397.23419189453125,
+        159.8400115966797
+      ],
+      "text": "stituisse. Idque in quoque profitentur\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        63.599998474121094,
+        182.18399047851562,
+        405.5657043457031,
+        187.10398864746094
+      ],
+      "text": "qui te Pręceptorem & Patrem sa¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        64.08000183105469,
+        210.23995971679688,
+        404.89276123046875,
+        215.0399627685547
+      ],
+      "text": "lutant. Sane multis in locis fluen¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        65.76000213623047,
+        238.31997680664062,
+        401.4352111816406,
+        243.11997985839844
+      ],
+      "text": "te calamo, impetu quodam po¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        62.63999938964844,
+        266.1600036621094,
+        409.4320983886719,
+        270.9599914550781
+      ],
+      "text": "tius, quam deliberato consilio ita\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        66.95999908447266,
+        294.0239562988281,
+        410.3985595703125,
+        298.9439697265625
+      ],
+      "text": "scripsissę uideris. Rursus alijs in\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        66.95999908447266,
+        321.3600158691406,
+        403.1544494628906,
+        326.1600036621094
+      ],
+      "text": "locis Hermetem, Aegyptios sapi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        65.76000213623047,
+        349.4639892578125,
+        406.1715087890625,
+        354.3840026855469
+      ],
+      "text": "entes, Archelaum, Platone, Hip¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        72.95999908447266,
+        377.5199890136719,
+        407.1840515136719,
+        382.3199768066406
+      ],
+      "text": "pocratem collaudasti. Quod ue¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        66.4800033569336,
+        405.38397216796875,
+        401.2038269042969,
+        410.3039855957031
+      ],
+      "text": "ro Commentaria tua, ad eorum le¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        75.5999984741211,
+        433.4399719238281,
+        405.8000183105469,
+        438.2399597167969
+      ],
+      "text": "ges, appellationes, Methodos no¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        67.91999816894531,
+        460.823974609375,
+        410.6324157714844,
+        465.7439880371094
+      ],
+      "text": "accommodasti, libertate Philoso¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        70.80000305175781,
+        489.6239929199219,
+        414.59759521484375,
+        494.54400634765625
+      ],
+      "text": "phica excusaris. nobis onus illud\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        67.91999816894531,
+        516.2399291992188,
+        406.9339904785156,
+        521.0399780273438
+      ],
+      "text": "imposuisti. Nos immensis medi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        67.91999816894531,
+        544.7999877929688,
+        403.4329528808594,
+        549.6000366210938
+      ],
+      "text": "tatiomibus, & diuturnis uigilijs\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        75.12000274658203,
+        572.4240112304688,
+        403.5542297363281,
+        577.343994140625
+      ],
+      "text": "consonantiam deprehendimus.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        72.0,
+        599.9999389648438,
+        407.7626647949219,
+        604.7999877929688
+      ],
+      "text": "Balsam naturalis naturam & pro¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        77.27999877929688,
+        629.0640258789062,
+        413.1216735839844,
+        633.9840087890625
+      ],
+      "text": "prietates, quod est fundamentum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        366.0,
+        655.199951171875,
+        408.95989990234375,
+        660.0
+      ],
+      "text": "b 2 &\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": [
+        178.8000030517578,
+        80.66397857666016,
+        524.3726196289062,
+        85.58397674560547
+      ],
+      "text": "& subiectum omnium librorum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        178.0800018310547,
+        109.19998168945312,
+        522.6887817382812,
+        113.9999771118164
+      ],
+      "text": "tuorum naturalium, aequè apud\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        178.0800018310547,
+        137.27999877929688,
+        525.0216064453125,
+        142.0800018310547
+      ],
+      "text": "Hermetem, apud Philosophos\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        179.27999877929688,
+        164.66397094726562,
+        526.3807373046875,
+        169.58396911621094
+      ],
+      "text": "omnes, qui libellos suos, exiguos\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        180.24000549316406,
+        192.48001098632812,
+        527.3248901367188,
+        197.28001403808594
+      ],
+      "text": "quidem, sed foecundos coniunxe¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        178.0800018310547,
+        219.86398315429688,
+        528.2572631835938,
+        224.7839813232422
+      ],
+      "text": "runt in Codice ueritatis, apud Ge¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        178.55999755859375,
+        247.70394897460938,
+        525.8184814453125,
+        252.6239471435547
+      ],
+      "text": "brum, Alphidium, Rhasin, Senio¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        177.1199951171875,
+        275.7839660644531,
+        523.9061889648438,
+        280.7039794921875
+      ],
+      "text": "rem, Rosinum, Morienum, Villa¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        178.8000030517578,
+        304.0799865722656,
+        521.65625,
+        308.8799743652344
+      ],
+      "text": "nouanum, Raymundum, Isaacum,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        180.24000549316406,
+        331.4399719238281,
+        527.5499877929688,
+        336.2399597167969
+      ],
+      "text": "descriptas uidimus. Tria uerò\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        182.39999389648438,
+        358.823974609375,
+        527.7305908203125,
+        363.7439880371094
+      ],
+      "text": "Principia tua, toties sunt apud\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        180.9600067138672,
+        386.6399841308594,
+        525.2032470703125,
+        391.4399719238281
+      ],
+      "text": "Raymundum, Isaacum, Gebrum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        181.9199981689453,
+        414.7439880371094,
+        528.1334838867188,
+        419.66400146484375
+      ],
+      "text": "& caeteros, tam clarè posita, depi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        179.27999877929688,
+        442.79998779296875,
+        527.4251708984375,
+        447.5999755859375
+      ],
+      "text": "cta ac declarata, ut loca recensere pi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        180.72000122070312,
+        471.1199951171875,
+        527.9329223632812,
+        475.91998291015625
+      ],
+      "text": "geat: etiam nomina ipsa habemus\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        181.44000244140625,
+        498.239990234375,
+        529.255126953125,
+        503.03997802734375
+      ],
+      "text": "apud Raymundum, & officia ac\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        184.0800018310547,
+        526.10400390625,
+        528.6006469726562,
+        531.0239868164062
+      ],
+      "text": "proprietates, in libro Mercurio¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        180.24000549316406,
+        552.9840087890625,
+        528.0155639648438,
+        557.9039916992188
+      ],
+      "text": "rum, uel potius in clausula Testa¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        181.9199981689453,
+        581.5199584960938,
+        525.8719482421875,
+        586.3200073242188
+      ],
+      "text": "menti. Sed talentum, quod ab\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        181.9199981689453,
+        609.6240234375,
+        531.6322631835938,
+        614.5440063476562
+      ],
+      "text": "ipsis accepisti, magno foenore red\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        189.36000061035156,
+        638.1599731445312,
+        528.6431274414062,
+        642.9600219726562
+      ],
+      "text": "didisti, & foecunda progeniem In¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        434.8800048828125,
+        665.9999389648438,
+        526.3252563476562,
+        670.7999877929688
+      ],
+      "text": "diuidua\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": [
+        70.08000183105469,
+        77.75997924804688,
+        413.3856506347656,
+        82.55997467041016
+      ],
+      "text": "diuidua posuisti ab alijs praeter¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        66.23999786376953,
+        105.8639907836914,
+        413.1796569824219,
+        110.78398895263672
+      ],
+      "text": "missa. Atque hoc pacto, morbo¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        67.19999694824219,
+        133.67996215820312,
+        410.2132263183594,
+        138.47996520996094
+      ],
+      "text": "rum particularia remedia, pluri¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        67.19999694824219,
+        161.78396606445312,
+        413.1408386230469,
+        166.70396423339844
+      ],
+      "text": "ma declarasti. Quid mirum? Prin¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        71.5199966430664,
+        189.38400268554688,
+        415.0459289550781,
+        194.3040008544922
+      ],
+      "text": "cipia. Veritatis foecunda sunt. Si¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        68.4000015258789,
+        217.19998168945312,
+        413.9324035644531,
+        221.99998474121094
+      ],
+      "text": "militer Balsami supranaturalis &\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        69.5999984741211,
+        245.06399536132812,
+        418.7149963378906,
+        249.98399353027344
+      ],
+      "text": "corporis supercoelestis conditio¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        69.36000061035156,
+        272.9039611816406,
+        418.6849670410156,
+        277.823974609375
+      ],
+      "text": "nes & officia, de quo agis in omni\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        68.4000015258789,
+        300.4800109863281,
+        413.9488220214844,
+        305.2799987792969
+      ],
+      "text": "bus tuis contemplationibus Ma¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        73.68000030517578,
+        329.5439758300781,
+        418.2005310058594,
+        334.4639892578125
+      ],
+      "text": "gicis & Cabalisticis, ab eodem Her¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        69.36000061035156,
+        356.3999938964844,
+        416.06072998046875,
+        361.1999816894531
+      ],
+      "text": "mete, trinae Philosophiae Monar¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        72.72000122070312,
+        384.50396728515625,
+        416.45172119140625,
+        389.4239807128906
+      ],
+      "text": "cha, ab Orpheo, Pythagora, Pla¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        69.5999984741211,
+        411.38397216796875,
+        414.2362060546875,
+        416.3039855957031
+      ],
+      "text": "tone, Synesio, Iamblicho, Ploti¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        68.4000015258789,
+        440.1839904785156,
+        416.6355285644531,
+        445.10400390625
+      ],
+      "text": "no, Proclo, Porphyrio, & reliquis\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        68.87999725341797,
+        467.7839660644531,
+        413.1723937988281,
+        472.7039794921875
+      ],
+      "text": "Platonicis descripta uidimus:\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        70.55999755859375,
+        495.3599853515625,
+        414.1887512207031,
+        500.15997314453125
+      ],
+      "text": "quamuis alta & profunda uarieta¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        68.4000015258789,
+        523.4640502929688,
+        416.79754638671875,
+        528.384033203125
+      ],
+      "text": "te ex sacris fontibus proprietates\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        70.55999755859375,
+        550.8240356445312,
+        413.1492004394531,
+        555.7440185546875
+      ],
+      "text": "dictas planius explicasti. Gratias\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        69.5999984741211,
+        579.3599243164062,
+        414.2299499511719,
+        584.1599731445312
+      ],
+      "text": "igitur agimus tibi, & testes sumus\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        69.36000061035156,
+        606.0239868164062,
+        414.34979248046875,
+        610.9439697265625
+      ],
+      "text": "te in uanum non uixisse, nec fru¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        71.5199966430664,
+        635.2799682617188,
+        416.20068359375,
+        640.0800170898438
+      ],
+      "text": "stra uenisse, nominisque memoriam\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        371.760009765625,
+        662.6640014648438,
+        412.320068359375,
+        667.583984375
+      ],
+      "text": "b 3 po¬\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": [
+        194.16000366210938,
+        76.31997680664062,
+        519.9598999023438,
+        81.1199722290039
+      ],
+      "text": "posuisse nulli obliuioni obnoxiam.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        186.0,
+        104.63998413085938,
+        524.1924438476562,
+        109.43997955322266
+      ],
+      "text": "Et si uirgam non planè truncauit\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        183.83999633789062,
+        132.23995971679688,
+        525.0479736328125,
+        137.0399627685547
+      ],
+      "text": "difficilis ille Adech: si quod toties\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        182.39999389648438,
+        160.07998657226562,
+        526.1890258789062,
+        164.87998962402344
+      ],
+      "text": "uotis & fancta spe desiderasti, tibi\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        181.1999969482422,
+        187.92001342773438,
+        530.153564453125,
+        192.7200164794922
+      ],
+      "text": "contigit, silentio satisfecimus: Pa¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        187.67999267578125,
+        215.54397583007812,
+        520.993896484375,
+        220.46397399902344
+      ],
+      "text": "paueris & Vrticae pocula Melissa¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        180.24000549316406,
+        243.86398315429688,
+        521.5894775390625,
+        248.7839813232422
+      ],
+      "text": "rum uirtute tempera: ut & nos tan¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        182.39999389648438,
+        270.7439880371094,
+        526.1323852539062,
+        275.66400146484375
+      ],
+      "text": "dem, mortalibus rebus supera¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        186.72000122070312,
+        299.2799987792969,
+        525.5089111328125,
+        304.0799865722656
+      ],
+      "text": "tis & dimissis, unà cum Beatorum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        180.0,
+        327.1199951171875,
+        525.7716674804688,
+        331.91998291015625
+      ],
+      "text": "coetu, ad summum Bonum, Prin¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        183.36000061035156,
+        354.9839782714844,
+        527.0740966796875,
+        359.90399169921875
+      ],
+      "text": "cipium & Fontem omnium scan¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        182.39999389648438,
+        383.06396484375,
+        529.2857055664062,
+        387.9839782714844
+      ],
+      "text": "dere possimus, eiusque cognitione\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        181.1999969482422,
+        411.14398193359375,
+        530.63818359375,
+        416.0639953613281
+      ],
+      "text": "& fruitione ęterna gaudere beati¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        202.55999755859375,
+        438.9599914550781,
+        493.2739562988281,
+        443.7599792480469
+      ],
+      "text": "tudine. Huic uni, soli, laus,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        228.24000549316406,
+        467.2799987792969,
+        467.77911376953125,
+        472.0799865722656
+      ],
+      "text": "honor, gloria in secula¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        288.239990234375,
+        495.3599853515625,
+        420.7231750488281,
+        500.15997314453125
+      ],
+      "text": "seculorum,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": [
+        319.67999267578125,
+        519.1199340820312,
+        405.09161376953125,
+        523.9199829101562
+      ],
+      "text": "AMEN.\n",
+      "tag": "footer"
+    }
+  ]
+]

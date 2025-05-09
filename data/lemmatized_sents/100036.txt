@@ -1,1801 +1,1633 @@
-Egidius Uadis
-Dialogus Natura filius Philosophia accedunt Abdita res Chemicarum Tractatus Uarius scitus dignus uersus pagina indico
-autor Collectoris Bernardus G. penotus Portus Maria Aquitanus Reipubl
-franckatallensis D. Physico
-Omnia Francofortus Io Saurium
-Sumptibus Ioannis Rex
-Cio
-Elenchus Breuis Opus Contineo
-Epistola dedicatorius uis puluis Physicus ago
-Praefatio Apologetica probo Chrysopoeia ars uerus Dialogus natura filius Philosophia caput ordo diuido
-Diuersus diuersus Metalli uocabulum utor uetus ars celo Georgius Riplei porta Epitome fio possum modus concinno
-Alberti magnus breuis compendius mineralis Regula philosophicus notitia res abditus peruenio compendium perutilis res subterraneus proximus metallum materia dignosceo
-Isaaci Hollandi opus philus sopho fragmentum sperno
-Quaestiones corporalis mercurium ars corpus perfectus extraco suus corpus commixtus facio generatio lapis physicus firmus opinio uarius quaestio responsio
-Canones opus physicus ars lucidior facio Summa totus opus uerus aurum mercurius extractio suus historia
-magnus praemium magnus laboro itur ignauis nullus corona do
-Paulus Melissus Francus Epigramma Auctor
-Pergin Porta senex rimariero abdeo res suus gremium contineo uber humus
-Uiua metallum uirtus attraho magnes ferrum uis penetro rapio
-alleco rudus cor juuentus Naturae aperis reperio co
-munificus abscondo tantus scroba occultus diuitiae ops Uerum gero emitto aura dito tuus saeculum noster bonus
-pectoris ingenuus scio callis peritus Sponte inuidias notifico
-Haidelbergae annus 1595
-Illustrissimo Fortissimus Princeps Denus Denus Ernaestus Fridericus Marchio Badensius Hochbergensis Landgrauius Susenbergensi Denus Rotelen Baden Weiler Denus meus clementus
-Laudabilis egregius instituo princeps Heros habeo quacun que ratio ualeo posteritas consulo
-huuis meus libellus editio tantillum dubitassem experior genus scribo ali3s Epistola audeo omnis genus irrisionus iniuriisexposio mens infixus paucus secretior physica Chymia uoco studiosus praestitisse laudo possum
-uanus fingo falsus omnis astutus fraus proposuisse uirus bonus pecunia exugeo seculum impostor plenus Principibus parco cononcesserim discrimen bonus damno iudicium requiro uerus falsus sciens Dedicatoria
-scientia discerno nequeo
-tracto soleo sophista aureus mons polliceor exerceo metallum consideratio doceo medicinar praeparatio trado
-numerus fatear
-Nullus lapis mouis diuinus scientia lux magnus multus commodum prodeo
-Chrysopoeiam respicio humanus corpus sanitas
-puluis elixir philosophus abundantia suus tempero caliditas morbus omnis curo Epistola puluis oleum forma sumo
+philosophia res chemicus tractatus uarius scitus dignus uersus pagina indico
+autor collector bernardus penotus portus maria aquitanus reipubl
+ physicus
+francofortus io
+saurium
+sumptus iohannes rex
+cio io 
+res contineo epistola dedicatorius uis puluis physicus ago praefatio apologeticus probo chrysopoeia ars uerus dialogus natura filius philosophiaa caput ordo diuido diuersus diuersus metallum uocabulum utor uetus ars celo georgius ripleius porta epitome facio possum modus concinno alipertus magnus breuis compendium mineralis regula philosophicus notitia res abdo peruenio compendium perutilis res subterraneus proximus metallum materia dignoscendus isaacis  opus philosophus fragmentum sperneo quaestio corporalis mercurius ars corpus perfectus extraho corpus commisceo facio generatio lapis physicus firmus opinio uarius quaestio responsio canon opus physicus ars lucidus fio summus opus uerus aurum mercurius extractio historia
+magnus praemium magnus laboro eo ignauus corona do
+portus senex abdo gremium contineo uber humus
+uiuus metallum uirtus attraho magnes ferrum uis penetro rapio
+allecto rudioer cor juuentus natura aperio dius reperio cato
+munificus abscondo scrobis occulo diuitia ops publicio gero emitto aura dito saeculum bonus
+pectus ingigno scio callis peritus spons inuidia notifico
+haidelbergaus annus
+cipio denus denus ernaestous fridericus marchio badensius hochbergensis landgrauio susenbergensis denus  badens weiler denus clementissimus
+laudabilis egregius instituo princeps heros habeo ratio ualeo posteritas consulo
+huuus libellus editio tantillus dubito experior genus scribo audeo genus irrisio iniuriisexposio mens  secretior physicus chymia uoco studiosus praesto laudo possum
+uanus fingo falsus astutus fraus propono uir bonus pecunia exugeo seculum impostor plenus princeps parco 
+discrimen bonus malus damno iudicium requiro
+uerus falsus scientia discerno nequeo
+tracto soleo  aureus mons polliceor exerceo metallum consideratio doceo medicina praeparatio trado
+numero fateor
+lapis moueo diuinus scientia lux maximus commodum prodeo
+chrysopoeia respicio humanus corpus sanitas
+puluis  philosophus abundantia tempero caliditas morbus curo
+puluis oleum forma sumo
 oleum forma praesto
-os sumo digero concoquior chylum sanguis conuerto
-uulnus ulcio penetro partisuocurnro puluis consistentia applico
-Intelligendum medicinus iungo incorporo debeo medicamentum morbus adhibeo uolo curo idoneus
-Sanat podagra febr tollo
-Cancrum lupus Antiqua uulnus inuetero
+os sumo digero concoquo chylus sanguis conuerto
+uulnus ulcus penetro  puluis consistentia applico
+intelligendum medicina iungo incorporo debeo medicamentum morbus adhibeo uolo curandus idoneus
+sano podagra febris tollo
+cancer lupus  uulnus inuetero
 os sumo calculus comminuo uentriculus purgo
-Dedicatoria
-gato
-Hepar refrigero tollo
-Pulmon restauro
-iuuentutem conseruo senium remoueo
-Calor naturalis augeo auco uideo senex iuuenilis annus redeo
-uerus fons iuuentus conseruo homo cultus Deus sanus tempus praescriptum debitum natura exoluo obnoxii
-Allucinantur arbitror ars inuestigo ditesco gratia finis scopus sanitas tuor sublimis ingenium philosophus Epistola
-generosus Regiae mens occupo indagatio excellentissimarum secretioris philosophia Mysterio naturalis quib totus suus pulus bellum pax tempus praesidium
-philosophor dux rerusecreta rimariliceo arcanus amplecot
-bonus sapiens doctus uira
-Principibus Regibus Imperatoribus dignus exercitatio honestus uoluptas catera appeto
-ueritus uarius edo opusculum magnus Principibus dedico annus Dedicatoria
-praeterito Serenissimo Elector Palatinus Illustrissimo princeps Christianus Anhaldinus Alter uerus praeparatio usus medicamentor Chymicus
-Alter Sale Nitro uis aurum potabilis inscripsi
-tractatus serenus frons Principibus doceo excipio
-utilis tractatus publicus facio decreuissem
-Principum Marti litas Minerua Hercules ambidexter cra facio optima ar Epistola tium studium omnis conatus promouo occurrio
-Chymia posterus locus obtineo
-Hosce libellus praecipuum tantus scientia caput explico
-tuus Celsitudines ingratus persuadeo
-par reuerentia inscribendos census
-inscriptio patrocinium accipio nomen splendor illustro
-Uetus multus praeciosus uideo templum dedico
-Principum animus sententia res go
-deus
-Max
-tuus Celsitudus Dedicatoria
-tudo coniunx floro nomen suus gloria seruo
-Celsitudo Obsequentissimus Bernardus G. Penotus Portus Maria Aquitanus Franckentallensis D. Physicus
-Epigramma
-purus sophia uideo fons Arcani Chymia teneo callis Fructus Hesperidus suaueolo Aesonidus refero gemma Exoptas uetus lego nouus
-scriptum ueterum nouus lecio magnus labor partus
-Longus dies petitus
-Ingenti aer oblo Angustus do libellus magnus comparo aer
+refrigero pleuritides tollo
+pulmo restauro
+iuuentus conseruo senium remoueo
+calor naturalis augeo auco uideo senex iuuenilis annus redeo
+uerus fons  conseruo homo cultus deus sanus tempus praescribo debitum natura exoluo 
+ arbitror ars inuestigo ditesco gratia finis scopus sanitas tueor quondam sublimis ingenium philosophus generosus regius mens occupo indagatio secretior philosophia mysterium naturalis pulus bellum pax tempus praesidium
+philosopho dux rerusecreta rimariliceo arcanus amplector
+bonus sapio doceo uir
+principibus rex imperator dignus exercitatio honesto uoluptas catera appeto
+uereor uarius edo opusculum magnus principia dedico annus praetereo serenus elector palatinus illustrissimus princeps christianus anhaldinum uerus praeparatio usus medicamentum chymicus
+sale nitrum uis aurum potabilis inscribo
+tractatus serenus frons principia  doceo excipio
+utilis tractatus publicus facio decerno
+ mars lito minerua hercules crum facio optimus ars studium conatus promoueo occurro
+chymia postremus locus obtineo
+hice libellus praecipuus scientia caput explico
+celsitudo ingratus persuadeo
+par reuerentia inscribo censeo
+inscriptio patrocinium accipio
+nomen splendor illustro
+uetus praeciosus uideo templum dedico
+ualeo princeps animus sententia res gero
+deus 
+
+celsitudo coniunx floreo nomen gloria seruo
+celsitudo obsequentissimus bernardus penotus portus maria aquitanus  physicus
+purus sophia uideo fons arcanus chymia tenere callis fructus hesperidus suaueolens aesonidus refero gemmo exopto uetus lego nouus
+scribo nouus lectus magnus labor partus
+longus dies peto
+ingens aer oblo angustus do libellus magnus comparo aer
 magnus animus labor lectus
-Longus tempus releco
-cesso ueterum liber nouus aequo licet breuis libellus
-Fagi
-Candidus Candidus Lectori Bernardus G. Penotus Maria Aquitanus
-franckatallensis D. Medicus spiritus synceritas intellectus solertis labor salus precor
-defore multus candido lector sat scio libellus editio nouus uideo possum Mysterii natura secretus thesaurus publicatio damnaturi
-Euangelius occinno nolo margarita porcum prouco
-autoris communis omnis solus noster scribo communis plebs murus fortis sera firmus secludo
-arguo tempus uenisse publico debeo asseo
-Reperiuntur dubium nonnullus infinitus maledicor cacoethes ius Mysterium po autor obiecturi
-signum possum ars uerus credo Arcanus pando con deus proximus
-praefatio
-probo
-Scio scio inquam experior edo nasutos ueterator omnis humanitas exutoscinicus quacun qui ratio possum editio impedio
+longus tempus relego
+cesso liber nouus aequo breuis libellus
+reipub
+franckatallensis medicus spiritus synceritas intellectus solertus labor salus precor
+desum candidus lector sat scio libellum editio nouus uideo possum mysterium natura secerno thesaurus publicatio 
+euangelium occinno
+nolo margarita porcus prouco
+autor
+communis scribo communis plebs murus fortis serus firmus secludio
+arguo tempus uenio publico debeo assero
+reperio infinitus maledico cacoethes ius mysterium pandus autor obiecturus
+signum possum ars uerus credo probo
+scio scio inquam experior edo nasutus ueterator humanitas exutoscinicus ratio possum editio impedio
 obloquor latro desisto
-Uerum latratus ratio insanio uideo nihili facio censeo
-magnus laus tantus deus proximus dux pietas deus maiestas suus magnalis publico detraho proximus bonum occulto supprimus sinister interpreto impedio edo perturbo possum pars inuideo
-longus uidear scribo primus latratus respondeo
-Euangelium profero sensus traho solus homo solus dignus praeciosus Deus donum acuere margarita habeo omnis porcus bonum indignus
+uerus latratus ratio insanio uideo nihilum faciendus censeo
+magnus laus deus proximus duco pietas deus maiestas magnale publico detraho
+proximus bonus occulto supprimo interpretor impedio edendus perturbo possum pars inuideo
+longus uideo scribendus latratus respondeo
+euangelium profero sentio traho homo dignus praeciosissimus deus donum aceo margarita habeo porcus bonus indignus
 edo fur bonus dissipator
-audio quaeso dico omnis amor deus charitas proximus Oblectio responsio
-Praefatio
-ximi accendo gaudeo desidero mysterius arcanus qui cognitio adipiscor
+audio quaeso dica amor deus charitas proximus accensi gaudeo desidero mysterium arcanus cognitio adipiscor
 numerus lector colloco homo
-uir communico fidelis dispensator mysterium Deus proximus inuideo coenum suus inuidia conculco porcus
-mos porcus bonus fructus stercoribus misceo deuoro
-autor cito edo oportet tractatus autor communis suus scripsio
-Aristoteles Alexandrus Macedonum Regi suus physicus edideo respondeo edo
-imprimo liber Aristotelicus
+uir communico fidelis dispensator mysterium deus proximus inuideo coenum inuidia conculco porcus
+mos porcus melior fructus stercus misceo deuoro
+autor cito edo oporteo tractatus autor communis scripso
+aristoteles alexander macedo rex physicus edo respondeo edo
+imprimo liber aristotelix
 absum
-Arabs philosophus Rex soler
-tissimus Geber
+arabs philosophus rex solor
+tus 
 scribo reli-
-solus ars solus inuestigo edidimus Gebri scribo praelum subdo
-similis emitto omnis utilitas scribo omnis Geber rex philosophus
-ars chy- micus scribo manus adipio scio
-Aurum cilis soluo
-Argentum uiuus philosophus ars ingo niosus eli- cio
-praefatio
-ingenium magnus diligentia exquirun o magnus ueritas lux consequor magnus homo utilitas affero
-Uerba edo possum imprimo manualis operatio industria experientia sino
+sol ars inuestigo edo c. gebris scribo praelum subdo
+similis publicus emitto utilitas scribo  rex philosophus
+ingenium maior diligentia  maior ueritas lux consequor maior homo utilitas affero
+uerbum edo possum imprimo manualis operatio industria experientia sino
 typus imprimo possum
 os trado manus
 aurum praeparo solutio contumax arduus
-existimo argentum uiuus solueo aurum obtineo facultas uulgo uendio corpus similitudo totus substantia aurum refero temperamentum frigidissimus certus indefinitus
-argentum uiuus ars ingeniosus proliciengus educo corpo pauciss noto natura concoho
-similitudo totus substantia aurum refero argentum uiuus uulgo nullus ars
-primus contactus attritus aurum coeo misceo aqua aqua
-contemplo alte corpus
-Praefatio
-fornax continuus aequalis calor subministro possum paucus nosco
-notitia cupio practicus opus magnus philosophus Rouilliascus Pedemontanus lego annus
-edidi Athanors dico digestio fingo ignarus
-paucus tripos arcanus norunt paucissimus pabulum calor aequabilitas praesto possum
-Totus arcanus gradus calor consisto
-uis pullus effectrex ouo insio calor externus supero oporio alioquus induresco o pullus imposterum edo
-uis semen falurus aurum misticus suus argentum uiuus exinanio altoquus dissoluo aurum germino facio materia proximus aurum
-aurum calor nimius agens concresceo
-deficio calor labor artifex frustrabi o
-puluis aurificus Deus potestas situs uolo largior subtraho
-abius quaero dene go
-Palingenius suus Zodaicus aio mens diuinus homo oraculum caecus m Athanor philosophus
-m Exemplum
-m Error opus destruo
-ro- lo autoritas ars ue- ra
-m Apologia Eo- tastus
-Praefatio
-Uoluentes animus ancipitis tempus Experti multus paruus sumptus inuenere ars ars dignus
-Fingendi lapis aethereus scio profanus licet plebs improbus quaero Quemqui habeo possum uolo habito fortuna itus metuo brachium furum paucus dignans munus diuus
-confirmatio quaestio
+ argentum uiuum soluo aurum obtineo facultas uulgo uendo corpus similitudo substantia aurum refero temperamentum frigidissimus certus indefinitus
+argentum uiuum ars ingeniosus prolicieng educo corpus  noto natura concoquo
+similitudo substantia aurum refero argentum uiuum uulgo ars
+primo contactus attero aurum coeo misceo aqua aqua
+contemplo corpus
+fornax continuus aequalis calor subministro possum nosco
+notitia cupio practicus opus magnus philosophus  pedemontanus lego annus
+edo athanor dico digestio fingo ignarus
+paucior tripus arcanus nosco
+pabulum calor aequabilitas praesto possum
+arcanus gradus calor consisto
+uis pullus effectrix ouus insero calor externus supero oporio induresco o pullus imposterum edo
+uis semen falurus aurum misticus argentum uiuus exinanio altoquus dissoluo aurum germino facio materia proximus aurum
+aurum calor nimius ago concresco
+deficio calor labor artifex 
+puluis aurificus deus potestas situs uolo largior subtraho
+abium quaero dene go
+palingenius zodaicus aio mens diuinus homo oraculum caecus uoluo animus anceps tempus expers paruus sumptus ars ars dignus
+ lapis aethereus scio profanus plebs improbus quaero habeo possum uolo habito
+fortuna itus metuo brachium fur dignanter munus diuus confirmatio quaestio
 ars ualeo authoritas ratio experientia
-Possem multus grauissimor uir testimonium auctoritas confirmo uerus ars edo multus liber libellus ueritas antiquitas ars chemicus puluis autor Robertus Ualens editum Parisiis Maurellus Fredericus annus 1561
-Alius Chrysippus Phanianus ius Alchymia
-alter titulus Apologia chrisopopaeiae Argyropoeiae disputo doceo Chrysopopoeia ars transmuto perficio metallum
+possum grauissimus uir testimonium autoritas confirmo uerus ars edo liber libellus ueritas antiquitas ars chemicus puluis
+autor robertus ualense  parisiae maurellus fredericus annus 1561
+chrysippius phanianus ius alchymia
+titulus apologia chrisopopaeia argyropoeia disputo doceo chrysopopoeia ars transmuto perficio metallum
 firmissimus ratio demonstratio certus experimentum ars uerus certus facilis probo conuinco
-Eo ars doctrina profero Praefatio
-profero argumentum refuto
-Memini manuscriptus ars ligio liber doctus dignus liber nullus uidisse
-uolo autoritatus exemplum probo ueritas ars liber lectio relego
-Ridiculus tempus pseudotemporistis obicio do nosco tempus momentum uenio hora publico nescio uenio noster
+eo ars doctrina profero argumentum refuto
+memini manuscriptus ars lego liber doctior dignior liber uideo
+uolo  exemplum probo ueritas ars liber lectio relego
+ridiculus tempus pseudotemporiss obiicio do nosco tempus momentum uenio hora publico nescio uenio
 uenio tempus aduenio
-duco publico causa immuto possum refello
-unus finis deus creo cognosco opus Christus Theologia opus natura philosophia
-latus nolo candidus lector liber philosophus omnis quicun qui abstrusa Hermetica medicinus loquor nihil spagyricus labyrintus plerusque ars discipulus uarius ambage uia fraus incido
-dies nullus paucus exitus uerus inuenio
-Opera Christus theologia natura uerus philosophia praefatio
-uia facilis labyrintum apero erro uideo rectus foris extremus deduco occurro irremeabilis angulus perpetuus carcer deuii includo
-philosophus scriptum offero facilis manifestus uia primus frons intuentibus litera planus uideo incautus operator aperio philosophus uerbum decipio innumerus dolus implico
-accedo multus pseudochymista multus suus fraus sophismat decipio uendo spargo mendax chymicus operatio carta credulus aureus promitto mons lolium semino triticum exspecto iubeo
-commiseratio tactus hosce tractatus plenus ueritas ratio physica offero integer ars tabella depico habeo
-examen perpendo firmus argumentum animus tuus opinio erro possum
-omnis sophismat iudicium credo uolo decipio uerus ars multus inuolucra tego Libri phi- losopho acris iudicium lego
-Praefatio
-incautus intrico
-operor incipio causa res naturalis prudeo consilium perpendo nolo res aggredior satis tempus solertis iudicium meditatio tribuo temeritas stultus inconsiderantia poena lueo
-amicus lector benignus animus editum benignus suscipito magnus iudicium lex reliog os laboro operor reitera
-secretus particeps honor Deus author mysterium utilitas proximus experientia consideratio natura efficio
-Uale
-Dialogus Natura filius
-Philosophiae
-Egidius Uadis suus amicus N.s P. miror uir omnis scientia ignarus opus uis aggredior uirtus tantus uigor ignosco flagro amor desiderium concilio uerus inscius ignauos torpeo instigo merus scientia omnis medulla concupisco
-omnis amicus dico soleo tuus obliuiscor uirtus praeditus possum ago uirtus radico uis honor postpono caeterus diuulgaris
-honor testis philosopho praemium uirtus
+secus duco publico causa immuto possum refello
+finis deus creo cognosco opus christus theologia opus natura philosophia
+latus nolo candidus lector liber philosophus abstrudo hermetica medicina loquor spagyricus labyrintus ars discipulus uarius ambages uia fraudo incido
+dies paucissimus exitus uerus 
+uia facilis labyrintum aperio erro uideo rego foris extremus deduco occurro irremeabilis angulus perpetuus carcer deuius includo
+philosophus scribo offero facilis manifestus uia primus frons intueor litera planus uideo
+incauo operator aperio philosophus uerbum decipio innumerus dolus implico
+accedo pseudochymista fraus sophismatis decipio uendo spargo mendax chymicus operatio carta credulus aureus promitto mons lolium semino triticum exspecto iubeo
+commiseratio tactus hice tractatus plenus ueritas ratio physica offero integer ars tabella depingo habeo
+examen perpendo firmus argumentum animus opinio munio erro possum
+sophismatis iudicium credo uolo decipio uerus ars inuolucrum tectum incautus intrico
+operor incipio causa res naturalis prudens consilium perpendo nolo res aggredior
+tempus solerio iudicium meditatio tribuo temeritas stultus inconsiderantia poena luo
+amicus lector benignus animus edo benignus suscipio magnus iudicium lex relego os laboro operor reiter
+tantus secerno particeps honor deus author mysterium utilitas proximus experientia consideratio natura efficio
+ualeo
+philosophia
+egidius uadis amicus p. d. miror uir scientia ignarus opus uis aggredior uirtus uigor ignotus flagrans amor desiderium concilio uerus inscius ignauus torpeo instigo merus scientia medulla concupisco
+amicus dico soleo obliuiscor uirtus praeditus possum ago uirtus radicatus uis honor postpono diuulgo
+honor testis philosophus praemium uirtus
 uiuo attribuo
-omnis adulatio postpono Deus testor ambigo quamplurimos uideo ornatus dico modus honor magnus uendico
-nihil uerbum lenocinius phaleratum dico merus fabula nuga doceo
-Epistola
-relinquo nux sapio patruus puer iuuenculus pomum aurum offero aurum summus praetius ualor nihili pendo
-pomum nux paruus
+adulatio postpono deus testor ambigo quamplurimus uideo orno dico modus honor magnus uendico
+uerbum lenocinium phaleratus dico merus fabula nugae doceo
+relinquo nux sapio patruus puer iuuenculum pomum aurum offero aurum summus praetius ualor nihilum pendo
+pomum nux minimus
 antepono
-achillis Glaucus permutatio
-natura secretum disserto certus nux testudo lambo nihil medulla dulcedo gusto comptis armatus uerbum parum nihil res pertineo garrulosus respondeo
+achilles glaucus permutatio
+natura secerno disserto certus nux testudo lambo medulla dulcedo gusto
+como armo uerbum res pertineo garrulosus respondeo
 uerbum proportio quadro
-dico loquor sapientia
-uerumenimuero deterior ignorantia sermo barbariam balbuties soloecismus uoco
-testudo polis uerbum contendo audeo
-quamnus nuncus dulcedo intimus perquirio delecto exterior exterior interior perspicio
-confidentia meus noster imprimo munus meus exiguus laetus frons suscipio amo soleo ualis bibliotheca regia Richemetus
-Iulii Annus
-E. authoris Praefatio
-sum annus multus secretum natura indago lucubratio paucus propendo animus labor infatigabilis defatigassem perpendo omnis indagatio itinus trames denormium diuerticulum ambio semita plenus uerus scipis griphum tropicum aenigmatib
-apohothegmatibus uarius dico laruus occupo
-Philosophus omnis sententiosus unus difficultas contineo ambagis inuoluo opto finis peruenio possum arbitrer
-laruo Plinius placeo mortuus lucto palester natura certo census Philosophus dico Natura doceo multus uarius multus modus pulso quaero deus concedo appareo
+dico loquor sapientia parum
+uerumenimuero deterior ignorantia sermo barbaria balbuties saoloecismum uoco
+testudo polio uerbum contendo 
+nunco dulcedo intimus perquiro delecto exterior interior perspicio
+confidentia imprimo munus exiguum laeto frons suscipio
+amo soleo ualeo bibliotheca regius richemetus
+idus iulius annus
+annus secerno natura indago lucubratio propensus animus labor infatigabilis defatigo
+perpendo indagatio iter trames denormius diuerticulum ambio semita plenus uerus scipus griphum tropicus aenigmatibs
+apohothegma uarius dico larua occupo
+philosophi sententiosus difficultas contineo ambages inuoluo opto finis peruenio possum arbitror
+larua plinius placeo mortuus luctor palestra natura certo censeo philosophus dico
+natura doceo uarius modus pulso quaero deus concedo appareo
 primus impetus uarietas induo orno res intueor stupefacio
-omnis homo lingua suus uestigamentum enucleatio sufficeo
-consolor cupio praedulcis blo sermo alloquuo
-Noli timeo filius inquam Natura uis quaesiuisti mandatum Deus mitto enge exulo laeto modus foelex reddo
-primum uideo uideo misericordia Deus uilus peccator facio digno oculus corpus cerno rudis qualificao scientia
-consolaberis dubito omnis respondeo
-libet concedo aperio
-bonus Domina parce obsecro balbuties meus condignas sino refero gratia
-aiebo litera qualificao pergo Deus meus suus largitas immensus destino gratia refero
-Reuersus dubius mergor interrogo
-inquam ago filius nouio morerisreddio
+homo lingua uestigamentum enucleatio sufficio
+consolor cupio praedulcis blandus sermo alloquuo
+nolo timeo filum inquam natura uis quaero mando deus mitto engo exulto laeto modus foelix reddo
+uideo misericordia deus uilissimus peccator facio digno oculus corpus cerno rudis qualifico scientia
+consolor dubito respondeo
+interrogo libet  aperio
+bonum domina parco obsecro balbutio condignus sino refero gratia
+aio lito qualifico pergo deus largitas immensus destino gratia refero
+reuertor dubius mergo interrogo
+inquam ago filum nosco morerisreddor
 finis oratio expecto
-Oratio
-dominus deus omnipotens pater filius spiritus sanctus Dafamulus tuus licet indignus cognosco omnis uolo uiuo cursus praesens uita consummo
-Scio confiteor
-fons origo uniuersus bonum desiderium honestum cognitio omnis operatio debeo perseuerantia
-produxo primus homo naturalis perfectus sufficiens scientia praeditus
-Oratio
-do seruus tuus bezaleel Aoliab scientia excogito omnis opus fabrilis metallum
-do Salomon seruus tuus cor docilis cor omnis Propheta tuus inspirasti dico peto do pulso aperio uouus
-deus conseruator protector meus deprecor
-supplex imploro illumi cor meus peto gloria laus tuus nomen sanctissimus
-displicet tuus Deitas quaeso indignus peccator peto tuus misericordia digno illumino cognitio res naturalis
-ignotus prior posterus tuus gloriosus effectus cognoscao
-deus cognosco interruptio mundus Diabolus perficio cor meus fixus permano omnis opus meus facio laus honor sanctissimus nomen tuus redemtio captiuus sustentatio pupillus uiduus omnis fidelis indigo intercedo dominus noster Iesus Christus filius tuus uiuo regno seculum seculus
+dominus deus omnipotens pater filius spiritus sanctus dafamulus licet indignus cognosco uolo uiuo cursus praesens uita consummo
+scio confiteor
+fons origo bonum desiderium honestum cognitio operatio debeo perseuerantia
+produco primum homo naturalis perfectus sufficio scientia praeditus
+do seruus bezaleel aoliab scientia excogito opus fabrilis metallum
+do salomon seruus cor docilis cor propheta inspiro dico peto do pulso aperio uouus
+deus conseruator protector deprecor
+supplex imploro illumino cor peto gloria laus nomen sanctus
+displiceo deitas quaeso indignus peccator peto misericordia digno illumino cognitio res naturalis
+ignotus prior posterior gloriosus effectus cognosco
+deus cognosco interruptio mundus diabolus perficio
+cor figo permaneo opus faciendus laus honor sanctissimus nomen redemtio captiuus sustentatio pupillus uidua fidelis indigeo intercedo dominus iesus christus filius uiuo regno seculum seculum
 
-Caput
-Caput
-Natura doceo filius ars materia lapis
+natura doceo filius ars materia lapis
 dico finis intentio resulto principium opus
 filius
-domina Deus meus omnis beneficium suus gratia ago interrogo libuo respondebo
-Natura
-filius Deus adiutorium tuus dubius satisfacio
+domina deus beneficium gratia ago interrogo libuio respondeo
+natura
+propono filum deus adiutorium dubius satisfacio
 filius
-domina oculus tuus inueni gratia dico obsecro Philosophus liber suus nomino materia lapis procreo
-multus tractatus legio memini quouis modus nomino intellego
-Natura
-filius scio omnis Philosophus liber nomino Philosophus filius suus loquor b m Forma ago dispositio materia
-finis intentio resulto principium sol luna
-Dialogus Philosophia qualifico imbibitus animaduertunt nomino
-subtilitas uero stultitia rusticitas inscius
-Audi sermo meus auscultus ostendo uiuus uox nomino
-audiuistine authoritas Aristotelis dico
-actus actiuus patiens dispono
+domina oculus inuenio gratia dico obsecro philosophi liber nomino materia lapis procreo
+tractatus lego memini quiuis nomino intellego
+natura
+felix scio philosophus liber nomino philosophus filius loquor philosophia qualifico imbibitus animaduerto nomino
+subtilitas stultitia rusticitas inscius
+audio sermo ausculto ostendo uiuus uox nomino
+audiuistinio authoritas aristoteles dico
+actus actiuus patior dispono
 forma ago dispositio materia
-intelligis
+intellego
 filius
 domina
-Natura
+natura
 nomino
-dico facio intendum uideo intelligo quaero perpendo finis intentio resulto principium
+dico facio intendo uideo intellego quaero perpendo
+finis intentio resulto principium
 filius
 sol luna produco intendo
-Natura
-principium tuus operatio nomino
-dico finis tuus intentio
-aurum argentum produco uolo Philosophia
-uolo
-opus tuus principium dixisses homo uolo produco tuus agens nominassis
-habio nihil desum patiens generatio congruus
-possibilis genero homo homo aurum argentum aurum argentum omnis similis duco suus similis
-Caput Ii
-secundus caput natura dico mineralis hermophroditus natura utrun sexus habeo scil
+natura
+aduerto principium operatio nomino
+dicendus finis intentio
+aurum argentum produco uolo
+opus principium dico homo uolo produco ago nomino
+habeo desum patiens generatio congruus
+possibilis genero homo homo argentum
+similis duco similis
+secundus caput natura dico mineralis hermophroditus natura sexus habeo scil
 sulphur arg
-uiuus
-incrementum res pendeo suus principium
+uiuum
+incrementum res pendeo principium
 filius
-domina uideo homo genero copulatio mare foemina
+domina uideo homo genero copulatio mas foemina
 argentum aurum productio percipio copulatio
-Natura
-Scias filius omnis cresco uegetabilis mineralib generatio uniuocus aquiuocus
-m Plato
-Incrementum res pendeo suus principium
-Dialogus bus animal educo potentia actus coniunctio forma materia
+natura
+scio filum cresco uegetabilis mineralis animal educo potentia actus coniunctio forma materia
 locus masculus foemina capio mineralis uegetabilis coitus attractio homo cognosco forma materia conuenio
-inquam Plato meritum materia do forma
-nullus generatio congruus conuenio natura
-Mineralia uegetabilis Hermaphrodite natura sexus habeo
-facio coniunctio forma materia facio animal
+inquam plato meritum materia do forma
+generatio congruus conuenio natura
+mineralis uegetabilis hermaphroditas natura sexus habeo
+fio coniunctio forma materia facio animal
 filius
-Domina flagito utillus copulatio os tuus audio
-Natura
-Audio Plato dico dependeo principium suus incrementum
-uideo homo generatio productio facio sanguis menstrualis Lac sanguis coctus
-Philosophiae
-strualis nutritio educatio lac sanguis coctus menstruus differo reiteratio decoctio
-similis planta facio subtilis terreus aqueus
-semen habeo commo terra subtilis humidus similis produco potentia actus Considera natura mineralis corpus dico coepi suus origo
-reduco suus materia dico planta uolo tuus adimpleo
-Caput Iii
-natura doceo materia opus physicus necessarius exemplum probo uideo licet lego caput tertius
+domina flagito copulatio os audio
+natura
+audio plato dico dependeo principium incrementum
+uideo homo generatio productio facio sanguis menstrualis nutritio educatio lac sanguis coquo
+menstruus differo reiteratio decoctio
+similis planta fio subtilis terreo aqueus
+semen habeo commendo terra subtilis humidus similis produco potentia actus
+considero natura mineralis corpus
+dico coepio origo
+reduco materia dico planta uolo adimpleo
+natura doceo materia opus physicus necessarius exemplum probo uideo legendus caput tertius
 filius
-domina uideo mineralis corpus suus primus materia reduco uellis impossibilis primus materia b primus materia siccus frigidus humidus
-Memoria trado materia
-quartus propinquus
-Materia fusus artinecessarius
-Materia pinquus metallum ars necessarius
-Dialogus Philosophus calidus sicco frigidaue humidus
-reductio remoueo metallum
-Natura
-intelligo primus materia
-loquor remotus dico dico Chaos materia confundo indigo nouus forma induco conabor
-intellige natura elementum prouenio qualitas elementum proueo modus primus materia propinquus animal sperma uegetabilis semen dico mineralis uero sulphur argentum uiuus dico Philosophus supple remotus primus materia
-aptus dispono creo asinus metallum
-uolo reduco primus materia conseruatio species indiuiduus conser Philosophiae
-seruatio
-species actio sensibilis subicio
+domina uideo mineralis corpus primus materia reduco uolo impossibilis
+primus materia philosophus calidus siccus frigidauis humidus
+reductio remotus metallum
+natura
+intellego primus materia
+loquor remotissimus dico  dico chaos materia confundo indigeo nouus forma induco conor
+intellego natus qualitas elementum prouentus primus materia propinquus animal sperma uegetabilis semen dico mineralis sulphur argentum uiuum dico philosophus suppleo
+remotissimus primus materia
+apto dispono creo asinus metallum
+uolo reduco primus materia conseruatio species indiuiduus conseruatio
+species actio sensibilis subiicio
 notus exemplum do reductio
-homo mulier coeo reduco primus materia corpus cruda spermo genero prodierunt corpus destruo facio primus materia remoueo reduco
-oportet facio opus tuus species conseruatio noto debeo
+homo mulier coeo reduco primus materia corpus crudus sperma genero prodeo
+corpus destruo facio primus materia remotus reduco
+oportet facio opus species conseruatio noto debeo
 filius
-Domina tuus gratia adiuuo sapio incipio reductio differentia materia primus ignoro
-Caput Iiii
+domina gratia adiuuans sapio incipio reductio differentia materia primus ignoro
 chaos materia ars necessarius
-Materia lapis propendo omnis forma suscipio
-uendio
-b Exemplum
-m Ylle res omnis praemordialis
-Ylle nihil percipio
-chaos materia confundo
-Dialogus Natura
-filius epilogo quaero opus prolixum propensiorem caeterus perpo
-breuus modus possum cupa enodo
-Scias materia remotus dico Ylle praemordialis omnis res principium dico Augustinus refero
-aio informis concipio nihil intelligo intelligo nihil uideo tenebrae uideo nihil audio audio silentium
-Sequitur ylle nihil percipio uerus materia remoueo dico chaos
-chaos rudis indigesta moles omnis comfudo commisceo appello materia massa confufa initium hiao
-materia coelum terra informis primus nihilum facio species uarius forma qui m Lactantius chaos
-chaos materia primus necessarius ars
-Philosophiae
-mas proprius prodeo
-definio chaos rudis inordinatus materia confundo congeries primus mate- ria intelligo omnis necessarius opus tuus perficio
-Dico principium summus deus praeparo elementum confundo terra aqua grauus attingo orbis luna ignis aer leuus caeterus elementum descendo terra centrum
-terium meritum dico confundo res maneo mundus pars materia confusae mn cognosco tur
-Pauci Chaosus materia confusus opinaor
-res filius nex scio dico uanus laboro
+materia lapis propensus forma suscipiendus
+uendo
+natura
+felix epilogo quaero opus prolixus propensior caeterus perpendo
+breuior possum cupio enodo
+scio materia remotissimus dico ylla praemordialis res principium dico augustinus refero
+aio informis concipio intelligo intellego uidendus
+tenebrae uideo audiendus audio silentium
+sequor ylla percipio materia remotus dico chaos
+chaos rudis indigesta moles comfundo commisceo appello materia massa confufo
+initium hio
+materia coelum terra informis facio
+species uarius definio chaos rudis inordinatus materia confundo congeries primus mate- ria intellego necessarius
+opus perficio
+dica principium summus deus praeparo elementum confundo terra aqua grauior attingo orbis luna ignis aer leuior caeterus elementum descendo terra centrum
+ma terius dico confundo res maneo mundus pars materia confudo tur
+chaos materia confundo opinor
+res filum nex scio dico uanus laboro
 exeo
-sto forma aptus omnis for m chaos dico materia fusus
-Lapis materia uendio
-m Lapis materia omnis forma propensum
-m Raimundus inuestigandus
-m Angelus creatio
-Nota
-unclears Dialogus mas forma sortio attribuo cupio
-inquiro uolo uideo Raus mundus suus testamentum cap
-
-uideo deus primus quintus essentia creo omnis operib
-conprehendor pars instar suus essentia diuitto
-pars primus magispura creo angelus
+sto forma apto forma forma sortio attribuo cupio
+inquiro uolo uideo rai mundus testamentum capitulum uideo deus quintus essentia creo 
+comprehendo pars instar essentia diuido
+pars primus magispurus creo angelus
 secundus coelum stella tertius mundus
-intelligo deus creo terra tempus successio materia praecedo respicio successio genus
-instruo tuus opus propono primus diuisio assimulo
-diuisio perficio intendum
-conatus tuus impossibilis
-tertius pars diuido pars deus creo primus quintus substantia
+intellego deus creo terra tempus successio materia praecedo respicio successio genus
+instruo opus propono primus diuisio assimilo
+diuisio perficio intendo
+conor impossibilis
+tertius pars diuido pars deus creo quintus substantia
 elementum
-Lex capitulum allegao omnis longus habeo
-filius Dua natura m Calor gene ro motus
-Philosophia
-filius resto uideo natura simplicus elementum scio puanatura natura
-primus calor alter frigus natura calor actiuus
-frigus uero passiuus Calor genero motus frigus natura frigus quietudo terra
-lex Auicennam clauus sapientia inuenio omnis longus delectabilis modus uentilo distingueo simplex compositum simplex
-compositum compositum
-primus natura dico simplex opusuero dico simplex simplex natura calor frigiditas humiditas siccitas natura generatio dico principium Creator sermo prolatio dico facio creatura
-creo creatura magnus paruus subtilis grossa moueo quiesco dico possum quacun que declaratio determino res assimulo omnis Dialogus extitsum actus reduco creo creatura secundus lux appello decreeo
-Auicenna Elementa dico reductio remoueo qualitas uero prouenio habeo materia primus propinquus facio reductio
-habeo Elementum diuidio indigeo materia
-materia confundo excipio ratio tactas
+lege capitulum allego filum resto uideo natura simplicior elementum scio puanatura natura
+primus calor frigus natura calor actiuus
+frigus passiuus
+calor genero motus frigus natura frigus quietudo terra
+lex auicenna clauis sapientia inuenio longus delectabilis modus uentilatus distinguo simplex compono simplex
+compono compositus
+primus natura dico simplex opusuo dico simplex simplex natura calor frigiditas humiditas siccitas natura generatio dico principium creator
+sermo prolatio dico facio creatura
+creo creatura magnus paruus subtilis grossus moueo quiesco dico possum declaratio determino res assimilo existo actus reduco creo creatura secundus lux appello decerno
+auicenna elementum
+dico reductio remotus qualitas prouenio habeo materia primus propinquus facio reductio
+habeo elementum diuido indigeo materia
+materia confundo excipio ratio tango
 filius
-Benedicta Domina omnis tuus dico notauus reductio primus materia uideo corpus rein unclears possum
+benedico domina dico noto reductio primus materia uideo corpus  uncleo possum
 mineralis
-animal res facilis uideo semen indigestus produco
-cabut
-U. opus physicus capio metalla adduco exemplum Philosophia
-emplum creatio homo
-res uisceres terra circulo genero
-Natura
-mirus percipis modus procedo ignoro
+animal res facilis uideo semen indigesta produco
+opus physicus capio metallum adduco exemplum creatio homo
+res uiscus terra circulo genero
+natura
+mirus percipio modus procedo ignoro
 filius
 mineralis terra commendo primus materia reduco praecipio
-Natura
-dico finis que res resulto principium
+natura
+dico finis res resulto principium
 filius
-Uerum Domina uideo uideo
-finis que res resulto resultao materia forma percipio metallum homogeneus
-pars suus totus differo heterogeneus animal uegetabilis semen perceptabilis
-Natura
-filius dico depen opus physicus po me-
-Dialogus dependeo principium incrementum
+uerus domina uideo uideo finis res resulto
+resulto materia forma percipio metallum homogeneus
+pars differo
+heterogeneus animal uegetabilis semen perceptabilis
+natura
+felix dico dependeo principium incrementum
 filius
-uerus sequor forma materia incrementum mercurium sulphur omnis Philosophus metallum omnis origo cipio
-Natura
-filius uerus dico oportet tuus magisterium capio metalla
-uerbum gratia capio primus exemplum homo natura naturo principium facio limus terra primus facio popisma sperma
+uerus sequor forma materia incrementum mercurius sulphur philosophus metallum origo capio
+natura
+felix uerus dico oportet magisterium capio metallum
+uerbum gratia capio primus exemplum homo natura naturao principium facio limo terra primus facio
+popismas sperma
 
 uegetabilis capio similitudo
-Planta exprimo genero duco subtilis terreus aqueus misceo productus capor terreus aqueus que subtilissimus Philosophia intendo duco effectus
+planta exprimo genero duco subtilis terreo aqueus mixtus produco capeo terreus aqueus subtilus intendo duco efficio
 capio semen surculus
-mineralis genero sulphur argentum uiuus opus tuus perficieo capio ratio ostendo compositio sapo aqua extraho cineris clauello oleum sepos efficio
-capeo congelaro aqua lixiuia sal possibilis facio sapo
+mineralis genero sulphur argentum uiuus opus perficiendus capio ratio ostendo compositio sapo aqua extractum cinis clauellatus oleum sepos efficio
+capeo congelo aqua lixiuia sal possibilis facio sapo
 accido sulphur aqua natura frigidus humidus circulan do calor sol uerto aer natura calidus humidus
-uerto ignis natura calidus sicco tempero terra efficio sulphur
-modus intelligo mercurium ordo alter calidus alter Mineralis genero
-sapo conficio
-m Sulphur
-aqua circulo unclears uerto aer
-Aqua habeo possum Accipior metallum
-uro
-Dialogus frigidus
-aqua compono circulatio habeo possum metallum facio dico sapono
-nullus modus fio possum concludo dico animal uegetabilis capio metalla metallus
-intellexio filius sulphur argentum uiuus creo lapis metallus genero combustibilis uro
-Caput
-
-Natura doceo ars filius possum facio materia mercurius Philosophus facio uoco mercurius Philosophus
+uerto ignis natura calidus siccus tempero terra efficio sulphur
+modus intellego mercurius ordo calidus frigidus
+aqua compono circulatio habeo possum metallum facio dico sapo
+modus facio possum
+concludo dico animal uegetabilis capio metallum metallum
+intellego filum sulphur argentum uiuum creo lapis metallum genero combustibilis uro
+natura doceo ars filius possum facio materia mercurius philosophus fio uoco mercurius philosophus
 filius
-domina omnis dico uerus arbitror dico similitudo appareo Philosophia
-pareo res ueritas confundo
-nullus modus intellego possum debeo forma
-philosophus dico capio mercurius noster sulphur noster dico intro magisterium
-accipio ignoro nullus sulphura argentum uiuus cognosco
-Natura
-filius Philosophus dico accipio mercurius noster do intellego loquor communis dico noster
-mercurius dico filius pater dico gigno inquam natura do produco mercurius potentia actus adiutorium Philosophus meritum dico effectus produco
-Caput Uii
-Natura doceo res omnis habeo suus contrarius
-Cuintus m Graue leuus neces- sarius
-Dialogus attractio retentio attractio fero magneta ars manifesto
+domina dico uerus arbitror dico similitudo appareo res ueritas confundo
+modus intellego possum debeo forma
+philosophi dico capio mercurius sulphur dico intro magisterium
+accipio ignoro sulphur argentum uiuus cognosco
+natura
+felix philosophi dico accipio mercurius do intellego loquor communis dico
+mercurius dico filius pater dico gigno inquam natura do produco mercurius potentia actus adiutorium philosophi dico efficio produco
+natura doceo res habeo contrarius
+attractio retentio attractio fero magnes ars manifesto
 filius
-Enarra obsecro mercurius dico semen metallum
-Natura
-filius dico spero intellego tuus materia finis tuus intentio resulto scio omnis res habeo odio amo lapis comuenientis dico attractio
-amor odium animal melius congruo
-res mundus tuus materia propinquus attractio scio leuis possum grauis infra consortium detineo opus necessarius grauis leuis attractio causa effectus
-homo intueor mulier traho traho caeterus animal suus genus suus Philosophiae
-suus species exsisto
-modo similis stomachus tuus esurio uideo cibaria appeto multus oculus uideo appeto natura suus conuenio
-scio fio retentio
-digestio sequor consequor Euacuatio
-oportet fio tuus opus modus ordo
-summitas uasum uicis stomachus
-centrum locus epatis
-poer meatus
-uena
-ultimus omnis pars corpus membrum
+enarro obsecro mercurius dico semen metallum
+natura
+felix dico spero intellego materia finis intentio resulto scio res habeo odio amarus lapis comuenio dico attractio
+amor odium animal congruo
+res mundus materia propinquus attractio scio leuis possum grauis inferior consortio detineo opus necessarius grauis leuis
+attractio causa efficio
+homo intueor mulier traho traho animal genus species existens
+similis stomachus esurio uisus cibarius appeto oculus uideo
+appeto natura conuenio
+scio fio attractioibi retentio
+digestio sequor consequor euacuatio
+oportet fio opus modus ordo
+summitas uas uicis stomachus
+centrum locus epo
+porus meatus
+uenio pars corpus membrum
 filius
-Domina percipio omnis creo habeo odio amo
-philosophus dico habeo symbolum facilis transitus propono uideo dico philosophus dico unus res opus necessarius nihil addo superfluus remocs Attractio
-Retentio
-digestio
-Euacuatio
-Dialogus uo
+domina percipio creo habeo odio amarus
+quamobrem philosophus dico habeo symbolum facilis transitus propono uideo dico philosophus dico res opus necessarius addo superfluus remoueo
 attractio res opporto
-Natura
-filius definitio species ignoer praedico numerus differo
+natura
+felix definitio species ignoro praedico numerus differo
 uir mulier differo species numerus
-magisterium differentia caro unus do exemplum homo genero sperma actiuus naturalis spermo passiuus innaturalis sanguis menstrualis natura
-spermo menstrualis prouenio
-matrix recipio differo sanguis totus corpus uir mulier
-uideo operer unus res differo combinatio Elementum
-Imitare opus tuus letor
+magisterium differentia caro do exemplum homo genero sperma actiuus naturalis sperma passiuus innaturalis sanguis menstrualis natura
+sperma menstrualis prouenio
+matrix recipio differo sanguis corpus uir mulier
+uideo operor res differo combinatio elementum
+ opus leto
 uerifico dico assumo natura doceo
-iter declinauor attractio fero Magnes propalo secretus unclears natura
-Philosophia
-ueo bonum finis peruenio portentum delecto
-Scias filius attractio fero magnetus propalo manus festo sapiens magnus pars secretus meus perpo attractio facio animal lapis dispono materia tuus considero natura pereus dico
-cognosco forma comgruus opus tuus conuenio
-habeo nihil desum
-Caput
-depuratio bonum operor ars totus magisterium materia praeparatio consisto Aurum uulgus lapis materia
+iter declino bonus finis peruenio
+portendo delecto
+scio filum attractio fero magnes propalao manis secerno
+perpendo attractio facio animal lapis dispono materia considero natura pereo dico
+cognosco forma comgruus opus conuenio
+habeo desum
+depuratio bonum operor ars magisterium materia praeparatio consisto aurum uulgus lapis materia
 filius
-Domina obsecro dico Philosophus dico sol exalto aries debeo c Medicina exalto oportet
-frigiditas muto tas
-Depuratio dico exal- tatio
-Dialogus motus Aries obseruo
-supple ascendo sol conuenio
-Natura
-filius scio Philosophus dico motus coelum moueo omnis hora momentum generatio corruptio congruus dico sol exalto arietis signum Saturni casus domus Mars totus colericus oportet sol infernus opus tuus fio exalto domus Martis ariete tuus clibanus deprimo frigiditas proprius Saturnum calor exalto causa exaltatio tuus sol
+domina obsecro dico philosophi dico sol exalto arietes debeo motus aries obseruo
+ascendo sol conuenio
+natura
+filum scio philosophi dico motus coelum moueo hora momentum generatio corruptio congruus
+dico sol exalto aries signum saturnus casus domus mars
+colericus oportet sol infernus opus fio exalto domus mars aries clibanus deprimo frigiditas proprius saturnum calor exalto causa exaltatio sol
 filius
-domina intelligo sol noster exalto clibanus calor perfectus omnis Philosophus testor
-Natura
-intellige filius uirtus ignis sol tuus depurao depuratio Philosophus exaltatio Philosophia
-tio intellego
+domina intelligo sol exalto clibanum calor perfectus philosophi testor
+natura
+intellego filum uirtus ignis sol depuro depuratio philosophus exaltatio intellego
 aries sol incipio ascendo augis
-suus fastigium ascendo possum
-similis modus sol tuus exalto finis opus
+fastigium ascendo possum
+similis modus sol exalto finis opus
 filius
-sol loquor Domina
-Natura
-supernus loquor sol cupo mixtus possum exalto loquor sol Philosophus unus res uilis paruus praetium magisterium possum exalto aurum gradus infinitus efficicio impertiabilis praetium thesaurus incomparabilis
-Caput
-Necessario ars necessarius Agens patior unus simplex ago
+sol loquor domina
+sol nun- cupo mixtus possum exalto
+loquor sol philosophus res uilis pareo praetium magisterium possum exalto aurum gradus infinitus efficico impertiabilis praetium thesaurus incomparabilis
+ars necessarius ago patior
+simplex ago
 filius
-Benedictus creo Caius Aurum uulgus materia subiectum Philosophus
-m Forma materia
-scientia Elementi
-Dialogus Domina benedictus omnis opus tuus sapio incipio intueor tuus nobilissimus operatio tuus gloriosus dico
-tuus doctrina medio forma materia habeo modus exaltatio noster sol ariete
-ostendo obsecro ratio forma ago materia patior fallo opinio lateo arcanum actio necessarius certus proportio numerus mensura
-Natura
-filius uerus dico totus uis magisterium tuus consisto intellego habeo ignoro scientia scientia elementum omnis symbolizatio discordantia tracto
+benedictus creo domina benedico opus sapio incipio intueor nobilissimus operatio gloriosus dico
+doctrina medio forma materia habeo modus exaltatio sol aries
+ostendo obsecro ratio forma ago materia patior
+fallo opinio lateo arcanus actio necessarius certus proportio numerus mensura
+natura
+felix uerus dico uis magisterium consisto intellego habeo ignoro scientia scientia elementum symbolizatio discordo tracto
 nobilis ignobilis
-actiuus passiuus omnis ago patior concordantia discordantia symbolizatio intellus Philosophiae
-intellego
-ars praeceptum scio ratio agens ago materia patior arist testis omnis agens suus patior nobilis
+actiuus passiuus
+ago patior concordo discordo symbolizatio intellego
+ars praeceptum scio ratio ago ago materia patior aristas
+testis ago passus nobilior
 
-tuus agens complexio extiterit suus patiens contrarius necetto riuus debeo
-Uerbi gratia tuus materia frigidus siccus complexio opus pretium tuus agens calidus humidus complexio par par habeo
+go ago complexio extito patiens contrarius necessarius debeo
+uerbum gratia materia frigidus siccus complexio opus pretium ago calidus humidus complexio
+par paro habeo 
 perium
-sis cautus Phi- losophus nihil celaueo quaero
+cautus phi- losophus celo quaero
 filius
-Obona Domina flagito doceo dedigneris meus iudicium patior omnis difficilo
-Natura
-Uerum dico omnis pondus numerus mensura creo
+ domina flagito doceo  iudicium patior difficilio
+natura
+uerus dico pondus numerus mensura creo
 sanus mens ambigo cognosco difficilis
-enucleo eleco sapiens ro Agens sem- suus tio nobilis
-m po haber imperium
-m Exemplum homo generatio
-m ignis aer nobilis agens terra a- patientia
-teria habeo suus reperie- mus
-Dialogus  delecto fragilis capacitas
-familio exemplum instruo
+enucleo eligo sapio
+rarus delecto fragilis capacitas
+familiaris exemplum instruo
 homo generatio uir dico
-Agens mulier patior
-agens suus patior nobilis oportet nobilis elementum ignis aer terra aqua patiens intelligo omnis agens patiens ordo dico par par habeo imperium
-sequor foeminus calidus uir generatio sequor
-Oportet mulier frigidus respectus uir tuus materia habeo suus complexio speculo suus agens reperio exeo latitudo species quor
+ago mulier patiens
+ago passus nobilior oportet nobilior elementum ignis aer terra aqua patior
+intellego ago patior
+ordo dico par paro habeo imperium
+sequor foemina calidus uir generatio lio frigidus respectus uir complexio speculor ago reperio exeundus latitudo species quero
 filius
-omnis dico Philosophia
-intelligo modus proportiono uideo
-Natura
-rudem inuenio unus exemplum tuus natura similis do praecipeo lapis proiicero grauis ponderosus inueniro dico proiico possum modus similis facio leuitas
-tento perpo proportio debeo
-esura uideo cibarium ignoro sufficio comedo sentis uirtus tuus stomachus conuenio facio tuus magisterium
+dico intelligo modus proportiono uideo
+natura
+rudis inuenio exemplum natura similis do praecipio lapis proiicio grauis ponderosus inuenio dico proiico possum similis facio leuitas
+tento perpendo proportio debeo
+edo uideo cibarium ignoro sufficio comedo illicus sentio uirtus stomachus conuenio facio magisterium
 filius
-Domina dico tuus uerissimus dubius meus satisfacio
-certus ceterus pondus certus determino
-instruus causa Philosophus scio oportet dico rusticus idiota Exemplum
-
-deus tis
-scientia cabala
-Dialogus probo soleo calidus stomachus fortis plus possum digero frigidus debilis productio species potentia actus
-opinor certus mensura obseruo pondus numerus determino causa totus effectus
-Caput scientia pars cabala possum doceo auris modo scio portio pondus
-Natura
-Uerum dico filius dico manifesto Deus timeo colloquia scribo indignus dignus uideo possum dico scientia pars cabala receptio interpretor colloquium
-Philosophus tracto aenigmatus tropicus scirpis gryphus problematus inuoluo doceo Pytha Philosophiae
-Pythagoras suus silentium scriptura suus
-frutex lateo lepus proportio clauis omnis secretus metallum unus radix origo sumo pondus diuersifico proportio lapis praetiosus metallum differo qualitas calor leuitas fusioneues mensura proportio medio produco metalla esse gubernatio medio
-lapillus esse produco
-uniuersus instrumentum informatio diuersus accipio artifex ministror
-Caput Xi
-Natura rego omnis inferus superior certus mensura rotatio elementum
+domina dico uerissimus dubius satisfacio
+certus pondus certus determino
+instruo causa philosophi scio oportet dico
+rusticus idiota probo soleo
+calidus stomachus fortis possum digero frigidus debilis productio species potentia actus
+opinor certus mensura obseruo pondus numerus determino causa effectus
+scientia pars cabala possum doceo auris scio portio pondus
+natura
+uerus dico filum dicendus manifesto deus timeo colloquium scribo indignus dignus uideo possum dico scientia pars cabala receptio interpretor colloquium
+philosophi tractor aenigma tropicus scirpus gryphus problema inuoluo doceo pythagoras silentium scriptura
+frutex lateo lepus proportio clauus secerno
+metallum radix origo sumo pondus diuersifico proportio lapis praetiosus metallum differo qualitas calor leuitas fusioneuis mensura proportio medio
+produco metallum sum gubernatio medio
+preciosus lapillus sum produco
+instrumentum informatio diuersus accipio artifex ministro
+natura rego inferior superior certus mensura rotatio elementum
 filius
-intelligo Domina metallum lapis differo
-m Locus genero conseruo
-Pondera sa- pieno
-m Aqua uiuus
-Dialogus instrumentum diuersus informatio diuersus
-Natura
-Intelligo locus genero conseruo locatum
-Lullius liber primus suus quintus essentia capitulum incipio Referrimus uentilo dico filius audio proportio dico
-multiplicatio proportio tinctura dominus noster do natura facio transmutatio
-unus pugillum terra aer fio pugilla aqua
-unus pugillum aqua ignis fio pugilla aer ascendo scalus uiuificatio natura grossae simplex altus
-unus pugillum ignis aqua fio aer morior aqua uiuus
-unus pugillum aer mortuus aqua uiuus terra fio aqua glorifico
-intellige doctrina omnis mensura omnis temperantia indigeo Philosophiae indigeo facio
-necessarius facio ars facio possum
-proportio cathenus deauro rota circulor totiu seculum natura guber
-nor omnis meus instrumentum roto circulo Raimondus
-Caput Xii
+intellego domina instrumentum diuersus informatio diuersus
+natura
+locus genero conseruo loco
+ liber primus quintus essentia capitulum incipio referrimus
+uentilo dicendus filum audio proportio dico
+multiplicatio proportio tinctura dominus do natura faex pugillum terra aer facio pugillum aqua
+pugillum aqua ignis facio pugillum aer ascendo scala uiuificatio natura grossus simplex alo
+pugillum ignis aqua facio aer morior aqua uiuus
+pugillum aer morior aqua uiuus terra facio aqua glorifico
+intellego doctrina mensura temperantia indigeo facio
+necessarius fio ars facio possum
+proportio cathena deauro rota circulus seculum natura guber
+nor instrumentum roto circulo raimondus
 ars radix metallum cognosco
-scientia scientia cognosco
-deus omnis scientia donator orandus
+cognosco scientia scientia cognosco
+deus scientia dono oro
 filius
-Obsecro domina docio clarus facilus modus possum retuli obscurus
-Natura
-filius uto consilium Auix en dico cognitio metallo- radix facio magisterium scruto natura desidero inuenio
-scio cognitio m Radices me- tallus cognosco
-pondus totus natura guberno
-deus donator secretus orandus
-scientia cate- cognoscum- o
-Materia binarius forma unitas
-Dialogus  species quaero proportio debeo
-Noli inquiro magistros meus placeo diuulgo stude implora tuus creator auxilium suus misericordia tuus intellectus illumino dignor species omnis magisterium omnis agnosco
-quicun que scientia causa ratio intellego omnis meus secretum propalo peculiaris omnis cognosco
-filius uolo scio Arithmeticus suus materia Diadus binarius constituo
-forma uerus monadus unitas
-Auerrois commentator Aristotelis inquam Infima supremis proportio duplus ligo
-filius interrogo dubito
-unus uideo considero opus materia Philosophia forma meritum decipio interrogatio mercurius intellego argentum uiuus peto
-bipartiens unicus sufficio inuenio mortifico existimo inuenio magisterium res ueritas remoueo dubius tuus summus laudo
-Cabut Xiiii
-numerus omnis scitum
+obsecro domina doceo clarior facilior modo possum retulo obscurus
+natura
+felix utor consilium  na dico cognitio metallo- radix facio magisterium
+scruto natura desidero inuenio
+scio cognitio species quaero proportio debeo
+nolo inquiro magister placeo diuulgo
+studeo imploro creator auxilium misericordia intellego illumino digno species magisterium agnosco
+scientia secerno propalao
+peculiaris cognosco
+filum uolo scio arithmeticus materia diadus binarius constituo
+forma monas unitas
+auerroes commentator aristoteles inquam infimus supremus proportio duplus ligo
+filum interrogo dubito
+unus uideo considero opus materia forma decipio
+interrogatio mercurius intellego argentum uiuum peto
+bipartio unicus sufficio
+inuenio mortifico existimo inuenio magisterium res ueritas remoueo dubius summus laudo
+numerus scio
 elementum certus numerus ligo
 filius
-domina memini legio principium Boetius solatio Philosophia nume res elementum ligo dico arbitror uideo certus experimentum elementum combino numerus facio possum
-Philosophus mirus dico numerus
-Picus Mirandulanus extollo d m Boetius consolatio philosophia
-Elementa numerus ligo
-Alchymistae decipio nomen mer- curius
-numerus omnis sino
-Dialogus uereo dico respondeo possum omnis scibilis uerissimus arbitror
-interrogao
-saluus doceo recuso
-Natura
-multus secretum numerus sino intimao erudior cupa prex tuus acquiesco
+domina memini lego principium boetius solatio philosophia numus res elementum ligo dico arbitror uideo certus experimentum elementum combino numerus facio possum
+philosophi mirus dico numerus
+picus mirandulanus extollo uereor dico respondeo possum scibilis uerus arbitror
+interrogo
+saluo doceo recuso
+natura
+secerno numerus sino intimo erudio cupio prex acquiesco
 filius
-informo cupio corpus aequo aequor
-Philosophus affirmo medicinus noster medio
-omnis corpus humanus mineralis uegetabilis rectifico possum
+informo cupio corpus aequo aequo
+philosophus affirmo medicina medio
+corpus humanus mineralis uegetabilis rectifico possum
 aequo do habeo
-Caput
-scientia inuestigatrix res naturalis peruenio cognitio abditus res
-Natura
-filius quaero arduus dubius tuus respondeo spoponderam Philosophia
-ra omnis manifesto comditio indignus reuelo
-scio debeo scientia caeterus secretum meus inuestigo solus imitor generatio transmutatio digestio declaro
-ostendo ratio uegetabilis animal animal homo dico caro sanguis humanus comuerto rimo omnimodas elementum combinatio uniuersus placeo numero
-omnis propago genero uario diuersifico
-cognitio quaero inuenio necessarius possum
-praedico
+scientia inuestigatrix res naturalis peruenio cognitio abdo res
+natura
+filum quaero arduus dubius respondeo spondeo manifesto comditio indignus reuelo
+primus scio debeo scientia caeterus secerno inuestigo imitor generatio transmutatio digestio declaro
+ostendo ratio uegetabilis animal animal homo dico caro sanguis humanus comuertor
+rimor omnimodus elementum combinatio auicennes placeo numero
+propago genero uario diuersifico
+cognitio quaero inuenio necessarius
+possum
+praedictum
 modus reduco explico audio percipio qualitas ago patior
-d Natura unclears ne natura alter
-s]manicule[/s Dialogus inuenio modus aequo elementum unus corpus quaero
-opineris aequatio facio possum quantitas leuus grauis corpus misceo moueo quiesco
+inuenio modus aequo elementum corpus quaero
+opinor aequatio facio possum quantitas leuis grauis corpus misceo moueo quiesco
 oportet facio substantia qualitas elementum
-aequalitas uirtus potentia operor possibilis multus terra pono ignis terra habeo potentia ago ignis
+aequalitas uirtus potentia opero possibilis terra pono ignis terra habeo potentia ago ignis
 caeterus
-congrego misceo Philosophus mixo habeo aequalitas delecto corpus actio passio uideo possum aurum corrumpo possum ratio dico aequalitas
+congrego mixtus philosophi mixtus habeo aequalitas delecto
+corpus actio passio uideo possum aurum corrumpo possum ratio dico aequalitas
 combinatio accedo
-primus elementum scilis Philosophiae
-magnus paruus magnus unus paruus unus majus
-omnis
+primus elementum maior minor maior minor majus
+
 combinatio possum pondus quantitas qualitas
 oportet uirtus potentia actiuus qualitas complexio attendo potentia uirtus qualitas pondus quantitas
-intellige loquor conplexio dico magnus ignis aer aqua terra paruus primus modus ignis aer paruus aqua terra magnus
+intellego loquor complexio dico maior ignis aer aqua terra minor
+primus modus
+ignis aer minor aqua terra maior
 secundus modus
-ignis aqua magnus aer terra paruus tertius modus ignis aqua paruus aer terra magnus quartus modus ignis terra magnus aer aqua paruus quintus
-ignis terra paruus d s]manicule[/s Dialogus aer aqua magnus
+ignis aqua maior aer terra minor
+tertius modus
+ignis aqua minor aer terra maior
+quartus modus
+ignis terra maior aer aqua minor
+quintus
+ignis terra minor aer aqua maior
 sextus
 aer combino aqua terra dico ignis terra facio combinatio
-licet modus diuersus res ratio combino pateo dico aer aqua magnus terra ignis paruus facio sextus modus
-dico aer aqua paruus ignis terra magnus facio modus quintus
-dico aer aqua magnus terra ignis paruus quartus modus conuersus tertius modus
-dico aqua terra magnus ignis aer paruus secundus modus
-siuer econuersus primus modus
+modus diuersus res ratio combino pateo
+dico aer aqua maior terra ignis minor fio sextus modus
+dico aer aqua minor ignis terra maior fio modus quintus
+dico aer aqua maior terra ignis minor quartus modus
+conuerto tertius modus
+dico aqua terra maior ignis aer minor secundus modus
+econuersus primus modus
 intellego debeo auicenna nubilo diuisio pono modus res ueritas
 diuido
 modus habeo
-dico aer ignis Philosophia ignis magnus possum ignis magnus aer paruus aqua paruus terra paruus
-possum modus omnis uario forma dico
-secundus modus dico ignis aer paruus aqua terra magnus possum quodignis no aer magnus aqua magnus terra magnus
-primus modus ignis minimus aer magnus terra magnus aqua magnus
-secundus aer paruus ignis magnus aqua magnus terra magnus
+dico aer ignis maior possum ignis maximus aer minor aqua minor terra minimus
+possum modus uario forma dico
+secundus modus dico ignis aer minor aqua terra maior possum nio aer magnus aqua magnus terra maximus
+primus modus
+ignis  aer magnus terra magnus aqua maximus
+secundus
+aer mino ignis magnus aqua magnus terra maximus
 modus quartus
-intellige modus exemplum
-filius omnis cognosco uolo lex Auicennas suus magnus Alkimia
-Caput Xui
-gradus res natura multus aurum ultimus appetitus materia forma
+intellego modus exemplum
+filum cognosco uolo lex auicenna maior 
+gradus res natura aurum ultimus appetitus materia forma
 filius
-Domina posd Ultimus appetitus materia forma
-gradus
-lapis facio aurum aequandus instar aurum
-Dialogus sibilis tuus doctrina dulcedo explico
-flagito instruo corpus aequo actio passio dico quiesco ultimus appetitus forma materia
-Natura
-filius scio complexio aequalis tempero qualitas quantitas potentia actiuus dico habeo suus gradus
+domina possibilis doctrina dulcedo explico
+flagito instruo corpus aequo actio passio dico quiesco
+ultimus appetitus formus materia
+natura
+felix scio complexio aequalis temperatus qualitas quantitas potentia actiuus dico habeo gradus
 respectus complexio humanus
-gradus dominium gradus Latinus doceo multus gradus respectus sensus humanus complexio infinitus possum gradus tempero aequalitas
-aequalitas tuus habeo respectus aurum instar adaequo opus quaero fio radix cognosco decipieris
+gradus dominium gradus latinus doceo gradus respectus sensus humane complexio infinitus possum gradus tempero aequalitas
+aequalitas habeo respectus aurum instar adaequo opus quaero fio radix cognosco decipio
 filius
-Philosophiae
-filius
-deus adiuuor tuus doctrina imito spero peruenio opto
-deprecor expono gradus sensus humanus complexio
-Caput Xuii
-scientia gradus prosequor gradus unus supero
-Natura
-filius scio primus gradus respectus humanus complexio aequalitas secundus uerus excedo tertius laesio declino quartus suus excessus ledo sensus
-gratia
-Aqua tepidus sensus succumbo delecto sensus
+deus adiuuans doctrina imito spero peruenio opto
+deprecor expono gradus sentio humanus complexio
+scientia gradus prosequor gradus supero
+natura
+felix scio primus gradus respectus humanus complexio aequalitas secundus excedo tertius laesio declino
+quartus excessus ledo sentio
+exemplum gratia
+aqua delecto sensus
 pri- mus gradus
-tempero calidus frigidus sensus delecto secundus gradus
-calidus le do sensus gradus tertius bulio quartus gradus
-Gradus alter supero
-omnis manifestus suus occultus contrarius
-Dialogus gradus possum eo infinitus
-augmentum qualitas quartus status respectus humanus conplexio
-complexio tango dico aequalis temperata humanus complexio humanus natura conuenio sentio scior gradus desidero res tactus sensus
+temperatus calidus frigidus sensus delecto secundus gradus
+calidus do sentio gradus tertius
+buliens quartus gradus
+gradus possum eo infinitus
+augmentum qualitas quartus status respectus humanus complexio
+complexio tango dico aequalis temperatus humanus complexio humanus natura conuenio
+sentio scio gradus desidero res tango sentio
 uirtus potestas uideo
-Zingiber tactus natura sensus substantia frigidus siccus uirtus complexio calidus umidus
-uinum frigidus humidus tactus exterior substantia sensus
+zingiber tango natura sentio substantia frigidus siccus
+uirtus complexio calidus humidus
+uinum frigidus  tango exterior substantia sentio
 uirtus complexio calidus siccus
-intellego possum unus magisterium suus occultus contrarius
+intellego possum magisterium occulo contrarius
 filius
-Domina dulcius eloquium Philosophia
-eloquium tuus
-declara modicus aequatio desidero combinatio inuoluisti pars adhaereus ignoro
-Natura
-corpus aequo aequo scio defideras audio sentio Philosophus
-Caput
-Xuiii
-doceo quadratura circulus munlti peritus quaero Aristoteles intellego uarius tracto caput
-Natura
-Euclides Rosarium aio
+domina dulcia eloquium
+declaro modicum aequatio desidero combinatio inuoluo pars adhaereo ignoro
+natura
+corpus aequo aequo scio defider audio sentio philosophi
+doceo quadratura circulus munltum pereo quaero aristoteles intellego uarius tracto caput
+natura
+euclides rosarium aio
 aqua proportionalis scio possum multiplex pondus corpus
-contineo habeo librans appono granum mercurius praeparo
-lapis aquila
-fermentum pars terra modicus fermentum totus massa s]manicule[/s Notae
-s]manicule[/s Dialogus corrumpo
-Socrates turba aurum pono exeo tincturapotens candidus
-Parmenides supero
-Hali quantitas scio pondus addo humiditas possum
-esius quantitas pondus determino
-dico
-pars denus res germen plenus
+
+contineo habeo libro appono granum mercurius praeparo
+lapis aquilus
+fermentum pars terra modicum fermento massa corrumpo
+socrates turba aurum pono exeo tincturapotens candidus
+parmenides supero
+halis quantitas scio pondus addo humiditas possum
+esius quantitas hambeo pondus determino
+metricus dico
+pars deni res germino plenus
 tractatus incipio terra sto
 terra debeo bibo uinum
-tractatus pono uinum unus alter
-Bacon complexio corpus spiritus debeo proportio decimus pars corpus
-tractatus Proportio corpus ratio tuus
-proportio uetum metallus quintus sextus parars medicinus
-tractatus incipio Uenerande pater quadrangulus intelligo elementum tertiarius imbibitio
-accipio pondus uero quadrangulus rotundus Philosophia totus habeo
-aduerteo oppidum pondus locus sumo aequalis angulus utor aequalis linea
+tractatus pono uinum
+bacon complexio corpus
+spiritus debeo proportio decimus pars corpus
+tractatus
+proportio corpus ratio
+proportio ueto metallum quintus sextus parars medicinus
+tractatus incipio pater quadrangulum intellego elementum
+tertiarius imbibitio
+accipio pondus quadrangulum rotundus habeo
+aduerto oppidum pondus locus sumo aequalis angulo utor aequalis linea
 sumo aequalis pondus
-sulphuris capio flumen
-tractatus sermo uideo quantitas mater filius habeo numerus ternarius
-uicis
-Audi Hermes definio
-filius sapientia inquam scio aqua pondero proportio doceo
-Accipio humor tertius
+metricus
+sulphur capio flumen
+tractatus sermo
+uideo quantitas mater filius habeo numerus ternarius
+uicis 
+audio hermes definio
+filum sapientia inquam scio aqua pondero proportio doceo
+accipio humor tertius
 rubor meridionalis
-pars seho terra citrino aurum pigmentum dimidium
-uerbum mysticus mysterium plenus sensus obscurus refero
-ioannes daustin excello Philosophus Cardinales scribo
-Dialogus denarius diuinus statuo unitas
-Raym
-Lulius cap
-demonstro uapor menstrualis terrestris argentum uiuus debeo excedo pondus metallus purus
-cap
-Adiungo caput rubeo nouenus pars
-complexio calidus pars pes albus
-Comes Bernhardus
-deus facio unus decies multiplico pono decimus pars decimus pars
-Arnoldus uila nouus
+pars seho terra citrinus aurum pigmentum dimidium
+uerbum mysticus mysterium plenus sensus obscurum relatus
+iohannes daustin excello philosophus cardinalis scribo
+denarius diuinus statuo unitas
+raym
+lulius capitulum
+demonstro uapor menstrualis terrestris argentum uiuus debeo excedo pondus metallum pus
+capitulum
+adiungo caput rubeo nouenus pars
+complexio calidissimus pars pes albus
+comes bernhardus
+deus facio multiplico pono decimus pars decimus pars
+arnoldus uila nouus
 prodigus auarus teneo medius
-opus summus exigo uncia nummus
-Pondera propono secerno repono loui uiuus uinco Pondera merus uigies do uulnus Marti
 
-hora dies addo unus
-filius possum adduco multus dico propono meus iudicium
-Philosophiae
-dicium uideo dubius tuus satisfacio possum intelligo diuersifico sententia concordo omnis sensus intentio
+opus summum exigo uncia nummus
+
+pondus propono secerno repono pondus louus uiuus uinctus pondus merum uigies do uulnus mars
+
+hora dies addo
+felix possum adduco dico propositum iudicium uideo dubius satisfacio possum
+intellego diuersifico sententia concordo sensus intentio
 filius
-gratia ago immense bonus Domina omnis beneficium tuus modo duntaxat multus tempus exibitis instruxo retuli obscurus difficilis
-spero gratia Deus interuenio medio opto peruenio
-memini legio liber Maria soror moyses Matrimonifica gummus gummus
+gratia ago immensus bonum domina beneficium tempus exeo instruo retulio obscurus difficilis
+spero gratia deus interuenio medio opto peruenio
+memini lego liber maria soror moyses matrimonifica gummus gummus
 morienus inquam facio fumus rubeus albus capio
-modus ago declaro multus modus licet facio
+modus ago declaro modus facio
 natura
-scientia caeterus omnis do debeo
-paucus gratia dignus
-m Granum palea seligo
-deus magnus uirtus pono
-stodia diffi- cultas re- linquo
-Precia summus
-bonum assiduus
-Dialogus aenigmata parabola scirpos tropicus mos antiquus trado oportet
-Sapientes deus diligo scio eligo granum palea confico serpens
-Bacone cito que deus magnus uirtus pono magnus difficultas custodia relinquo uideo uiper magnus secretum lateo magnus periculum difficultas
-Taceo scientia duco magnus pars homo laboro confusio ro inuenio
-infinitus deperdo nihil mundus uere inuenio
+scientia caeterus do debeo
+gratia dignus
+aenigma parabola scirpus griphus tropicus mos antiquus trado oportet
+sapio deus dilectus scio eligo granum palea teriacus conficio serpens
+baco cito deus magnus uirtus pono magnus difficultas custodia relinquo uideo uipera magnus secretum lateo magnus periculum difficultas
+taceo scientia duco maior pars homo laboro confusio
+ro inuenio
+infinitus deperdo mundus inuenio
 primus lectio refero intellego nequio reiterus lectio
-roga Creator tuus intellectus illumino dignor
+rogo creator intellego illumino digno
 quaero inuenio
-Caput Philosophiae
-Caput Xix
-scientia acquiro receptis uanus studium laboro medito res praestao
+scientia acquiro recipio uanus studium laboro meditor res praesto
 filius
-imploro Domina unus dico tuus enucleo dedigneris dixisti hor dies addo fio
-uerus arbitror uolo ignoro
-Natura
-praetereo sol luco dies dies tuus
-sol tuus opus perago addo unus luna mercurius
+imploro domina dico enucleo  dico hor dies addo fio
+uerus arbitror uelis ignoro
+natura
+praetereo sol luceo dies dies
+sol opus perago addo luna mercurius
 habeo
 filius
-domina omnis uis meus regratus
-multus obligao Philosophus scientia trado acquiro cautus subtilis Deus deuotus reddeo
-Bee s]manicule[/s Mercurius Philosophus
-m primum no spiritus ue- getabilis
-ignis natura cali- dus siccus calidus umidus
-Dialogus inquam Cato dico
-Dulcia mereo gusto amara Dignus negligo cer- to
+domina uis regratus
+obligo philosophus scientia trado acquiro cautus subtilis imus deus deuoueo reddo
+inquam cato dico
+mereo gusto amarus dignus imperioquis negligo cer- to
 uictoria possum spero pugna
-Caput
-Doceo primus moueo res naturalis
-unus granum semino natura multiplico infinitus
+doceo primus moueo res naturalis
+granum semino natura multiplico infinitus
 ars facio imitatio natura
-absolutus lapis possum forma duco uolo
-Natura
-filius uideo sapio incipo modus instruo
-Scias primus moueo natura spiritus uegetatiuus uegetabilis umor aereus animal uerus umor radicalis calor inno dico
-proprius ignis natura intelligo calidus ignis siccus
-dico naturalis dico calidus umidus Philosophiae
-dus
-Philosophus dico suus lapis uegetabilis spiritus cresco pullulo
+absoluo lapis possum forma duco uolo
+natura
+filum uideo sapio incipio modus moueo natura spiritus uegetatiuus uegetabilis huradicalis
+calor inno dico
+proprius ignis natura
+intellego calidus ignis siccus
+dico naturalis
+dico calidus humidus
+philosophi dico lapis uegetabilis spiritus cresco pullulo
 filius
 cresco pullulo aio domina
-intelligo cresco multiplico panis cresco appono farina res caeterus facio requisisco
-Natura
-filius intelligo lapis medicinus quero pullulo multiplico granum frumentum cado terra bonus morior multus fructus affero
-diuus Paulus testor semino fructifico corrumpo morior
-corrumpo multus granum produco possum
-modo similis intellego debeo unus calcus pondus paruus granum exceo talentum pondus maxie s]manicule[/s Notae
-m Exemplum homo generatio
-Notae
-lapis perfectus possum du- ceo forma uolo
-Dialogus
-millesiens talentum infinitus finis numerus determino uolo potentia actus produco possum
-debilis exemplum panis assumpso panis nullus similitudo habeo fermentatio excipio opus necessatia multus ratio
-exemplum homo creatio generatio matrix mulier habeo menstrua generatio fermentum capio generatio homo impossibilis
-panis exemplum adduxisti fermento difficilis duco sapor panis
-filius multus secretum lateo fermentatio
-longus enarro
-res ueritas lateo fors totus secretum
-lapis completus perfectus possum duco Philosophia
-que forma uolo frementatio medio
-propono dico Philosophus
-omnis figo fixus uerto natura fixi
-uideo sperma omnis animal unus
-genero sanguis coctum diuersitas locus pro- iico produco diuersus forma
-uero dico locus genero locatum
-sperma omnis animal mercurius mineralis
-dico mercurius proprter suus mirabilis conuertibilitas adhaerentia
-uersipellus semperillus assimulo iungo
-superior astronomias bonum bonus fortuno malus imfortunatus scio astronomias inferus possum modus similis assimilo inferus habeo superior omnis intellego arbitror sperma sanguis coctus
-Hic[/m s]manicule[/s Mercurius uersipellis
-incepi erro
-spiritus ue- getabilis ne- cessarius
-Dialogus loquor
+intelligo cresco multiplico panis cresco appono farina res caeterus facio requiro
+natura
+felix intellego
+lapis medicina quero pullulo multiplico granum frumentum cado terra bonus mortuus fructus affero
+diuus paulus testor semino fructifico corrumpo morior
+corrumpo granum produco possum
+similis intellego debeo calco pondus minimus granum excipio talentum pondus maxi[s]manicule[/s mus
+talentum infinitus finis numerus determino uolo potentia actus produco possum
+debilis exemplum panis assumo panis similitudo habeo fermentatio excipio opus necessatia ratio
+exemplum homo creatio generatio matrix mulier habeo menstruum generatio fermentum capio generatio homo impossibilis
+panis exemplum adduco fermento difficilis duco sapor panis
+filum secerno lateo fermentatio
+enarro
+res ueritas lateo secretus
+lapis completus perfectus possum duco forma uolo frementatio medio
+propositum dico philosophi
+figo figo uerto natura figo
+uideo sperma animal
+genero sanguis coquo diuersitas locus pro-s iico produco diuersus forma
+uerto dico locus genero loco
+sperma animal mercurius mineralis
+dico mercurius mirabilis conuertibilitas adhaerentia
+no uersipellis semperillus assimilo iungo
+superior astronomia bonus bonus fortuno malus malus infortunatus scio astronomia inferior possum similis assimilatus inferior habeo superior intellego arbitror loquor
 filius
-aedepol Domina memini audiuio Philosophus dico
+ domina memini audio philosophus dico
 erro incipio
-erro incipio multus ambigo omnis quaestio meus respondeo
+erro incipio
+quaestio respondeo
 incertus dico oportet habeo spiritus uegetatiuus
 mineralis spiritus uideo possum
 animal uegetabilis uideo
-Caput
-Medicinae pharmacopeus corruptibilis Medicina physicus incorruptibilis lapis multiplico multitudo spiritus
-Natura
-Audi filius Raimundus Lulius loannes Rupecissa collega suus quintus essentium sentio
-Uellus preseruo res m Raimundus
-hRupecis- sa quintus essentium
-Philosophia
-res putridam corruptibilis reformo res deformitas subicio facio corruptibilis res deficio infirmus curo res infirmus facio res foedus fantasticus inanis
-medicinus possum omnis infirmitas despe ratus sano
-Aurum argentum pis produco
-res corruptibilis facio medicinus praeparatio apotheco uirtus momentaneus recedo primus actio proieo muto muto actio facio diuersus digestio superor uerto substantia medicatum exres corruptibilis compono dico
-Audio Rogerius Bacon sentio
-Ait epistola retardatio senectus
-Res quamplurimus suus uis fortitudo ostendo suus e Pharmacepolarum medicinus muto muto
-s]manicule[/s m Materia lapis debeo incorruptobilis
-m Exemplum
-m lapis multiplico multitudo spiritus
-Dialogus forma suus materia essentia color durabilitas conseruatio corruptio
-aio conseruo conseruo corrumpo corrumpo
-complexio potestas debeo corruptio subicio uanus laboro iob placeo
-possum facio mundus immundus concipio semen
-ratio uideo possum res quor subicio corruptio
+medicinus pharmacopeum corruptibilis medicina physicus incorruptibilis
+lapis multiplico multitudo spiritus
+natura
+audio felix raimundus lulius loannes rupecissa collega quintus essentia sentio
+uolo preseruo res putridus corruptibilis reformo res deformitas subieco facio corruptibilis res deficio infirmus curo res infirmus facio res foedus fantasticus
+medicina possum infirmitas despes ratus sano
+aurum argentum  pis produco preciosus
+res corruptibilis facio medicinus praeparatio apotheco uirtus momentaneus recedo primus actio proicio
+muto muto
+actio facio diuersus digestio supero uerto substantia medico
+ corruptibilis compono dico
+audio rogerius bacon sentio
+aio epistola retardatio senectus
+res quamplurimus uis fortitudo ostendo forma materia essentia color durabilitas conseruatio corruptio
+aio
+conseruo conseruo
+corrumpo corrumpo
+complexio potestas debeo
+corruptio subicio uanus laboro
+iob placeo
+possum facio mundus immundus conceptus semen
+ratio uideo possum res quero subiicio corruptio
 spiritus uegetabilis dubito
-uideo granum frumentum alter semen perforo semino perdo suus spiritus uegetabilis possum cresco spiritus medio
-Deficiente causa deficio effectus
-modo similis spero paruus quantitas tuus lapis medicinus multiplico infinitus uirtus spiritus
-nullam res Philosophia
+uideo granum frumentum semen perforo semino perdo spiritus uegetabilis
+possum cresco spiritus medio
+deficio causa deficio effectus
+similis spero paruus quantitas lapis medicina multiplico infinitus uirtus spiritus
 res uegeto possum
-primus potentia homo dico uegetabilis potentia elementaris excepueo habeo potentia generatiuus potentia explanaui dico appetitiuus retentiuus digestiuus expulsiuus
-proportiono altera- tio ordino totus ho- mina corpus sanus
-tentia dico sensibilis
-diiudico suus sensus exterior omnis obiectum
-tertius dico imaginatiuus quartus rationalis dico
-potentia uegetabilis debilitatus sensualis potentia infatuo puto uideo uideo audio audio
+primus potentia homo dico uegetabilis potentia elementaris excipio habeo potentia generatiuus potentia explano dico appetitiuus retentiuus digestiuus expulsiuus
+proportiono tio ordino ho- mina corpus sanus
+tentia dico sensibilis comple-
+diiudico sensus exterior obiectum
+tertius dico imaginatiuus
+quartus rationalis dico
+potentia uegetabilis debilito sensualis potentia infatuo
+puto uideo uideo audio audio
 gustus bonus discerno olfactus
-uegetabilis potentia altero altero destruo potentia
-sequor tia uegetabilis debilito cater potentia
-unclears
-Notae
-spiritus quaero corpus medius
-Materia lapis aurum instar aequo
-Dialogus o potentia uegetabilis spiritus peculiaris tuus medicinus genero producendo
-dixisti ignoro spiritus mineralis
-Inquire corpus spiritus medius perficio
+uegetabilis potentia altero
+altero destruo potentia
+sequor potentia uegetabilis spiritus peculiaris medicina genero produco
+dico ignoro spiritus mineralis
+inquiro corpus spiritus medius perficio
 filius
-domina omnis dico uerisimilis primus frons intellectus difficilis
-Memor dico medicinus instar aurum aequo sequor aurum
-Natura
-Dedi distinctio aurum Angelus sol loquor
+domina dico uerisimilis primus frons intellectus difficilis
+memor dico medicina instar aurum aequo sequor aurum
+natura
+do distinctio aurum angelus solus loquor
 sol exalto debeo ratio
-sol uulgi exalto
-Plinius suus naturalis historia definio dico sol omnis corpus nobilis nihil ignis depereo incendium roga duror materia
-Perpendis aequo suus Philosophiae
-qualitas ignis tollero possum durano materia
-dico instar suus qualitas medicinus tuus adaequo necesse
-medicinus coadiuuo habeo spiritus uegetabilis loquor Rasis dico tinctura lapis cor animal
-uideo Philosophus exalto
-exaltaui possibilis
-dico ca- rus alter uerus uilis paruus pretium
-altus sublimo suus fastigium
-reperio attractio declarauo
-uideo exalto certus operor unus res puritas unus essentia impuritas uerus diuersus
-unus res multus habeo summus satisfacio totus ars secretum sol philosophus uilis paruus precium
-Puritas unus essentia
-sol medicinus coadiu- uo
-digestio facio beneficium motor
-Dialogus anacephaliosis reseruo
-intellige filius scientia habeo alimentum alitum
-loquor appetitiuus retentiuus digestiuus conabor modus digestio ostendo uerus ratio alio uerto
-Caput Xxii
-digestio facio beneficium calor humidus sufficio opus calor externus habeo materia delitesco
-Natura
-intellige filius que uegetatiuum instrumentum sensitiuus uerus motor
-appareo digestio facio uirtus motor instrumentum do animal sumo uegetabilis cibus conuenio cibus uegetalis sensitiuus
-opporto conuersio facio uirtus calor Philosophia
-lis cibus digero
-nullus causa facio perpendio
+sol uulgus exalto
+plinius naturalis historia definio dico
+sol corpus nobilis ignis depereo incendium rogus duro materia
+perpendo aequo qualitas ignis tollero possum duro instar qualitas medicina adaequo necesse
+medicina coadiuuo
+habeo spiritus uegetabilis loquor
+rado dico tingo lapis cor animal
+uideo philosophus exalto
+exalto possibilis
+dico ca- rus uilis pareo pretium
+alo sublimo fastigium
+reperio attractio declaro
+uideo exalto certus opero res
+puritas essentia impuritas diuersus
+res habeo summus satisfacio ars secretus anacephaliosis reseruo
+intellego filum scientia habeo alimentum aliueo
+loquor appetitiuus retentiuus digestiuus conor modus digestio ostendo uerus ratio  uerto
+digestio fio beneficium calor humidus sufficio opus calor externus habeo materia delitesco
+natura
+intellego filum uegetatiuus instrumentum sensitiuus motor
+appareo digestio facio uirtus motor instrumentum
+do animal sumo uegetabilis cibus conuenio cibus uegetalis sensitiuus
+opporto conuersio facio uirtus calor naturalis cibus digero
+causa fio perpendo
 uerisimilis facio calor medius digestio facio focus calor naturalis
-facio conuerto sanguis caro os experientia doceo necesse causa occultus esse appareo do locus conseruo genero locatum dico causa propalo
+facio conuerto sanguis caro os experientia doceo necesse causa occulo appareo do locus conseruo genero loco dico causa propalaor
 modus satisfacio dubius homo
-intellige filius calor ignis sufficiens tuus opus habeo omnis res opus necessarius calor naturalis materia digero causa occultus habeo aperui intellexio
+intellego filum calor ignis sufficio opus habeo res opus necessarius calor naturalis materia digero causa occulo habeo aperio intellego
 lateo motor instru- mentum dico
-Calor externus sufficio
-motor lateo instrumentum
-Dialogus Caput
-natura doceo res omnis anima spiritus uegetabilis spiritus moueo res esse
-hancars arbitrium noster deus omnipotens
-inuocandus orandus
+natura doceo res anima spiritus uegetabilis spiritus moueo res sum
+hancars arbitrium deus omnipotens
+inuoco oro
 filius
-Domina loquor uideo uideo adduxo tango res acus uideo instar causa occultus possum opus meus dirigo dico motor effectus causa
-causa anima nullus effectus facio exsisto corpus proprius natura suus laetao natura dico spiritus corpus mortuus exsisto facio moueo corpus loquor comedo digero calor naturalis habeo s]manicule[/s Philosophiae
-consequor causa occultus loquor
-Natura
-filius respondeo res ueritas
-anima suus corpus suus spiritus medio anima nullus modus coassumo suus corpus proprius spiritus natura suus corpus remus
-uerus interpono spiritus symbolizo corpus efficax ineptus natura anima remoueo exsisto conformis fio attractus
-intellige dico attingo magisterium
-omnis capio primus impetus nequiueo roga Creator tuus gratia suus concedo dignor medio intelligo compleo
-Noli medicinus quaero excedo superbiaris facio arrogans ambitiosus possessio suus anima suus corpus
-Nota
-s]manicule[/s m Creator res exorao
-Opertet phi
-losophus operator humanus superbus iactabundum
-Dial
-philosoph
-iacto omnis deus scientia omnis Deus donum reprobo indignus inuo
-Scrutare omnis uis deus seruio uideo facio homo bonus uoluntas misericordia infinitus gratius infinitus dignus inuenio sanctissimum nomen benedictus
-
-philus Philosophus ars occulto conor patefaco
-Metallus scientia totus consisto radix
-caracteribu diuersus Nomen ars occultao utor
-Studiosus scientia nanciscor meus peregrinatio offero
-bonum consulio
-Portus Aquitanus
+domina loquor uideo uideo adduco tango res acus
+uideo instar causa  possum opus dirigo dico motoer effectus causa
+causa anima efficio facio existens corpus proprius natura laeto natura dico spiritus corpus mortuus existens facio moueo corpus loquor comedo
+digero calor naturalis habeo causa occulo loquor
+natura
+felix respondeo res ueritas
+anima corpus spiritus medio anima modus coassumo corpus proprius spiritus natura corpus
+uerus interpono spiritus symbolizo corpus efficax ineptus natura anima remoueo existens conformis fio attraho
+intellego dico attingo magisterium
+capio primus impetus nequio rogo creator gratia concedo digno medio intellego compleo
+nolo medicina quaero excedo superbiaer facio arrogo ambitiosus possessio s]manicule[/s deus scientia deus donum reprobo indignus inuens
+scrutare uis deus seruio uideo facio homo bonus uoluntas misericordia infinitus gratia infinitus dignus inuenio sanctissimus nomen benedicueo
+philosophi ars occulto conor patefacio
+metallum scientia consisto radix
+caracter diuersus nomen ars occulto utor
+studiosus scientia nanciscor peregrinatio offero
+bonum consulo
+portus aquitanus
 undium
-aulius eauuuio tupaum uaduido
-gauuiu Plumbus
-Stannum
-Ferrum
-Aurun
-Cuprum
-Argentum Mercurius
-Mysterium exmypernm Myferius Mysterum Mysterium Mystera Conmysterium stremus unction
-ordinis
-Contritio
-Altaris
-Coniugium
+aulis eauuuio tupaum a uaduido
+ats  plumbum
+stannum
+ferrum
+
+cuprum
+argentum mercurius
+mysterium  myferius mysterum mysterium mystera conmysterium strema unction
+ordo
+contritio
+altar
+coniugium
 firmatio
-Baptismatis Igal marmum
-Sal armonta Sal petra
-sai commene
-
-Alumen
-Alumen plucus
+baptisma igal marmum
+sal armontus sal petra
+sais commene
+uitriolum
+alumen
+alumen plucus
 mosus
-Epartal
+epartal
 
-Cerebrum
-Tenes
-Pulmo
-ontumunum Sulphul Talc
-Thucia
-Cinabrium
-Gopricornus Leo
-
-Taurus
-Aquili Pauo
-Cinnus
-Ciconia
-Triticum Pisa
-Siligo
-Milium
-Abii
-
-Tigra Lacerta uiridus Basiliscus
-Serpen
-Decr Iuuenilitas
-Pueritia
-
-Crocus metalmercuraus Liquor lora tallus metallum Put
-gulatio Solutic Dianser mortus Di Geor Georgiius Riplei Angli Xii
-Portarum Axioma Philosophicus
-physicus Chymica Trithemii
-B. Portus Maria Aquitani Doctrina ortus Metallum materia
-Quaestiones Responsiones
-Isaaci Hollandi Lapide Philosophus
-f B. Portus Sanctae Maria Aquitanus Lector salus
-regula uarius authus Libra excerptae ars studiosus integer ars depico intelligeo aptus idoneus
-accitum senso quiesco sutor crepidus
+cerebrum
+teneo
+pulmo
+ontumunus chobolt sulphulus talc
+thucia
+cinabrium
+gopricornus leo
+uusg cancer
+taurus
+dianser morior aqusus axioma philosophicus
+ca trithemiius
+portus maria aquitani doctrina ortus metallum materia
+quaestio responsio
+ hollandus lapis philosophus
+lector salus
+regula uarius author librus excerpta ars studiosus integer ars depingo intellego
+aptus idoneus
+accitus senso quiesco
+sutor crepida
 uocatio uoco ambulo
-Alioquus ultrix deus manus experior
-scientia coelitus homo atbitrium
-durus ceruicus artifex miles homo scelerator manus peruenio
+ultrix deus manus experior
+scientia coelitus
+homo atbitrium
+durus ceruix artifex miles homo scelero manus peruenio
 sanctus homo ars inuenio facio sanctus
-disco monio iustitia peruerto agio sacer sacrum sanctus do canis licet
-Geor Georgiius Riplei Angli Lib
-Suus Xii
-portarum prologus
-Lumen incomprehensibilis Gloriosus maiestas
-radior claritas offusco noster lumen
-unitas substantia triplex deitate
-Hyerarchii iubilei gratulo glorificatio
+disco mono iustitia peruersus ago
+sacer sacer sanctus do canis licet
+prologus
+lumen incomprehensibilis  maiestas
+radior claritas offusco lumen
+unitas substantia triplex deitas
+hyerarchius iubileus gratulor glorificatio
 misericors animus purificatio purus perpetuatio
-occurror periculum eripis turbulentus uallis uanitas coelum infero
-potentia sapientia benignitas explicabilis Sustis meus gubernator uita meus displiceo obedius fidelis professor
-meus principium bonus deus audio prex meus Uirtus tuus gratia uoluntas meus
-Da possum uoluntas tuus absoluo
-scrinium excello abundo omnis thesaurus f omnis bonitas mano homo libet Creatura Digneris tueor opus tuus potens dextra
-tempus noster uita tero
-Concede fraus uictus comparo periculum grandis peccatum incurremus
-tuus causa renuntiao noster uoluntas mundus concupiscentia
-Tamquam proprius spontaneus professor recipio solus dependeo noster fiducia totus possum
-submitto oportet occulo tuus thesaurus digno detego
-Ostende tuus absconditus
+occurro periculum eripio turbulentus uallis uanitas coelus infero
+potentia sapientia benignitas explicabilis sustineo gubernator uita displiceo tu obedio fidelis professor
+principium bonus deus audio prex uirtus gratia adaugeo uoluntas
+ possum uoluntas absoluo
+scrinium excello abundo thesaurus bonitas mano homo libet creatura digno tueor opus possum dextra
+tempus uita tero
+concedo fraus uictus compareo periculum grandis peccator incurro
+causa renuntio uoluntas mundus concupiscentia
+proprius spontaneus professor recipio dependeo fiducia possum
+submitto oportet occulo thesaurus digno detego
+ostendo abscondo
 benignus
-profiteor offero humilis submissio oro tuus seruus possum uita integer alienus meus professio
-deprecor dominus uolo ignosco famulus tuus fidelis tuus secretum hapereo
+profiteor offero humilis submissio oro seruus possum uita integer alienus professio
+deprecor dominus uelo ignosco famula fidelis secerno aperio
 
-Geor Georgius Ripleiduodecim Porta Axioma Philosophicus
-deus aeternus principium omnis nihilum Sphaericus opus obscurum confundo chaus creo
-unus Massa confundo creo omnis
-principium unus possum declaro noster benedictus lapis materia
-noster lapis appello Microcosmus unus trinus Magnesia Sulphur
-mercurius Natura proportiono
-philosophi uoco argentum uiuus uulgo nullus existo porsum
-inuenio res
+philosophicus
+deus aeternus principium sphaericum opus obscurus confundo  creo
+massa confundo creo
+principium possum declaro benedictus lapis materia
+lapis appello microcosmus trinus magnesia sulphur
+mercurius natura proportionatus
+philosophi uoco argentum uiuum uulgo existens porsum
+propinquior inuenio res
 
-Intelligas Mercurius clauis totus scientia Raymunf Axioma dus uoco suus menstrua nihil facio ars
-mercurius corpus essentialis noster lapis praecipuus materialis
+intellego mercurius clauis scientia raymundus uoco menstruum facio ars
+mercurius corpus essentialis lapis praecipuus materialis
 lapis anima substantia terra recipio splendor
-Aurum Argentum terra mundus albus rubeus
-Totus compositum uoco noster plumbus qualitas splendor Solis Luna prouenio
-Tollo splendor terra pareo momentum
-Nullus corpus immundus uir Philosophus uoco Leo uiridis medius coniungo tinctura sol Luna perfectio intro magisterium noster
-principium materialis debeo soluo formalis alioqui pareo momentum
-menstrua nosco dico Philosophicus uerus calcinatio naturalis dissolutio facio possum
-lapis uapor potentialis metallus pactum acquiro oportet cauo
-Menstruus secundus a- philosophicus separatio e- lementor forma aqua clo appareo
-Menstruus labor exubero possum facio sulphur natura circulo spiritus purus
-possum tuus basis massa diuersus modus
-Oleum extraho color au- res similis noster subtilis rubrum plumbo
-Raymundus proximus mors facio aurum potabilis reuifico
-aurum potabilis oleum ci- occido mercurius crudus proiicio Mercurius tingo stabilis tinctura omnis corpous sol Luna
-pacto
-F Axioma gubernus basis rubeus albus
-Calcinatio purgatio noster lapis restauro suus proprius naturalis calor induco solutio noster lapis inprimis necessarius
-corrosiuus ignis solus aqua ardo uapor plumbum noster lapis calcinao
-calcinatio corpus destruo diminuo humiditas noster lapis
-calcinatio noster humidus radicalis multiplico
+aurum terra mundus albus rubeus
+compositum uoco plumbum qualitas splendor sol luna prouenio
+tollo splendor terra pareo momentum
+corpus immundus uir philosophus uoco leo uiridis medius coniungo tingo sol luna perfectio intro magisterium
+principium materialis debeo soleo formalis pareo momentum
+menstruum nosco dico uerus calcinatio naturalis dissolutio facio possum
+lapis uapor potentialis metallum pactum acquiro oportet cautum
+inuisihile menstruum secundus a- philosophicus separatio  lementus forma aqua clo appareo
+menstruus labor exubero possum facio sulphur natura circulo spiritus purus
+possum  basis massa diuersus modus
+oleum extraho color  res similis subtilis ruber plumbe
+raymundus proximus mors facio aurum potabilis reuifico
+aurum potabilis oleum  occido mercurius crudus proiicio mercurius tingo stabilis tingo corpos r sol luna
+pactum
+guberno basis rubeus albus
+calcinatio purgatio lapis restauro proprius naturalis calor induco solutio lapis necessarius
+corrosiuus ignis aqua ardeo uapor plumbum lapis calcino
+calcinatio corpus destruo diminuo humiditas lapis
+calcinatio humidus radicalis multiplico
 genus genus habeo inclinatio appetibilis nosco caecus scientia
-lungo genus genus species species aequus
-semen respondeo suus proprius semen
-s]manicule[/s omnis spiritur figo Calcibus suus genus
-Philosophi calx conficio unctuosam albus rubeus Philosophicus gradus noster basis perfectus liquidus cera nullus usus
-Annus sumo noster expectatio
-paruus tempus spacium calx noster possum conficio
-aqua tuus aequalis proportio terra calor mensura- to emergo nouus germen albus rubeus ignis duro
-Fac trinitas unitas dissen- sio certus bonus proportio
-paruus pars spiritualis facilis dissolutio nimius aqua terra submergeres totus opus destruo
-pectus gero nun[s]manicule[/s tuus terra aqua suffoco
-Nolo quaero res ouis sanguis uinum ui-de triolus medius mineralis
-nihil emolumentum res metallicus
-Axioma metallum metallum metalla perfectus metallum facio
-primum omnis tuus Elementum facio rotatio aqua terra conuero omnis
-Aqua facio aer aer reduco ignis
-perago reduco terra tuus casus laboro
-lapis noster habeo nomen infinitus
+lungo genus genus species species aequum
+semen respondeo proprius semen
+spiritur figo calx genus
+philosophi calx conficio unctuosus albus rubeus gradus basis perfectus liquidus cera usus
+annus sumo expectatio
+minor tempus spacium calx possum conficio
+aqua aequalis proportio terra calor mensura- emergo nouus germen albus rubeus ignis duro
+facio trinitas unitas dissen-s sio certissimus bonus proportio
+minor pars spiritualis
+facilis dissolutio nimius aqua terra submergo opus destruo
+pectus gero terra aqua suffoco
+nolo quaero res ouae sanguis uinum ui- triolus medius mineralis
+emolumentum res metallicus
+metallum metallum metallum perfectus metallum facio
+elementum facio rotatio aqua terra conuerto
+aqua facio aer aer reduco ignis
+perago reduco terra casus laboro
+lapis habeo nomen infinitus
 res niger aspectus denomino
-lucidus habeo nomen iucunditas res albus rubeo unus res
-Uirtus noster primus Menstrui clarus lucidus corpus noster patior Ecclipsin suus durus siccus compactio subtilio suus primus materia retrogrado
-nihil Soror Fratres agens patior sulphur mercurius coessentialis genero
-dissolutio unus pars corporalis causo Philosophicus
-causo congelatio alter pars spiritualis
-terra cinis re- digo aqua congelo intellige
-corpus primus suus forma alteratus nouus forma induco
-nihil res Natura spolio omnis forma
-omnis Metallum aqua mineralis
-aqua redigo aqua omnis aqua qualitas repugnans diuersitas
-uiter debeo omnis facio ouo similis forma claudo
-permitto tuus uiter calidis possum sustineo manus nudus lubet duror tempus solutio
-Caue aperio moueo initium finis facio opus tuus perficies
-Axioma Exicca terra
-sitio calcinandus
+lucidus habeo nomen iucunditas res albus rubeus res
+uirtus primus menstruum clarus lucidus corpus patior  durus siccus compaction subtilio primus materia retrogrado
+soror frater ago patior sulphur mercurius coessentialis genero
+dissolutio pars corporalis causo congelatio pars spiritualis
+terra cinis  digo aqua congelo intellego
+corpus primus forma altero nouus forma induco
+res natura spolio forma
+metallum aqua mineralis
+quamobrem aqua redigo aqua aqua qualitas repugno diuersitas
+uitrum debeo facio ouos similis forma claudo
+permitto uitrum calidior possum sustineo manus nudus lubet duro tempus solutio
+uitrum aperio moueo initium finis facio opus perficio
+ terra sitio calcino
 uanus laboro
-Materia pars diuido subtilis grossus separis terra fundus maneo color liuido
-pars alter spiritualis uolatilis omnis unus res debeo conuerto
-aqua debeo reuifico lapis uideo distillo operor solus modus uisus possum cognosco purgo faeculentus fecis possum multiplico Saturnus substantia reiico
-Distilla mundus tenuis aqua color caeruleus splendo liuis retineo suus figura ponderositas
-humecto Hermes suus arbor suus uitrum facio cresco altus flor
-uerus theriaca ualeo expello uenena suus Philosophicus
-suus opus mirabilis ostendo multus mors eximo uita seruo
+materia pars diuido subtilis grossus separo terra fundus maneo color liuido
+pars spiritualis uolatilis res debeo conuerto
+aqua debeo reuifico lapis uideo distillo operor uisus possum cognosco purgo faeculentus fex possum multiplico saturnum substantia reiicio
+distillo mundus tenuis aqua color caeruleus splendeo liuidus retineo figura ponderositas
+humecto hermes arbor uitrum facio cresco alo flos
+uerus theriaca ualeo expello  opus mirabilis ostendo mors eximo uita seruo
 misceo corrosiuus
-Hermes uoco suus uentus suus uolatus Solis Luna maritus uxor facio lapis noster uolatilis morior uita reddo uita impertio Luna maritus uxor
-diuido natura ligaro mercurius essentialis conuerto uentus naturalis subtilis separatio profutura compleo generatio
-Aqua debeo sublimo nullus facio dissolutio putrefactio uideo pix instar liquidus appareo color defectus ignis tuus uitrum operor
-ignis genus scio debeo Naturalis Innaturalis natura Elementalis Axiomata accendo lignum ignis utor multus
-ignis natura insum omnis res tertius menstruus
-Innaturalis ignis occasionatus uoco ignis cinus balneus putrefacio nihil perduco putrefacio
-ignis Natura debeo excrucio corpus draco comburo ignis infernus
-Fac ignis tuus uiter comburo corpus ignis Elementalis
-Coniunctio
-Coniunctio copulatio paro qualitas adaequatio principium
-possum separo Elementa diuido uia aberro
-Diuide Anima Corpus anima causo coniunctio perpetuus
-Mas Sol noster debeo habeo pars uxor par par gaudeo
-cen Philosophicus
-dies trefactio albedo instar oculus piscis
-dubium solutio connexio principium arduus scientia licet multus principium
-Putrefactio
-corpus interemptio tempus balneum noster fimus nox transeo humidus calor conseruo
+hermes uoco uentum uolo procliuis sol luna maritus uxor facio lapis uolatilis mortuus uita reddo uita impertio luna maritus uxor
+diuido natura ligo mercurius essentialis conuerto uentum naturalis subtilis separatio prosum compleo generatio
+aqua debeo sublimo facio dissolutio putrefactio uideo picus instar liquidus appareo color defectus ignis uitrum operor
+ignis genus scio debeo
+naturalis innaturalis natura elementales accendo lignum ignis utor
+ignis natura insum res tertius menstruum
+innaturalis ignis occasionatus uoco ignis cinis balneum putrefacio perduco putrefacio
+ignis natura debeo excrucio corpus draco comburo ignis infernus
+facio ignis uitrum comburo corpus ignis elementalis
+coniunctio copulatio paro qualitas adaequatio principium
+possum separo elementum diuido uia aberro
+anima corpus anima causo coniunctio perpetuus
+mas sol debeo habeo pars uxor par par gaudeo
+centum dies trefactio albedo instar oculus piscis
+solutio connexio principium arduus scientia principium
+corpus interemptio tempus balneum fimus nox  humidus calor conseruo
 nigredo index putrefactio propero
-pix liquidus tempus turgesceo ebullient color instar iris aspectus pulcherrimi Aqua incipio dealbo
-corpus humidus calor tempero ago nigredo paro habeo timeo
-modus subsequor germinatio noster lapis dies transie rint Uua habeo
-nos Adrops Uzifurus plumbus rubeus
-Axioma uiolentus calor frigus defendo uiter tuus moderato uto ignis caueo uitrificatio
-Aduertus deligo materia misceo salis sulphure medius mineralis
-sophista garrio sulphur noster mercurius Metallum
-deus scientia medius concesserit detego quicun postulo fauor pretium
-oppressor scortator impudens Deus seruio pauper cura
-Coagulatio
+pix liquidus tempus turgesco ebullio color instar irido aspectus pulcherrimum aqua incipio dealbo
+corpus humidus calor tempero ago nigredo pario habeo timeo
+modus subsequor germinatio lapis dies transie  uua habeo
+ plumbum rubeus
+uiolentus calor frigus defendo uitrum modero utor ignis caueo uitrificatio
+aduerto deligo materia misceo sal sulphur medius mineralis
+sophista garrio sulphur mercurius metallum
+deus scientia medius concesso detego postulo fauor pretium
+oppressor scortator impudens deus seruio pauper cura
 congelatio mollis res induratio color candidus confixatio spiritus uolatilis
-Elementum conuerto noster congelatio
-congelo aer liquesco Aqua opus noster destruo
-philosophicus Materia facio candidus spiritus corpus congelo
-temporis statuo longus terminus congelatio appareo similitudo perla
-causa omnis calor temperatus operor moueo materia
-crede omnis pereo tuus labor terra tuus reuifico aqua Congelatio uerus uideo
-aqua secretum uita omnis res totus orbis existo aqua res singulus habeo suus initium cerno foeminus parturio aqua partus emano magnus dolor
-substantia nutro suus proprius menstruus Aqua terra produco color uiridis proprius aspectus
-intellige igneus noster Aqua acuo uoco Menstrualis aqua terra noster soluo G Axiomata calcino congelatio possum diuido
-facio imbibitio debeo rota circumuoluo putrefaco omnis materia additio primus nigredo specto albedo congela totus basis finis perduxisti
-medius rubedi ascendo
-aqua tuus diuido pars primus pars corpus purifico
-secundus pars imbibitio destino materia denigraor leuis ignis albifico reduco Rubedi
-Cibatio
-Cibatio uoco nutritio noster materia siccus lac cibus do modero reduco tertius ordo
-do suffoco aquei humor superent sanguis
-bibo prouocandus uomitus aegroto
-Tri Philosophicus
-uicis rota tuus circumuers seruo dico cibatio Regula primus ignis sentio cera fundo
-Sublimatio
-sublimis summitas uasum uiolentia coges fundus
-Tempero calor inferne dies spacio niger obscurus
-Corpus putrefio sublimo aqua omnis eleuo
-Sublimatio facio causa
-primus corpus facio spiritualis secundus spiritus facio corporalis fixo consubstantialis facio
-tertius causa originalis immunditia purgo salcedo sulphureus diminuo infectus sublimo altus albus niue
-G Axioma Fermentatio
-Fermentationes fio diuersus modus medicina noster perpetuo
-clarus Aqua soluo sol luna medicinus facio coagulo fermentatio noster propono
-totus noster intentio atto fermo
-Fige tuus Aqua terra medicina tuus fluo cera tuncuidus amalgamor proiicio
-omnis misceo tuus uiter claudo facio ignis totus figo facio proiectio placeo medicinus perfectus facio fermentum tuus rubrus albus
-Uera fermentatio anima corpus incorporatio restauro Philosophica
-naturalis odor iustus color naturalis inspissatio res separo
-magnes traho ferrum noster terra Natura traho anima suus eleuo uentum
-terra fermentum dubium aqua
+elementum conuerto congelatio
+congelo aer liquesco aqua opus destruo
+materia facio candidus spiritus corpus congelo
+tempus statuo longus terminus congelatio appareo similitudo perla
+causa calor temperatis operor moueo materia
+credo pereo labor terra reuificor aqua congelatio uerus uideo
+aqua secreio uita res orbis existens aqua res singulus habeo initium cerno foeminus parturio aqua partus emano magnus dolor
+substantia nutrio proprius menstruus aqua terra produco color uiridis proprius aspectus
+intellego igneus aqua acuo uoco menstrualis aqua terra solutus calcino congelatio
+possum diuido
+facio imbibitio debeo rota circumuoluo putrefacio materia additio nigredo specto albedo congelum
+basis finis perduco
+medius rubedo ascendo
+aqua diuido pars primus pars corpus purifico
+secundus pars imbibitio destino materia denigro leuis ignis albifico reduco rubedo
+cibatio uoco nutritio materia siccus lac cibus do modero reduco tertius ordo
+do suffoco aqueus humor supero sanguis
+bibo prouoco uomitus aegroto
+uicis rota circumuers seruo dico cibatio regula primus ignis  cera fundo
+sublimo summitas uas
+uiolentia cogo fundus
+tempero calor dies spacium niger obscurus
+corpus putrefacio sublimo aqua eleuo
+sublimatio facio causa
+primus corpus facio spiritualis spiritus facio corporalis fixo consubstantialis facio
+tertius causa originalis immunditia purgo salcedo sulphureus diminuo infectus sublimo alo albior nix
+fermentatio facio diuersus modus medicina perpetuo
+clarus aqua soluo sol luna medicina facio coagulo fermentatio propono
+intentio attero fermento
+figo aqua terra medicina fluo cera  amalgamo proiicio
+misceo uitrum claudo facio ignis figo facio proiectio placeo medicina perfectus facio fermentum rubrus albus
+uerus fermentatio anima corpus incorporatio restauro naturalis odor iustus color naturalis inspissatio res separo
+magnes traho ferrum terra natura traho anima eleuo uentus
+terra fermentum dubius aqua
 aqua terra
-aqua facio odorife- ra omnis corpus oleum reduco noster medicinus facio fluo
-essentia uoco aqua homo sano omnis aegritudi
-facio Oleus Solis Luna fermentum odoratus fragrantus
-Exaltatio
-Exsaltatio differo sublimatio uerbum Philosophi intelligo
-uolo tuus corpus exalto sublima primus spiritus uita G Axioma terra subtilio naturalis rectificatio omnis Elementum
-pretiosus aurum quintus essentia retineo
-frigus uinco calor aqua aer conuerto contrarius facio alter conuenio
-modus facio circulor alter exaltor unus uiter sigillo omnis perago manus
-Conuero aqua terra nidus Elementum
+aqua facio odorife-s ra corpus oleum reduco medicina facio fluo
+essentia uoco aqua homo sano aegritudo
+facio oleum sol luna fermentum odoro fragrantus
+exaltatio differo sublimatio uerbum philosophus intellego
+uelis corpus exalto sublimus primus spiritus uita terra subtilio naturalis rectificatio elementum
+pretiosior aurum quintus essentia retineo
+frigus uinco calor aqua aer conuerto contrarius facio conuenio
+facio circulo exalto uitrum sigillo perago manus
+conuerto aqua terra nidus elementum
 terra ignis aer quiesco
-circulationemdebes incipio occidens meridies uersus exalto
-Multiplicatio
+ incipio occido meridies uersus exalto
 multiplicatio res facio augmentum medicinus color odor uirtus quantitas
-ignis Philosophica
-excito morior habito unus scintilla possum excito multum ignis uirtus multiplico
-Diues particula habeo noster Elixiris possum augeo infinitus dissolua noster puluer siccus facio frequens coagulatio facio augmentatio possum multiplico inuiter cresco modus arbor Hermes arbor uoco aspectus pulcherrimus
-unus granum multiplico noo facio tuus proiectio
-Crocus pulueriso liquor temperao addo magnus quantitas liquor tingo liquor quantitas integer suus grossa substantia noster Elixir tenue facio suus tinctura spargo
-G Axioma Cooperus tuus ignis uesperium qui opus disquiro uicinus accipio retineo lucrabeo multiplico tuus uitrum enutrio Mercurio uico habeo opus
-frenus laxes peccatum dominus deus tuus inseruio
-Cogita Deus tribunal assisto ratio reddo
-Proiectio
-tinctura uerus uariabilis probo paucus quantitas medicinus metallum mercurio pix adhaereo tingo proiectio omnis ignis sustineo multus ignorantia destruxerunt opus suus facio proiectio metallum impurus
-philosophicus Medicinus tuus proiicio fermentum tuus fermentum frangibilis uiter proiicio frangibilitas corpus mundo habeo Metallum omnis iudicium probo
-deus aeternus Benedictus Amen
-Recapitulatio
-Attende latitudo noster lapis incipio occidens mas rubo coniunx albus fio unus desponsor spiritus uita uiuo amor quies
-terra aqua proportionatis
-unus terra spiritus bonus proportio spiritus pars terra corpus
-pars foemina unus uir debeo accipio
-spiritus Axioma desponsatio tuus calcinatio
-pactum calcino corpus dissoluo diuido putrefacies omnis secretum noster infimae Astronomie perfectus intellegentia omnis polus noster coelum lucentis coloris inexplicabilis pulchrus uido appareo perfectus albus
-perfectus albus Citrinus falsus citrinus appareo sanguis rubeus impermutabilis
-habeo medicinus tertius ordo suus genus multiplicabilis
-secretum debeo ignoro noster mas rubeus tingo coniunx tingo
-uolo ars res paro altitudo tuus corpus absconde patefacs profunditas destruo primus qualitas omnis tuus materialis secundus qualitas excellentis primus Philosophicus
-primus separo
-unus uiter unus regimen conuerto natura unus
-Diuidendum tuus Elixir rubeus pars rubifex
-pono uitrus
-uis habeo Sol Luna duplex Elixir facio
-mercurio multiplica magnus quantitas initium habeo cochlear impleo possum multiplico albus rubeus uiuus annus conuerto perfectus oleum circulatio fio debeo noster propono olea figo crudus mercurius perfectus sol Luna
-Oleagineus substantia fixus purus Raymundus suus Basiliscum uoco planus facio explicatio
-Memento homo nobilissi- mam creatura compositio terrenus deus creo Axioma Elementi proportiono natura neutralis mercurialitas nihil consto produco ars suus minera
-noster Metalla nihil noster minerus solis Luna Raymundus noto splendor Luna Sol lucidus
-minera secerno descendo splendor abscondo tuus uisus Ars possum efficio appareo
-lapis absconsum unus res purificus lauo suus liquor albesco fermentum habeo summus totus opus
-Sequun Philosophicus
-sequor Axioma Philosophiae
-Albertus liber mineralis dico aurum reperio res Elementae elementa inuenio aurum ultimus affinitio dico lapis materia reperio
-dico probo magnus uirtus mineralis homo caput dens suus tempus inuenio aurum granum minutus oblongum sum possum homo uirtus mineralis
-uirtus mineralis elixio noster dico lapis homo
-Hermes habeo pars Philosophia totus mundus ostendo pars mineralis uegetabilis animalis pars contineo Axioma unus lapis Mercurio nomen Mercurii omnis facio lapis mineralis uegetabilis animalis nomen Mercurius appello
-omnis res lapis facio possum dico Alfidius uerus
-inquam multus soluo congelo
-Ordulanus dico Philosophus uoco lapis omnis elementum possum separo artificium noster alchymicus que uegetabilis animal possum artificium noster alchymicus Elementa separo
-que uegetabilis animal possum facio lapis physicus
-Uidemus extraho aqua Absynthius extraho calor igneus extraho humiditas aquea remaneo pars terra aduro
-procedo calor moderatus similis naturalis extraho humiditas Philosophicus
-ditas uitalis reliquus coco nullus remaneo cruditas
-terra aqua Metalla ignis liquesco fortis mixtio conuerto aqua genus terra aduro sal substantia contineo alumin geber principium suus testamentum dico omnis res combustus fio sal possum
-sal occulto terra adusta principium remotissimus omnis metallum nomino uitriolus medius mineralis proprius semen genero omnis metalla
-Metalla transmuto possum naturalis materia
-Hermes pono circulatio metallum Elementis
-metallum suus corruptio conuerto
-Rasis liber diuinitas inquam
-Scias res Natura subtilis artificium alligao s]manicule[/s Nota
-s]manicule[/s Axioma res res potentia actus uideo
-Accipio lapis honoro pono cucurbita cooperis Alembicus luo mitto stercus calidissimum distillo pono recipio distillo aqua dimitto totus Aqua distillo exicco humiditas possum siccitas
-extrahes siccus seruo aqua distillo necessarius
-Accipies corpus siccus remaneo fundus cuncurbita ter pono uaso aptus quantitas Materia fimus equinus inhumo uas occlusum dies renouo fimus refrigesco soluo medicinus facio aqua spissa albus
-uideo scio pondus addo aqua medietas pondus reseruo claudo uas
-medicinus congelabior Philosophicus
-similis quantitas dies soluo
-aqua anima lapis uirtus aqua spiritus lapis aqua dico Lapis
-Uidemus unus genero multus similis sol genero sol
-compositio magisterium coniunctio matrimonium congefero spiritus corpus soluo coniunctio passio ignis
-caliditas nutrimentum anima dimitto corpus coniungo omnimodus coniunctio mutatio suus uirtus proprietas mutatio suus natura
-solutio congelatio
-scio solutio congelatio celaeo sapiens
-compositio produco res esse diuisio separah Axioma res pars compositum separatio coniunctio
-dico corpus moror spiritus remaneo corpus maneo subtilitas tenuatio habeo spiritus
-attenuo subtilio exeo suus densitas spissitudo tenuitas grossitia corporeitas spiritualitas commisceo spiritus subtilis imbibeo euadeo unus separo aqua misceo aqua
-Constat procreatio perfectus imperfectus argentum uiuus sulphur materia nullus nouus fio possum transmutatio
-mirandus prudens suus fundo intentio animal uegetabilis remoueo inuenio mineralis propinquus credo Philosophicus
-philosophus pono ars praedico remoueo similitudinarie ius oportet accipio argentum uiuus sulphur lapis materia
-mercurius uiuus sulphur genero metallum ambo commixtio diuersus metallum procreo mineralis multus
-ambo commixtio materia noster consto eligo finalis noster secretum occultus
-res mineralis debeo facio
-eligo teneo
-Pone eligo materia noster uegetalis herba arbor omnis progredior terra
-oportet facio argentum uiuus sulphur decoquendo excusao natura propono argentum uiuus sulphur
-eligo animal
-sanguis humanus capillus Axioma egestio ouum gallina omnis animal procedo oportet facio argentum uiuus
-nego metalla semimineral purgo dissoluo possum sophisticus forma introduco erro homo
-possum nigredo immunditia abstergi
-plumbum plumbus licet qualitas introduco appareo argentum
-corpus metallicus sulphur habeo dignoscio Mercurius liquesco calor medio
-appareo mercurius substantia sulphur color cute rubeus nato proprius natura unus adhaerentia alter unus Metallum genero possum
-sulphur facio simplex gaudeo cohaereo Mercurium simplex mundus fortiter unus coniungo
-Opera Philosophicus
-Opus natura ars essentia forma differo opus natura inuisibilas occulo
-physicus Chymica Trithemii
-Certus res omnis natura produco superior inferus uirtus insum
-artificialis corruptio necessarius separatio spiritus res coniungo uiuo uita caeterus communico bonus
-scopus doctrina medicinus uniuersalis insensatus corpus homo corruptio morbus omnis aufero
-Corpus noster morior possum maneo uita naturalis spiritus noster anima natura suus corpus distrah Axioma dissoluo uinculum physicus cogito medito terrenus dispicio coelestia speculao
-prophetica naturalis spagyricus poeticus arcanus omnis tectum
-uideo natura facio uoluo Deus omnis uilis pretiosus rapio indignus contego
-aurum uilis arena spretilapid uelo oculus cerno manus ignoro abiicio pes conculco inscius
-sterilis regio superficies ops dito incognio nego fertilis
-Physicus corpus insum ueritas uirtus incorruptibilis occultus medicinus uerus libero suus comped tetrus carcer detineo
-Certus certissimus Elementatus contineo Elementa omnis Philosophicus
-mnus notus paucus certus
-omnis anima sublimus essentia particeps
-Coelus Elementa inferus unus esse substantia differo accidens uticorruptibilis incorruptibilis purus impurus agens patior grauis leuis serenus opacus omnis accidens substantia
-Substantia genero accidens
-Impossibilis mortalis ars intellego diuinus lumen illustro
-unio uergo medicinus uita accedo mors discedo
-deus multus
-unus unus nihilum mundus mens suus creo uolo effectus produco
-contino omnis creo
-deus omnis unus
-H Axioma Res omnis deus esse habeo suus natura nihil uerbum Deus esse habeo nascor
-Creatarum res doceo unicus genus generalus reliquus genus species indiuiduus nascor dies propago finis seculus res Natura primitiuus deus creo
-Corpus naturalis res insensatus suus spiritus diuido repurgo
-resurrectio perfectio coniungo possum
-spes futura noster resurrectio
-uita naturalis
-spiritus moueo anima motus corpus motus coniungo naturalis unus efficio
-primus res principium omnis Forma Lux uita natura materia
-chaos Chymicus uniuersalis omnis opero Philosophicus
-concludo uentr debeo ingeniosus artifex elico materia suus forma Coelum Elementa medicinas conficio
-Materia spagiricus dico primus uniuersalis materia mercurius uegetatio moueo particularis forma materia primus extraho formans
-Forma res uirtus generatiuus similis produco possum homo forma men lateo arbor arbor metallum metallus
-Cruda debeo opus ingredior sublimatio euacuo latus uasum sublimatorius inanis superfluus terra suus liber
-forma lapis dico sulphur Natura
-Coelus Mercurius noster coelestis color incorruptibilitas
-Habeo proprietas spiritus incorruptibilis anima habeo conditio corpous Axioma res genero produco semen foemina
-Uirtus genero nutrio consisto
-causa ars Menstruum uoco coelus ratio motus
-Necessarius coelum forma digerao medicinus prior uentus
-Generatio genus occulo forma manifestatio
-coelum impono soluo
-conuenientia res soluo addo facio operor multus unus
-scio Philosophus multus caput facio lapis sublimatio distillatio separatio putrefactio ablutio inceratio calcinatio omnis unus operatio
-unus uas
-Philosophicus Studiosi Ars Uarius Librorum Lectio leuo ortus metallum materia Spagyricus radicalis principium fundo describo uolo
-noster lucubratio faueo uolo
-bonus consul
-Uale
-Portu Aquitan
-M. Materia principalis omnis Metallum suus minus causo aqua siccus aqua uiuus argentum uiuus nomino spiritus foeto sulphur appello
+ignis excito morior habito scintilla possum excito ignis uirtus multiplico
+diues particula habeo elixiri possum augeo infinitus unauius dissoluo puluis siccus facio frequento coagulatio facio augmentatio possum multiplico inuitro cresco modus arbor hermes arbor uoco aspectus pulcherrimus
+granum multiplico nosco facio proiectio
+crocus  liquor tempero addo magnus quantitas liquor tingo liquor quantitas integer grossus substantia
+elixir tenuior facio tingo spargo
+cooperio ignis uesper opus disquiro uicinus accipio retineo lucror multiplico uitrum enutrio mercurius uiuo habeo opus
+frenum laxo peccatum dominus deus inseruio
+cogito deus tribunal assisto ratio 
+tingo uerus uariabilis probo quantitas medicinus metallum mercurius pix adhaereo tingo proiectio ignis sustineo
+ignorantia destruo opus facio proiectio metallum impurus
+medicina proiicio fermentum fermentum frangibilis uitrum proiicio frangibilitas corpus mundo habeo metallum iudicium probo
 
-natura suus miner suus creo locus suus genero nullus metallum inuenio materia substantia natura creo habeo natura substantia
-materia substantia praedico Axioma rum procreo genero creo substantia subtilis fumosus ins uisceres terra uena mineralis congrego detineo
-aduenio uirtus naturalis fumosus materia congelo uno unio inseparabilis firmus decoctio naturalis
-pateo metallum Elementum homogeneus nihil fumus subtilissimus decoctio naturalis suus minus congefero fixi metallus natura conuersi
-pateo umidus radicalis metallum calcinatio homogeneitas fortis unio elementum consumo separo separo humidus lapis unio siccus plurimo
-mira Philosophicus
+attendo latitudo lapis incipio occido mas rubeo coniunx albus fio desponso spiritus uita uiuo amor quies
+terra aqua proportionatus
+terra spiritus bonus proportio spiritus pars terra corpus
+pars foemina uir debeo accipio
+spiritus desponsatio calcinatio absoluo
+pactum calcino corpus dissoluo diuido putrefacio secerno infimus astronomiio perfectus intelligentia polus coelus luceo color inexplicabilis pulchrior uido appareo perfectus albus
+perfectus albus citrinus falsus citrinus appareo sanguis rubeus impermutabilis
+habeo medicina tertius ordo genus multiplicabilis
+secretus debeo ignoro mas rubeus tingo coniunx tingo
+uelis ars res paro altitudo corpus abscondo patefacio profunditas destruo primus qualitas materialis secundus qualitas excellentior separo
+uitrum regimen conuerto natura
+diuido elixir rubeus pars rubifico
+pono uitrum
+uis habeo soli luna duplex elixir facio
+mercurius multiplico magnus quantitas initium habeo cochlear impleo
+possum multiplico albus rubeus uiuus annus conuerto perfectus oleum circulatio facio debeo propositum
+olea figo crudus mercurius perfectus sol luna
+oleagineus substantia figo purus raymundus basiliscus uoco planus facio explicatio
+memini homo nobilissi- ma creatura compositio terrenus deus creo elementum proportionatus natura neutralis mercurialitas consto produco ars minera
+metallum minerus
+soli luna raymundus noto splendor luna soli lucidus
+minera secerno descendo
+splendor abscondo uisus
+arteo possum efficio appareo
+lapis abscondo res purifico lauo liquor albesco fermento habeo summus opus
+albertus liber mineralis dico aurum
+reperio res elementum elemento inuenio aurum ultimus affinitio dico lapis materia reperio
+dico probo maximus uirtus mineralis homo caput dens tempus inuenio aurum granum minuo oblongus possum homo uirtus mineralis
+uirtus mineralis elixeo dico lapis homo
+hermes habeo pars philosophia mundus ostendo pars mineralis uegetabilis animalis pars contineo lapis mercurius nomen mercurius
+facio lapis mineralis uegetabilis animalis nomen mercurius appello
+res lapis facio possum dico alfidius uerus
+inquam soluo congelo
+ordulanus dico philosophi uoco lapis elementum possum separo artificium alchymicus
+uegetabilis animal possum artificium alchymicus elementum separo
+uegetabilis animal possum facio lapis physicus
+uideo extraho aqua absynthius extraho calor igneus extraho humiditas aqueus remaneo pars terra aduso
+procedo calor modero similis naturalis extraho humiditas uitalis coquo remaneo cruditas
+terra aqua metallum ignis liquesco fortis mixtio conuerto aqua genus terra  sal substantia contineo alumen gember principium testamentum dico
+res comburo fio sal possum
+sal occulto terra aduso principium remotus metallum nomino uitriolum medius mineralis proprius semen genero metallum
+metallum transmuto possum naturalis materia
+hermes pono circulatio metallum elementum
+metallum corruptio conuerto
+rado liber diuinitas inquam
+scio res natura subtilis artificium alligo  noueo
+res res potentia actus uideo
+accipio lapis honoro pono cucurbita cooperio alembicum lutum mitto stercus calidissimus distillo pono recipio distillo aqua dimitto aqua distillo exicco humiditas possum siccitas
+extraho siccus seruo aqua distillo necessarius
+accipio corpus siccus remaneo fundus cuncurbita teres pono uasum apto quantitas materia fimum equinus inhumao uas occlusm dies renouo fimum refrigesco soluo medicina fio aqua spissus albus
+uideo scio pondus addo aqua medietas pondus reseruo claudeo uas
+medicina congelo similis quantitas dies solutus prior
+elixiro aqua anima lapis uirtus aqua spiritus lapis aqua dico lapis
+uideo genero similis
+sol genero sol
+compositio magisterium coniunctio matrimonium congelo spiritus corpus solutus coniunctio passio ignis
+caliditas nutrimentum anima dimitto corpus coniungo omnimodus coniunctio mutatio uirtus proprietas mutatio natura
+solutio congelatio
+scio solutio congelatio celo sapio
+compositio produco res sum diuisio separo pars compositum separatio coniunctio
+dico corpus moror spiritus remaneo corpus maneo subtilitas tenuatio habeo spiritus
+attenuatus subtilio exeo densitas spissitudo tenuitas grossitia corporeitas spiritualitas commisceo spiritus subtilis imbibo euado separo aqua mixtus aqua
+consto procreatio perfectus imperfectus argentum uiuum sulphur materia nouus facio possum transmutatio
+mirandus prudens fundo intentio animal uegetabilis remotus inuenio mineralis propinquus credo philosophus pono ars praedico remotus ius oportet accipio argentum uiuum sulphur lapis materia
+mercurius uiuum sulphur genero metallum
+commixtio diuersus metallum procreo mineralis
+commixtio materia consto eligo
+finalis secretus occultus
+res mineralis debeo fio
+eligo teneo
+pono eligo materia uegetal herba arbor progredior terra
+oportet fio argentum uiuum sulphur decoquo excuso natura propono argentum uiuum sulphur
+eligo animal
+sanguis humanus capillus urina egestio ouum gallina animal procedo oportet facio argentum uiuum
+nego metallum semimineral purgo dissoluo possum sophisticus forma introduco erro homo
+possum plumbum nigredo immunditia abstergis
+plumbum plumbum
+qualitas introduco appareo argentum
+corpus metallicus sulphur habeo dignosco mercurius liquesco calor medio
+appareo mercurium substantia sulphur color cutis rubeus nato
+proprius natura adhaereo metallum genero possum
+sulphur fio simplex gaudeo cohaereo mercurius simplex mundus
+coniungo
+opus natura ars essentia
+forma differo
+opus natura inuisibilas occulo
+certus res natura produco superior inferior uirtus insum
+artificialis corruptio necessarius separatio spiritus res coniungo uiuo uita caeterus communico melior
+scopus hermetix doctrina medicina uniuersalis insensatus corpus homo corruptio morbus aufero
+corpus morior possum maneo uita naturalis spiritus anima natura corpus distraho dissoluo uinculo physicus cogitandus meditor terrenus dispicio coelestis speculor
+propheticus naturalis spagyricum poeticus arcanus tectum
+uideo natura facio uoluo deus uilis pretiosus rapio indignus contego
+aurum uilis arena spretilapis uelo oculus cerno manus ignoro abiicio pes conculco inscius
+sterilis regio superficies ops dito nego fertilis
+physica corpus insum ueritas uirtus incorruptibilis occulo medicina uerus libero compes teter carcer detineo
+certus certissimus quiuis elemento contineo elementum nosco certus
+anima sublimior essentia particeps
+coelum elementum inferior sum substantia differo accido uticorruptibilis incorruptibilis purus impurus ago patior grauis leuis serenus opacus accidens substantia
+substantia genero accido
+impossibilis mortalis ars intellego diuinus lumen illustro
+unio uergo medicina uita accedo mors discedo
+deus
+mundus mens creo uolo efficio produco
+contineo creo
+deus
+res deus sum habeo natura uerbum deus habeo nascor
+creo res doceo unicus genus generalus genus species indiuiduus nascor dies propago finis seculum res natura primitiuus deus creo
+corpus naturalis res insensatus spiritus diuido repurgo
+resurrectio perfectio coniungo possum
+spes sum resurrectio
+uita naturalis
+spiritus moueo anima motus corpus motus coniunctum naturalis efficio
+primus res principium forma lux uita natura materia
+chaos chymicus uniuersalis operor concludo uenter debeo ingeniosus artifex elico materia forma coelum elementum medicina conficio
+materia spagiricus dico primus uniuersalis materia mercurius uegetatio moueo particularis forma materia primus extraho formo
+forma res uirtus generatiuus similis produco possum homo forma ho mina lateo arbor arbor metallum metallum
+crudus debeo opus ingredior sublimatio euacuo latus uas sublimatorius inanis superfluus terra liber
+forma lapis dico sulphur natura
+coelum mercurius coelestis color incorruptibilitas
+habeo proprietas spiritus incorruptibilis anima habeo conditio corpus genero produco semen foeminus
+uirtus genero nutrio consisto
+causa ars menstruum uoco coelum ratio motus
+necessarius coelus forma digero medicina prior uentum
+generatio genus occulo forma manifestatio
+coelus impono soluo
+conuenientia res soluo addo facio operor
+scio philosophi caput facio lapis sublimatio distillatio separatio putrefactio ablutio inceratio calcinatio operatio
+uas
+leuo ortus metallum materia spagyricus radicalis principium fundo describo uolo
+lucubratio faueo uelo
+bonus consul
+ualeo
+b. portus aquitan
+materia principalis metallum minor causor aqua siccus aqua uiuus argentum uiuum nomino spiritus foeteo sulphur appello
+natura minor creo locus genero metallum inuenio materia substantia natura creo habeo natura substantia
+materia substantia praedico procreo genero creo substantia subtilis fumosus uiscus terra uenio mineralis congrego detineo
+aduenio uirtus naturalis fumosus materia congelo unio unio inseparabilis firmus decoctio naturalis
+pateo metallum elementum homogeneus fumus subtilissimus decoctio naturalis minor congelo figo metallum natura conuersum
+pateo  radicalis metallum calcinatio homogeneitas fortis unio elementum consumo separo separo  lapis
+unio siccus
 mirabilis natura modus genero metallum
-materia minus uniformis argentum uiuus sulphur unus corpus materia facio exeo fumosus substantia materia subtilis beneficium natura conuersto metallum
-Materia fumossa corpus
+materia minor uniformis argentum uiuum sulphur corpus materia facio exeo fumosus substantia materia subtilis beneficium natura conuersto metallum
+materia fumossa corpus
 fumosus genero spiritus
 natura facio corpus spiritus
-facio ascendo terra coel res corporalis facio spiritualis circulo res spiritualis facio corporalis coelum descendo terra
+facio ascendo terra coelum res corporalis facio spiritualis circulo res spiritualis facio corporalis coelus descendo terra
 pateo
-omnis metallum radix natura substantia materia
+metallum radix natura substantia materia
 forma
-infirmitas sanitas mundities immundities
-paucitas quantitas substantia argentum uiuus sulphuris unio m]nota.[/ms Axioma coniunctio naturalis
-natura mineras diuersus longus breuis natura decoctio
-materia substantia proprius argentum uiuus sulphurus fumosus subtilus natura praedico noster artificium genero limpidus clarus Lachryma lateo habito spiritus quintus essentia dico
-substantia sulphur argentum uiuus natura suus miner pars argentum uiuus sulphur
-Philosophus dico solus argentum uiuus admixtio sulphurus materia genero
-argentum uiuus habeo sulphur rubeus misceo
-sulphur rubeus albedo proprius manus separauio uideo
-Nullus modus substantia fumoes Philosophicus
-dico possum elico stantia praedico argentum uiuus sulphuris admistis
+infirmitas sanitas
+mundities immundities
+paucitas quantitas substantia argentum uiuus sulphur unio coniunctio naturalis
+natura minera diuersus longus breuis natura decoctio
+materia substantia proprius argentum uiuus sulphur fumosus subtilissimus natura praedico artificium genero limpidissimus clarus lachryma lateo habito spiritus quintus essentia dico
+substantia sulphur argentum uiuum natura minor
+pars rum argentum uiuum sulphur
+philosophi dico argentum uiuus admixtio sulphur materia genero
+argentum uiuum habeo sulphur rubeus misceo
+sulphur rubeus albedo proprius manus separo uideo
+modus substantia fumosus possum elicio stantium praedico argentum uiuus sulphur admisceo
 terra aer patientia
-aqua lignum agens
+aqua lignum ago
 aqua masculus
 terra foeminus
-notus facio genero fumosus materia substantia praedico Mercurius uiuus sulphuris suus adiunctum
+notus faciendus genero fumosus materia substantia praedico mercurius uiuus sulphur adiunctor
 dico substantia unio corpus exeo fumosus substantia
 facio artifex ascendo terra coelum materia substantia corporalis materia substantia spiritualis
 materia substantia spiritualis facio congelo fixo lapis conuerto
-facio descendo coelum terra
+facio descendo coelus terra
 materia substantia spiritualis facio corporalis
-Philosophus dico
-solus substantia mercurius additamentum substantia sulphurus lapis elico genero
-Axioma telligo substantia fumosus praedico lateo spiritus quintus essentia quaero tingo substantia figo firmus lapis terra figo spiritus terra lapis spiritualis impregno uentr uentum magisterium ars
-Philosophi considero materia uas suus calor sentio euaporo species fumus
-ascendo caput uasum
+philosophus dico
+substantia maercurium additamentum substantia sulphur lapis elicio genero
+intellego substantia fumosus praedico lateo spiritus quintus essentia quaero
+tingo substantia figo firmus lapis terra figo spiritus terra lapis spiritualis impregno uenter ueo magisterium ars
+philosophi considero materia uas calor sentio euaporo species fumus ascendo caput uas
 uoco sublimatio
-uido descendo fundus uasum uoco descensio uideo inspisso materia denigro foetor malum do uoco putrefactio caput coruus
-Uidentes color niger fuscus malum longus tempus dimitto aliqualis albedo modus cinereus color deuenio uoco incineratio dealbatio
-Philosophicus summus totus ars nihil extractio aqua terra aqua terra dimissio putrefacio
-terra aqua putrescio mundifico auxilium rego totus magisterium perficio
+uideo descendo fundus uas uoco descensio uideo inspisso materia denigro foetor malus do uoco putrefactio caput coreo
+uideo color niger malum longus tempus dimitto albedo modus cinereus color deuenio uoco incineratio dealbatio
+summus ars extractio aqua terra aqua terra dimissio putrefacio
+terra aqua putresco mundifico auxilium rego magisterium perficio
 sperma philosophus aquauiuus terra corpus imperfectus
-terra dico mater omnis elementum
-Solutio corpus coagulatio habeo unus operatio corpus soluo coagulo spiritus
-aqua coniungo terra aqua suus humiditas uirtus dissoluo conor facio subtilioris
-reddo consimilis aqua terra subtilior
+terra dico mater elementum
+solutio corpus coagulatio habeo operatio corpus soluo coagulo spiritus
+aqua coniungo terra aqua humiditas uirtus dissoluo conor facio subtilior
+reddo consimilis
+aqua terra subtilus
 facio anima corpus modus inspisso aqua terra
-solutio corpus coagulatio spiritus differentia tempus diuersus opus Axiom
-Philos
-terra niger soluo puluer incipio Mercurium retineo ago masculus foemina Azot terra
+solutio corpus coagulatio spiritus differentia tempus diuersus opus terra niger soluo puluis incipio mercurius secus retineo ago masculus foemina azot terra
 dominor aqua terra multiplico
-Do res natura corpus metallicus facilis solutio facilis putrefactio praeparatio nosco foelix medicus totus conatus uotus tuus dirigo
-Uale
-Isaaci Hollandi Fragmentus Lapide Philosophus
-decreuiso s]copper[/s rubr proiectio facio meminus lapis materia lentus ignis sublimo fixo longus tempus ratio humiditas melius conseruo
-Lapus Lapide Philos
-Lapis sublimatio
-terra tuus corpus fermentum res fixus uolatilis reddo misco res uolatilis pars res fixae pars unus moderatus ignis sublimandae ostendo
-pars uolatilis figo supero sui cum sublime rapio
+do res natura corpus metallicus facilis solutio facilis putrefactio praeparatio nosco foelix medicus conatus uotus dirigo
+ualeo
+losophum
+decerno rubrus proiectio facio memino lapis materia lento ignis sublimo fixo longior tempus ratio humiditas conseruo
+lapis sublimatio
+terra corpus fermentum res figo uolatilis reddo misco res uolatilis pars res  pars modero ignis sublimandus ostendo
+pars uolatilis figo supero secus rapio
 amplector
-totus materia uiter fixo
-pono appareo mundus color minuo incipio unus color albus omnis desineo
-gaudeto lapis figo
-prior acutior lapis suus perduco omnis numerus completus ror s]quicksiluer[/s s]tin[/s nullus fructus proicio fundus possum ingredior res despero opus desisto
-dubie opinaturi Isaaci Hollandi rum scribo intellego aio inferus mundus ros maialis humecto albus flor rubros fero
-Rex lac suus nutrio adoleuerit terra clarus aqua paradisus irrigandam coel ascendo terra descendo
-opus complementum peruenio lapis tuus dictumest fixo
-quartus pars spiritus lapis pars
-spiritus pars unus pono uitrum fixatorius unus spiritus pars breuis spacio lapis fixabitur
-spiritus pars corpus sublimis traho fixe unus uolatilis fixus unus natura complexio efficio pars fixo seruo figo uolatilis proportio alter misco fixo repeo lapis tuus Lapide Philos
-candens s]copper[/s lamina fundo oleum corium siccus penetro habeo lapis Philosophus omnis numerus absolutus
-appareo materia initium sumo uniuersus opus perficio spiritus copia opus
-initium magnus quantitas terra fixao spiritus terra fixo tripla nouus spiritus portio-s traho
-totus materia fermentum suus fixo triplus spiritus sublimanda totus facio uolatilis tio ultimus fixo nouus spiritus insero instaris
-tyri liquesco
-omnis spiritus beneficium perficio debeo
-multum spiritus fixo reddo fusibilis adeout uiscosus puluer possum redigo butyrum sol fundo Isaaci Hollandi probo cauo metallus natura liquabilis reddo s]copper[/s uolo proico fusibilis s]tin[/s s]tin[/s s]lead[/s s]quicksiluer[/s
-Scias omnis metalla purifico debeo sordes mundo uideo Isaacus primus pars medicinus albus
-Lapis multiplicatio
+materia uitrum 
+pono appareo mundus color minuo incipio color albus desino
+gaudeo lapis figo
+prior acutior lapis  numerus completus ras fructus proicio fundo possum ingredior res desperatus opus desisto
+dubius  scribo intellego aio inferior mundus ros maialis humecto albus flos ruber fero
+rex lac nutrio adoleeo terra clarus aqua paradisum irrigo coelum ascendo terra descendo
+opus complementum peruenio lapis dictumsum fixo
+misceo quartus pars spiritus lapis pars spiritus pars pono uitrum fixatorium spiritus pars breuis spacium lapis fixo
+spiritus pars corpus secus traho  uolatilis figo secus natura complexio efficio
+pars fixo seruo figo uolatilis proportio misceo fixando repeto lapis candeo lamina fundo oleum corium siccus penetro habeo lapis philosophus numerus absoluo
+appareo materia initium sumo opus perficio spiritus copia opus
+initium magnus quantitas terra fixao spiritus terra fixo triplus nosco spiritus  trahendus
+materia fermento fixo triplus spiritus sublimo facio uolatilis ter- tio fixo nouus spiritus insero instar bu
+tyrio liquesco
+spiritus beneficium perficio debeo
+spiritus  reddo fusibilus uiscosus puluis possum redigo butyrum sol fundo probo cauo metallum natura liquabilis reddo uelis proico fusibilis s]tin[/s s]tin[/s s]lead[/s s]lead[/s
+scio metallum purifico debeo sordes mundo isaacum primus pars medicina albus
+lapis multiplicatio
 lapis modus multiplico
-primus aequalis pars sal petra uitriolus suus fecus separo facio aqua fortis ars caput morior pulueriza aqua communis solue filtra congela to dunsit impalpabilis aqua suus fortis extraco distilla possum
-caput morior pulueriza solue filtra congela distilla facio totus sal aqua Lapide
-aqua fortis ascendo habeo preciosus aqua rubrus instar ignis infernalis lucens balneum Mar. distillo cohofando rectificus balneum totus ascendo praeparo lapis tuus solutio modus multiplicor
-solue benedictus tuus lapis tuus aqua facio pono baln
-tepido adluto alembicus recipio aqua extrahe abstrago puluis cucurbita candens lamina uolatilis explora dico aqua extrahe nihil ascendo probus uolatilis affunde aqua fortis distilla uniuersus puluis cando lamina auolo signum soluo fecs additio sublima furnus fixatoi Isaacus Hollandi riuus ignis primus lentus gradus figo pondus pars fixi spiritus adiungo figo opus reitera sublimo figo contingo omnis suus pars figo pars figo alter fixat
-Scito lapis noster figo uolatilis esse utrun spiritus corpus forte
-fixatio appello fixatio subtilis pars unus cogo ignis fero proiectio facio aptus
-possum lapis tuus multiplico nimius suus subtilitas aqua soluo auolo haufugeo
-antiquus Philosophus lapis conficio aqua fortis ignorarunt cogo calcinatio reuerberatio solutio aereacetum congo Lapide
-congelatio lapis suus aperio spiritualis reddo
-perfectus callo uerus ars multiplico acetum distillo reddo instar oleum clarus durus massa uolo compingo sol decorporatus star sanguis rubr unicus solutio congelatio misco furnus secrentum leuis ignis massa rubrus decoquo
-sciendum omnis uiriditas latus nigredo nigredo albedo deus creo intrinsecus suus extrinsecus perfectus rubedo contineo
-rubrus albus infinitus intericio color
-lapis extrinsecus intrinsecus medius res proiicio perfectus opus exerceo intrin Isaaci Hollandi extrinsecus muto
-s]siluer[/s intrinsecus suus bonus s]gold[/s clarus ruber
-lapis s]copper[/s proicio intrinsecus albus prouoco facio qui s]siluer[/s albus clarus rubedo compulsa
-metallum tinctura suus contineo rubr albus lapeus nullus tinctura do facio metall opus habeo
-lapis metallum occultus tinctura fera elico s]gold[/s uegeto omnis facio
-annus suus radius semen figo odor color gustus infundo semen lateo concludo lux actus proditura fructus semen emersuri sol radia calefieo penetrarentur
-proprius suus corpus impertio
-deus omnis res creo includo opus habeo insum Lapide Philos
-insum tinctura alter adiumentum indigeo suus medicinus perfe- ctio morbus omnis pro- fligatio alienus habeo opus uegetabilis animal mineralis opus
-opus deus perfectus
-absum Creo deus perfectio omnis nullus res indigeo
-perfectio suus accedo simplicis superior suus finis terminus paucus color habeo
-extremus superior finis deus ordino peruenio unus duntaxat habeo tinctura omnis omnis color appareo uis facultas complecto
+aequalis pars sal petra uitriolum fex separo facio aqua fortis ars caput mortuus puluerizo aqua communis soluo congelum tero dundeo impalpabilis affundo aqua fortis extraho distillo possum
+caput mortuus puluerizo filtra congela distillo facio sal aqua fortis ascendo habeo preciosa aqua ruber instar ignis infernalis luceo balneum distillandus  rectifico balneum ascendo praeparo lapis solutio multiplico
+soluo benedictus lapis aqua fio pono baln
+tepidus adluto alembicum recipio aqua extraho abstraho puluis cucurbita eximo candeo lamina uolatilis exploro dico affundo aqua extraho ascendo probus uolatilus affundo aqua fortis distillo uniuersus puluis candeo lamina auolo signum soluo fex additio sublimus furnus  ignis lento gradus figo pondus pars figo spiritus adiungo figo opus reiter sublimo figo contingo pars figo pars figo fixo
+scio lapis figo uolatilis  spiritus corpus
+fixatio appello fixatio subtilis pars cogo ignis fero proiectio facio aptus
+possum lapis multiplico nimius subtilitas aqua soluo auolo aufugio
+antiquus philosophi lapis conficiendus aqua fortis ignoro cogo calcinationes reuerberatio solutio aereacetum congelatio lapis aperio spiritualis reddo
+perfectus calleo uerus ars multiplico acetum distillo reddo instar oleum clarus durus massa uolo compingo sol decorporo  star sanguis rubrum unicus solutio congelatio misceo furnus secrentum leuis ignis massa ruber decoquo
+scio uiriditas latus nigredo nigredo albedo deus creo intrinsecus extrinsecus perfectus rubedo contineo
+rubrus intrinsecus albus infinitus intericio color
+lapis extrinsecus intrinsecus medium res proiicio perfectus opus exerceo intrinsecus extrinsecus muto
+s]siluer[/s intrinsecus bonus clarus ruber
+lapis proicio intrinsecus albus prouoco facio s]siluer[/s albus clarus rubedo compello
+metallum tingo contineo rubrus albus lapeus tingo do facio metallum opus habeo
+lapis metallum occulto tingo ferus elicio uegeto facio
+annus radius semen figo odor color gustus infundo semen lateo concludo lux actus prodo fructus semen emersuro radia calefacio penetro
+proprius corpus impertio
+deus res creo includo opus habeo insum tinctura adiumentum indigeo medicina ctio morbus pro-s fligatio alienus habeo opus uegetabilis animal mineralis opus
+opus deus perfectus absum creo deus perfectio res indigeo
+perfectio accedo simplicis supremus finis terminus paucior color habeo
+extremus superior finis deus ordino peruenio habeo tingo color appareo uis facultas complector
 materia soluo
-materia lapis sol Lapide Philos
-uo uenio operatio balneum facio leo uiridis uerto soluo debeo aqua ros Maius soluo humidus solutum euapus aqua seruus euapus humiditas consumpio superficies pellicula obtegi incipio uas refrigero cella frigidus humidus collocum materia instar sal petra alumi lapillus congelabior exempio reliquus euapus congela facio totus materia tuus lapillus habeo omnis phiala imposio cineris calidus collocum aqua conuerto euapus habeo puluer albus oratio dominicus reuerberatorium paucus calor rubeo aqua distillo solue clarus filtrus extrahe continuus subtilis seruus
-deus benedictus seculum Amen
-Quaestiones Responsiones Philosophicae B. Portus Maria Aquitani
-Mercurii praeparatio philosophicus obscuritas plumbea totus tollo translucidus clarus transparo reddo
-
+uo uenio operatio balneum facio leo uiridis uerto soleo debeo aqua ros maius soluo humidus soluo euaporo aqua seruus euaporo humiditas consumo superficies pellicula obtego incipio uas refrigero cella frigidus humidus colloco materia instar sal petra alumen lapillus congelo eximo euaporo congelum facio materia lapillus abeo phiala impono cinis calidus colloco aqua conuerto euaporo habeo puluis albus oratio dominicus reuerberatorius calor rubeo aqua distillatus clarus filtrus extraho continuus subtilis seruus
+deus benedictus seculus
+maria aquitani
+mercurius praeparatio philosophicus obscuritas plumbea tollo translucidus clarus transpareo reddo
 terra grauitas nimius substraho
 nimius terrestreitas aqueitas impedio uis
-
 ignis uolatilitas tollo
 superfluus s]mercury[/s impedio perfectio
-Etsic depuratio perars facio sal philosophus
-abluo salis acetum philosophus
-superfluus natura remouo absentia supplo
-Quaestio
-mercurius ars corpus perfectus extraco suus corpus Mercurio uulgus commixtus uerus Quaest
-Eturespons
-philosophicus do coniunctio generatio Physicus lapis noster sufficiens firmus opinio
-Quaestio responsio
-corpus Mercurius efficio suus corpus sperma homo corpus suus nihilgenero semino locus natura paro locus conseruo genero locatum
-similis ago suus similis ignis ignis aqua aqua
-Mercurius sol calidus siccus
-sol passio actio
-homo gigno cupio oportet semino semen suus terra proprius corpus
-res omnis elementa suus proprius habeo matrex genero multiplico suus species
-sol proprius terra suus Mercurius possum multiplico Philosophicae
-genero corruptio
-aurum semino oportet conseruatio suus forma
+depuratio perars fio sal philosophus
+abluior sal acetum philosophus
+superfluus natura remoueo absentia suppleo
+quaestio
+mercurius ars corpus perfectus extraho corpus mercurius uulgus commisceo uerus philosophicus do coniunctio generatio physica lapis sufficio
+firmus opinio
+quaestio responsio
+corpus mercurius efficio corpus sperma homo corpus nihilgenero semino locus natura paro locus conseruo genero loco
+similis ago similis ignis  ignis aqua aqua
+mercurius sol calidus siccus
+sol
+passio actio
+homo gigno cupio oportet semino semen terra proprius corpus
+res elemento proprius habeo matrix genero multiplico species
+sol proprius terra mercurius possum multiplico genero corruptio
+aurum semino oportet conseruatio forma
 mercurius aurum forma aurum mercurius aurum corpus aurum habeo masculus masculus genero
 quaestio
-mercurius aurum iungo Mercurio uulgi commisco possum efficio generatio lapis
-Responsio
+mercurius aurum iungo mercurius uulgus commisceo possum efficio generatio lapis
+responsio
 ostendo masculus possum genero
 femella
-Mercurius habeo aqua femella
-iccirco par par habeo imperium
-res naturalis oportet perfectus generatio occurro agens pa- tio debitum subiectum dis- Quaest
-Respons pono mercurius sol mercurius uulgus iungo nihil ago maneo corpus morior terra terra aqua aqua
-Quaerunt summus indagatio Philosophus purissimus Mercurius substantia terra materia habeo
-sulphur natura semino putresco
-locus matrix habeo terra mulier semen conseruatum suus uir semen exspecto unio commisceao unus calidus siccus
-uero frigidus umidus humiditas frigiditas unus calor siccitas alter contempero
-certus tempus erumpet semino potentia materia forma specificus actus
-nullus qualitas possum ago omnis actio forma substantia pertineo
-principium efficiens
-natura operor
-Philosophicae
+mercurius habeo aqua femella
+par paro habeo imperium
+res naturalis oportet perfectus generatio occurro ago pa- tieo debeo subiectum  pono
+mercurius sol mercurius uulgus iungo ago maneo corpus morior
+terra terra aqua aqua
+quaero summus indagatio philosophi purissimus mercurius substantia terra materia habeo
+sulphur natura semino
+putresco
+locus matrix habeo terra mulier semen conseruo uir semen expectans
+unio commisceo calidus siccus
+frigidus  humiditas frigiditas calor siccitas contempero
+certus tempus erumpo semino potentia materia forma specificus actus
+qualitas possum ago
+actio forma substantia pertineo
+principium efficio
 responsio siueratio
 natura operor cir- retrocedo sem- procedo redeo modus
-semino unus granum procedo natura multiplico unus modus
-natura soluo corpus uirtus seminarium destruo multiplico auo
-ars facio possum ars uinculum natura res frango frango necessarioseminarius uirtus res euanesco
-natura uinculum suus natura similis soluo
-soluo minarius uirtus cresco aer accipio moueo incipio
-ars mercurius corpus facien- do uinculum natura frango frango uirtus seminarium uinculum spiritus uegetabilis ignis naturalis colligo corpus spiritus euanesco mercurius sol commistus corpus suus nihil genero
-expression ars natura uinculum frango
-m natura uinculum suus natura soluo
-m Mercurius aurum uiuus
-Quaest
-Respons
-licet curro corpus anima spiritus consequor morior maneo
-artifex molior sublimo uiuus pristinus corpus reduco luna intellego
-Elixir multiplico mercurio procreo impono absolutus opus sapientus pondus uirtus quantitas multiplicabitur
-meus opinio uerus iudicium inuincibilis probo
-Penotus Portus Aquitanus
-M. D. Mercurio
+semino granum procedo natura multiplico modus
+natura soleo corpus uirtus seminarium
+destruo multiplico auco
+ars facio possum ars uinculum natura res frango frango necessarioseminaria uirtus res euanesco
+natura uinculum natura similis soleo
+solutus minarius uirtus cresco aer accipio moueo incipio
+ars mercurius corpus facien- do uinculum natura frango
+frangendus uirtus seminarium uinculum spiritus uegetabilis ignis naturalis colligo corpus spiritus euanesco mercurius sol commistus corpus genero
+curro corpus anima spiritus consequor mortuus maneo
+artifex molior sublimo uiuus pristinus corpus reduco
+luna intellego
+elixir multiplico mercurius procreo impono absolutus opus sapiens pondus uirtus quantitas multiplico
+opinio uerus iudicium inuincibilis probo
+penotus portus aquitanus
+mercurius
 terra impedio germino frigus magnus
-calor magnus humiditas magnus
-Mulieres sterilis modus fio nimius humiditas laxo matrix semen defluo retineo
-nimius siccitas aresco Philosophicae
-scio semen germino habeo
-Noster Mercurius habeo respectus supradictus terra fertilis cupo excolo oportet purgo aro excolo superfluus mundo nimius humiditas frigiditas siccitas libero semen uelio semino centuplum affero
-par modus sterilis mulier uelio fertilis reddo matrix tenperantia conor restituo
-uir conor proles gigneo laboro
-exemplum philosophus natura imitor oportet terra uirgo pareo mundo calefacio suus superfluitas peccatum originalis suus primus parens contraho lauo purifico redimo opus cium facio superfluus demo absentia suppleo
-Mercurio superfluus dico
-dico terra Adam labor omnis expression Quaest
-Respons maledico consequor mors obnoxius redemptio opus habeo
-Nullus coinquino abominatio facio ingredior paradisus prior ignis aqua mundo regenereo inquam Christus oportet homo renascor senex regnum coelestis particeps
-terra semino aurum philosophus Mercurius
+calor maximus humiditas maximus
+mulier sterilis modus facio nimius humiditas laxo matrix semen defluo retineo
+nimius siccitas aresco semen germino habeo
+mercurius habeo respectus supradictus terra fertilis cupio excolo oportet purgandus aro excolo superfluo mundo nimius humiditas frigiditas siccitas libero semen uolo semino centuplum affero
+par modus sterilis mulier uolo fertilis reddo matrix tenperantia conor restituo
+uir conor proles gigno laboro
+exemplum philosophus natura imitor oportet terra uirgo pareo mundo calefacio superfluitatis peccatum originalis primus parens contraho lauo purifico redimo opus cium facio superfluus demo absentia suppleo
+mercurius superfluus dico
+dico terra adam lapsus maledictum consequor mors obnoxius redemptio opus habeo
+coinquino abominatio facio ingredior paradisus ignis aqua mundo regenero inquam christus oportet homo renascor senex regnum coelestis particeps
+terra semino aurum philosophus mercurius
 nomen insignio necesse dico mundo excalefio
-multas fluitas habeo dema nihil efficio
-Exalta morior mors suus contaminao suus frater uiuifico
-interficio oportet res extraneus proprietas philosophus pono suus liber
-uoco sublimatio salis opus necessarius
-nullus facio acceptabilis sacrificium
-fio purus substantia elicio
-habeo spiritus Philosophicae
-spiritus quintus essentia impraegnatis so fio
-seruum Deus adoro subdo tempus uita tuus
-uirgo terra habeo maritus conuenio Regina Saba rex dyademas corono oportet accipio
-coelestem sol caeterus corpus splendor suus communico uideo sol terrenus mineralis facio coelum suus conueniens pono
-Regina Saba uoco uenio finis terra uideo gloria Salomon Mercurius noster relinquo proprius suus terra induo pulcherrimis candidus uestimentus Salomon submideo extraneus immundus
-philosophicus opus noster intelligo scriptum librum lectio intelligo uerus uelim nolo fateor cogo diuersus ars uia ars obtenebrao
-K Quaest
-Resp
-Phil
-inextricabilis labyrintho extrico
-nihil res natura abditus inferus familio manifestus
-deus timeo age
-Felix facio alienus periculum cautum
-B. Portus sanctus Maria
-Author Epigramma
-cupio Medica foelix uersarier ars sacer Alchymicus mysticus nosco chorus lego relego
-multus aenigma multus Apperiet nocuus effugio dolus aurum argentum fixus fluido metallum uis sanandis do corpus Discet
-medicus Chymicus lithereunus aeger Spemetet uotum uberus suus
-multus multus studium quaesiueo inanis Debebit studium Penote tuus
-thomas morauius Scotus
-Humanus Lector
-Hipocrates uniuersalis praeceptum breuius paucus medicinus scribo
+fluitas secus habeo demo efficio
+exalto morior mors contamino frater uiuifico
+interficio oportet res extraneus proprietas philosophus pono liber
+uoco sublimatio sal opus necessarius
+facio acceptabilis sacrificium
+fio purissimus substantia elicio
+habeo spiritus quintus essentia impraegnao satur fio
+seruus deus adoro subdo tempus uita
+uirgo terra habeo do maritus conuenio regina saba rex dyademas corono oportet accipiendus
+coelestis sol caeterus corpus splendor communico uideo sol terrenus mineralis facio coelus conuenio pono
+regina saba uoco uenio finis terra uideo gloria salomon mercurius relinquo proprius terra induo pulcherrimus candidus uestimentum salomon submitto extraneus immundus
+philosophicus opus intellego scribo liber lectio intellego uerus uolo nolo fateor cogo diuersus ars uia ars obtenebro
+semet inextricabilis labyrinthus extrico
+res natura abdiueo inferior familiaris manifestus
+deus timeo ago
+felix facio alienus periculum cautum
+portus sanctus maria
+cupio medica foelix uersariers ars sacer alchymicus mysticus nosco chor lego relego
+aenigma  nocuus effugio dolus
+aurum argentum figo fluidus metallum uis sano datum corpus disco
+medicus chymicus  lithereunus aeger spemeto uotum uberior
+studium quaero inanis debeo studium peanote
+thomas morauius scotus
+uniuersalis praeceptum breuius medicina scribo
 uniuersalis scientia
-Uersari particularis ars nullus finis
-Quicun scribo possum uniuersalis praeceptum singularis indiuiduus accommodo scribo laudo
-cano
-uniuersalis regula lapis opus physicus medius attuli depictam ars conspicio modus acris iudicium diligentia meditor
-laus Iesus Christus fruor
-ualis
-G. P. aportus
-K Metalla discrepo
-Regula seu Canones
-Corpus suus compositio differo argentum uiuus genero
-modus purus impur sulphur mundus immundus
-argentum uiuus coagulo sulphur purus uis igneitas simplex aurum
+uersor particularis ars finis
+scribo possum uniuersalis praeceptum singularis indiuiduus accommodo scribendus laudandus
+canon
+uniuersalis regula lapis opus physicus medius affero depingo ars conspicio acer iudicium diligentia meditor
+laus iesus christus fruor
+ualeo
+p. aportus
+philosophicus luius
+corpus compositio differo argentum uiuus genero
+modus purus impurus sulphur mundus immundus
+argentum uiuum coagulo sulphur purus uis igneitas simplex aurum
 sulphur debilis mercurus bonus substantia conuerto
-argentum uiuus ponderosus terreus immundus sulphur immundus foetidus terreus substantia facio ferrum
+argentum uiuum ponderosus terreus immundus sulphur immundus terreus  substantia facio ferrum
 differo corpus metallicus argentum uiuus insum sulphur extraneus aduro
-multus quantitas sulphur imperfectio multus quantitas mercurius perfectio
-sulphur comburo comburo perfectio omnis opus impedio
-Duplex perfectio imperfectio me- tall
-Lapide
-duplex sulphur uiuus uro
-sulphur uiuus simplex cau- sat aurum argentum nihil uapor calidus siccus uapor calidus siccus geneto purus siccitas terrester siccitas praedomino ignis
-sulphur simplex gaudeo cohaereo merscurium simplex mundus
-sulphur uulgi inficio denigro corrumpo modus artificium paro sulphur philosophus
+quantitas sulphur imperfectio quantitas mercurius perfectio
+sulphur comburo comburo perfectio opus impedio
+duplex sulphur uiuum uro
+sulphur uiuum simplex sat aurum argentum uapor calidus siccus uapor calidus siccus geneto purissimus siccitas terrestris siccitas praedominor ignis
+sulphur simplex gaudeo cohaereo merscurio simplex mundus
+sulphur uulgus inficio denigro corrumpo modus artificium paro sulphur philosophus
 sulphur philosophus ignis simplex uiuus corpus uiuifico maturo
-superfluus maturitas artificium de- puratus
-omnis philosophus intentio perficio bonus
-Mercurius crudus aqua clarus initium facio appeto corrodo aurum argentum suus Aurum argentum uiuus sulphur simplex causo
-m sulphur simplex
-m Sulphur philosophus
-m lis mercurius praesto
-Canones Luii
-natura uicinium mercurius corpus congelatus praesto possum
+maturitas artificium de- puratus
+philosophus intentio perficio melior
+mercurius crudus aqua clarus initium facio appeto corrodo aurum argentum natura uicinia mercurius corpus congelo praesto possum
 compositum separo necesse separatio mors
-solus ignis simplex tenuissimus creo bibo dormio comedo spissus ignis creo habeo
+ignis simplex tenuissimus creo bibo dormio comedo spissus ignis creo habeo
 uarius creatura conspicio
-elementum inimicus elementum creo unus natura conuenio Deus potestas unio copulo pacen perpetuus obseruo
-compositio duplix complexio unaenim humidus alter uerus sicco Plures uia ars inuestigo uia philosophus redunxo uniuersalis particularis
-particularis uia facio aquasiccus medio minera uoco
-multiplico mercurius uulgus additio
-nullus facio proiectio
-Minus philosophicus
-Aqua defacio
-Quareuocor lapis philosophus
-m Pondera noto
-m superius inferus
-Lapide Philos
-Uniuersalis multiplico titudo spiritus aqua madefacio manus paucus cognosco
-aes incido aqua dico fermentum aurum facio aqua coquo congelo
+elementum inimicus elementum creo natura conuenio deus potestas unio copulo  perpetuus obseruo
+compositio duplex complexio humidus siccus uia ars inuestigo uia philosophus reduco uniuersalis particularis
+particularis uia facio aquasicca medio minera uoco
+multiplico mercurium uulgus additio
+facio proiectio
+uniuersalis multiplico titudo spiritus aqua madefacio manus cognosco
+aes incidens aqua dico fermentum aurum fio aqua coquo congelo
 appareo rubedo
-aes coquo fio
-coquo inspisso lapis facio omnis tallum superemineo
-nomen lapi dis philosophus sortitus
+aes coquo facio
+coquo inspisso lapis fio tallum superemineo
+nomen lapio s philosophus sortitus
 aqua dico uerus dico
 aqua nego nego
-pluralitas nomen decipiaris
-Oportet aes noster accus po pars unus aqua permano aes uoco pars totus magisterium facio inferus
-infra facio coquo plumbum aer fluo fermentum principium medius finis adhibeo tingo cera fluo
-Aqua puluis uersus Canones Luii
-Nihil expedio aqua uapor sublimo fio uideritis natura purifico aqua facio totus corpus magnesia aqua liquefactus omnis uapor facio uapor contineo suus compar
-philosophus uapor nomino decoctio iungo unus alter contineo fugio permitto permano facio
-Ueteres opus dico iungo nonnullus uoco compositum insum siccitas humiditas spiritus uapor
-dubito aqua puluis facio oportet corpus aqua aqua cado aqua facio aqua aqua aqua misceo unus fio
-Ignari audio aqua nomen puto aqua nubes liber philosophus intelligo scio Lapide
-aqua permano
-suus comparis facio unus permaneo possum
-aqua uoco aqua aurum ignis uenenum bonum arena nigredo omnis pluralitas di- mitto
-Natura res unus contentus
-Coquite coquite lenis ignis liquefio aqua uerto calor aqua totus aqua fio
-aqua uertas opus preciosus peruenio
-teo corpus debilis facio aqua aqua facio totus aqua
-uideo homo compositio anima corpus oportet coniungo commixtio philosophus comparo coniugibus amplexus resulto aqua aureus
-aes concipio argentum uiuus coagulo argentum uiuus concipio aes congelo terra lenus ignis
-scitote argentum uiuus ignis aqua Iohannes Pontani opus ignis
-terra aqua aqua terra
-Nota intellego mercurium ma[unclear madefacio
-m compositio lapis duplex
-Canones Luii
-omnis corpus comburo ignis corpus mortifico
-Argentum uiuus argentum uiuus suus genus iungio arcanum habeo
-aes uoco nummus
-Nigredo philosophus plumbus uoco
-Duplex compositio unus humidus alter siccus coquo facio unus nomino plurimus nomen rubrus facio aurum flos aurum fermentum collum aurum sulphur rubrus auripigmentum
-crudus permaneo plumbus aer uirga metallus lamina dico
-Res fio natura homo homo leo leon medicinus curao metalla quaero origo metallum
-species suus genus tingo metalla aqua simplex elementalis reduco estsic intellego simplex nihil facio compositum
-natura uis insitus res similib
-similis procreo cunctus res augeo Lapide Philos
-augeo alo
+pluralitas nomen decipio
+oportet aer accio pars aqua permaneo aes uoco pars magisterium facio inferior
+facio coquo plumbum aer fluo fermento principium medius finis adhibeo tingo cera fluo
+expedio aqua uapor sublimo fio uideo natura purifico aqua facio corpus magnesia aqua liquefacio uapor facio uapor contineo compar
+philosophi uapor nomino decoctio iungo contineo fugio permitto permaneo facio
+uetus opus dico iunctus uoco compositum insum siccitas humiditas spiritus uapor
+dubito aqua puluis facio oportet corpus aqua aqua cado aqua fio aqua aqua aqua misceo fio
+ audio aqua nomen puto aqua nubes liber philosophus intellego scio aqua permaneo
+compar facio permaneo possum
+aqua uoco aqua aurum ignis uenenum bonum arena nigredo pluralitas di- mitto
+natura res contentus
+coquo coquo lenus ignis liquefacio aqua uerto calor aqua aqua fio
+aqua uerto opus preciosus peruenio
+to corpus debilis fio aqua aqua fio aqua
+nonne uideo homo compositio anima corpus oportet coniungo commixtio philosophus comparo coniunx amplexus resulto aqua aureus
+aes concipio argentum uiuum coagulo argentum uiuum concipio aes congelo terra lenissimus ignis
+scio argentum uiuum ignis corpus comburo ignis corpus mortifico
+argentum uiuum argentum uiuus genus iungo arcanus habeo
+uoco nummus
+nigredo philosophus plumbum uoco
+duplex compositio humidus siccus coquo facio nomino nomen
+rubrum fio aurum flos aurum fermentum collum aurum sulphur rubrus auripigmentum
+crudus permaneo plumbum aer uirga metallum lamina dico
+res facio natura homo homo leo leo medicina curo metallum quaero origo metallum
+species genus tingo metallum aqua simplex elementalis reduco intellego simplex facio compositus
+natura uis insero res similibus
+similis procreo res augeo alo
 deus natura natura deus deus orior proximus
-natura Mercurialis pascor nutro uis animal planta semoueo res quicun qui sequor corruptio mors fermentum uita existentia res uniuersus
-ignis philosophus aqua sciuo ignis ignis mercurius mercurius coniungo sufficio
-Argentum uiuus spiritus dico aqua permaneo acetum menstruus nomen
-spiritus aqua elyxir albedi- nis rubedin tinctura spiri- tus tingo aqua metallicus perfun
-do corpus uiuifico
-corpus recipio tinctura spiritus
-fixo spiritus ficto incremabilis nomino sulphur philosophus
-Cauendum spiritus corpus exsicco corpus exsiccao fio uolatilis
+natura mercurialis pasco nutrio uis animal planta semoueo res sequor corruptio mors fermentum uita existentia res uniuersus
+ignis philosophus aqua scio ignis ignis mercurius mercurius coniungo sufficio
+argentum uiuum spiritus dico aqua permaneo acetum menstruum nomen
+spiritus aqua elyxirs nus rubedo tinctura spiri- tus tingo aqua metallicus 
+dens corpus uiuifico
+corpus recipio tingo spiritus
+fixo spiritus figo incremabilis nomino sulphur philosophus
+cauo spiritus corpus exsicco corpus exsicco fio uolatilis
 euolo corpus corpus perfectus possum
-m]spiritus tinctura corpus tingens.[/ms unctuosus uiscosum.[/ms m]notatus dignissimum.[/ms m]signus
-certus perfectus operationis.[/ms Canones Luii
-lungo humidus siccus laeto umidus spiritus anima
-siccus dico terra corpus morior
-Notandum unctuosus uiscosus
-humidus uiscosus genero lapis unctuosum metallum genero
-ueritas ars Alchymia consisto coniungo humidus siccus
-humidus intellige spiritus liquidus omnis sordis mundo
-siccus intellige corpus perfectus purus calcino
-pars operatioconsto facio fixum uolatilis uolatilis figo spiritus fixo
-uideo principium opus granum rubra congelatio oculus piscis granum pipero scio iustus semita ambulo
+lungo humis siccus laeto
+ spiritus anima
+siccus dico terra corpus mortuus
+notandum unctuosus uiscosus
+humidus uiscosus genero lapis
+unctuosus metallum genero
+ueritas ars alchymia consisto coniungo humidus siccus
+humidus intellego spiritus liquidus sordes mundo
+siccus intellego corpus perfectus purus calcino
+pars operatioconsto facio figo uolatilis uolatilis figo spiritus fixo
+uideo principium opus granum ruber congelatio oculus piscis granum piperatus scio iustus semita ambulo
 laboro
-omnis actio generalis unus habeo tempus perficio termino
+actio generalis habeo tempus perficio termino
 actus motus operatio terminus
-m]medius mineralis opus eligenda.[/m Canones
-Luii
-uis elementum mineralis accipio accipio primus ulti!-s medius creo lapis
-uolo comedo capo pa-  dimitto farina uolo facio panis accipio farina dimitto triricus
-Separare elementum heterogenea segrego accidens
+uis elementum mineralis accipio accipio primus medius creo lapis
+uolo comedo capio no dimitto farina uolo facio panis accipio farina dimitto triricus
+ elementum heterogeneus segrego accidens
 elementum coniungo homogeneus cumulo
-natura umidus radicalis
-cauo spiritus corpus exicco facio uolatilis
-uas ars clauto totus uis exhalo generatio metal- li fumus metallum genero expirao genero metallum
-deus mundus constitutio permaneo uolo suus benignitas res aeternus cognitas prodeo esse
-principium essentia creo crudis linea mens ineffigeatus Mol Uas fr
-unclears occludo unclears necesse
-deus essentia
-anima mundus uoco initium creo
-Extractio terra inanis uacuus appello abyssus aqua
-anaxagoras chaos spiritus quaero
-deus omnis impleo imago omnis natura multiplicis ratio creatura suus annecto omnis deus laus honor glotia lesus Christus
-Mercurii Argenti Uiui Auro Uera Extractio celebri generosus dominus Bohemus habeo offero
-Geber Rex Arabus solertissimus res naturalis indagator aio
-Totus res thesaurus calcinatio
-uetus aqua fortis caro uiolentissimo ignis res omnis calx reduco
-uiter inuentio orior
-tempus uia breuus compendiosus inuenio Merc
-Auro
-acr metallum calcino uideo licet recipio
-Calcinatio aurum praestantus
-s]recipe[/s aqua rex dissolue
-accipio aqua communis purus solue tarta calcino uis paruus quantitas sufficio guttando facio cado aurum fundus facio
-notus oportet uas dissolutio amplus aqua tarto unus uicis infundo euolo totus cauo
-totus calx fundus oportet dulcifico aqua calidus ligneus uasculum mundus politus exsicco calor adhibio facio abeo aura magnus sonitus strepitus instar puluis tormentarius unicus atomus reperio possum accido
-exsiccal Error facio Res audio
-m Historia notatus dignus
-Extractio argenteum paruus cochlearis tabula uitreus calor uerem concipio flamma similis sonitus edido magnus sclopetum explosus auditus ademo
-totus disperto omnis attigo rumpo frango
-ago ligneus spatula moueo magnus securitas gratia
-exsicco oportet addo sulphur communis arbitrium contero crusibulum pono perluto superpono cooperculus paruus foramen habeo flamma sulphuris exeo queo
-peraco do ignis circulus exuro
-magnus perfectio aurum exustum reuerbero
-calx delico pulchrus color altus brunitas tendo paris uideo
-Mer mercur
-Auro
-Mercurii aurum extractio aurum cristallum reduco oportet modus
-s]recipe[/s Salis nitrum pars uitreolus flauedi calcino pars unus facio aqua fortis
-aqua fortis recipio sal armeniax uncia soluo aqua fortis aqua rex
-Oportet salis armeniacus sal munis fundo sublimo aurum aggredior soluo aqua rex dissol aurum placeo abstrahe aqua medietas uas refrigero materia fio cristallus pondero cristallus addo sal communis fusi conto superfunde nouus aqua fortis rex extrahe bonus aqua debilis facio suus uis amitto abstrahre totus aqua siccitas
-quintus essentia uinum tartarus Lucius Prepara- tio sal
-mercur
-Auri
-albedo calcino rubedo extraho sufficio sinas digestio bonus
-abstrahe extremus ignis uehemens pellis ascendo pulcherrimus puluisculus flauus color reuiuifico
-unus pars misceo pars tarto calcino sublimo mor ascendo aurum mercurius uiuus
-Habes Candide lector uerus mercurius aurum extractio
-Nobilis accipio pars supradictus mercurius pars unus calx aurum coquo
-s]mercury[/s soluo adhaerebat suus corpus
+natura humidus radicalis
+cauo spiritus corpus exicco fio uolatilis
+uas ars claudo uis exhalo generatio metal- fumus metallum genero expiro genero metallum
+deus mundus constitutio permaneo uolo benignitas res aeterno cognosco prodeo sum
+principium essentia creo crudus linea mens ineffigeata moses terra inanis uacuus appello abyssus aqua
+anaxagoras chea spiritus quaero
+deus impleo imago natura multiplex ratio creatura annecto deus
+laus honus glotia lesus christus
+ctio celeber generosus dominus bohemus habeo offero
+ rex solertus res naturalis indagator aio
+res thesaurus calcinatio
+uetus aqua fortis careo uiolentissimus ignis res calx reduco
+uitrum inuentio orior
+tempus uia breuus compendiosus inuenio acer metallum calcino uideo recipio
+calcinatio aurum praestantissimus
+s]recipe[/s aqua rex dissoluo aut
+accipio aqua communis purus tarta calcino uio paruus quantitas sufficio gutto facio cado aurum fundus facio
+notus oportet uas dissolutio amplus aqua tarto uicis infundo euolo cauo
+calx fundus oportet dulcifico aqua calidus ligneus uasculum mundus exsicco calor adhibeo fio abeo aura maximus sonitus strepitus instar puluis tormentarium unicus atomus reperio possum accido
+exsicco argenteus paruus cochlear tabula uitreus calor moitulum uero concipio flamma similis sonitus edo magnus sclopetum explodo
+audio penis ademeo
+disperdo attingo rumpo frango
+ago ligneus spatula moueo maior securitas gratia
+exsicco oportet addo sulphur communis quantumuis arbitrium
+contero crusibulum pono perluto superpono cooperculum paruus foramen habeo flamma sulphur exeo queo
+perago do ignis circulus exuro
+nota maior perfectio aurum  reuerbero
+calx delicatus pulcher color altus brunitas tendo paro uideo
+mercurius aurum extractio
+aurum cristallum reduco oportet modus
+s]recipe[/s sal nitrum pars uitreolus flauedi calcino pars facio aqua fortis 
+aqua fortis recipio salum armeniacum uncia soluo aqua fortis aqua rex
+oportet sal armeniacum sal munis fundo sublimo aurum aggredior soluo aqua rex dissola aurum placeo abstraho aqua medietas uas refrigero materia fio cristallum pondero cristallum addo salis communis fusus contero nouus aqua fortis rex extraho aqua debilis fio uis amitto abstraho aqua siccitas
+quintus essentia uinum tartarus albedo  rubedo extraho sufficio sino digestio
+abstraho extremus ignis uehementissimus pellis ascendo pulcherrimus puluisculus flo color reuiuifico
+pars misceo pars tarto calcino sublimo mos ascendo aurum mercurius uiuus
+habeo candidus lector uerus mercurius aurum extractio
+nobilis accipio pars supradictus mercurius pars calx aurum coquo
+s]mercury[/s soluo adhaereo corpus
 
 ratio pono quaestio
-Breui multus Deus uolo do tractatus aqua tingo Alter aqua mercurialis metallum mercurius curro muto
-Uale deus Time
-Uirtus posuere deus sudor paro
-Finis
-Errata corrigito
-dialogus cap
-pag
+breuis deus uolo do tractatus aqua tingo aqua mercurialis metallum mercurius curro muto
+ualeo deus timeo
+uirtus pono deus sudor parandus
+dialogus capitulum
+pagio
 linea
-prouen lex prouenio
-pag
-lin
+prouentus lex prouenio
+pagio
+linesis
 reincendo
-lex reincrudere
-pag
-l.
+lex reincrudo
+pagio
+
+lex la
+pagio
+linesis
+lex uir dico ago
+p.
+
 lex
-pag
-lin
-lex uir dico agens
+p.
 
-l.
-lex
-
-l.
-margo lex unus
-
+margo lex
+p.
 
 respectus lex respectus
+p.
 
-l.
 lex frigidus siccus
+p.
 
-l.
-lex calidus humidus
-
-l.
-deme
+lex calidus 
+p.
 
 
+p.
+i.22
 sors lex
+p.
+ultimus
+arbitror lex arbitror
+p.
 
-l. ult arbitror lex arbitror
+debilito lex debilito
+p.
 
-l.
-debilitatus lex debilito
+conuenio lex conuenio
+p.
 
-l. conuenio lex conuenio
+uir lex
+p.
 
-l.
-uirus lex unus
-
-l.
 sanguis lex sanguis
-uitriolus lex uitriolum
+uitriolum lex uitriolum
+p.
+i.3
+ tempus lex
 
-I.3
-demo tempus lex
 
-l. descendo lex descendo
+descendo lex descendo
+p.
 
-l.
-Ordulanus lex Ortulanus
+ordulanus lex ortulanus
 
-l.
-sal possum delis
+
+sal possum deleo

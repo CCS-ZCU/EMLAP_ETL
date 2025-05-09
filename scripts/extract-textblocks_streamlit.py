@@ -208,7 +208,9 @@ params = {"header_width_proportion_max" : 0.8,
 #%%
 source_dir = "/srv/data/tome/tome-corpus/emlap_raw_2025-04-08/"
 
-dest_dir = "/srv/data/tome/tome-corpus/emlap_annotated_textblocks/"
+#dest_dir = "/srv/data/tome/tome-corpus/emlap_annotated_textblocks/"
+dest_dir = "/srv/data/tome/tome-corpus/emlap_annotated_tests/"
+
 
 try:
     os.mkdir(dest_dir)
