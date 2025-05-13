@@ -1,0 +1,5020 @@
+[
+  [],
+  [],
+  [],
+  [
+    {
+      "coordinates": {
+        "upper_left_x": 0.14964706036223083,
+        "upper_left_y": 0.19812827212227213,
+        "lower_right_x": 0.7856270413438813,
+        "lower_right_y": 0.20397150035142333
+      },
+      "text": "GE. PHAEDRO¬\n",
+      "tag": "title"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1298823508895746,
+        "upper_left_y": 0.24316388127922728,
+        "lower_right_x": 0.7985600832129727,
+        "lower_right_y": 0.24900710950837848
+      },
+      "text": "NIS RHODOCHEI MEDICI\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1770756312779018,
+        "upper_left_y": 0.27619948579693065,
+        "lower_right_x": 0.7467799082523634,
+        "lower_right_y": 0.28190020201041976
+      },
+      "text": "aquila coelestis siue correcta hydrar¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.24766386657201944,
+        "upper_left_y": 0.31011872280238645,
+        "lower_right_x": 0.6989038803998162,
+        "lower_right_y": 0.3158194208937983
+      },
+      "text": "yri praecipitatio, ad lo. Chi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.27105882147780985,
+        "upper_left_y": 0.342612839651221,
+        "lower_right_x": 0.6582988322282037,
+        "lower_right_y": 0.34831353774263285
+      },
+      "text": "lianum solertiss. Othen¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.3033277239118304,
+        "upper_left_y": 0.37599044401118986,
+        "lower_right_x": 0.6125088218881303,
+        "lower_right_y": 0.3818336903624184
+      },
+      "text": "rici Electoris Che¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.39408402643283874,
+        "upper_left_y": 0.40876958489134874,
+        "lower_right_x": 0.5314306435464811,
+        "lower_right_y": 0.4146128312425772
+      },
+      "text": "micum.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1746554591074711,
+        "upper_left_y": 0.6040190200624443,
+        "lower_right_x": 0.7709843483291754,
+        "lower_right_y": 0.6098622664136728
+      },
+      "text": "SCRIPTA INGOLSTADII\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.22467225659795168,
+        "upper_left_y": 0.6313824506383611,
+        "lower_right_x": 0.7276534393054097,
+        "lower_right_y": 0.637225660745435
+      },
+      "text": "Anno à salutaribus Meschia natalitijs\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.3485042027064732,
+        "upper_left_y": 0.660427501252598,
+        "lower_right_x": 0.5947696974297532,
+        "lower_right_y": 0.6661282718323189
+      },
+      "text": "M.D. LXII.\n",
+      "tag": "text"
+    }
+  ],
+  [
+    {
+      "coordinates": {
+        "upper_left_x": 0.20853781820345327,
+        "upper_left_y": 0.12601422923760855,
+        "lower_right_x": 0.8168145700663078,
+        "lower_right_y": 0.13185745746675975
+      },
+      "text": "AQVILAE COELESTIS ODE.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.21136134812811844,
+        "upper_left_y": 0.16047501733920352,
+        "lower_right_x": 0.7975068933823529,
+        "lower_right_y": 0.16617573355269263
+      },
+      "text": "INclyta quae summi quondam louis ales habebar,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.3593949518283876,
+        "upper_left_y": 0.18701182748246362,
+        "lower_right_x": 0.5831648626247374,
+        "lower_right_y": 0.19285505571161482
+      },
+      "text": "Delitiaeque Deùm,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.19321008249491203,
+        "upper_left_y": 0.21577192655368543,
+        "lower_right_x": 0.7089540625820641,
+        "lower_right_y": 0.22147264276717452
+      },
+      "text": "Et nitida coeli gemmantis in arce morabar.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.35294117647058826,
+        "upper_left_y": 0.24059852002069107,
+        "lower_right_x": 0.6260880670627627,
+        "lower_right_y": 0.24644174824984227
+      },
+      "text": "A ethereoue choro.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.19321008249491203,
+        "upper_left_y": 0.27021376367419464,
+        "lower_right_x": 0.6799869312959559,
+        "lower_right_y": 0.2759144798876837
+      },
+      "text": "Sedibus exturbata meis ergastula terrae\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.3577815208114496,
+        "upper_left_y": 0.2958954292351729,
+        "lower_right_x": 0.6361179896763393,
+        "lower_right_y": 0.30173865746432416
+      },
+      "text": "Nunc peregrina colo,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20006722842945773,
+        "upper_left_y": 0.32496911273149864,
+        "lower_right_x": 0.6885087726496849,
+        "lower_right_y": 0.33081235908272716
+      },
+      "text": "Et data mancipio teneor seruilis acerba\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.3593949518283876,
+        "upper_left_y": 0.35119233844965486,
+        "lower_right_x": 0.5657362994025735,
+        "lower_right_y": 0.3570355848008833
+      },
+      "text": "Conditione iugi.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.19401681082589287,
+        "upper_left_y": 0.37998099791465634,
+        "lower_right_x": 0.7010460605140494,
+        "lower_right_y": 0.3858242442658848
+      },
+      "text": "Hinc mala tabisicae purgo contagia pestis\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.3593949518283876,
+        "upper_left_y": 0.40620425987696707,
+        "lower_right_x": 0.5949346975118173,
+        "lower_right_y": 0.4120475062281955
+      },
+      "text": "Aere fusa nouo:\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.19321008249491203,
+        "upper_left_y": 0.4361044913176403,
+        "lower_right_x": 0.7072181509322479,
+        "lower_right_y": 0.4418051894090521
+      },
+      "text": "Hydropis cor diri uacuo squalentia stagna\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.35092437487690387,
+        "upper_left_y": 0.4617577052173025,
+        "lower_right_x": 0.6032691763228729,
+        "lower_right_y": 0.46745840330871435
+      },
+      "text": "Sordifluosque lacus:\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.19684034075055803,
+        "upper_left_y": 0.49057478009946553,
+        "lower_right_x": 0.7191110306427259,
+        "lower_right_y": 0.49641802645069405
+      },
+      "text": "Chiragrae uarios motus, tophosque podagrae\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.35455463313254987,
+        "upper_left_y": 0.5156579459364794,
+        "lower_right_x": 0.6190865140001313,
+        "lower_right_y": 0.5215011922877079
+      },
+      "text": "Vindice soluo manu:\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1956302546653427,
+        "upper_left_y": 0.545301641251299,
+        "lower_right_x": 0.6677413299304097,
+        "lower_right_y": 0.5511448876025274
+      },
+      "text": "Etque callosts figit nigricantia labris\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.36060503791360293,
+        "upper_left_y": 0.5714964153081391,
+        "lower_right_x": 0.63460580521271,
+        "lower_right_y": 0.5771971133995509
+      },
+      "text": "Vlcera cancer edax:\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1964369701738117,
+        "upper_left_y": 0.5997434421276536,
+        "lower_right_x": 0.7053549886751576,
+        "lower_right_y": 0.6055866884788821
+      },
+      "text": "Rosto quosue simis affatim pure fluentes\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.36060503791360293,
+        "upper_left_y": 0.6262518006095977,
+        "lower_right_x": 0.6234989454766281,
+        "lower_right_y": 0.6320950107166716
+      },
+      "text": "Mecta Syringis agit.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20773108987247244,
+        "upper_left_y": 0.6547268031611861,
+        "lower_right_x": 0.7596997685793068,
+        "lower_right_y": 0.6604275737409071
+      },
+      "text": "Quisquis es idcirco prudens felicibus Horis\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.3666554683396796,
+        "upper_left_y": 0.6803799808166939,
+        "lower_right_x": 0.6266575917476366,
+        "lower_right_y": 0.6860807513964148
+      },
+      "text": "Contrahe uela rogo,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1956302546653427,
+        "upper_left_y": 0.7091685677933863,
+        "lower_right_x": 0.7218437643612132,
+        "lower_right_y": 0.7148693383731072
+      },
+      "text": "Nec laxa nimium, medio cum tramite recti\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.35616806414948793,
+        "upper_left_y": 0.7359905469445888,
+        "lower_right_x": 0.6006262001871061,
+        "lower_right_y": 0.7418337570516627
+      },
+      "text": "Rectius ire queas.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1992605000984769,
+        "upper_left_y": 0.7647791339212812,
+        "lower_right_x": 0.7561135684742647,
+        "lower_right_y": 0.770622344028355
+      },
+      "text": "Nam plerunque graues casus excelsa minantur,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.35697477965795693,
+        "upper_left_y": 0.7909737992456577,
+        "lower_right_x": 0.6815039883140757,
+        "lower_right_y": 0.7966745698253785
+      },
+      "text": "Magnaque probra ferunt,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20611764603302257,
+        "upper_left_y": 0.8203325067733076,
+        "lower_right_x": 0.7643144880022321,
+        "lower_right_y": 0.8260332773530285
+      },
+      "text": "Et quae semper iniqua fuit mibi sors, tibi fortè\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.36907564051011027,
+        "upper_left_y": 0.847980925136394,
+        "lower_right_x": 0.6406734690946692,
+        "lower_right_y": 0.8536816957161149
+      },
+      "text": "A equior esse potest.\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": {
+        "upper_left_x": 0.18554622105189733,
+        "upper_left_y": 0.14824704602891645,
+        "lower_right_x": 0.822911264115021,
+        "lower_right_y": 0.15409026519702904
+      },
+      "text": "GE.PHAEDRO¬\n",
+      "tag": "title"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.17949580344833246,
+        "upper_left_y": 0.19382420628201083,
+        "lower_right_x": 0.8400016207654937,
+        "lower_right_y": 0.1995249224954999
+      },
+      "text": "NIS RHODOCHAEI MEDICI\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2105546197971376,
+        "upper_left_y": 0.22663183506764029,
+        "lower_right_x": 0.784345815963104,
+        "lower_right_y": 0.2324750632967915
+      },
+      "text": "aquila coelestis siue correcta hydrar¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.36262183950728727,
+        "upper_left_y": 0.26080760819894966,
+        "lower_right_x": 0.6543074920397847,
+        "lower_right_y": 0.26650832441243877
+      },
+      "text": "gyri praecipitatio.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.4134453781512605,
+        "upper_left_y": 0.3255106728886765,
+        "lower_right_x": 0.5796766778000263,
+        "lower_right_y": 0.33121137098008835
+      },
+      "text": "CAP.I.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.4763697520023634,
+        "upper_left_y": 0.43439427464138586,
+        "lower_right_x": 0.8399012974330358,
+        "lower_right_y": 0.44009497273279763
+      },
+      "text": "CVM PRIMVM IN\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.45539494362198,
+        "upper_left_y": 0.4663182709392629,
+        "lower_right_x": 0.8347724465762868,
+        "lower_right_y": 0.47201896903067475
+      },
+      "text": "agro Ingolstadiensi vnà\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.45539494362198,
+        "upper_left_y": 0.49855577917393484,
+        "lower_right_x": 0.8290835084033613,
+        "lower_right_y": 0.5043990255251632
+      },
+      "text": "cum tua coniuge mo¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.44974790941767334,
+        "upper_left_y": 0.5333016366120472,
+        "lower_right_x": 0.8244126776687237,
+        "lower_right_y": 0.539002334703459
+      },
+      "text": "destissima, lo. Chiliane,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.4473277372472427,
+        "upper_left_y": 0.5649690967840707,
+        "lower_right_x": 0.8224522181919642,
+        "lower_right_y": 0.5708123431352992
+      },
+      "text": "me hospitem tàm cupi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.15690756405101103,
+        "upper_left_y": 0.5946127920988903,
+        "lower_right_x": 0.8348017331932773,
+        "lower_right_y": 0.6004560384501187
+      },
+      "text": "dè viseres, & librarios Othenrici Electoris\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.15690756405101103,
+        "upper_left_y": 0.6279620172858521,
+        "lower_right_x": 0.8383482860917805,
+        "lower_right_y": 0.6338052273929261
+      },
+      "text": "laudatissimi thesauros aperires, continuò\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.15690756405101103,
+        "upper_left_y": 0.6632778140541493,
+        "lower_right_x": 0.8345123547465861,
+        "lower_right_y": 0.6689785846338703
+      },
+      "text": "mihi placere cepit ingenuus candor tuus,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1516638619559152,
+        "upper_left_y": 0.6935202265578607,
+        "lower_right_x": 0.838813025210084,
+        "lower_right_y": 0.6993634366649347
+      },
+      "text": "rara fides, inexplicabilis taciturnitas. Vt\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1552941202115612,
+        "upper_left_y": 0.7262707345559308,
+        "lower_right_x": 0.8240641617975315,
+        "lower_right_y": 0.7319715051356517
+      },
+      "text": "autem vicissim meam in te tuosque beneuo¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.15852100789046086,
+        "upper_left_y": 0.7599049475300623,
+        "lower_right_x": 0.8360752137769171,
+        "lower_right_y": 0.7656057181097833
+      },
+      "text": "lentiam declararem munere aliquo vestris\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.15771427955948003,
+        "upper_left_y": 0.7947078170232705,
+        "lower_right_x": 0.8250972459296219,
+        "lower_right_y": 0.8005510271303444
+      },
+      "text": "digito virtutibus, non dicam reperire quicque\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.4884706128545168,
+        "upper_left_y": 0.8303372707049806,
+        "lower_right_x": 0.8305665601201419,
+        "lower_right_y": 0.8361804808120546
+      },
+      "text": "A ij hactenus,\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": {
+        "upper_left_x": 0.1891764664850315,
+        "upper_left_y": 0.12883611756095978,
+        "lower_right_x": 0.8813675567883403,
+        "lower_right_y": 0.13453682471341022
+      },
+      "text": "hactenus, sed ne optare quidem, aut etiam\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.18756302264558167,
+        "upper_left_y": 0.15936340911937721,
+        "lower_right_x": 0.8724048261882879,
+        "lower_right_y": 0.16520663734852842
+      },
+      "text": "cogitatione assidua informare potui. At\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.19845378459000787,
+        "upper_left_y": 0.19182896557443216,
+        "lower_right_x": 0.8680304006368172,
+        "lower_right_y": 0.19752968178792124
+      },
+      "text": "posteaquam nunci è stoecheomantia grauissi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.192403366986443,
+        "upper_left_y": 0.22463652187175254,
+        "lower_right_x": 0.8703288102350315,
+        "lower_right_y": 0.2304797501009037
+      },
+      "text": "mos hominum generi vniuerso morbos\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1960336124195772,
+        "upper_left_y": 0.25798571081455984,
+        "lower_right_x": 0.8644092207195379,
+        "lower_right_y": 0.263828939043711
+      },
+      "text": "autumno impendere videam, vt est pestis\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20450420219357274,
+        "upper_left_y": 0.29045126726961473,
+        "lower_right_x": 0.8690824620863971,
+        "lower_right_y": 0.29615198348310384
+      },
+      "text": "Epidemica, Hydrops desperatus, Arthritis\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1960336124195772,
+        "upper_left_y": 0.32380045621242204,
+        "lower_right_x": 0.871875,
+        "lower_right_y": 0.32950115430383387
+      },
+      "text": "tophacea, non committendum putaui, quin¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1960336124195772,
+        "upper_left_y": 0.35686462112390516,
+        "lower_right_x": 0.8732104902507878,
+        "lower_right_y": 0.36256531921531693
+      },
+      "text": "te amicum meum singularem antè ijs de\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.19764705625902704,
+        "upper_left_y": 0.38935866548443065,
+        "lower_right_x": 0.8645948906906512,
+        "lower_right_y": 0.3950593635758425
+      },
+      "text": "malis certiorem facerem, eorundemque de¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2069243743640034,
+        "upper_left_y": 0.42273630608855406,
+        "lower_right_x": 0.8630620363379727,
+        "lower_right_y": 0.4285795524397825
+      },
+      "text": "pellendorum rationem aliquam explica¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20006722842945773,
+        "upper_left_y": 0.45577194685041195,
+        "lower_right_x": 0.8640607561383928,
+        "lower_right_y": 0.4614726449418238
+      },
+      "text": "rem. Nam is qui omnium humanarum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20168067226890757,
+        "upper_left_y": 0.48798096717961326,
+        "lower_right_x": 0.8666452616202731,
+        "lower_right_y": 0.4936816652710251
+      },
+      "text": "actionum, & artis medicae finis est, nimi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20168067226890757,
+        "upper_left_y": 0.5207885597210882,
+        "lower_right_x": 0.8589727834493173,
+        "lower_right_y": 0.5266318060723166
+      },
+      "text": "rum ut DEVM Opt. Max. amemus &\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20531093052455357,
+        "upper_left_y": 0.5547077967265439,
+        "lower_right_x": 0.8654357397255777,
+        "lower_right_y": 0.5605510430777724
+      },
+      "text": "proximum quemque perinde ac nos ipsos.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20168067226890757,
+        "upper_left_y": 0.5857481967808232,
+        "lower_right_x": 0.8663483948266807,
+        "lower_right_y": 0.591448894872235
+      },
+      "text": "Idcircò, Io. Chiliane, aquilae coelestis prae¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20087394393792674,
+        "upper_left_y": 0.6190973494794759,
+        "lower_right_x": 0.8707937032234769,
+        "lower_right_y": 0.6247981200591969
+      },
+      "text": "paratione perstringam breuiter, & vsum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20006722842945773,
+        "upper_left_y": 0.6521900022964296,
+        "lower_right_x": 0.8770978655133929,
+        "lower_right_y": 0.6580332124035035
+      },
+      "text": "eiusdem in affectibus suprà dictis enodabo\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20853781820345327,
+        "upper_left_y": 0.6861093117901945,
+        "lower_right_x": 0.8704898609834559,
+        "lower_right_y": 0.6919525218972684
+      },
+      "text": "plenius, ut nihil prorſus vel à te vel etiam\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20006722842945773,
+        "upper_left_y": 0.7188883801820443,
+        "lower_right_x": 0.8711666844472163,
+        "lower_right_y": 0.7247315902891182
+      },
+      "text": "ab alio rerum medicarum, & chemicarum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20168067226890757,
+        "upper_left_y": 0.7519524726052182,
+        "lower_right_x": 0.8641098920036765,
+        "lower_right_y": 0.7577956827122921
+      },
+      "text": "imperito in vtroque desiderari possit am¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20853781820345327,
+        "upper_left_y": 0.7849880771229216,
+        "lower_right_x": 0.2971391693884585,
+        "lower_right_y": 0.7906888477026425
+      },
+      "text": "plius.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.6836974584755777,
+        "upper_left_y": 0.8180808024281844,
+        "lower_right_x": 0.8648816020548844,
+        "lower_right_y": 0.8239240125352583
+      },
+      "text": "CAP. II.\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": {
+        "upper_left_x": 0.37593276079963234,
+        "upper_left_y": 0.1399524897124592,
+        "lower_right_x": 0.5696944036403624,
+        "lower_right_y": 0.14565319686490963
+      },
+      "text": "CAP. II.\n",
+      "tag": "header"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.17142857142857143,
+        "upper_left_y": 0.20411399424500817,
+        "lower_right_x": 0.8124832794445903,
+        "lower_right_y": 0.20995722247415938
+      },
+      "text": "AQuila verò coelestis aut correcta hy¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2024874005998884,
+        "upper_left_y": 0.23315911734755418,
+        "lower_right_x": 0.7246724104680935,
+        "lower_right_y": 0.2388598335610433
+      },
+      "text": "drargyri praecipitatio sic habet:\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.15811765013622636,
+        "upper_left_y": 0.268817058934735,
+        "lower_right_x": 0.746409029920562,
+        "lower_right_y": 0.2746602871638862
+      },
+      "text": "Primò capiantur stimmeos puluerati\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.44410082392331934,
+        "upper_left_y": 0.3015677119094233,
+        "lower_right_x": 0.8141009675354517,
+        "lower_right_y": 0.30726841000083505
+      },
+      "text": "salnitri optimè purgati\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.4416806517528887,
+        "upper_left_y": 0.3352304127890254,
+        "lower_right_x": 0.8126487411370799,
+        "lower_right_y": 0.34107365914025384
+      },
+      "text": "faecis vini vstae, cuiusque\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.4336134453781513,
+        "upper_left_y": 0.36572921644197226,
+        "lower_right_x": 0.8157692276129201,
+        "lower_right_y": 0.3715724627932007
+      },
+      "text": "vne. iij. omnia\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.15811765013622636,
+        "upper_left_y": 0.399078369140625,
+        "lower_right_x": 0.8214879653033088,
+        "lower_right_y": 0.40492161549185346
+      },
+      "text": "simul liquefacta in chyticum vas infundan¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.15327730579536503,
+        "upper_left_y": 0.4312873894698263,
+        "lower_right_x": 0.8200024516642594,
+        "lower_right_y": 0.43713063582105477
+      },
+      "text": "tur, & cum refrixerint, perfecti operis\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.15650420629677653,
+        "upper_left_y": 0.46432303023168425,
+        "lower_right_x": 0.8171389796152836,
+        "lower_right_y": 0.470023728323096
+      },
+      "text": "quasi subsidens rex vasto concutiatur mal¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.16053780948414523,
+        "upper_left_y": 0.4959904904037077,
+        "lower_right_x": 0.8127928661699054,
+        "lower_right_y": 0.5018337367549361
+      },
+      "text": "leo, tunc ima parte cohaerens ilicò dissilit\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.15892436564469536,
+        "upper_left_y": 0.5278859625519596,
+        "lower_right_x": 0.8142109333967962,
+        "lower_right_y": 0.5335866606433715
+      },
+      "text": "violenta conquassatione. Huius autem re¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.16457142549402573,
+        "upper_left_y": 0.5612351514947669,
+        "lower_right_x": 0.803214449842437,
+        "lower_right_y": 0.5669358495861787
+      },
+      "text": "gis puluerati drachma in vitrum oris am¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1621512661461069,
+        "upper_left_y": 0.5937576837607631,
+        "lower_right_x": 0.819755182346376,
+        "lower_right_y": 0.5996009301119916
+      },
+      "text": "pli deijciatur, & aqua regali sexies irrige¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.15327730579536503,
+        "upper_left_y": 0.625083071602212,
+        "lower_right_x": 0.8164074809611345,
+        "lower_right_y": 0.630783842181933
+      },
+      "text": "tur, ac rursum assiccetur, tandem in eadem\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.15327730579536503,
+        "upper_left_y": 0.6576057488448263,
+        "lower_right_x": 0.8061662433528098,
+        "lower_right_y": 0.6634489589519003
+      },
+      "text": "aqua resoluatur, resolutusque in vrceum fi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1556974779657957,
+        "upper_left_y": 0.6909548652993245,
+        "lower_right_x": 0.8113144818474265,
+        "lower_right_y": 0.6967980754063985
+      },
+      "text": "glini operis, qui feruentem cinerem con¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.152470590286896,
+        "upper_left_y": 0.7237053732973946,
+        "lower_right_x": 0.8200607171579569,
+        "lower_right_y": 0.7294061438771156
+      },
+      "text": "tineat, tumuletur. Atque aqua regalis hoc\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.15085714644744616,
+        "upper_left_y": 0.7544892734699747,
+        "lower_right_x": 0.5554689551601891,
+        "lower_right_y": 0.7601900440496957
+      },
+      "text": "modo fit: Puluerentur\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.41546217974494487,
+        "upper_left_y": 0.7895772394828162,
+        "lower_right_x": 0.6855452850085346,
+        "lower_right_y": 0.7954204495898901
+      },
+      "text": "Chalcanthi lib.ij.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.514689059217437,
+        "upper_left_y": 0.8226413319059902,
+        "lower_right_x": 0.8120359276523109,
+        "lower_right_y": 0.8288835901545799
+      },
+      "text": "salnitri\nA iij\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": {
+        "upper_left_x": 0.4489411682641807,
+        "upper_left_y": 0.1411211552925744,
+        "lower_right_x": 0.6384270676043855,
+        "lower_right_y": 0.1469643835217256
+      },
+      "text": "salnitri lib.j.\n",
+      "tag": "header"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.4408739618894433,
+        "upper_left_y": 0.17301658213563317,
+        "lower_right_x": 0.8070388409269958,
+        "lower_right_y": 0.17871729834912226
+      },
+      "text": "aluminis cremati lib.s.\n",
+      "tag": "header"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.4198991535090599,
+        "upper_left_y": 0.20553918688993839,
+        "lower_right_x": 0.8061335715926996,
+        "lower_right_y": 0.2113824151190896
+      },
+      "text": "salis ammoniaci lib.j.s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1996638706752232,
+        "upper_left_y": 0.23689306263685792,
+        "lower_right_x": 0.842717941668855,
+        "lower_right_y": 0.24273629086600912
+      },
+      "text": "probè misceantur & igni largo eliciatur\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1915966386554622,
+        "upper_left_y": 0.26967220351701676,
+        "lower_right_x": 0.848666766511292,
+        "lower_right_y": 0.275515431746168
+      },
+      "text": "aqua vehemens, quae purgetur iniectis ar¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2036974738625919,
+        "upper_left_y": 0.30245127190886656,
+        "lower_right_x": 0.8451249835871849,
+        "lower_right_y": 0.308294518260095
+      },
+      "text": "genti lamellis. Secundò in aqua regali seor¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.19885714234424237,
+        "upper_left_y": 0.3340617562699488,
+        "lower_right_x": 0.8455341755842962,
+        "lower_right_y": 0.3397624543613606
+      },
+      "text": "sum resoluatur auri limata scobs aut folia¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.19724369850479254,
+        "upper_left_y": 0.36715433659859337,
+        "lower_right_x": 0.84644775390625,
+        "lower_right_y": 0.3729975829498218
+      },
+      "text": "ceae Ophirizibracteolę pondere drachmę,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.19724369850479254,
+        "upper_left_y": 0.3979097126215484,
+        "lower_right_x": 0.8489788664489233,
+        "lower_right_y": 0.4036104107129602
+      },
+      "text": "& post ut suprà factum est in vitro feruen¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20127731451467307,
+        "upper_left_y": 0.4306888172575527,
+        "lower_right_x": 0.8585815942587973,
+        "lower_right_y": 0.43638951534896453
+      },
+      "text": "ti cinere obruantur. Tertiò super calcem\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20127731451467307,
+        "upper_left_y": 0.46378143383035186,
+        "lower_right_x": 0.8540208319655987,
+        "lower_right_y": 0.4696246801815803
+      },
+      "text": "viuam aqua feruens fundatur ac probè agi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.19885714234424237,
+        "upper_left_y": 0.49513538206558044,
+        "lower_right_x": 0.8533705254562762,
+        "lower_right_y": 0.500978628416809
+      },
+      "text": "tetur, vbi refrigerata conquieuerit, pertri¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20127731451467307,
+        "upper_left_y": 0.5273444023947818,
+        "lower_right_x": 0.8469035685563288,
+        "lower_right_y": 0.5331876487460102
+      },
+      "text": "licem coletur: deinde aqua illa rursus ferue¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.19885714234424237,
+        "upper_left_y": 0.5598384467553073,
+        "lower_right_x": 0.8585790810464811,
+        "lower_right_y": 0.5656816931065358
+      },
+      "text": "facta in praeparatos isatidis cineres fundatur\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.19724369850479254,
+        "upper_left_y": 0.5923040394545168,
+        "lower_right_x": 0.8516994957162553,
+        "lower_right_y": 0.5980047375459286
+      },
+      "text": "ac diligenter moueatur, postque consederit,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20208403002314207,
+        "upper_left_y": 0.6236864393510615,
+        "lower_right_x": 0.8586119579667805,
+        "lower_right_y": 0.6295296494581354
+      },
+      "text": "iterum per trilicem traijciatur: tùm in hac\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2036974738625919,
+        "upper_left_y": 0.6558954596802627,
+        "lower_right_x": 0.853993032759979,
+        "lower_right_y": 0.6617386697873368
+      },
+      "text": "lixiuia ebulliat libra hydrargyri quod an¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2028907583541229,
+        "upper_left_y": 0.6897862087802479,
+        "lower_right_x": 0.8513601094734768,
+        "lower_right_y": 0.6954869793599688
+      },
+      "text": "tea sale in aceto bellè dissoluto sit elotum,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2069243743640034,
+        "upper_left_y": 0.7219952291094492,
+        "lower_right_x": 0.8645919158679096,
+        "lower_right_y": 0.7276959996891701
+      },
+      "text": "& quo diutius efferbuerit, eò melius est:\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20208403002314207,
+        "upper_left_y": 0.7530926412188242,
+        "lower_right_x": 0.8563261144301471,
+        "lower_right_y": 0.7589358513258981
+      },
+      "text": "postremò hydrargyrum rursus sale in ace¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20611764603302257,
+        "upper_left_y": 0.7858432217052034,
+        "lower_right_x": 0.8595047638195903,
+        "lower_right_y": 0.7915439922849243
+      },
+      "text": "to probè dissoluto purgatu abluatur aqua\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.7563025210084033,
+        "upper_left_y": 0.8189358745221571,
+        "lower_right_x": 0.8550395035944065,
+        "lower_right_y": 0.824779084629231
+      },
+      "text": "calida\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": {
+        "upper_left_x": 0.12262184720079439,
+        "upper_left_y": 0.1274394218825388,
+        "lower_right_x": 0.8031461827895221,
+        "lower_right_y": 0.13328265011169
+      },
+      "text": "calida & asiccetur. Praeparatum hoc hy¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.12504201937122505,
+        "upper_left_y": 0.1613301619214853,
+        "lower_right_x": 0.8085498457195378,
+        "lower_right_y": 0.1670308781349744
+      },
+      "text": "drargyrum in aqua regali ut prius notatum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.12262184720079439,
+        "upper_left_y": 0.19385269418748144,
+        "lower_right_x": 0.8022102932970063,
+        "lower_right_y": 0.19969592241663264
+      },
+      "text": "est resoluatur, & in feruentem cinerem re¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1262521054564404,
+        "upper_left_y": 0.22720188313028875,
+        "lower_right_x": 0.7956036223082983,
+        "lower_right_y": 0.23304511135943995
+      },
+      "text": "ponatur. Nunc haec tria dissoluta in vas cu¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.12786554929589022,
+        "upper_left_y": 0.26166268029292233,
+        "lower_right_x": 0.7994623777245273,
+        "lower_right_y": 0.26736339650641144
+      },
+      "text": "curbitinum luto optimè circumlitum ca¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.13109243697478992,
+        "upper_left_y": 0.2933301404649458,
+        "lower_right_x": 0.8034516150210084,
+        "lower_right_y": 0.299173368694097
+      },
+      "text": "lida demittantur & è Seraphino sexies aut\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.12504201937122505,
+        "upper_left_y": 0.32722088956493095,
+        "lower_right_x": 0.7971012403985032,
+        "lower_right_y": 0.3329215876563428
+      },
+      "text": "septies stillare sinantur: semper tamen pro¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.12504201937122505,
+        "upper_left_y": 0.36028505447641407,
+        "lower_right_x": 0.8067551043855042,
+        "lower_right_y": 0.36598575256782584
+      },
+      "text": "lectus humor rursus super crassamentum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1262521054564404,
+        "upper_left_y": 0.39423274314318585,
+        "lower_right_x": 0.7984764804359243,
+        "lower_right_y": 0.40007598949441436
+      },
+      "text": "relictum aspergatur necesse est, qui ad ex¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.12504201937122505,
+        "upper_left_y": 0.42641327556691655,
+        "lower_right_x": 0.7994117031578256,
+        "lower_right_y": 0.4321139736583284
+      },
+      "text": "tremum igne acerrimo seiugatus tanquam min¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.13109243697478992,
+        "upper_left_y": 0.4606175728478511,
+        "lower_right_x": 0.8113209443933823,
+        "lower_right_y": 0.4663182709392629
+      },
+      "text": "utilis abijciatur. Sedimenti verò materia\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1302857086438091,
+        "upper_left_y": 0.49396672554650384,
+        "lower_right_x": 0.8033838608685662,
+        "lower_right_y": 0.49966742363791566
+      },
+      "text": "exemta minutissimè primum teratur, &\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.12504201937122505,
+        "upper_left_y": 0.5267458301825082,
+        "lower_right_x": 0.7962704955028886,
+        "lower_right_y": 0.53244652827392
+      },
+      "text": "sub myela flagrantissimis carbonibus re¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1302857086438091,
+        "upper_left_y": 0.5615486634315617,
+        "lower_right_x": 0.7975920861508666,
+        "lower_right_y": 0.5673919097827902
+      },
+      "text": "uerberetur, assidueque versetur rude ferrea,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.12867226480435925,
+        "upper_left_y": 0.5937576837607631,
+        "lower_right_x": 0.8037883854713761,
+        "lower_right_y": 0.5996009301119916
+      },
+      "text": "donec mutato colore iterum rufescat &\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.12867226480435925,
+        "upper_left_y": 0.6268218486722461,
+        "lower_right_x": 0.7953404017857143,
+        "lower_right_y": 0.6326650587793201
+      },
+      "text": "virus aquae regalis euanescens contabue¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.12423529104024422,
+        "upper_left_y": 0.6601424772212737,
+        "lower_right_x": 0.8050971023174895,
+        "lower_right_y": 0.6658432478009947
+      },
+      "text": "rit. Dein optimè lauetur affusa calida\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.12786554929589022,
+        "upper_left_y": 0.6940617142267295,
+        "lower_right_x": 0.7970872382155988,
+        "lower_right_y": 0.6997624848064504
+      },
+      "text": "aqua, dum nullam prorsus salsedinem re¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.12786554929589022,
+        "upper_left_y": 0.7265843189810347,
+        "lower_right_x": 0.8101896911108193,
+        "lower_right_y": 0.7324275290881087
+      },
+      "text": "sipiat. Tùm praestantissima vini essentia\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1262521054564404,
+        "upper_left_y": 0.7599049475300623,
+        "lower_right_x": 0.8084789628742122,
+        "lower_right_y": 0.7656057181097833
+      },
+      "text": "perfundatur ita ut transuersos tres digitos\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.12504201937122505,
+        "upper_left_y": 0.7938527449292978,
+        "lower_right_x": 0.8110533642167804,
+        "lower_right_y": 0.7996959550363717
+      },
+      "text": "superemineat, triduo condatur inferuentem\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.12423529104024422,
+        "upper_left_y": 0.8269168373524718,
+        "lower_right_x": 0.8033603700269171,
+        "lower_right_y": 0.8327600474595457
+      },
+      "text": "101\ncinerem\n",
+      "tag": "title"
+    }
+  ],
+  [
+    {
+      "coordinates": {
+        "upper_left_x": 0.20531093052455357,
+        "upper_left_y": 0.13653205635995028,
+        "lower_right_x": 0.8686309045102416,
+        "lower_right_y": 0.14223276351240072
+      },
+      "text": "cinerem & quotidie ter moueatur, demum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20087394393792674,
+        "upper_left_y": 0.1690545886259464,
+        "lower_right_x": 0.8667296850380777,
+        "lower_right_y": 0.17489781685509762
+      },
+      "text": "temperata vini essentia rursus à sedimenti\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.19845378459000787,
+        "upper_left_y": 0.20240377756875372,
+        "lower_right_x": 0.8698378619025735,
+        "lower_right_y": 0.20824700579790492
+      },
+      "text": "materia separetur. Postremò stillatitia ro¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20087394393792674,
+        "upper_left_y": 0.23515435805513288,
+        "lower_right_x": 0.8617674755449055,
+        "lower_right_y": 0.24085507426862196
+      },
+      "text": "sarum aqua, quae moscho facta sit odorati¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20611764603302257,
+        "upper_left_y": 0.26625177016450785,
+        "lower_right_x": 0.8686404444590337,
+        "lower_right_y": 0.2720949983936591
+      },
+      "text": "or, respergatur, triduo conquiescat & sin¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20853781820345327,
+        "upper_left_y": 0.29900235065088704,
+        "lower_right_x": 0.8627478335084033,
+        "lower_right_y": 0.30470304874229887
+      },
+      "text": "gulis diebus ter agitetur, tandem liquor\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20006722842945773,
+        "upper_left_y": 0.33235153959369435,
+        "lower_right_x": 0.8694672400210084,
+        "lower_right_y": 0.33805223768510617
+      },
+      "text": "stalacticus sensim abstrahatur, ut assiccata\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20611764603302257,
+        "upper_left_y": 0.3642755358915714,
+        "lower_right_x": 0.8617895302652311,
+        "lower_right_y": 0.36997623398298324
+      },
+      "text": "maximè in fundo resideat aquila coelestis,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20611764603302257,
+        "upper_left_y": 0.39651304412624333,
+        "lower_right_x": 0.8551638306689864,
+        "lower_right_y": 0.4023562904774718
+      },
+      "text": "quae vitro diligenter obturato recondatur\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20773108987247244,
+        "upper_left_y": 0.43097384128887695,
+        "lower_right_x": 0.6766623104319853,
+        "lower_right_y": 0.4366745393802888
+      },
+      "text": "oportet ad vsus inenodabiles.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.3912605093306854,
+        "upper_left_y": 0.4948218338846311,
+        "lower_right_x": 0.658510967863708,
+        "lower_right_y": 0.5005225319760429
+      },
+      "text": "CAP. III.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.24201680672268908,
+        "upper_left_y": 0.5598384467553073,
+        "lower_right_x": 0.8519660500919117,
+        "lower_right_y": 0.5656816931065358
+      },
+      "text": "VSus aquilae coelestis ad interiores cor¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2734789936482405,
+        "upper_left_y": 0.5917339551477138,
+        "lower_right_x": 0.8626656668526785,
+        "lower_right_y": 0.5974346532391256
+      },
+      "text": "poris morbos est eiusmodi: Grani vni¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20611764603302257,
+        "upper_left_y": 0.625083071602212,
+        "lower_right_x": 0.8700112222623424,
+        "lower_right_y": 0.630783842181933
+      },
+      "text": "us pondere ad tria vsque ieiuno propinatur\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20611764603302257,
+        "upper_left_y": 0.6572920919314132,
+        "lower_right_x": 0.85959529075302,
+        "lower_right_y": 0.6629928625111342
+      },
+      "text": "in drachma aquae theriacalis siue mithrida¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20450420219357274,
+        "upper_left_y": 0.6898147691740276,
+        "lower_right_x": 0.595513916015625,
+        "lower_right_y": 0.6956579792811015
+      },
+      "text": "ticae, cui haec insunte:\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.3368067124310662,
+        "upper_left_y": 0.7214536689522714,
+        "lower_right_x": 0.651552395860688,
+        "lower_right_y": 0.7272968790593453
+      },
+      "text": "vini essentiae vno. v.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.3303529370732668,
+        "upper_left_y": 0.7548028578950787,
+        "lower_right_x": 0.8503003032267594,
+        "lower_right_y": 0.7606460680021526
+      },
+      "text": "theriacae seu mithridatij vnc. ij.s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.32551259273240546,
+        "upper_left_y": 0.7875533658931487,
+        "lower_right_x": 0.756381405101103,
+        "lower_right_y": 0.7932541364728697
+      },
+      "text": "myrrhae subuiridis dr. x.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.769613467945772,
+        "upper_left_y": 0.8206175308046318,
+        "lower_right_x": 0.8584416750098477,
+        "lower_right_y": 0.8263183013843527
+      },
+      "text": "croci\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": {
+        "upper_left_x": 0.2742857091567096,
+        "upper_left_y": 0.1419762273865471,
+        "lower_right_x": 0.8060902315027574,
+        "lower_right_y": 0.1478194556156983
+      },
+      "text": "croci Viennensis dr.ij. misceantur\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14924370260799633,
+        "upper_left_y": 0.17418523865470978,
+        "lower_right_x": 0.7966179342830882,
+        "lower_right_y": 0.18002846688386098
+      },
+      "text": "& per balinaeon stillare sinantur. Hac po¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14198319891921612,
+        "upper_left_y": 0.20753442759751708,
+        "lower_right_x": 0.8010080032989758,
+        "lower_right_y": 0.2133776558266683
+      },
+      "text": "tione sumpta perpurgatur vniuerse caput,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14601680210658483,
+        "upper_left_y": 0.23917339986406994,
+        "lower_right_x": 0.7901095350249475,
+        "lower_right_y": 0.2450166280932211
+      },
+      "text": "thorax, venter & artus. Nam ut crudi hy¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14359664275866596,
+        "upper_left_y": 0.27166744422459543,
+        "lower_right_x": 0.7944837041261817,
+        "lower_right_y": 0.27751067245374667
+      },
+      "text": "drargyri perniciosus vapor omnem cor¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1484369742770155,
+        "upper_left_y": 0.3032779285856777,
+        "lower_right_x": 0.7994373481814601,
+        "lower_right_y": 0.30897862667708953
+      },
+      "text": "poris substantiam peruagatur: ita aquilae\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.144403358267135,
+        "upper_left_y": 0.3352304127890254,
+        "lower_right_x": 0.8085844665014443,
+        "lower_right_y": 0.34107365914025384
+      },
+      "text": "coelestis potio salutari quadam vi spiritum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14682353043756566,
+        "upper_left_y": 0.36798099327540457,
+        "lower_right_x": 0.8018269001936712,
+        "lower_right_y": 0.37368169136681634
+      },
+      "text": "vnà cum arterijs peragrat, sanguinem cum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14924370260799633,
+        "upper_left_y": 0.40078858581687943,
+        "lower_right_x": 0.8007141626181723,
+        "lower_right_y": 0.40663183216810794
+      },
+      "text": "venis & humores toto corpore fusos,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14359664275866596,
+        "upper_left_y": 0.43299760614608074,
+        "lower_right_x": 0.7887069061022847,
+        "lower_right_y": 0.43884085249730925
+      },
+      "text": "itemque medullam cum ossium intimis per¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14359664275866596,
+        "upper_left_y": 0.46492160244395786,
+        "lower_right_x": 0.8019889767430409,
+        "lower_right_y": 0.4707648487951863
+      },
+      "text": "uadit cauernis, & quicquid vitij neruos oc¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.144403358267135,
+        "upper_left_y": 0.4959904904037077,
+        "lower_right_x": 0.8050503770844275,
+        "lower_right_y": 0.5018337367549361
+      },
+      "text": "cupauit, aut inter carnem & cutem irre¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.15085714644744616,
+        "upper_left_y": 0.5278859625519596,
+        "lower_right_x": 0.802247427291229,
+        "lower_right_y": 0.5335866606433715
+      },
+      "text": "psit, corrigit vniuersum. Sic principes cor¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14682353043756566,
+        "upper_left_y": 0.5606935550934345,
+        "lower_right_x": 0.7870730616465336,
+        "lower_right_y": 0.566536801444663
+      },
+      "text": "poris partes, cerebrum, cor, pulmo, iecur,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14682353043756566,
+        "upper_left_y": 0.5937576837607631,
+        "lower_right_x": 0.7935623810070903,
+        "lower_right_y": 0.5996009301119916
+      },
+      "text": "lien, fel, renes, tàm expurgari quàm robo¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14198319891921612,
+        "upper_left_y": 0.6259382161844937,
+        "lower_right_x": 0.8015247505252101,
+        "lower_right_y": 0.6316389867642147
+      },
+      "text": "rari solent conuenienter, ut & ad primam\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14359664275866596,
+        "upper_left_y": 0.6572920919314132,
+        "lower_right_x": 0.8039101993336397,
+        "lower_right_y": 0.6629928625111342
+      },
+      "text": "constitutionem natiuamque symmetriam\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14682353043756566,
+        "upper_left_y": 0.6903848172366761,
+        "lower_right_x": 0.7975699288504464,
+        "lower_right_y": 0.69622802734375
+      },
+      "text": "citius perueniant, nec in integras labis atque\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14601680210658483,
+        "upper_left_y": 0.7205985968582987,
+        "lower_right_x": 0.7918494985884978,
+        "lower_right_y": 0.7264418069653726
+      },
+      "text": "coeni quicquam in posterum influat facile. Ad ex¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14359664275866596,
+        "upper_left_y": 0.7545178338637545,
+        "lower_right_x": 0.7965223809250263,
+        "lower_right_y": 0.7603610439708284
+      },
+      "text": "ternos autem, qui communibus expositi sen¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14601680210658483,
+        "upper_left_y": 0.78701187822428,
+        "lower_right_x": 0.7927129152442227,
+        "lower_right_y": 0.7928550883313539
+      },
+      "text": "sibus chirurgiam requirunt, talis vsus est:\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.5772100881368172,
+        "upper_left_y": 0.8192208985534813,
+        "lower_right_x": 0.8032310165277048,
+        "lower_right_y": 0.825919253242837
+      },
+      "text": "B\nAquilae\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": {
+        "upper_left_x": 0.26944539046087185,
+        "upper_left_y": 0.1385557940340382,
+        "lower_right_x": 0.6018977830389969,
+        "lower_right_y": 0.1443990222631894
+      },
+      "text": "Aquilae coelestis dr.j.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2678319337989102,
+        "upper_left_y": 0.17102134142805447,
+        "lower_right_x": 0.6365074862952994,
+        "lower_right_y": 0.17672205764154358
+      },
+      "text": "myrrhae optimae vnc.s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2734789936482405,
+        "upper_left_y": 0.20294533772593157,
+        "lower_right_x": 0.5212591604024422,
+        "lower_right_y": 0.20864605393942065
+      },
+      "text": "caphurae gr.vij.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2742857091567096,
+        "upper_left_y": 0.23515435805513288,
+        "lower_right_x": 0.4455657189633666,
+        "lower_right_y": 0.24085507426862196
+      },
+      "text": "croci gr. v.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2742857091567096,
+        "upper_left_y": 0.26739186628980477,
+        "lower_right_x": 0.6523214901194853,
+        "lower_right_y": 0.273235094518956
+      },
+      "text": "ol. ècaryophyllis vnc. v.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.40255462902934613,
+        "upper_left_y": 0.30071256732714147,
+        "lower_right_x": 0.8551629587381828,
+        "lower_right_y": 0.3064132654185533
+      },
+      "text": "E. vnguentum, quo omnia vul¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2069243743640034,
+        "upper_left_y": 0.33180997943651647,
+        "lower_right_x": 0.8639065782563026,
+        "lower_right_y": 0.3376532257877449
+      },
+      "text": "nera vlceraque ac suppurati tumores sanan¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2109579775513721,
+        "upper_left_y": 0.36487407185969045,
+        "lower_right_x": 0.8630508551076681,
+        "lower_right_y": 0.37071731821091897
+      },
+      "text": "tur obliti, ut nihil vel impurissimi mali sor¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20853781820345327,
+        "upper_left_y": 0.39708309218889176,
+        "lower_right_x": 0.8661185128348214,
+        "lower_right_y": 0.4029263385401203
+      },
+      "text": "dibus inquinatum incorpore redundet am¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.22386554108948267,
+        "upper_left_y": 0.4301187329507497,
+        "lower_right_x": 0.8652657645089286,
+        "lower_right_y": 0.43581943104216153
+      },
+      "text": "plius. Itaque coelestis aquila in desperatis hu¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20934453371192227,
+        "upper_left_y": 0.4620712171540974,
+        "lower_right_x": 0.867662240677521,
+        "lower_right_y": 0.46791446350532584
+      },
+      "text": "mani corporis affectibus vniuersis reme¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20934453371192227,
+        "upper_left_y": 0.49399521345197445,
+        "lower_right_x": 0.8620059742647059,
+        "lower_right_y": 0.49983845980320296
+      },
+      "text": "dium est praesentissimum. Nunc ut planio¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20853781820345327,
+        "upper_left_y": 0.5262042337811758,
+        "lower_right_x": 0.8697720054818803,
+        "lower_right_y": 0.5320474801324042
+      },
+      "text": "ra fiant omnia, vnum atque alterum exem¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.21660505022321427,
+        "upper_left_y": 0.5598384467553073,
+        "lower_right_x": 0.4720074821920956,
+        "lower_right_y": 0.5656816931065358
+      },
+      "text": "plum subijciam.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.41142857655757614,
+        "upper_left_y": 0.6097196819097016,
+        "lower_right_x": 0.6665933048023897,
+        "lower_right_y": 0.6155628920167755
+      },
+      "text": "CAP. IIII.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.4699159766445641,
+        "upper_left_y": 0.6752494032762396,
+        "lower_right_x": 0.6077902914095326,
+        "lower_right_y": 0.6809501738559605
+      },
+      "text": "curatio.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.34890757328321953,
+        "upper_left_y": 0.6422137987585362,
+        "lower_right_x": 0.7274504332983194,
+        "lower_right_y": 0.6480570088656101
+      },
+      "text": "Pestis epidemicae certa\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.22305882558101364,
+        "upper_left_y": 0.7248455419110006,
+        "lower_right_x": 0.8664210215336134,
+        "lower_right_y": 0.7305463124907215
+      },
+      "text": "INitiò veneni vis ac pernicies expurge¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.23072268702402837,
+        "upper_left_y": 0.7570545622402018,
+        "lower_right_x": 0.6324410061876313,
+        "lower_right_y": 0.7627553328199228
+      },
+      "text": "tur propria hac antidoto:\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.27670588132714025,
+        "upper_left_y": 0.790432311576789,
+        "lower_right_x": 0.6315308642988445,
+        "lower_right_y": 0.7962755216838628
+      },
+      "text": "Aquilae coelestis gr.j.s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.7191932998785452,
+        "upper_left_y": 0.8234964039999629,
+        "lower_right_x": 0.8670392717633929,
+        "lower_right_y": 0.8293396141070368
+      },
+      "text": "theriacae\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": {
+        "upper_left_x": 0.26742856322216385,
+        "upper_left_y": 0.14508313974122253,
+        "lower_right_x": 0.7053801720883666,
+        "lower_right_y": 0.150783846893673
+      },
+      "text": "theriacae Alexandrinae scr.j.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.27589916581867124,
+        "upper_left_y": 0.17589545533096423,
+        "lower_right_x": 0.8084579852448792,
+        "lower_right_y": 0.18173868356011544
+      },
+      "text": "vini rubri, in quo melittaena ali¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14763024594603466,
+        "upper_left_y": 0.2089311323369767,
+        "lower_right_x": 0.7273077443868172,
+        "lower_right_y": 0.21463184855046577
+      },
+      "text": "quot dies macerata sit, stillatitij vnc.s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2516974697593881,
+        "upper_left_y": 0.2400284719580426,
+        "lower_right_x": 0.6327925994616597,
+        "lower_right_y": 0.24587170018719381
+      },
+      "text": "decocti prunellae vnc.j.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.3404369706867122,
+        "upper_left_y": 0.27363419702670355,
+        "lower_right_x": 0.8002193675321692,
+        "lower_right_y": 0.2793349132401926
+      },
+      "text": "valerianae dr. vj. misceantur &\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14561344435235032,
+        "upper_left_y": 0.30669828944987754,
+        "lower_right_x": 0.7997735031512605,
+        "lower_right_y": 0.31239898754128936
+      },
+      "text": "fiat potio cathartica ad veneni malignita¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14319327218191966,
+        "upper_left_y": 0.3386507736532252,
+        "lower_right_x": 0.7932865944229254,
+        "lower_right_y": 0.34449402000445367
+      },
+      "text": "tem exterminandam. Aut huius loco ma¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.13835294066357012,
+        "upper_left_y": 0.37054628204563167,
+        "lower_right_x": 0.8174248703387605,
+        "lower_right_y": 0.3762469801370435
+      },
+      "text": "nè ae vesperi sudor validissimè cieatur ęgro\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14924370260799633,
+        "upper_left_y": 0.40275533861898755,
+        "lower_right_x": 0.6926521878282563,
+        "lower_right_y": 0.4084560367103994
+      },
+      "text": "plurimis integumentis obuoluto:\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.21297479196756827,
+        "upper_left_y": 0.4361044913176403,
+        "lower_right_x": 0.7917630235688026,
+        "lower_right_y": 0.4418051894090521
+      },
+      "text": "Liquoris Ophirizi & gemma\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1448067288438813,
+        "upper_left_y": 0.4683135116468416,
+        "lower_right_x": 0.791860577238708,
+        "lower_right_y": 0.4740142097382534
+      },
+      "text": "rum, ut in nostra Coelesti Medicina doce¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14319327218191966,
+        "upper_left_y": 0.49941088751206203,
+        "lower_right_x": 0.4437590783383666,
+        "lower_right_y": 0.5052541338632905
+      },
+      "text": "tur, cuiusque scr.s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.24363026338465074,
+        "upper_left_y": 0.5316199440854179,
+        "lower_right_x": 0.48702141256893383,
+        "lower_right_y": 0.5374631904366464
+      },
+      "text": "aque fumariae\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.3166386452041754,
+        "upper_left_y": 0.5632588801078162,
+        "lower_right_x": 0.48142346293986343,
+        "lower_right_y": 0.5691021264590447
+      },
+      "text": "cichorij\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.3331764798204438,
+        "upper_left_y": 0.5980332254513993,
+        "lower_right_x": 0.7964937097886029,
+        "lower_right_y": 0.6038764718026277
+      },
+      "text": "chamaedryos stillatitiarum,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14238655667345063,
+        "upper_left_y": 0.6288171618681339,
+        "lower_right_x": 0.32219394715894173,
+        "lower_right_y": 0.6346603719752079
+      },
+      "text": "sing. dr.iij.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.21781513630842964,
+        "upper_left_y": 0.661567669866204,
+        "lower_right_x": 0.7912576114430147,
+        "lower_right_y": 0.6672684404459249
+      },
+      "text": "essent. vini rubri vnc. s. miscean¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.5187227136948529,
+        "upper_left_y": 0.692665081975579,
+        "lower_right_x": 0.6153449050518645,
+        "lower_right_y": 0.6985082920826529
+      },
+      "text": "tur.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2545210125065651,
+        "upper_left_y": 0.7262707345559308,
+        "lower_right_x": 0.7941080558199842,
+        "lower_right_y": 0.7319715051356517
+      },
+      "text": "F. potiuncula diaphoretica ad exi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14319327218191966,
+        "upper_left_y": 0.7593633873728844,
+        "lower_right_x": 0.8099722213103991,
+        "lower_right_y": 0.7652065974799585
+      },
+      "text": "tiosa pestilentię furentis semina exturbanda.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14763024594603466,
+        "upper_left_y": 0.7912873836707616,
+        "lower_right_x": 0.8186660894826681,
+        "lower_right_y": 0.7971305937778355
+      },
+      "text": "Deinde à purgatione seu veneni expulsione\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.5517983316373425,
+        "upper_left_y": 0.8240379641571407,
+        "lower_right_x": 0.8086722237723214,
+        "lower_right_y": 0.8301947586893186
+      },
+      "text": "altera\nBij\n",
+      "tag": "text"
+    }
+  ],
+  [
+    {
+      "coordinates": {
+        "upper_left_x": 0.19885714234424237,
+        "upper_left_y": 0.14055103474161687,
+        "lower_right_x": 0.8643665474002101,
+        "lower_right_y": 0.14639426297076807
+      },
+      "text": "altera die ob minacem vim deleteriam exhi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20127731451467307,
+        "upper_left_y": 0.1735867026865907,
+        "lower_right_x": 0.8678552964154411,
+        "lower_right_y": 0.1792874189000798
+      },
+      "text": "beatur ęgro peculiare hoc alexipharmaco:\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2646050461200105,
+        "upper_left_y": 0.20551069898446778,
+        "lower_right_x": 0.5886817739791229,
+        "lower_right_y": 0.2112114151979569
+      },
+      "text": "Liq. margaritarum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.3307563076500131,
+        "upper_left_y": 0.23942993598992354,
+        "lower_right_x": 0.8126387908679097,
+        "lower_right_y": 0.24513065220341262
+      },
+      "text": "coralliorum rubr. cuiusque scr.j.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2746890797334559,
+        "upper_left_y": 0.27192398035044907,
+        "lower_right_x": 0.6395580131466649,
+        "lower_right_y": 0.2776246965639382
+      },
+      "text": "ol. ossium è corde cerui\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.33156302315848213,
+        "upper_left_y": 0.30501663316740274,
+        "lower_right_x": 0.6434640579864759,
+        "lower_right_y": 0.31085987951863125
+      },
+      "text": "myrrhae, sing. scr.s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.3299495921415441,
+        "upper_left_y": 0.33779570155925254,
+        "lower_right_x": 0.7720778008469013,
+        "lower_right_y": 0.343638947910481
+      },
+      "text": "nucum myristicarum gr.v.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2690420198841255,
+        "upper_left_y": 0.36886455327484785,
+        "lower_right_x": 0.4742727071297269,
+        "lower_right_y": 0.3747077996260763
+      },
+      "text": "aquae betonicae\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.32551259273240546,
+        "upper_left_y": 0.40420898292523383,
+        "lower_right_x": 0.7759342995010504,
+        "lower_right_y": 0.4100522292764623
+      },
+      "text": "hirundinariae stalacticarum,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.3956974830948004,
+        "upper_left_y": 0.4369595996557675,
+        "lower_right_x": 0.8636505383403361,
+        "lower_right_y": 0.44266029774717935
+      },
+      "text": "cuiusque vnc. j.s. misceantur ad\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20571428827878807,
+        "upper_left_y": 0.46862705982779096,
+        "lower_right_x": 0.8701155462184874,
+        "lower_right_y": 0.4744703061790195
+      },
+      "text": "formam potionis. At si tertia die mortife¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20571428827878807,
+        "upper_left_y": 0.5016627005896489,
+        "lower_right_x": 0.8650084936318277,
+        "lower_right_y": 0.5073633986810607
+      },
+      "text": "ra symptomata consequantur, indigenitali\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20410084443933824,
+        "upper_left_y": 0.533016612580723,
+        "lower_right_x": 0.8648066160057774,
+        "lower_right_y": 0.5387173106721348
+      },
+      "text": "mysteriorum ratione curentur, ut in delirio\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2097479042886686,
+        "upper_left_y": 0.5666793134603251,
+        "lower_right_x": 0.8636690027573529,
+        "lower_right_y": 0.5725225598115536
+      },
+      "text": "praebeatur summum margaritarum arcanum,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2065210037872571,
+        "upper_left_y": 0.5994299301908588,
+        "lower_right_x": 0.8614369624803047,
+        "lower_right_y": 0.6051306282822706
+      },
+      "text": "in spasmo ossiculum è leporis poplite libera¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20410084443933824,
+        "upper_left_y": 0.6319239383072298,
+        "lower_right_x": 0.8688685825892857,
+        "lower_right_y": 0.6376247088869507
+      },
+      "text": "tum, in spiratione difficili Thio siue balsa¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1996638706752232,
+        "upper_left_y": 0.6632778140541493,
+        "lower_right_x": 0.8727732938878676,
+        "lower_right_y": 0.6689785846338703
+      },
+      "text": "mum, in dysenteria & assidua vomitione\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2024874005998884,
+        "upper_left_y": 0.6958004912967637,
+        "lower_right_x": 0.870594595259979,
+        "lower_right_y": 0.7016437014038376
+      },
+      "text": "crocum è chalybe correctum, in siti inexhau¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20127731451467307,
+        "upper_left_y": 0.7274394635633165,
+        "lower_right_x": 0.8661323611475841,
+        "lower_right_y": 0.7332826736703905
+      },
+      "text": "sta oleum chalcanthi rubrum, in menstruo¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.19885714234424237,
+        "upper_left_y": 0.7602185319551663,
+        "lower_right_x": 0.8620235154608719,
+        "lower_right_y": 0.7660617420622402
+      },
+      "text": "rum profluuio liquor coralliorum rubro¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.19724369850479254,
+        "upper_left_y": 0.7938527449292978,
+        "lower_right_x": 0.860988995207458,
+        "lower_right_y": 0.7996959550363717
+      },
+      "text": "rum. Postremò in contractae cladis chara¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.769613467945772,
+        "upper_left_y": 0.8269168373524718,
+        "lower_right_x": 0.8621287626378676,
+        "lower_right_y": 0.8327600474595457
+      },
+      "text": "ctere\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": {
+        "upper_left_x": 0.144403358267135,
+        "upper_left_y": 0.1325415749447929,
+        "lower_right_x": 0.8099496536896008,
+        "lower_right_y": 0.13824228209724335
+      },
+      "text": "ctere exhibito adlethalevirus pestis popu¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14198319891921612,
+        "upper_left_y": 0.16503561930531843,
+        "lower_right_x": 0.8072626194032301,
+        "lower_right_y": 0.1707363355188075
+      },
+      "text": "lariter grassantis euocandum admoueatur\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14278991442768513,
+        "upper_left_y": 0.19866983227944998,
+        "lower_right_x": 0.8061514205291491,
+        "lower_right_y": 0.20437054849293906
+      },
+      "text": "emplastrum Olympicum, quodita habet:\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20611764603302257,
+        "upper_left_y": 0.23147738857677033,
+        "lower_right_x": 0.5901760582162553,
+        "lower_right_y": 0.23743464091611305
+      },
+      "text": "rha pontici\nSucci rad.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.40699160279346114,
+        "upper_left_y": 0.26368640890597167,
+        "lower_right_x": 0.6202736734342175,
+        "lower_right_y": 0.26952963713512285
+      },
+      "text": "pimpinellae \n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.39892437077370013,
+        "upper_left_y": 0.29675057381745473,
+        "lower_right_x": 0.5244008809578519,
+        "lower_right_y": 0.3025938020466059
+      },
+      "text": "helenij\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.4013445429441308,
+        "upper_left_y": 0.32924461817798023,
+        "lower_right_x": 0.8127323952041754,
+        "lower_right_y": 0.33508786452920875
+      },
+      "text": "siderici ex. Ananiensium\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14601680210658483,
+        "upper_left_y": 0.3640189997657178,
+        "lower_right_x": 0.4301696007993041,
+        "lower_right_y": 0.36986224611694624
+      },
+      "text": "conuallibus petiti\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.3194621879513524,
+        "upper_left_y": 0.3956579357881161,
+        "lower_right_x": 0.5572622090828518,
+        "lower_right_y": 0.40150118213934455
+      },
+      "text": "herb. prunellae\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.40376471511456147,
+        "upper_left_y": 0.4284085525186498,
+        "lower_right_x": 0.5625580603335084,
+        "lower_right_y": 0.4341092506100616
+      },
+      "text": "hyperici\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.40376471511456147,
+        "upper_left_y": 0.46121610881597014,
+        "lower_right_x": 0.7663156204864758,
+        "lower_right_y": 0.46705935516719865
+      },
+      "text": "centaurij minoris\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.40376471511456147,
+        "upper_left_y": 0.49396672554650384,
+        "lower_right_x": 0.7872082622111345,
+        "lower_right_y": 0.49966742363791566
+      },
+      "text": "geranij, sing. vnc.j.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20531093052455357,
+        "upper_left_y": 0.527059342119303,
+        "lower_right_x": 0.6695584337250525,
+        "lower_right_y": 0.5329025884705315
+      },
+      "text": "mucaginis se. cydoniorum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.40376471511456147,
+        "upper_left_y": 0.5603800431566397,
+        "lower_right_x": 0.4738420246028099,
+        "lower_right_y": 0.5660807412480515
+      },
+      "text": "lini\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.3948907675863314,
+        "upper_left_y": 0.592589063485841,
+        "lower_right_x": 0.7521911108193278,
+        "lower_right_y": 0.5982897615772528
+      },
+      "text": "althaeae, cuiusque vnc.s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2109579775513721,
+        "upper_left_y": 0.6262518006095977,
+        "lower_right_x": 0.5072833405823267,
+        "lower_right_y": 0.6320950107166716
+      },
+      "text": "cerae candidae lib.s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.21579830906972164,
+        "upper_left_y": 0.6593158930327717,
+        "lower_right_x": 0.30392384248621324,
+        "lower_right_y": 0.6651591031398456
+      },
+      "text": "picis\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.21176470588235294,
+        "upper_left_y": 0.6923514975504751,
+        "lower_right_x": 0.4158635500098477,
+        "lower_right_y": 0.6980522681301959
+      },
+      "text": "colophoniae\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2109579775513721,
+        "upper_left_y": 0.7245890782734561,
+        "lower_right_x": 0.8179371040408351,
+        "lower_right_y": 0.73043228838053
+      },
+      "text": "terebinthinę nouies ex aqua hortensis\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1484369742770155,
+        "upper_left_y": 0.7590498029477806,
+        "lower_right_x": 0.658291241301208,
+        "lower_right_y": 0.7647505735275015
+      },
+      "text": "solani stillatitia lotae, sing. vne. ij.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.21337814972180277,
+        "upper_left_y": 0.7927125763156918,
+        "lower_right_x": 0.34353901839055934,
+        "lower_right_y": 0.7985557864227657
+      },
+      "text": "galbani\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.5074285939961922,
+        "upper_left_y": 0.8254631568020709,
+        "lower_right_x": 0.8081372685793067,
+        "lower_right_y": 0.8311639273817919
+      },
+      "text": "B iij ammo¬\n",
+      "tag": "text"
+    }
+  ],
+  [
+    {
+      "coordinates": {
+        "upper_left_x": 0.2726722781397715,
+        "upper_left_y": 0.13225655091346866,
+        "lower_right_x": 0.4667724609375,
+        "lower_right_y": 0.13795725806591913
+      },
+      "text": "ammoniaci\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2654117616284795,
+        "upper_left_y": 0.16420903511681637,
+        "lower_right_x": 0.4709761419216124,
+        "lower_right_y": 0.17005226334596757
+      },
+      "text": "opoponacis\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2654117616284795,
+        "upper_left_y": 0.1998384887985266,
+        "lower_right_x": 0.8661349256499474,
+        "lower_right_y": 0.20568171702767776
+      },
+      "text": "sagapeni in ess. vini dissolutorum, cuiusque\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.4707226665080095,
+        "upper_left_y": 0.23059382857732705,
+        "lower_right_x": 0.5797390977875525,
+        "lower_right_y": 0.23629454479081613
+      },
+      "text": "vnc.s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2690420198841255,
+        "upper_left_y": 0.2633728969691768,
+        "lower_right_x": 0.48386686950170693,
+        "lower_right_y": 0.2690736131826659
+      },
+      "text": "tragacanthae\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.26742856322216385,
+        "upper_left_y": 0.2958954292351729,
+        "lower_right_x": 0.4217108974937631,
+        "lower_right_y": 0.30173865746432416
+      },
+      "text": "myrrhae\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2654117616284795,
+        "upper_left_y": 0.3280759616589036,
+        "lower_right_x": 0.5084571133140756,
+        "lower_right_y": 0.33377665975031545
+      },
+      "text": "thuris masculi\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2690420198841255,
+        "upper_left_y": 0.36114012657038674,
+        "lower_right_x": 0.4431714482668067,
+        "lower_right_y": 0.36684082466179857
+      },
+      "text": "mastiches\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2726722781397715,
+        "upper_left_y": 0.3936626950805374,
+        "lower_right_x": 0.5205740792410715,
+        "lower_right_y": 0.3995059414317659
+      },
+      "text": "croci è chalybe\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2750924246651786,
+        "upper_left_y": 0.4258432275042681,
+        "lower_right_x": 0.37970419491038604,
+        "lower_right_y": 0.43154392559567994
+      },
+      "text": "ladani\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2734789936482405,
+        "upper_left_y": 0.45919238020292086,
+        "lower_right_x": 0.42323026256401,
+        "lower_right_y": 0.4648930782943327
+      },
+      "text": "styracis\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2763025107503939,
+        "upper_left_y": 0.49085984037494435,
+        "lower_right_x": 0.3903032062434349,
+        "lower_right_y": 0.4967030867261728
+      },
+      "text": "bdellij\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2750924246651786,
+        "upper_left_y": 0.5241805051681265,
+        "lower_right_x": 0.6101471203715861,
+        "lower_right_y": 0.5298812032595382
+      },
+      "text": "belzoini, sing. dr. ij.s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2750924246651786,
+        "upper_left_y": 0.5564180134027984,
+        "lower_right_x": 0.5071619883304884,
+        "lower_right_y": 0.5622612597540269
+      },
+      "text": "mumiae dr. j.s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2771092519038866,
+        "upper_left_y": 0.5886270699761542,
+        "lower_right_x": 0.637509539948792,
+        "lower_right_y": 0.5944703163273827
+      },
+      "text": "spermatis ceton vnc.s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2771092519038866,
+        "upper_left_y": 0.6216626382497031,
+        "lower_right_x": 0.5432484859178046,
+        "lower_right_y": 0.627363408829424
+      },
+      "text": "gummi Arabici\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.28033613958278625,
+        "upper_left_y": 0.6541853154923174,
+        "lower_right_x": 0.6770835043001575,
+        "lower_right_y": 0.6600285255993913
+      },
+      "text": "hypocistidis, cuiusque dr. s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2750924246651786,
+        "upper_left_y": 0.686365775427739,
+        "lower_right_x": 0.46740302077862395,
+        "lower_right_y": 0.6920665460074599
+      },
+      "text": "rhabarbari\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2577479001854648,
+        "upper_left_y": 0.7185747957569403,
+        "lower_right_x": 0.45614793280593485,
+        "lower_right_y": 0.7242755663366612
+      },
+      "text": "scammonii\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.28033613958278625,
+        "upper_left_y": 0.753634128887693,
+        "lower_right_x": 0.877543063123687,
+        "lower_right_y": 0.759334899467414
+      },
+      "text": "medullae fruct. colocynthidis, cuiusque\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.48040335518973215,
+        "upper_left_y": 0.7849880771229216,
+        "lower_right_x": 0.5878944717535451,
+        "lower_right_y": 0.7906888477026425
+      },
+      "text": "vnc. s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.7002353187368697,
+        "upper_left_y": 0.8174821214834471,
+        "lower_right_x": 0.8750036928834034,
+        "lower_right_y": 0.8231828920631681
+      },
+      "text": "chalcanthi\n",
+      "tag": "text"
+    }
+  ],
+  [
+    {
+      "coordinates": {
+        "upper_left_x": 0.1952268969111082,
+        "upper_left_y": 0.1274394218825388,
+        "lower_right_x": 0.48834038742450103,
+        "lower_right_y": 0.13328265011169
+      },
+      "text": "chalcanthi scr. uij.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1952268969111082,
+        "upper_left_y": 0.16047501733920352,
+        "lower_right_x": 0.4482770134420956,
+        "lower_right_y": 0.16617573355269263
+      },
+      "text": "margaritarum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1960336124195772,
+        "upper_left_y": 0.19353918225068661,
+        "lower_right_x": 0.5797876694623162,
+        "lower_right_y": 0.1992398984641757
+      },
+      "text": "coralliorum rubrorum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.39368068150111607,
+        "upper_left_y": 0.22745841925614238,
+        "lower_right_x": 0.5477721142167805,
+        "lower_right_y": 0.23315913546963146
+      },
+      "text": "alborum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20006722842945773,
+        "upper_left_y": 0.26023748764799215,
+        "lower_right_x": 0.37097883464909404,
+        "lower_right_y": 0.2659382038614812
+      },
+      "text": "lithargyri\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2024874005998884,
+        "upper_left_y": 0.29247506837097315,
+        "lower_right_x": 0.4624604553735557,
+        "lower_right_y": 0.2983182966001243
+      },
+      "text": "lap. calaminaris\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2662184771369485,
+        "upper_left_y": 0.3263657449826492,
+        "lower_right_x": 0.4170608135832458,
+        "lower_right_y": 0.332066443074061
+      },
+      "text": "carniolae\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.26218487394957984,
+        "upper_left_y": 0.35803320515467263,
+        "lower_right_x": 0.4293732458803834,
+        "lower_right_y": 0.36387645150590114
+      },
+      "text": "magnetis\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1298823508895746,
+        "upper_left_y": 0.4249881191661409,
+        "lower_right_x": 0.36102641129694063,
+        "lower_right_y": 0.4306888172575527
+      },
+      "text": "haematitae, sing dr. iij. ad extre¬ \n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2637983306115415,
+        "upper_left_y": 0.39163893022333357,
+        "lower_right_x": 0.7948626349954044,
+        "lower_right_y": 0.3973396283147454
+      },
+      "text": "mum addatur\n",
+      "tag": "title"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2024874005998884,
+        "upper_left_y": 0.4595059283838703,
+        "lower_right_x": 0.553614614791229,
+        "lower_right_y": 0.46534917473509874
+      },
+      "text": "ol. stimmeos vnc.j.s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2686386493073792,
+        "upper_left_y": 0.49140140053212217,
+        "lower_right_x": 0.5327475668001576,
+        "lower_right_y": 0.497102098623534
+      },
+      "text": "plumbi vnc. iiij.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2686386493073792,
+        "upper_left_y": 0.5244940533490758,
+        "lower_right_x": 0.5347000250295431,
+        "lower_right_y": 0.5303372997003043
+      },
+      "text": "caphurae vnc. j.s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.26137815844111084,
+        "upper_left_y": 0.5569596098041308,
+        "lower_right_x": 0.5427090172006303,
+        "lower_right_y": 0.5626603078955426
+      },
+      "text": "amygd. dulcium\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.26299158945804885,
+        "upper_left_y": 0.5900237384714593,
+        "lower_right_x": 0.7982646525407038,
+        "lower_right_y": 0.5957244365628711
+      },
+      "text": "lumbricorum terrenorum, sing. vnc. s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.19764705625902704,
+        "upper_left_y": 0.6225177828319849,
+        "lower_right_x": 0.6412639201188288,
+        "lower_right_y": 0.6282185534117057
+      },
+      "text": "adipis serpentum praeparati\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1952268969111082,
+        "upper_left_y": 0.6567506042625445,
+        "lower_right_x": 0.8004778693704044,
+        "lower_right_y": 0.6625938143696185
+      },
+      "text": "iecinorum è ranis recentium, cuiusque\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.38601679441307774,
+        "upper_left_y": 0.6897862087802479,
+        "lower_right_x": 0.5401545676864495,
+        "lower_right_y": 0.6954869793599688
+      },
+      "text": "vnc.j.s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.3166386452041754,
+        "upper_left_y": 0.7214536689522714,
+        "lower_right_x": 0.788521749031644,
+        "lower_right_y": 0.7272968790593453
+      },
+      "text": "F. magdaleones ad carbuncu¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.13472269523043592,
+        "upper_left_y": 0.7548028578950787,
+        "lower_right_x": 0.806141470259979,
+        "lower_right_y": 0.7606460680021526
+      },
+      "text": "lum bubonemque pestilentem contaminati\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.13149579472902442,
+        "upper_left_y": 0.7881234864441063,
+        "lower_right_x": 0.7470266133797269,
+        "lower_right_y": 0.7938242570238272
+      },
+      "text": "hominis radicitus extirpandum.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.6094790162158613,
+        "upper_left_y": 0.8217862598120175,
+        "lower_right_x": 0.7967222069491859,
+        "lower_right_y": 0.8276294699190915
+      },
+      "text": "CAP. V.\n",
+      "tag": "text"
+    }
+  ],
+  [
+    {
+      "coordinates": {
+        "upper_left_x": 0.4372437036337973,
+        "upper_left_y": 0.13311162300744137,
+        "lower_right_x": 0.6394514324284402,
+        "lower_right_y": 0.1388123301598918
+      },
+      "text": "CAP. V.\n",
+      "tag": "header"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2605714172876182,
+        "upper_left_y": 0.16646081195024867,
+        "lower_right_x": 0.8008444393382353,
+        "lower_right_y": 0.17216152816373775
+      },
+      "text": "Hydropis deplorati vera curatio.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.21337814972180277,
+        "upper_left_y": 0.23290258122170057,
+        "lower_right_x": 0.8606573537618172,
+        "lower_right_y": 0.23874580945085178
+      },
+      "text": "IN hydrope è quibuscunque causis inuecto\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.21337814972180277,
+        "upper_left_y": 0.26568164961355034,
+        "lower_right_x": 0.8679021755186449,
+        "lower_right_y": 0.2715248778427015
+      },
+      "text": "ter vel quater offeratur hoc catharticum,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.19845378459000787,
+        "upper_left_y": 0.29814727855691436,
+        "lower_right_x": 0.8690541499803046,
+        "lower_right_y": 0.3038479947704034
+      },
+      "text": "aut tantisper, dum corpus seroso humore\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.19845378459000787,
+        "upper_left_y": 0.3309548348542347,
+        "lower_right_x": 0.8361724597065389,
+        "lower_right_y": 0.3367980812054632
+      },
+      "text": "distentum paulisper subsidere intelligas:\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2646050461200105,
+        "upper_left_y": 0.36344887921476027,
+        "lower_right_x": 0.6290198574547007,
+        "lower_right_y": 0.3692921255659887
+      },
+      "text": "Aquilae coelestis gr.j.s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2646050461200105,
+        "upper_left_y": 0.39480282744998885,
+        "lower_right_x": 0.7296876025800946,
+        "lower_right_y": 0.40064607380121736
+      },
+      "text": "extractae è pastillis Alahandal\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.3985210001969538,
+        "upper_left_y": 0.4278669561173174,
+        "lower_right_x": 0.6286333356584821,
+        "lower_right_y": 0.43371020246854586
+      },
+      "text": "essentiae gr.iij.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2637983306115415,
+        "upper_left_y": 0.4617577052173025,
+        "lower_right_x": 0.5988705931591387,
+        "lower_right_y": 0.46745840330871435
+      },
+      "text": "sacchari rosacei dr.ij.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2646050461200105,
+        "upper_left_y": 0.4948218338846311,
+        "lower_right_x": 0.5106554560300682,
+        "lower_right_y": 0.5005225319760429
+      },
+      "text": "mastiches dr.s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2662184771369485,
+        "upper_left_y": 0.527059342119303,
+        "lower_right_x": 0.6652664312795431,
+        "lower_right_y": 0.5329025884705315
+      },
+      "text": "croci gr. iij. misceantur.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.39368068150111607,
+        "upper_left_y": 0.5569596098041308,
+        "lower_right_x": 0.8525238293559612,
+        "lower_right_y": 0.5626603078955426
+      },
+      "text": "F. bolus burgatorius ad cor¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20773108987247244,
+        "upper_left_y": 0.5911923587463814,
+        "lower_right_x": 0.8586052902606355,
+        "lower_right_y": 0.5970356050976099
+      },
+      "text": "pus aqua crassa atque concreta suffusum. De¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20490755994780724,
+        "upper_left_y": 0.6245415839333432,
+        "lower_right_x": 0.8680557379201681,
+        "lower_right_y": 0.6303847940404171
+      },
+      "text": "inde a leucophlegmatiae exinanitione ad\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20571428827878807,
+        "upper_left_y": 0.6572920919314132,
+        "lower_right_x": 0.8738656693146009,
+        "lower_right_y": 0.6629928625111342
+      },
+      "text": "reliquam molis corporeae amplitudinem\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2032941161083574,
+        "upper_left_y": 0.6892446486230701,
+        "lower_right_x": 0.8510473940552784,
+        "lower_right_y": 0.695087858730144
+      },
+      "text": "minuendam manè ac vesperi haec potio ex¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2101512620429031,
+        "upper_left_y": 0.7214251085584917,
+        "lower_right_x": 0.8557749515821954,
+        "lower_right_y": 0.7271258791382126
+      },
+      "text": "hibeatur, donec cachecticum corpus citri¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2101512620429031,
+        "upper_left_y": 0.7544892734699747,
+        "lower_right_x": 0.8731522247570903,
+        "lower_right_y": 0.7601900440496957
+      },
+      "text": "no colore squalidum viuido nitore rursus\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.21660505022321427,
+        "upper_left_y": 0.790118727151685,
+        "lower_right_x": 0.4014299408728335,
+        "lower_right_y": 0.7958194977314059
+      },
+      "text": "efflorescat:\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.7732436749113708,
+        "upper_left_y": 0.8169406338145784,
+        "lower_right_x": 0.8730355911896008,
+        "lower_right_y": 0.8227838439216523
+      },
+      "text": "Croci\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": {
+        "upper_left_x": 0.21176470588235294,
+        "upper_left_y": 0.13824227303620473,
+        "lower_right_x": 0.8151502080324318,
+        "lower_right_y": 0.14394298018865517
+      },
+      "text": "Croci è chalybe summo ad extrema\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.27670588132714025,
+        "upper_left_y": 0.17073631739673026,
+        "lower_right_x": 0.6518575203518907,
+        "lower_right_y": 0.17643703361021934
+      },
+      "text": "opere reuerberati dr.s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.21176470588235294,
+        "upper_left_y": 0.20323036175725578,
+        "lower_right_x": 0.5265620383895746,
+        "lower_right_y": 0.20893107797074487
+      },
+      "text": "liq. ophirizi gr. iiij.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20773108987247244,
+        "upper_left_y": 0.23632301457420948,
+        "lower_right_x": 0.7732675247833508,
+        "lower_right_y": 0.2421662428033607
+      },
+      "text": "ol. nucularum moschatarum gr. v.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20531093052455357,
+        "upper_left_y": 0.26850354699794016,
+        "lower_right_x": 0.8110430549172795,
+        "lower_right_y": 0.27420426321142927
+      },
+      "text": "aque veronicae vnc. iij. misceantur &\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1484369742770155,
+        "upper_left_y": 0.30188122384621807,
+        "lower_right_x": 0.8133398745240283,
+        "lower_right_y": 0.30772447019744653
+      },
+      "text": "formetur potio ad pituitosum albicantemque\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1484369742770155,
+        "upper_left_y": 0.3340617562699488,
+        "lower_right_x": 0.8079011292016807,
+        "lower_right_y": 0.3397624543613606
+      },
+      "text": "sanguinem corrigendum. Interdiu verò pro¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.15368067637211136,
+        "upper_left_y": 0.36572921644197226,
+        "lower_right_x": 0.8167643571100315,
+        "lower_right_y": 0.3715724627932007
+      },
+      "text": "pter virium dissolutarum defectionem &\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14682353043756566,
+        "upper_left_y": 0.399078369140625,
+        "lower_right_x": 0.8127628102022059,
+        "lower_right_y": 0.40492161549185346
+      },
+      "text": "immodicae sitis iactationem detur haec potio:\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2101512620429031,
+        "upper_left_y": 0.42872206445544464,
+        "lower_right_x": 0.4249712775735294,
+        "lower_right_y": 0.4345653108066731
+      },
+      "text": "Cubebarum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.21176470588235294,
+        "upper_left_y": 0.4640664941058306,
+        "lower_right_x": 0.7564231039095326,
+        "lower_right_y": 0.4699097404570591
+      },
+      "text": "se. ocimi caryophyllati, sing. vnc.s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2109579775513721,
+        "upper_left_y": 0.49513538206558044,
+        "lower_right_x": 0.6857400333180147,
+        "lower_right_y": 0.500978628416809
+      },
+      "text": "folliculorum solani halicacabi\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20934453371192227,
+        "upper_left_y": 0.5273444023947818,
+        "lower_right_x": 0.3915995365431329,
+        "lower_right_y": 0.5331876487460102
+      },
+      "text": "santali albi\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2928403453666623,
+        "upper_left_y": 0.5598384467553073,
+        "lower_right_x": 0.41696767085740544,
+        "lower_right_y": 0.5656816931065358
+      },
+      "text": "rubri\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.30937815433790705,
+        "upper_left_y": 0.5929025754226358,
+        "lower_right_x": 0.5984281652113971,
+        "lower_right_y": 0.5987458217738643
+      },
+      "text": "lutei, cuiusque dr. ij.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.21660505022321427,
+        "upper_left_y": 0.6259382161844937,
+        "lower_right_x": 0.4124453760996586,
+        "lower_right_y": 0.6316389867642147
+      },
+      "text": "corall. rubr.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2141848780527836,
+        "upper_left_y": 0.6572920919314132,
+        "lower_right_x": 0.42267840730042017,
+        "lower_right_y": 0.6629928625111342
+      },
+      "text": "spodij electi\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2141848780527836,
+        "upper_left_y": 0.6906412808742206,
+        "lower_right_x": 0.5529236352744222,
+        "lower_right_y": 0.6963420514539415
+      },
+      "text": "scobis elimati eboris\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.21337814972180277,
+        "upper_left_y": 0.7231638856285258,
+        "lower_right_x": 0.6146868024553571,
+        "lower_right_y": 0.7290070957355997
+      },
+      "text": "succini flauiss. ac pellucidi\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.21176470588235294,
+        "upper_left_y": 0.7565130745713331,
+        "lower_right_x": 0.5305463005514706,
+        "lower_right_y": 0.7623562846784071
+      },
+      "text": "mastiches, sing. dr.j.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.21176470588235294,
+        "upper_left_y": 0.7895772394828162,
+        "lower_right_x": 0.7642600692620798,
+        "lower_right_y": 0.7954204495898901
+      },
+      "text": "se. quatuor frig. maior. cuiusque dr.s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2807394845145089,
+        "upper_left_y": 0.8200760431357631,
+        "lower_right_x": 0.3932165835084034,
+        "lower_right_y": 0.825919253242837
+      },
+      "text": "intybi\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.5804369501706933,
+        "upper_left_y": 0.8576721771312723,
+        "lower_right_x": 0.8110655712480305,
+        "lower_right_y": 0.8633729477109932
+      },
+      "text": "C portulacae\n",
+      "tag": "text"
+    }
+  ],
+  [
+    {
+      "coordinates": {
+        "upper_left_x": 0.36020169298188026,
+        "upper_left_y": 0.13257007191130216,
+        "lower_right_x": 0.5165358086594013,
+        "lower_right_y": 0.13841330014045336
+      },
+      "text": "portulacae\n",
+      "tag": "header"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.34205042734867386,
+        "upper_left_y": 0.1656056673679669,
+        "lower_right_x": 0.622852331850709,
+        "lower_right_y": 0.17130638358145597
+      },
+      "text": "lactucae, sing. dr.j.\n",
+      "tag": "header"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2827563117532169,
+        "upper_left_y": 0.19727312753999035,
+        "lower_right_x": 0.8716709681919643,
+        "lower_right_y": 0.20311635576914155
+      },
+      "text": "sacchari q.s.dissoluti cum succo malo¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.3396302551782432,
+        "upper_left_y": 0.23005219593184012,
+        "lower_right_x": 0.6543978651030725,
+        "lower_right_y": 0.23589542416099132
+      },
+      "text": "rum aurantiorum.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.4194958085773372,
+        "upper_left_y": 0.26251782487520414,
+        "lower_right_x": 0.6683698381696429,
+        "lower_right_y": 0.2682185410886932
+      },
+      "text": "F. Electuarium.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2791260534975709,
+        "upper_left_y": 0.2958954292351729,
+        "lower_right_x": 0.6108471782267595,
+        "lower_right_y": 0.30173865746432416
+      },
+      "text": "Huius electuarij dr.j.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2807394845145089,
+        "upper_left_y": 0.3297861783351581,
+        "lower_right_x": 0.883003606716124,
+        "lower_right_y": 0.33548687642656994
+      },
+      "text": "succi medicati siue rob. è berberis vnc.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.3444705995191045,
+        "upper_left_y": 0.39423274314318585,
+        "lower_right_x": 0.6835454860655199,
+        "lower_right_y": 0.40007598949441436
+      },
+      "text": "tartareae, cuius gr.iij.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2807394845145089,
+        "upper_left_y": 0.363163855183436,
+        "lower_right_x": 0.8818477342108718,
+        "lower_right_y": 0.3690071015346645
+      },
+      "text": "ess. chalcanthinae (s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2783193379891019,
+        "upper_left_y": 0.42669833584239536,
+        "lower_right_x": 0.8794354607077206,
+        "lower_right_y": 0.43239903393380713
+      },
+      "text": "aque cichorij vnc. j. s. misceantur & fiat\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.225882342683167,
+        "upper_left_y": 0.4600474885410481,
+        "lower_right_x": 0.876920709690126,
+        "lower_right_y": 0.4657481866324599
+      },
+      "text": "potiuncula ad robur corporis languidum ex¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.21660505022321427,
+        "upper_left_y": 0.49171494871307153,
+        "lower_right_x": 0.8737120043329832,
+        "lower_right_y": 0.49755819506430005
+      },
+      "text": "citandum, & immoderatam sitim restin¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.22346219615775997,
+        "upper_left_y": 0.5244940533490758,
+        "lower_right_x": 0.882701303177521,
+        "lower_right_y": 0.5303372997003043
+      },
+      "text": "guendam. Postremò tantisper ad oedema\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.21579830906972164,
+        "upper_left_y": 0.5566745857728066,
+        "lower_right_x": 0.8858690790769432,
+        "lower_right_y": 0.5623752838642184
+      },
+      "text": "disijciendum adhibeatur cataplasma, quoad\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2141848780527836,
+        "upper_left_y": 0.5891686301333321,
+        "lower_right_x": 0.8750773453912815,
+        "lower_right_y": 0.5948693282247439
+      },
+      "text": "aquàm inter cutem planè absumtam & dis¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2182184812401523,
+        "upper_left_y": 0.6225177828319849,
+        "lower_right_x": 0.7938944327731092,
+        "lower_right_y": 0.6282185534117057
+      },
+      "text": "sipatum tumorem euanuisse videas:\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2783193379891019,
+        "upper_left_y": 0.6550403875862901,
+        "lower_right_x": 0.7915981773568802,
+        "lower_right_y": 0.660883597693364
+      },
+      "text": "stercoris columbini aridi vnc. ij.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2807394845145089,
+        "upper_left_y": 0.6872494079154914,
+        "lower_right_x": 0.653520394974396,
+        "lower_right_y": 0.6930926180225653
+      },
+      "text": "trochisc. è thure dr. ij.s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2807394845145089,
+        "upper_left_y": 0.7188883801820443,
+        "lower_right_x": 0.8699480329241072,
+        "lower_right_y": 0.7247315902891182
+      },
+      "text": "myrobalanorum cepulorum retorrido¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.28194957059972425,
+        "upper_left_y": 0.753947785801106,
+        "lower_right_x": 0.8775569114364495,
+        "lower_right_y": 0.7915439922849243
+      },
+      "text": "corall. rubr. (rum vnc.s. \nalb.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.28194957059972425,
+        "upper_left_y": 0.8194773621910258,
+        "lower_right_x": 0.5478413557805935,
+        "lower_right_y": 0.8251781327707467
+      },
+      "text": "baccarum myrti\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.7651764685366335,
+        "upper_left_y": 0.8508598708200341,
+        "lower_right_x": 0.8714423171612395,
+        "lower_right_y": 0.8567030809271081
+      },
+      "text": "balau¬\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": {
+        "upper_left_x": 0.2097479042886686,
+        "upper_left_y": 0.127980972978678,
+        "lower_right_x": 0.5875079499573267,
+        "lower_right_y": 0.13368168013112844
+      },
+      "text": "balaustiorum, sing. dr.j.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20732773211823793,
+        "upper_left_y": 0.16078860176430745,
+        "lower_right_x": 0.4745705484342174,
+        "lower_right_y": 0.16663182999345866
+      },
+      "text": "aceti rosacei q. s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.3396302551782432,
+        "upper_left_y": 0.19214247751122698,
+        "lower_right_x": 0.805913742450105,
+        "lower_right_y": 0.1979857057403782
+      },
+      "text": "F. Cataplasma ad tumidissi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14359664275866596,
+        "upper_left_y": 0.22663183506764029,
+        "lower_right_x": 0.6709117729122899,
+        "lower_right_y": 0.2324750632967915
+      },
+      "text": "mam corporis vitiatam molem.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.35979832240513393,
+        "upper_left_y": 0.2765130702220346,
+        "lower_right_x": 0.589470666196166,
+        "lower_right_y": 0.2823562984511858
+      },
+      "text": "CAP. VI.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2097479042886686,
+        "upper_left_y": 0.3104323072274903,
+        "lower_right_x": 0.7610042796415442,
+        "lower_right_y": 0.31627555357871884
+      },
+      "text": "Podagre cuiusque perfecta curatio.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.16537815382500656,
+        "upper_left_y": 0.35942990989413226,
+        "lower_right_x": 0.8157713305048582,
+        "lower_right_y": 0.3651306079855441
+      },
+      "text": "PRimum ab arthritico ad quintum aut\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.19119328090122767,
+        "upper_left_y": 0.3919239904988123,
+        "lower_right_x": 0.8155933027507878,
+        "lower_right_y": 0.39762468859022415
+      },
+      "text": "sextum vsque diem pilula vnionum no¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14359664275866596,
+        "upper_left_y": 0.42615673944106297,
+        "lower_right_x": 0.8148138479024423,
+        "lower_right_y": 0.43199998579229143
+      },
+      "text": "strorum magnitudine erui manè ac vespe¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14682353043756566,
+        "upper_left_y": 0.4600474885410481,
+        "lower_right_x": 0.5703950256860557,
+        "lower_right_y": 0.4657481866324599
+      },
+      "text": "ri deglutiatur, qui capiunt\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.21216806363658744,
+        "upper_left_y": 0.4922565088702494,
+        "lower_right_x": 0.5798123912650998,
+        "lower_right_y": 0.49795720696166124
+      },
+      "text": "Aquilae coelestis vnc.s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.21297479196756827,
+        "upper_left_y": 0.5239239690422729,
+        "lower_right_x": 0.8229906611081933,
+        "lower_right_y": 0.5297672153935014
+      },
+      "text": "aloes praestantissimae nouies è stillati¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14924370260799633,
+        "upper_left_y": 0.5581282300790529,
+        "lower_right_x": 0.6616380194655987,
+        "lower_right_y": 0.5639714764302813
+      },
+      "text": "tia chamaepityos aqua lotae dr.ij.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2137815074760373,
+        "upper_left_y": 0.5911923587463814,
+        "lower_right_x": 0.65389404296875,
+        "lower_right_y": 0.5970356050976099
+      },
+      "text": "stimmeos reuerberati scr.j.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.21579830906972164,
+        "upper_left_y": 0.6242279270199302,
+        "lower_right_x": 0.6746221975118172,
+        "lower_right_y": 0.6299286975996511
+      },
+      "text": "croci è chalybe correcti dr.s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.21297479196756827,
+        "upper_left_y": 0.6564370198374406,
+        "lower_right_x": 0.6122389336594013,
+        "lower_right_y": 0.6621377904171615
+      },
+      "text": "moschi odoratiss. gr.iiij.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2105546197971376,
+        "upper_left_y": 0.6897862087802479,
+        "lower_right_x": 0.5205126337644432,
+        "lower_right_y": 0.6954869793599688
+      },
+      "text": "ambari fului gr.iij.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.23677311745010504,
+        "upper_left_y": 0.7228503012034219,
+        "lower_right_x": 0.8154425100118172,
+        "lower_right_y": 0.7285510717831428
+      },
+      "text": "F. massa catapotiorum cum extracta stoe¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14924370260799633,
+        "upper_left_y": 0.7576532431849391,
+        "lower_right_x": 0.8329902200137868,
+        "lower_right_y": 0.7634964532920131
+      },
+      "text": "chados Massiliensis essentia, cui grana quinque\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.16013445172991073,
+        "upper_left_y": 0.7887220949005345,
+        "lower_right_x": 0.8223465606945903,
+        "lower_right_y": 0.7945653050076084
+      },
+      "text": "vel sex ol. è chalcatho rubri sint addita. De¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.15771427955948003,
+        "upper_left_y": 0.8214726753869136,
+        "lower_right_x": 0.8338214265198267,
+        "lower_right_y": 0.8271734459666344
+      },
+      "text": "inde ab assumtis pilulis quotidie bis térue\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.592134466091124,
+        "upper_left_y": 0.8573871530999481,
+        "lower_right_x": 0.8220305114233193,
+        "lower_right_y": 0.8630879236796689
+      },
+      "text": "C1 pars\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": {
+        "upper_left_x": 0.20006722842945773,
+        "upper_left_y": 0.12829449397651146,
+        "lower_right_x": 0.8703835880055147,
+        "lower_right_y": 0.13413772220566267
+      },
+      "text": "pars malè affecta inungatur oleo Macrobij\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.19724369850479254,
+        "upper_left_y": 0.16078860176430745,
+        "lower_right_x": 0.8741279666163341,
+        "lower_right_y": 0.16663182999345866
+      },
+      "text": "calido, cuius parandi ratio haec est: Sanguinis\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20087394393792674,
+        "upper_left_y": 0.19268403766840483,
+        "lower_right_x": 0.8639464819130778,
+        "lower_right_y": 0.19838475388189392
+      },
+      "text": "ceruini adhue calentis tres cantharos è sera¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20571428827878807,
+        "upper_left_y": 0.2254916664540343,
+        "lower_right_x": 0.8790163184414391,
+        "lower_right_y": 0.2313348946831855
+      },
+      "text": "phino igne moderato stillare sinito, donec\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20732773211823793,
+        "upper_left_y": 0.2585557588772083,
+        "lower_right_x": 0.875763503643645,
+        "lower_right_y": 0.2643989871063595
+      },
+      "text": "phlegma omne prolectum fuerit & color è\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20087394393792674,
+        "upper_left_y": 0.29130641185189654,
+        "lower_right_x": 0.8717144621520483,
+        "lower_right_y": 0.2970071280653856
+      },
+      "text": "croceo in puniceum transierit: deinde ex\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2032941161083574,
+        "upper_left_y": 0.32380045621242204,
+        "lower_right_x": 0.8616795644038866,
+        "lower_right_y": 0.32950115430383387
+      },
+      "text": "Athannure flagrantissimo igne tandiu stil¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2024874005998884,
+        "upper_left_y": 0.35686462112390516,
+        "lower_right_x": 0.8737008231026786,
+        "lower_right_y": 0.36256531921531693
+      },
+      "text": "las expellito, vsque dum nihil guttaru oleosa\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20490755994780724,
+        "upper_left_y": 0.3896721774212255,
+        "lower_right_x": 0.8665414505646009,
+        "lower_right_y": 0.39551542377245397
+      },
+      "text": "rum amplius in subiectum emanet recepta¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20087394393792674,
+        "upper_left_y": 0.42216625802590557,
+        "lower_right_x": 0.872990045627626,
+        "lower_right_y": 0.42800950437713403
+      },
+      "text": "culum: vltimo extrema ignis violentia co¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2024874005998884,
+        "upper_left_y": 0.4543752783551069,
+        "lower_right_x": 0.8785531693146008,
+        "lower_right_y": 0.46021852470633534
+      },
+      "text": "tinenter vrgeto, tunc sal egestus suffitu in\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2024874005998884,
+        "upper_left_y": 0.48712585884148607,
+        "lower_right_x": 0.8607245437237395,
+        "lower_right_y": 0.49282655693289784
+      },
+      "text": "summam vitri partem lat eribus tectoque me¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20490755994780724,
+        "upper_left_y": 0.5196199394461661,
+        "lower_right_x": 0.8647515304950105,
+        "lower_right_y": 0.525320637537578
+      },
+      "text": "diocri copia adhęrescet, quem vase refrige¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20732773211823793,
+        "upper_left_y": 0.5526840681134947,
+        "lower_right_x": 0.8801283892463235,
+        "lower_right_y": 0.5583847662049065
+      },
+      "text": "rato diligenter colligito & cum oleo probè\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2024874005998884,
+        "upper_left_y": 0.5852066366236454,
+        "lower_right_x": 0.8706562458967962,
+        "lower_right_y": 0.5910498829748738
+      },
+      "text": "temperato. Hoc aliquot septimanis vtatur\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20490755994780724,
+        "upper_left_y": 0.6182708377792829,
+        "lower_right_x": 0.8680885635504202,
+        "lower_right_y": 0.6241140478863569
+      },
+      "text": "conflictatus à purgatione absoluta, & si vi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20571428827878807,
+        "upper_left_y": 0.6507363217460288,
+        "lower_right_x": 0.8780269334296219,
+        "lower_right_y": 0.6564370923257496
+      },
+      "text": "num interea bibere velit, id recens deferbeat\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.21257143421333377,
+        "upper_left_y": 0.6846554862631755,
+        "lower_right_x": 0.8715026342568277,
+        "lower_right_y": 0.6903562568428964
+      },
+      "text": "prius oportet cum radicibus caryophylla¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2097479042886686,
+        "upper_left_y": 0.7166080429548323,
+        "lower_right_x": 0.8552632820706407,
+        "lower_right_y": 0.7224512530619062
+      },
+      "text": "tae ac peruulgati acori. Sic breui omne ar¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2097479042886686,
+        "upper_left_y": 0.7493586234412114,
+        "lower_right_x": 0.8774723854385504,
+        "lower_right_y": 0.7550593940209323
+      },
+      "text": "thritidis etiam vetustissimae genus tollitur\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20732773211823793,
+        "upper_left_y": 0.7832778604466671,
+        "lower_right_x": 0.8719354196756828,
+        "lower_right_y": 0.7889786310263881
+      },
+      "text": "radicitus, miserabile helluonum flagellum,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20006722842945773,
+        "upper_left_y": 0.8157719048071927,
+        "lower_right_x": 0.8707873432576155,
+        "lower_right_y": 0.8214726753869136
+      },
+      "text": "dirum gurgitum illorum cruciamentum.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.6921680610720851,
+        "upper_left_y": 0.8491496541437797,
+        "lower_right_x": 0.8699392110359769,
+        "lower_right_y": 0.8549928642508536
+      },
+      "text": "CAP.VII.\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": {
+        "upper_left_x": 0.33236973866695113,
+        "upper_left_y": 0.13225655091346866,
+        "lower_right_x": 0.5842178985852153,
+        "lower_right_y": 0.13795725806591913
+      },
+      "text": "CAP. VII.\n",
+      "tag": "header"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.19038655257024684,
+        "upper_left_y": 0.16534913124211328,
+        "lower_right_x": 0.7371199920397846,
+        "lower_right_y": 0.1711923594712645
+      },
+      "text": "Cancri exulcerati seu fistulae cuius¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2972773191307773,
+        "upper_left_y": 0.19812827212227213,
+        "lower_right_x": 0.6184472348509716,
+        "lower_right_y": 0.20397150035142333
+      },
+      "text": "cunque certa curatio.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1738487435990021,
+        "upper_left_y": 0.23147738857677033,
+        "lower_right_x": 0.7456145470883666,
+        "lower_right_y": 0.23732061680592154
+      },
+      "text": "HAEc potio quotidie ter hauriatur:\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2577479001854648,
+        "upper_left_y": 0.26422804155145857,
+        "lower_right_x": 0.6118253307182248,
+        "lower_right_y": 0.2699287577649477
+      },
+      "text": "Rad. cyclamini vnc.s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2468571510635504,
+        "upper_left_y": 0.29729213397463256,
+        "lower_right_x": 0.7187631302521008,
+        "lower_right_y": 0.30299285018812167
+      },
+      "text": "herb. diapensiae candidae M.j.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.32551259273240546,
+        "upper_left_y": 0.3297861783351581,
+        "lower_right_x": 0.798467812417936,
+        "lower_right_y": 0.33548687642656994
+      },
+      "text": "solidaginis mediae M.s. deco¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1343193246536896,
+        "upper_left_y": 0.363163855183436,
+        "lower_right_x": 0.6555796903722426,
+        "lower_right_y": 0.3690071015346645
+      },
+      "text": "quantur in lib. j.s. vini ad tertias.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.13512605298467043,
+        "upper_left_y": 0.39619949594529397,
+        "lower_right_x": 0.6369134470194328,
+        "lower_right_y": 0.40190019403670574
+      },
+      "text": "Sumantur huius decocti vnc. iij.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2601680723558955,
+        "upper_left_y": 0.4284085525186498,
+        "lower_right_x": 0.8031513630842962,
+        "lower_right_y": 0.4341092506100616
+      },
+      "text": "ol.è caryophyllis per seraphinum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.369478985441833,
+        "upper_left_y": 0.4617577052173025,
+        "lower_right_x": 0.7750306201582196,
+        "lower_right_y": 0.46745840330871435
+      },
+      "text": "prolecti scr. j. misceantur.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.13270588081423976,
+        "upper_left_y": 0.493425165389326,
+        "lower_right_x": 0.8119450929785977,
+        "lower_right_y": 0.4992684117405545
+      },
+      "text": "Locus autem affectus manè ac vesperi\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1375462123325893,
+        "upper_left_y": 0.5264892940566546,
+        "lower_right_x": 0.7705042734867384,
+        "lower_right_y": 0.532332540407883
+      },
+      "text": "optimè inungatur linimento, cui insunt:\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20208403002314207,
+        "upper_left_y": 0.5601235070307861,
+        "lower_right_x": 0.49219037224264706,
+        "lower_right_y": 0.5659667533820145
+      },
+      "text": "Ol. è lateribus qr.j.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2609747878643645,
+        "upper_left_y": 0.592589063485841,
+        "lower_right_x": 0.5586661202566964,
+        "lower_right_y": 0.5982897615772528
+      },
+      "text": "terebinthina lib.s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2625882445263262,
+        "upper_left_y": 0.6251116319959917,
+        "lower_right_x": 0.8057778751148897,
+        "lower_right_y": 0.6309548421030656
+      },
+      "text": "caryophyllis vnc. ij. misceantur &\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.13512605298467043,
+        "upper_left_y": 0.6581472365136951,
+        "lower_right_x": 0.795284085313813,
+        "lower_right_y": 0.663848007093416
+      },
+      "text": "chemico more pellantur è balinęo: tùm ad¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.19885714234424237,
+        "upper_left_y": 0.6918100098816063,
+        "lower_right_x": 0.8034348944655988,
+        "lower_right_y": 0.6976532199886802
+      },
+      "text": "mastiches (dantur\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1956302546653427,
+        "upper_left_y": 0.7240190302108076,
+        "lower_right_x": 0.3510554722377232,
+        "lower_right_y": 0.7298622403178815
+      },
+      "text": "myrrhae\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1964369701738117,
+        "upper_left_y": 0.7579097068224837,
+        "lower_right_x": 0.503116998752626,
+        "lower_right_y": 0.7636104774022046
+      },
+      "text": "thuris, sing. vnc.iij.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.19724369850479254,
+        "upper_left_y": 0.7892635825694032,
+        "lower_right_x": 0.7996388154871323,
+        "lower_right_y": 0.7949643531491241
+      },
+      "text": "mumiae qr.j. omnia simul mixta per\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.13512605298467043,
+        "upper_left_y": 0.8226413319059902,
+        "lower_right_x": 0.6895443699940914,
+        "lower_right_y": 0.8284845420130641
+      },
+      "text": "Seraphinum agantur. Post sumatur\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.532840350495667,
+        "upper_left_y": 0.8548217918414118,
+        "lower_right_x": 0.8006994936646533,
+        "lower_right_y": 0.8636579717423174
+      },
+      "text": "huius\nC iij\n",
+      "tag": "text"
+    }
+  ],
+  [
+    {
+      "coordinates": {
+        "upper_left_x": 0.2654117616284795,
+        "upper_left_y": 0.14109258583775608,
+        "lower_right_x": 0.5148675485819327,
+        "lower_right_y": 0.14679329299020655
+      },
+      "text": "huius olei vnc.j.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2589579862706802,
+        "upper_left_y": 0.17187648601033625,
+        "lower_right_x": 0.7983130190552784,
+        "lower_right_y": 0.17757720222382534
+      },
+      "text": "aquilae coelestis dr.j. misceantur.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.3549579780642726,
+        "upper_left_y": 0.20380048230821332,
+        "lower_right_x": 0.8454439563911502,
+        "lower_right_y": 0.20950119852170243
+      },
+      "text": "F. linimentum quod rursus oblige¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1996638706752232,
+        "upper_left_y": 0.23632301457420948,
+        "lower_right_x": 0.848194692916229,
+        "lower_right_y": 0.2421662428033607
+      },
+      "text": "tur emplastro Olympico. Atque semper an¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20127731451467307,
+        "upper_left_y": 0.26796198684076233,
+        "lower_right_x": 0.8538334181328782,
+        "lower_right_y": 0.2738052150699135
+      },
+      "text": "te linimenti admotionem cancer siuè fi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20208403002314207,
+        "upper_left_y": 0.30071256732714147,
+        "lower_right_x": 0.7916157185530462,
+        "lower_right_y": 0.3064132654185533
+      },
+      "text": "stula optimè expurgetur hac lotione:\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2686386493073792,
+        "upper_left_y": 0.333206611687667,
+        "lower_right_x": 0.5282185017561712,
+        "lower_right_y": 0.33890730977907885
+      },
+      "text": "Aluminis vnc.s.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.26944539046087185,
+        "upper_left_y": 0.36572921644197226,
+        "lower_right_x": 0.43210998022255775,
+        "lower_right_y": 0.3715724627932007
+      },
+      "text": "salis vne. j.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2662184771369485,
+        "upper_left_y": 0.3979097126215484,
+        "lower_right_x": 0.48306725766478464,
+        "lower_right_y": 0.4036104107129602
+      },
+      "text": "mellis vnc.ij.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2783193379891019,
+        "upper_left_y": 0.4295771727935718,
+        "lower_right_x": 0.854327392578125,
+        "lower_right_y": 0.43542041914480034
+      },
+      "text": "vini (antur.\n",
+      "tag": "title"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.27025210596934085,
+        "upper_left_y": 0.4617577052173025,
+        "lower_right_x": 0.8610390542935924,
+        "lower_right_y": 0.46745840330871435
+      },
+      "text": "aquę, cuiusque lib. j. dissoluta probè misce\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2109579775513721,
+        "upper_left_y": 0.49311161720837665,
+        "lower_right_x": 0.8525566549862132,
+        "lower_right_y": 0.4988123152997884
+      },
+      "text": "Verum linimento supradicto longè diuinio¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20934453371192227,
+        "upper_left_y": 0.525320637537578,
+        "lower_right_x": 0.8639517134978991,
+        "lower_right_y": 0.5310213356289898
+      },
+      "text": "ra ſunt, oleum dulce stimmeos, plumbi, hy¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20934453371192227,
+        "upper_left_y": 0.5572731217409256,
+        "lower_right_x": 0.8680320419183298,
+        "lower_right_y": 0.5631163680921542
+      },
+      "text": "drargyri, quibus nihil vnquam deploratorum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.21337814972180277,
+        "upper_left_y": 0.589482142070127,
+        "lower_right_x": 0.8595969320345326,
+        "lower_right_y": 0.5953253884213554
+      },
+      "text": "vlcerum aduersari potest, sed ocyssimè sa¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.20934453371192227,
+        "upper_left_y": 0.6219762951631161,
+        "lower_right_x": 0.8276749298352153,
+        "lower_right_y": 0.62781950527019
+      },
+      "text": "nantur phagedaenica & cacoethe omnia.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.40255462902934613,
+        "upper_left_y": 0.6593158930327717,
+        "lower_right_x": 0.6677885167738971,
+        "lower_right_y": 0.6651591031398456
+      },
+      "text": "CAP. VIII.\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.25653781410024945,
+        "upper_left_y": 0.694631762289378,
+        "lower_right_x": 0.8723307633600315,
+        "lower_right_y": 0.7003325328690989
+      },
+      "text": "HAEc de praeparatione Aquilae coelestis\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.27751259683560925,
+        "upper_left_y": 0.7254442228557378,
+        "lower_right_x": 0.8624482996323529,
+        "lower_right_y": 0.7312874329628117
+      },
+      "text": "& vsu eius tam in externis quàm inter¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.21579830906972164,
+        "upper_left_y": 0.7587647789164563,
+        "lower_right_x": 0.859776498490021,
+        "lower_right_y": 0.7644655494961773
+      },
+      "text": "nis humani corporis affectibus. lam quod re¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.2182184812401523,
+        "upper_left_y": 0.7906887752143335,
+        "lower_right_x": 0.8682130957851891,
+        "lower_right_y": 0.7963895457940543
+      },
+      "text": "liquum est, etiam atque etiam rogo te, lo. Chiliane,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.22063865341058297,
+        "upper_left_y": 0.8226413319059902,
+        "lower_right_x": 0.8650895319065126,
+        "lower_right_y": 0.8284845420130641
+      },
+      "text": "ut mearum vigiliarum munusculum leuidense,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.7966386554621848,
+        "upper_left_y": 0.8488360697186758,
+        "lower_right_x": 0.8644900538340337,
+        "lower_right_y": 0.8545368402983967
+      },
+      "text": "quod\n",
+      "tag": "footer"
+    }
+  ],
+  [
+    {
+      "coordinates": {
+        "upper_left_x": 0.1335126091452206,
+        "upper_left_y": 0.14166270638871362,
+        "lower_right_x": 0.7925283736541492,
+        "lower_right_y": 0.14736341354116408
+      },
+      "text": "quod in tuo nomine apparet, aequi boni fa¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.13593276849313946,
+        "upper_left_y": 0.17361519059206132,
+        "lower_right_x": 0.7889594070049895,
+        "lower_right_y": 0.17945841882121252
+      },
+      "text": "cias, & inde meam erga te tuosque fidem & be¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.13270588081423976,
+        "upper_left_y": 0.20582421092126263,
+        "lower_right_x": 0.8000344156217174,
+        "lower_right_y": 0.21166743915041383
+      },
+      "text": "neuolentiam probes. Altiora enim quae nunc\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.13835294066357012,
+        "upper_left_y": 0.23974344792671837,
+        "lower_right_x": 0.8020431903230042,
+        "lower_right_y": 0.24558667615586957
+      },
+      "text": "paro & in hac commentatione, & in alijs si¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.13593276849313946,
+        "upper_left_y": 0.27021376367419464,
+        "lower_right_x": 0.8032516351267069,
+        "lower_right_y": 0.2759144798876837
+      },
+      "text": "milibus me breuiorem faciunt, quae propediem\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.13835294066357012,
+        "upper_left_y": 0.30273629594019075,
+        "lower_right_x": 0.7983626678210347,
+        "lower_right_y": 0.30857954229141926
+      },
+      "text": "Deo adiuuante sum editurus licet admodum\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1407731128340008,
+        "upper_left_y": 0.33580046085167387,
+        "lower_right_x": 0.8020334452140231,
+        "lower_right_y": 0.3416437072029023
+      },
+      "text": "praecocia, quòd nimis maturè mihi inuito\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1407731128340008,
+        "upper_left_y": 0.36712584869312276,
+        "lower_right_x": 0.7924649278656776,
+        "lower_right_y": 0.3728265467845346
+      },
+      "text": "partim quotidianis optimatum precibus, par¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1375462123325893,
+        "upper_left_y": 0.4007600616672543,
+        "lower_right_x": 0.8069433901490284,
+        "lower_right_y": 0.40646075975866613
+      },
+      "text": "tim oblato indies à principibus viris ingenti\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1407731128340008,
+        "upper_left_y": 0.4335391663032586,
+        "lower_right_x": 0.7924538492154675,
+        "lower_right_y": 0.43923986439467044
+      },
+      "text": "precio, partim à liuidis quibusdam auarisque\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.13270588081423976,
+        "upper_left_y": 0.46492160244395786,
+        "lower_right_x": 0.8044450519465599,
+        "lower_right_y": 0.4707648487951863
+      },
+      "text": "mysteriophylactis vi & morte intetata de\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.13512605298467043,
+        "upper_left_y": 0.49738715889901275,
+        "lower_right_x": 0.7924921628807773,
+        "lower_right_y": 0.5030878569904246
+      },
+      "text": "manibus excutiantur. Tu quaeso illum cando¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.13835294066357012,
+        "upper_left_y": 0.5295961792282141,
+        "lower_right_x": 0.7883554666983981,
+        "lower_right_y": 0.5352968773196259
+      },
+      "text": "rem, illamque fidem, quam in hoc Ingolstadi¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1407731128340008,
+        "upper_left_y": 0.5632588801078162,
+        "lower_right_x": 0.7960353306361607,
+        "lower_right_y": 0.5691021264590447
+      },
+      "text": "ensium agro primùm in te esse perspexi,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1375462123325893,
+        "upper_left_y": 0.5946127920988903,
+        "lower_right_x": 0.7923860950630253,
+        "lower_right_y": 0.6004560384501187
+      },
+      "text": "constanter colas: tunc & me eum, quem ex¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.1448067288438813,
+        "upper_left_y": 0.626223240215818,
+        "lower_right_x": 0.7647718926437762,
+        "lower_right_y": 0.631924010795539
+      },
+      "text": "petis maximè, habebis perpetuò. DEV\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.13996638450301996,
+        "upper_left_y": 0.658460820938799,
+        "lower_right_x": 0.7961979713760504,
+        "lower_right_y": 0.6643040310458729
+      },
+      "text": "Opt. Max. faxit, ut opera medicae artis in¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.13835294066357012,
+        "upper_left_y": 0.6920664735191508,
+        "lower_right_x": 0.7970728770023634,
+        "lower_right_y": 0.6977672440988717
+      },
+      "text": "stituta ad ęthernum sui nominis honorem,\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.14319327218191966,
+        "upper_left_y": 0.7237339336911743,
+        "lower_right_x": 0.8034684381565126,
+        "lower_right_y": 0.7295771437982482
+      },
+      "text": "& catholicae apostolicaeque Ecclesiae salutem\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.17223529975955226,
+        "upper_left_y": 0.7561994901462292,
+        "lower_right_x": 0.7542353269432773,
+        "lower_right_y": 0.7619002607259501
+      },
+      "text": "absoluere possim, neglecta importu¬\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.21176470588235294,
+        "upper_left_y": 0.7887220949005345,
+        "lower_right_x": 0.7290509905133928,
+        "lower_right_y": 0.7945653050076084
+      },
+      "text": "norum hominum obtrectatione\n",
+      "tag": "text"
+    },
+    {
+      "coordinates": {
+        "upper_left_x": 0.27105882147780985,
+        "upper_left_y": 0.8223277474808863,
+        "lower_right_x": 0.6678537577140231,
+        "lower_right_y": 0.8280285180606072
+      },
+      "text": "& maleuolentia. Amen.\n",
+      "tag": "text"
+    }
+  ],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  []
+]
