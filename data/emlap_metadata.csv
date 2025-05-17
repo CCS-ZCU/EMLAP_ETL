@@ -1,26 +1,26 @@
-working_title;No.;is_done;is_noscemus;if_noscemus_id;#if is_noscemus = True, don't transcribe;AUTHORSHIP;is_one_author;#if more than 1 author skip section and choose compendium below;is_author_known;author_name;author_name_alternatives;author_viaf;author_cerl;author_comments;is_compendium;if_compendium;TRANSLATION / EDITORSHIP;is_translator;translator_name;translator_name_alternatives;translator_viaf;translator_cerl;translator_comments;is_editor;editor_name;editor_name_alternatives;editor_viaf;editor_cerl;editor_comments;DATE OF PUBLICATION;date_publication;date_certainty;date_not_after;date_not_before;date_comment;TITLE;title_short;title_full;title_viaf;title_comments;PLACE OF PUBLICATION;place_publication;place_geonames;place_comments;PUBLISHER;publisher_name;publisher_name_alternatives;publisher_viaf;publisher_cerl;publisher_comments;CONTENTS;genre;subject;SOURCE OF FILE;link;source_of_file;origin_of_copy;REFERENCES;catalogue_reference;secondary_references;general_comments;OTHER;filename;
-Augurello, Chrysopoeia;100001;True;True;713324;;;True;;True;Augurelli, Giovanni Aurelio;Augurellus;88062391;cnp01876437;;False;;;False;;;;;;False;;;;;;;1515;True;;;;;Chrysopoeia;Ioannis Aurelii Augurelli P. Ariminensis Chrysopoeiae libri IIII et Geronticon liber primus;178020328;;;Venice;3164603;;;Da Rovere;;;;;;Didactic Poem;alchemy;;https://wiki.uibk.ac.at/noscemus/Chrysopoeia;Noscemus;Unknown;;Noscemus Wiki;Soranzo 2019;The 1518 Basel version is also in Noscemus;;Augurello,_Giovanni_Aurelio_-_Chrysopoeia__Venice_1515_pdf.pdf;
-Pseudo-Lull, Secretis;100002;True;False;;;;True;;True;Pseudo-Lull;;311395072;;not the same as Ramon Llull - this is the pseudonym of an alchemical school;False;;;False;;;;;;False;;;;;;;1518;True;;;July;;De secretis naturae;Sacri Doctoris Raymundi Lulli de secretis naturae sive the quinta essentia Libellus;;;;Augsburg;2954172;;;;;;;unknown;;Treatise;;;https://www.digitale-sammlungen.de/en/view/bsb00038433?page=,1;MDZ;MBS;;Hirsch 1950;;There is a prior, 1514 edition of De secretis naturae which was included in the Consiliorum... published in Venice. There is another 1518 edition in Venice.;;Pseudo-Lull1518_De_secretis_naturae_MDZ.pdf;
-Pantheus, Ars Transmutatione;100003;True;False;;;;True;;True;Panteo, Giovanni Agostino;Pantheus;64103562;cnp01238178;;False;;;False;;;;;;False;;;;;;;1518;False;;;;;Ars Transmutationis Metallicae;Ars transmutationis metallicae cum Leonis X Ponti. Max. et Conci. Capi. Decemvirum Venetormv edicto.;;;;Venice;3164603;;;Tacuinus;;;;;;Treatise;;;;GB;BL;;;;This book was first published in 1518 with an imprimatur of Pope Leo X signed by Pietro Bembo (Bembus). It is very rare and the only online copy is on Google Books, originating from the British Library.;;Pantheus1518_Ars_Transmutationis_Metallicae_BL_GB.pdf;
+working_title;No.;is_done;is_noscemus;if_noscemus_id;#if is_noscemus = True, don't transcribe;AUTHORSHIP;is_one_author;#if more than 1 author skip section and choose compendium below;is_author_known;author_name;author_name_alternatives;author_viaf;author_cerl;author_comments;is_compendium;if_compendium;TRANSLATION / EDITORSHIP;is_translator;translator_name;translator_name_alternatives;translator_viaf;translator_cerl;translator_comments;is_editor;editor_name;editor_name_alternatives;editor_viaf;editor_cerl;editor_comments;DATE OF PUBLICATION;date_publication;date_certainty;date_not_after;date_not_before;date_comment;TITLE;title_short;title_full;title_viaf;title_comments;PLACE OF PUBLICATION;place_publication;place_geonames;place_comments;PUBLISHER;publisher_name;publisher_name_alternatives;publisher_viaf;publisher_cerl;publisher_comments;CONTENTS;genre;subject;SOURCE OF FILE;link;source_of_file;origin_of_copy;REFERENCES;catalogue_reference;secondary_references;general_comments;OTHER;filename;;tokens_N
+Augurello, Chrysopoeia;100001;True;True;713324;;;True;;True;Augurelli, Giovanni Aurelio;Augurellus;88062391;cnp01876437;;False;;;False;;;;;;False;;;;;;;1515;True;;;;;Chrysopoeia;Ioannis Aurelii Augurelli P. Ariminensis Chrysopoeiae libri IIII et Geronticon liber primus;178020328;;;Venice;3164603;;;Da Rovere;;;;;;Didactic Poem;alchemy;;https://wiki.uibk.ac.at/noscemus/Chrysopoeia;Noscemus;Unknown;;Noscemus Wiki;Soranzo 2019;The 1518 Basel version is also in Noscemus;;Augurello,_Giovanni_Aurelio_-_Chrysopoeia__Venice_1515_pdf.pdf;;23718
+Pseudo-Lull, Secretis;100002;True;False;;;;True;;True;Pseudo-Lull;;311395072;;not the same as Ramon Llull - this is the pseudonym of an alchemical school;False;;;False;;;;;;False;;;;;;;1518;True;;;July;;De secretis naturae;Sacri Doctoris Raymundi Lulli de secretis naturae sive the quinta essentia Libellus;;;;Augsburg;2954172;;;;;;;unknown;;Treatise;;;https://www.digitale-sammlungen.de/en/view/bsb00038433?page=,1;MDZ;MBS;;Hirsch 1950;;There is a prior, 1514 edition of De secretis naturae which was included in the Consiliorum... published in Venice. There is another 1518 edition in Venice.;;Pseudo-Lull1518_De_secretis_naturae_MDZ.pdf;;24673
+Pantheus, Ars Transmutatione;100003;True;False;;;;True;;True;Panteo, Giovanni Agostino;Pantheus;64103562;cnp01238178;;False;;;False;;;;;;False;;;;;;;1518;False;;;;;Ars Transmutationis Metallicae;Ars transmutationis metallicae cum Leonis X Ponti. Max. et Conci. Capi. Decemvirum Venetormv edicto.;;;;Venice;3164603;;;Tacuinus;;;;;;Treatise;;;;GB;BL;;;;This book was first published in 1518 with an imprimatur of Pope Leo X signed by Pietro Bembo (Bembus). It is very rare and the only online copy is on Google Books, originating from the British Library.;;Pantheus1518_Ars_Transmutationis_Metallicae_BL_GB.pdf;;8646
 Pantheus, Commentarium;100004;True;False;;;;True;;True;Panteo, Giovanni Agostino;Pantheus;64103562;cnp01238178;;False;;;False;;;;;;False;;;;;;;1519;True;;;;;Commentarium transmutationis metallicae ;"COMMENTARIVM
 THEORICAE AR¬
 TIS METALLI¬
 CAE TRANS¬
 MVTATIO¬
-INIS.";;;;Venice;3164603;;;Tacuinus;;;;;;Treatise;alchemy;;https://www.digitale-sammlungen.de/en/view/bsb00086440?page=,1;MDZ;MSB;;;;This 1519 book is catalogued wrongly by many libraries, including BSB/MDZ, as Ars transmutationis metallicae. It includes this Ars but adds the Commentarium as well.  ;;Pantheus1519_Commentarium_Transmutationis_Metallicae_MDZ.pdf;
+INIS.";;;;Venice;3164603;;;Tacuinus;;;;;;Treatise;alchemy;;https://www.digitale-sammlungen.de/en/view/bsb00086440?page=,1;MDZ;MSB;;;;This 1519 book is catalogued wrongly by many libraries, including BSB/MDZ, as Ars transmutationis metallicae. It includes this Ars but adds the Commentarium as well.  ;;Pantheus1519_Commentarium_Transmutationis_Metallicae_MDZ.pdf;;3521
 Pantheus, Voarchadumia;100005;True;False;;;;True;;True;Panteo, Giovanni Agostino;Pantheus;64103562;cnp01238178;;False;;;False;;;;;;False;;;;;;;1530;True;;;;;Voarchadumia;"Voarchadumia  contra  Alchimiam :  Ars  distincta  ab  Archimi'a  &  Sophia :  cum  Additionibus :  Proportionibus :  Numeris :  &  Figuris  opportunis  loannis 
-Augustini    Panthei    Veneti     sacerdotis.  Venetiis.       Diebus.       Aprilis. M.D.XXX.";207952266;;;Venice;3164603;;;;;;;;;Treatise;;;;ONB;ONB;;;;Dedicated to Leonellus Marquis of Estense;;Pantheus1530_Voarchadumia_ONB.pdf;
-Savonarola, De arte conficiendi aquam vitae;100006;True;False;;;;True;;True;Savonarola, Michele;;121624533;cnp0215645;two entries in CERL (cnp01349613);False;;;False;;;;;;False;;;;;;;1532;True;;;September;;De arte conficiendi Aquam vitae;Excellentissimi medici Michaelis Savonarolae libellus singularis de arte conficiendi Aquam vitae simplicem & compositam. Et de eiusdem admirabili virtute ad conservandam sanitatem, & ad diversas Humani corporis aegritudines curandas.;;;;Haguenau;;GeoNames not good for Haganoa;;Kobian, Valentin;;250889863;cnp01103696;;;Treatise;;;https://onb.digital/result/1088C33C;ONB;ONB;;Hirsch 1950;;;;Savonarola1532_De_arte_conficiendi_aquam_vitae_ONB.pdf;
+Augustini    Panthei    Veneti     sacerdotis.  Venetiis.       Diebus.       Aprilis. M.D.XXX.";207952266;;;Venice;3164603;;;;;;;;;Treatise;;;;ONB;ONB;;;;Dedicated to Leonellus Marquis of Estense;;Pantheus1530_Voarchadumia_ONB.pdf;;20386
+Savonarola, De arte conficiendi aquam vitae;100006;True;False;;;;True;;True;Savonarola, Michele;;121624533;cnp0215645;two entries in CERL (cnp01349613);False;;;False;;;;;;False;;;;;;;1532;True;;;September;;De arte conficiendi Aquam vitae;Excellentissimi medici Michaelis Savonarolae libellus singularis de arte conficiendi Aquam vitae simplicem & compositam. Et de eiusdem admirabili virtute ad conservandam sanitatem, & ad diversas Humani corporis aegritudines curandas.;;;;Haguenau;;GeoNames not good for Haganoa;;Kobian, Valentin;;250889863;cnp01103696;;;Treatise;;;https://onb.digital/result/1088C33C;ONB;ONB;;Hirsch 1950;;;;Savonarola1532_De_arte_conficiendi_aquam_vitae_ONB.pdf;;15237
 Anon, Rosarium philosophorum;100007;True;False;;;;False;;False;;;;;;False;;;False;;;;;;False;;;;;;;1550;True;;;;;Rosarium philosophorum;"ROSARIVM
 PHILOSOPHORVM.
 SECVNDA PARS ALCHIMIAE
 DE LAPIDE PHILOSOPHICO VERO MODO
 praeparando, continens exactam eius scientiae progressionem. Cum Figuris rei perfectionem
-ostendentibus.";;;;Frankfurt;;;;Cyriacus Jacob;;;;;;treatise;alchemy;;;ER;ZZ;;;;;;Anon1550_Rosarium_philosophorum_Erara.pdf;
+ostendentibus.";;;;Frankfurt;;;;Cyriacus Jacob;;;;;;treatise;alchemy;;;ER;ZZ;;;;;;Anon1550_Rosarium_philosophorum_Erara.pdf;;36755
 Severinus, Epistola;100008;True;False;;;;True;;True;Severinus, Petrus;Peder Sorensen;;;;False;;;False;;;;;;False;;;;;;;1571;False;1572;1570;;;Epistola;"EPISTOLA SCRIPTA THEOPHRASTO PARACELSO.
 In qua ratio ordinis & nominum, adeoque totius Philosophiae. Adeptae Methodus compendiosè & eruditè ostenditur:
 PETRO SEVERINO DANO PHIlosophiae & Medicinae Doctore.
-BASILEAE.";;;;Basel;;;;unknown;;;;;;treatise;;;;MDZ;MBS;;;;;;Severinus1572_Epistola_MBZ_MBS.pdf;
+BASILEAE.";;;;Basel;;;;unknown;;;;;;treatise;;;;MDZ;MBS;;;;;;Severinus1572_Epistola_MBZ_MBS.pdf;;2265
 Vegius, Inter inferiora corpora;100009;True;False;;;;False;;False;;;;;;True;"[
   {
     ""page_range"": ""3-39"",
@@ -46,8 +46,8 @@ Vegius, Inter inferiora corpora;100009;True;False;;;;False;;False;;;;;;True;"[
     ""author_cerl"": ""cnp02342360"",
     ""author_comments"": """"
   }
-]";;True;Rinuccini, Alamanno;;100208488;cnp00972641;;False;;;;;;;1518;True;;;;;Inter inferiora corpora;Inter inferiora corpora, scilicet terram aurum, et superiora, praesertim solem, elegantissima disputatio. Eiusdem de miseria et felicitate dialogus. Luciani Charon, Rhinuccino Florentino interprete;;;;Basel;2661604;;;Cratander, Andreas;;84819748;;;;Treatise, Dialogue, Play;;;http://data.onb.ac.at/rep/1099703B;ONB;ONB;;Hirsch 1950;;This is the second edition, the first was published in 1511 in Paris;;Vegius1518_Inter_inferiora_corpora_disputatio_ONB.pdf;
-Bracesco, De alchimia dialogi duo;100010;True;False;;;;True;;True;Bracesco, Giovanni;;56619023;cnp01880810;;False;;;False;;;;;;False;;;;;;;1548;True;;;;;De Alchimia Dialogi Duo;De Alchimia Dialogi II. Quorum prior, Genuinam librorum Gebri sententiam, de industria ab authore celatam, & figurato sermone involutam retegit, & certis argumentis probat. Alter Raimundi Lullij Maioricani, Mysteria in lucem producit. Quibus praemittitur, propositiones centum uiginti nouem, idem argumentum compendiosa breuitate complectentes.;;;;Nuremberg;2861650;;;Petreius, Johannes;;59165237;;;;Dialogue;alchemy;;https://archive.org/details/dealchemiadialo00bracgoog/;IA;UCM;;Ferguson 1906;;Translation from Italian ;;Bracesco1548_De_alchemia_dialogi_II_IA_Madrid.pdf;
+]";;True;Rinuccini, Alamanno;;100208488;cnp00972641;;False;;;;;;;1518;True;;;;;Inter inferiora corpora;Inter inferiora corpora, scilicet terram aurum, et superiora, praesertim solem, elegantissima disputatio. Eiusdem de miseria et felicitate dialogus. Luciani Charon, Rhinuccino Florentino interprete;;;;Basel;2661604;;;Cratander, Andreas;;84819748;;;;Treatise, Dialogue, Play;;;http://data.onb.ac.at/rep/1099703B;ONB;ONB;;Hirsch 1950;;This is the second edition, the first was published in 1511 in Paris;;Vegius1518_Inter_inferiora_corpora_disputatio_ONB.pdf;;27934
+Bracesco, De alchimia dialogi duo;100010;True;False;;;;True;;True;Bracesco, Giovanni;;56619023;cnp01880810;;False;;;False;;;;;;False;;;;;;;1548;True;;;;;De Alchimia Dialogi Duo;De Alchimia Dialogi II. Quorum prior, Genuinam librorum Gebri sententiam, de industria ab authore celatam, & figurato sermone involutam retegit, & certis argumentis probat. Alter Raimundi Lullij Maioricani, Mysteria in lucem producit. Quibus praemittitur, propositiones centum uiginti nouem, idem argumentum compendiosa breuitate complectentes.;;;;Nuremberg;2861650;;;Petreius, Johannes;;59165237;;;;Dialogue;alchemy;;https://archive.org/details/dealchemiadialo00bracgoog/;IA;UCM;;Ferguson 1906;;Translation from Italian ;;Bracesco1548_De_alchemia_dialogi_II_IA_Madrid.pdf;;42220
 Anon, De alchemia;100011;True;False;;;;False;;False;;;;;;True;"[
   {
     ""page_range"": ""1-256"",
@@ -112,12 +112,12 @@ Anon, De alchemia;100011;True;False;;;;False;;False;;;;;;True;"[
     ""section_titles"": ""Commentariolus"",
     ""author_comments"": """"
   }
-]";;False;;;;;;True;Chrysogonus Polydorus;Andreas Osiander;17232170;cnp01880016;pseudonym assumed to be of Osiander;;1541;True;;;August;;De alchemia;In hoc volvmine de alchemia continentur haec;;There is no cover as such;;Nuremberg;=K45;;;Petreius, Johannes;;=K50;;;;Treatise;alchemy;;https://www.digitale-sammlungen.de/en/view/bsb10982143;MDZ;MBS;;Ferguson 1906;;frequently mislabelled as Geber (which is only the first author);;De_alchemia1541_MDZ_MBS.pdf;
+]";;False;;;;;;True;Chrysogonus Polydorus;Andreas Osiander;17232170;cnp01880016;pseudonym assumed to be of Osiander;;1541;True;;;August;;De alchemia;In hoc volvmine de alchemia continentur haec;;There is no cover as such;;Nuremberg;=K45;;;Petreius, Johannes;;=K50;;;;Treatise;alchemy;;https://www.digitale-sammlungen.de/en/view/bsb10982143;MDZ;MBS;;Ferguson 1906;;frequently mislabelled as Geber (which is only the first author);;De_alchemia1541_MDZ_MBS.pdf;;90980
 Gessner, Euonymus;100012;True;False;;;;True;;True;Gessner, Conrad;Euonymus Philiatrus;;;;False;;;False;;;;;;False;;;;;;;1552;True;;;;;Thesavrvs Evonymi Philiatri;"Thesavrvs Evonymi Philiatri De remediis Secretis, Liber Physicvs,
 Medicvs Et partim etiam Chymicus, & oeconomicus in uinorum diuersi
-saporis apparatu, medicis & pharmacopolis omnibus praecipue";;;;Zurich;;GeoNames no good for Tiguri. I found info on https://rbms.info/lpn/t/tiguri/ (drawn from a book by Graesse 1909 on Latin place names);;Andreas Gessner and Rodolf Vuyssenbachum;;;;;;;alchemy, medicine, books of secrets;;https://doi.org/10.3931/e-rara-5458;ER;ZZ;;;;Gessner's work was written under pseudonym, but it seemed like an 'open secret'. ;;Gessner1552_Thesaurus_Euonymi_Philiatri_ER_ZZ.pdf;
-Ulstadt, Coelum;100013;True;False;;;;True;;True;Ulstadt, Philipp;Ulstad ;216612277;;;False;;;False;;;;;;False;;;;;;;1525;True;;;;;Coelum philosophorum;Coelum philosophorum ceu de secretis liber;;;;Freiburg;2660718;;;;;;;;;treatise;alchemy, quintessence;;;IA;BIUSP;;;;;;Ulstad1525_Coelum_philosophorum_IA_BIUSP_pdf.pdf;
-Toxites, Spongia;100014;True;False;;;;True;;True;Toxites, Michael;Schütz, Johann Michael;299098386;cnp01303552;CERL is better than VIAF for this one;False;;;False;;;;;;False;;;;;;;1567;True;;;;;Spongia stibii;Spongia stibii, adversus Lucae Stenglini Medicinae doctoris, et physici Augustani aspergines, avtore Micaelo Toxite Rhaeto, Medico Argentoratensi: Theophrasto Paracelsi Discipulo;;;;Strasbourg;2973783;I think Argentina is Strasbourg (Argentoratum);;Christian Mylius;;;;;;poem;medicine, Paracelsus;;;MDZ;MBS;;;;;;Toxites1567_Spongia_stibii_MDZ_MBS.pdf;
+saporis apparatu, medicis & pharmacopolis omnibus praecipue";;;;Zurich;;GeoNames no good for Tiguri. I found info on https://rbms.info/lpn/t/tiguri/ (drawn from a book by Graesse 1909 on Latin place names);;Andreas Gessner and Rodolf Vuyssenbachum;;;;;;;alchemy, medicine, books of secrets;;https://doi.org/10.3931/e-rara-5458;ER;ZZ;;;;Gessner's work was written under pseudonym, but it seemed like an 'open secret'. ;;Gessner1552_Thesaurus_Euonymi_Philiatri_ER_ZZ.pdf;;95437
+Ulstadt, Coelum;100013;True;False;;;;True;;True;Ulstadt, Philipp;Ulstad ;216612277;;;False;;;False;;;;;;False;;;;;;;1525;True;;;;;Coelum philosophorum;Coelum philosophorum ceu de secretis liber;;;;Freiburg;2660718;;;;;;;;;treatise;alchemy, quintessence;;;IA;BIUSP;;;;;;Ulstad1525_Coelum_philosophorum_IA_BIUSP_pdf.pdf;;41419
+Toxites, Spongia;100014;True;False;;;;True;;True;Toxites, Michael;Schütz, Johann Michael;299098386;cnp01303552;CERL is better than VIAF for this one;False;;;False;;;;;;False;;;;;;;1567;True;;;;;Spongia stibii;Spongia stibii, adversus Lucae Stenglini Medicinae doctoris, et physici Augustani aspergines, avtore Micaelo Toxite Rhaeto, Medico Argentoratensi: Theophrasto Paracelsi Discipulo;;;;Strasbourg;2973783;I think Argentina is Strasbourg (Argentoratum);;Christian Mylius;;;;;;poem;medicine, Paracelsus;;;MDZ;MBS;;;;;;Toxites1567_Spongia_stibii_MDZ_MBS.pdf;;2667
 Gessner, Euonymus II;100015;True;False;;;;True;;True;Gessner, Conrad;Euonymus Philiatrus;;;;False;;;False;;;;;;True;Wolf, Caspar;;;;;;1569;True;;;;;De remedijs secretis;"EVONYMVS. CONRADI
 GESNERI MEDICI
 ET PHILOSOPHI TIGVRINI
@@ -125,22 +125,22 @@ de Remedijs secretis, Liber secundus: nunc
 primùm operâ & studio CASPARI
 VVOLPHII Medici, Physici
 Tigurini in lucem
-editus.";;;;Zurich;;;;;;;;;;treatise;alchemy, medicine, books of secrets;;;MDZ;MBS;;;;;;Gessner1569_Thesaurus_Euonymi_Philiatri_Liber_Secundus_MDZ_MBS.pdf;
-Bonus, Pretiosa margarita novella;100016;True;False;;;;True;;True;Bonus, Petrus;Bono, Pietro;;;;False;;;False;;;;;;True;Lacinius, Janus;Janus Lacinius Calabrus;;;;;1546;True;;;;;Pretiosa margarita novella;"Pretiosa Margarita Novella De Thesavro, Ac Pretiosissimo Philosophorvm Lapide: Artis huius diuinæ Typus, & Methodus: Collectanea ex Arnaldo, Rhaymundo, Rhasi, Alberto, & Michaele Scoto ; per Ianum Lacinium Calabrum nunc primum cum lucupletissimo indice, in lucem edita";;;;Venice;3164603;;;Aldus;;;;;;treatise;alchemy;;;ONB;ONB;;;;;;Bonus1546_Pretiosa_Margarita_Novella_ONB.pdf;
-Bodenstein, Isagoge;100017;True;False;;;;False;;True;Bodenstein, Adam;Adam von Bodenstein;;;;False;;;False;;;;;;False;;;;;;;1559;True;;;;;Isagoge;Isagoge in excellentissimi Philosophi Arnoldi de Villa Nova, Rosarium Chymicum, per Adamum a Bodenstein artium & medicinae Doctorem, paraphrastice & magna diligentia tradita;;;;Basel;=J45;;;Gabriel Ringysen;;;;;;treatise;alchemy;;;MDZ;MBS;;;;;;Bodenstein1559_Isagoge_MDZ_MBS.pdf;
-Trevisan, Peri chemeias;100018;True;False;;;;False;;True;Trevisanus, Bernhardus;Bernard Trevisan;;;;False;;;False;;;;;;True;Gratarolo, Guglielmo;Gulielmus Gratarolus;;;may have been the translator too;;1567;True;;;;;Peri chemeias;Bernardus Comitis antiqui Trevirensis philosophi expertissimi Peri chemeias opus historicum et dogmaticum, ex Gallico in Latinum simpliciter versus, et nunc primum in lucem aeditum;;;;Strasbourg;=O45;Argentoratum = Strasbourg;;Samuel Emmel;;;;;;treatise;alchemy, medicine;;;MDZ;MBS;;;;Bernard Trevisan was apparently a Frenchman. People confounded him with Bernard of Treviso (Italian);;Trevisanus1567_De_alchemia_MDZ_MBS.pdf;
+editus.";;;;Zurich;;;;;;;;;;treatise;alchemy, medicine, books of secrets;;;MDZ;MBS;;;;;;Gessner1569_Thesaurus_Euonymi_Philiatri_Liber_Secundus_MDZ_MBS.pdf;;111964
+Bonus, Pretiosa margarita novella;100016;True;False;;;;True;;True;Bonus, Petrus;Bono, Pietro;;;;False;;;False;;;;;;True;Lacinius, Janus;Janus Lacinius Calabrus;;;;;1546;True;;;;;Pretiosa margarita novella;"Pretiosa Margarita Novella De Thesavro, Ac Pretiosissimo Philosophorvm Lapide: Artis huius diuinæ Typus, & Methodus: Collectanea ex Arnaldo, Rhaymundo, Rhasi, Alberto, & Michaele Scoto ; per Ianum Lacinium Calabrum nunc primum cum lucupletissimo indice, in lucem edita";;;;Venice;3164603;;;Aldus;;;;;;treatise;alchemy;;;ONB;ONB;;;;;;Bonus1546_Pretiosa_Margarita_Novella_ONB.pdf;;125016
+Bodenstein, Isagoge;100017;True;False;;;;False;;True;Bodenstein, Adam;Adam von Bodenstein;;;;False;;;False;;;;;;False;;;;;;;1559;True;;;;;Isagoge;Isagoge in excellentissimi Philosophi Arnoldi de Villa Nova, Rosarium Chymicum, per Adamum a Bodenstein artium & medicinae Doctorem, paraphrastice & magna diligentia tradita;;;;Basel;=J45;;;Gabriel Ringysen;;;;;;treatise;alchemy;;;MDZ;MBS;;;;;;Bodenstein1559_Isagoge_MDZ_MBS.pdf;;14982
+Trevisan, Peri chemeias;100018;True;False;;;;False;;True;Trevisanus, Bernhardus;Bernard Trevisan;;;;False;;;False;;;;;;True;Gratarolo, Guglielmo;Gulielmus Gratarolus;;;may have been the translator too;;1567;True;;;;;Peri chemeias;Bernardus Comitis antiqui Trevirensis philosophi expertissimi Peri chemeias opus historicum et dogmaticum, ex Gallico in Latinum simpliciter versus, et nunc primum in lucem aeditum;;;;Strasbourg;=O45;Argentoratum = Strasbourg;;Samuel Emmel;;;;;;treatise;alchemy, medicine;;;MDZ;MBS;;;;Bernard Trevisan was apparently a Frenchman. People confounded him with Bernard of Treviso (Italian);;Trevisanus1567_De_alchemia_MDZ_MBS.pdf;;17612
 Ulstadt, De epidemia;100019;True;False;;;;False;;True;Ulstadt, Philipp;Ulstad ;;;;False;;;False;;;;;;False;;;;;;;1526;True;;;;;De epidemia;"DE EPIDIMIA TRACTATVS, AVTORE PHILIPPO
 VLSTADIO NORICO. BASILEAE, MENSE SE¬
-PTEMBRI, AN. M. D. XXVI.";;;;Basel;=R45;;;;;;;;;treatise;medicine;;;ONB;ONB;;;;;;Ulstadt1526_De_epidemia_ONB.pdf;
-Dorn, Artificii chymistici;100020;True;False;;;;False;;True;Dorn, Gerard;Dorneus, Gerardus;;;;False;;;False;;;;;;False;;;;;;;1569;True;;;;;Artificii chymistici;Artificii chymistici  physici, metaphysicique, Secunda pars & Tertia, quarum summarium versa pagella dabit. Accessit etiam Tertiae parti, de Praeparatione Metallicis in vtroque Lapidis Philosophorum opere maiore minoreque Tractatus excellentissimus. Gerardo Dorn authore;;;;;;;;;;;;;;treatise;alchemy, medicine;;;MDZ;MBS;;;;;;Dorn1569_Artificii_chymistici_MDZ_MBS.pdf;
-Dorn, Clavis;100021;True;False;;;;False;;True;Dorn, Gerard;;;;;False;;;False;;;;;;False;;;;;;;1567;True;;;;;Clavis;Clavis totius Philosophiae Chymisticae, Per quam obscura Philosophorum dicta referantur. Compendium tres libros continens, partim physicos, medicos, pro maiore parte chymicos. Cuius Summarium versa pagella indicabit. Per Gerardvm Dorn. Lvdvni, Apud haeredes Iacobi Iunctae;;;;Lyon;=#REF!;;;Haeredes Iacobi Iunctae;;;;;;treatise;alchemy, medicine;;;ONB;ONB;;;;;;Dorn1567_Clavis_totius_philosophiae_chymisticae_ONB_pdf.pdf;
-Anon, De alchimia opuscula ;100022;True;False;;;;False;;False;;;;;;True;;;False;;;;;;False;;;;;;;1550;True;;;;;De alchimia opuscula;De alchimia opvscvla complvra veterum philosophorum, quorum catalogum sequens pagella indicabit;;;;Frankfurt;;;;Cyriacus Jacob;;;;;;compendium;alchemy;;;MDZ;MBS;;;;;;Anon1550_De_alchemia_opuscula_MDZ_MBS.pdf;
-Paracelsus, Labyrinthus;100023;True;False;;;;True;;True;Paracelsus, Theophrastus von Hohenheim;;;;;False;;;True;;;;;the translator is unknown;True;;;;;there must have been an editor but he is unknown;;1553;True;;;;;Labyrinthus medicorum errantium;Labyrinthus medicorvm errantivm, D. Theophrasti Paracelsi. Cvm Adivnctis. Ingenij quisquis Theophrasti fila sequutur, Tutus ab insidijs est Labyrinthe tuis.;;;;Nuremberg;;;;Valentinus Neuber, impensis Bernhardus Vischer;;;;;;treatise;medicine, alchemy;;;MDZ;MBS;;;;;;Paracelsus1553_Labyrinthus_medicorum_errantium_MDZ_MBS_pdf.pdf;
-Fanianus, De arte metallicae;100024;True;False;;;;True;;True;Fanianus, Johannes Chrysippus;;;;;False;;;False;;;;;;False;;;;;;;1560;True;;;;;De arte metallicae;Io. Chrysippi Faniani de arte metallicae metamorphoseos Liber singularis, quo omnia, quae ad Philosophici lapidis opus pertinent, apertissime describuntur, ad Philoponum. Parisiis, Apus Gulielmum Guillard, in via Iacobaea, sub divae Barbarae signo, 1560.;;;;Paris;;;;Guillaume Guillard;;;;;;treatise;alchemy;;;ONB;ONB;;;;;;Fanianus1560_De_arte_metallicae_ONB_pdf.pdf;Fanianus1576_De_arte_metallicae_MDZ_MBS.pdf
-Pseudo-Lull, Codicillus;100025;True;False;;;;True;;True;Pseudo-Lull;;;;;False;;;False;;;;;;False;;;;;;;1563;True;;;;;Codicillus;Raymvndi Lvlli Celeberrimi philosophi liber, qui Codicillus, seu vademecum inscribitur, in quo fontes Alchimicae artis & reconditoris philosophiae traduntur, ante hac nunquam impressus. Coloniae, Apud Haeredes Arnoldi Birckmanni, Anno 1563. Cum Priuilegio Caes. Maiest. ad decennium.;;;;Cologne;=#REF!;;;Haeredes Arnoldi Birckmanni;;;;;;treatise;alchemy;;;MDZ;MBS;;;;;;Pseudo-Lull1563_Codicillus_MDZ_MBS_pdf.pdf;
+PTEMBRI, AN. M. D. XXVI.";;;;Basel;=R45;;;;;;;;;treatise;medicine;;;ONB;ONB;;;;;;Ulstadt1526_De_epidemia_ONB.pdf;;29243
+Dorn, Artificii chymistici;100020;True;False;;;;False;;True;Dorn, Gerard;Dorneus, Gerardus;;;;False;;;False;;;;;;False;;;;;;;1569;True;;;;;Artificii chymistici;Artificii chymistici  physici, metaphysicique, Secunda pars & Tertia, quarum summarium versa pagella dabit. Accessit etiam Tertiae parti, de Praeparatione Metallicis in vtroque Lapidis Philosophorum opere maiore minoreque Tractatus excellentissimus. Gerardo Dorn authore;;;;;;;;;;;;;;treatise;alchemy, medicine;;;MDZ;MBS;;;;;;Dorn1569_Artificii_chymistici_MDZ_MBS.pdf;;91837
+Dorn, Clavis;100021;True;False;;;;False;;True;Dorn, Gerard;;;;;False;;;False;;;;;;False;;;;;;;1567;True;;;;;Clavis;Clavis totius Philosophiae Chymisticae, Per quam obscura Philosophorum dicta referantur. Compendium tres libros continens, partim physicos, medicos, pro maiore parte chymicos. Cuius Summarium versa pagella indicabit. Per Gerardvm Dorn. Lvdvni, Apud haeredes Iacobi Iunctae;;;;Lyon;=#REF!;;;Haeredes Iacobi Iunctae;;;;;;treatise;alchemy, medicine;;;ONB;ONB;;;;;;Dorn1567_Clavis_totius_philosophiae_chymisticae_ONB_pdf.pdf;;34950
+Anon, De alchimia opuscula ;100022;True;False;;;;False;;False;;;;;;True;;;False;;;;;;False;;;;;;;1550;True;;;;;De alchimia opuscula;De alchimia opvscvla complvra veterum philosophorum, quorum catalogum sequens pagella indicabit;;;;Frankfurt;;;;Cyriacus Jacob;;;;;;compendium;alchemy;;;MDZ;MBS;;;;;;Anon1550_De_alchemia_opuscula_MDZ_MBS.pdf;;71774
+Paracelsus, Labyrinthus;100023;True;False;;;;True;;True;Paracelsus, Theophrastus von Hohenheim;;;;;False;;;True;;;;;the translator is unknown;True;;;;;there must have been an editor but he is unknown;;1553;True;;;;;Labyrinthus medicorum errantium;Labyrinthus medicorvm errantivm, D. Theophrasti Paracelsi. Cvm Adivnctis. Ingenij quisquis Theophrasti fila sequutur, Tutus ab insidijs est Labyrinthe tuis.;;;;Nuremberg;;;;Valentinus Neuber, impensis Bernhardus Vischer;;;;;;treatise;medicine, alchemy;;;MDZ;MBS;;;;;;Paracelsus1553_Labyrinthus_medicorum_errantium_MDZ_MBS_pdf.pdf;;30584
+Fanianus, De arte metallicae;100024;True;False;;;;True;;True;Fanianus, Johannes Chrysippus;;;;;False;;;False;;;;;;False;;;;;;;1560;True;;;;;De arte metallicae;Io. Chrysippi Faniani de arte metallicae metamorphoseos Liber singularis, quo omnia, quae ad Philosophici lapidis opus pertinent, apertissime describuntur, ad Philoponum. Parisiis, Apus Gulielmum Guillard, in via Iacobaea, sub divae Barbarae signo, 1560.;;;;Paris;;;;Guillaume Guillard;;;;;;treatise;alchemy;;;ONB;ONB;;;;;;Fanianus1560_De_arte_metallicae_ONB_pdf.pdf;Fanianus1576_De_arte_metallicae_MDZ_MBS.pdf;9069
+Pseudo-Lull, Codicillus;100025;True;False;;;;True;;True;Pseudo-Lull;;;;;False;;;False;;;;;;False;;;;;;;1563;True;;;;;Codicillus;Raymvndi Lvlli Celeberrimi philosophi liber, qui Codicillus, seu vademecum inscribitur, in quo fontes Alchimicae artis & reconditoris philosophiae traduntur, ante hac nunquam impressus. Coloniae, Apud Haeredes Arnoldi Birckmanni, Anno 1563. Cum Priuilegio Caes. Maiest. ad decennium.;;;;Cologne;=#REF!;;;Haeredes Arnoldi Birckmanni;;;;;;treatise;alchemy;;;MDZ;MBS;;;;;;Pseudo-Lull1563_Codicillus_MDZ_MBS_pdf.pdf;;32552
 Garlandius, Compendium Alchemiae;100026;True;False;;;;False;;True;Garlandius;;;;This is probably Hortulanus, not John of Garland;True;;;False;;;;;;False;;;;;;;1560;True;;;;;Compendium Alchemiae;"COMPENDIVM ALCHIMIAE. IOANNIS GARLANDII ANGLI PHILOSOPHI DOctissimi: cum Dictionario eiusdem artis,
 atque de Metallorum tinctura praeparationeque eorundem Libello, ante annos DXX. eodem authore conscripto.
-Adiecimus eiusdem compendij per ARNOLDVM e VILLANOVA explicationem. Cùm tractatu de Salium Aluminumque varietate, compositione & vsit, Scriptoris incerti. Omnia nunc primum in lucem edita, BASILEAE Anno M. D. LX.";;;;Basel;=T45;;;;;;;;;compendium;alchemy;;;VD16;SLUB;;;;;;Garlandius1560_Compendium_Alchemiae_SLUB_pdf.pdf;
+Adiecimus eiusdem compendij per ARNOLDVM e VILLANOVA explicationem. Cùm tractatu de Salium Aluminumque varietate, compositione & vsit, Scriptoris incerti. Omnia nunc primum in lucem edita, BASILEAE Anno M. D. LX.";;;;Basel;=T45;;;;;;;;;compendium;alchemy;;;VD16;SLUB;;;;;;Garlandius1560_Compendium_Alchemiae_SLUB_pdf.pdf;;27479
 Paracelsus, Pyrophilia;100027;True;False;;;;True;;True;Paracelsus, Theophrastus von Hohenheim;;;;;True;;;True;Dorn, Gerard;;;;;True;Adam von Bodenstein;;;;;;1568;True;;;;;Pyrophilia;"PYROPHILIA
 VEXATIONVMQUE LIBER.
 D. PHIL. THEOPHRASTI PARACELSI.
@@ -150,49 +150,49 @@ Per Doctorem Adamum à Bodenstein ex authoris archetypo Germanico promulgati.
 Postmodum per Gerardum Dorn quantò fidelius debuit, ac ratio materiae patitur in Latinum sermonem
 versi. BASILEAE.
 Per Petrum Pernam.
-1568.";;;;Basel;;;;Pietro Perna;Petrus Perna;;;;;treatise;Paracelsianism, alchemy;;;ONB;ONB;;;;;;Pseudo-Paracelsus1568_Pyrophilia_vexationumque_ONB.pdf;
-Pedemontanus, De secretis;100028;True;False;;;;True;;True;Ruscelli, Girolamo;Pedemontanus, Alexis;;;Pedemontanus was a pseudonym;False;;;True;Wecker, Johannes Joachim;;;;Italian original;False;;;;;;;1563;True;;;;;De secretis;D. Alexii PEDEMONTANI DE SECRETIS LIBRI SEPTEM, A IOAN. IACOEO UECKERO Doctore Medco, ex Italico sermone in Latinum conuersi, & multis bonis Secretis aucti. Accessit hac editione eiusdem weckei opera, octauus de artificiosis uinis liber. BASILEAE. APVD PETRVM PERNAM M. D. LXIII.;;;;Basel;=AA45;;;Pietro Perna;Petrus Perna;;;;;treatise, book of secrets;alchemy, medicine;;;MDZ;MBS;;;;;;Pedemontanus1563_De_Secretis_MDZ_MBS.pdf;
+1568.";;;;Basel;;;;Pietro Perna;Petrus Perna;;;;;treatise;Paracelsianism, alchemy;;;ONB;ONB;;;;;;Pseudo-Paracelsus1568_Pyrophilia_vexationumque_ONB.pdf;;22938
+Pedemontanus, De secretis;100028;True;False;;;;True;;True;Ruscelli, Girolamo;Pedemontanus, Alexis;;;Pedemontanus was a pseudonym;False;;;True;Wecker, Johannes Joachim;;;;Italian original;False;;;;;;;1563;True;;;;;De secretis;D. Alexii PEDEMONTANI DE SECRETIS LIBRI SEPTEM, A IOAN. IACOEO UECKERO Doctore Medco, ex Italico sermone in Latinum conuersi, & multis bonis Secretis aucti. Accessit hac editione eiusdem weckei opera, octauus de artificiosis uinis liber. BASILEAE. APVD PETRVM PERNAM M. D. LXIII.;;;;Basel;=AA45;;;Pietro Perna;Petrus Perna;;;;;treatise, book of secrets;alchemy, medicine;;;MDZ;MBS;;;;;;Pedemontanus1563_De_Secretis_MDZ_MBS.pdf;;105300
 Paracelsus, De vita longa;100029;True;False;;;;True;;True;Paracelsus, Theophrastus von Hohenheim;;;;;False;;;True;;;;;;True;Adam von Bodenstein;;;;;;1560;True;;;;;De vita longa;"GENEROSI OMNIQVE IN SCIENTIARVM GENERE EX PERtissimi uiri, Theophrasti Paracelsi ab Hohenheim, philosophię & utriusque medicinae Doctoris clarissimi, Libri quatuor
-De uita longa. DILIGENTIA ET OPERA Adami à Bodenstein recogniti, núncque primùm in lucem aediti. Ανεχο καὶ άπεχα. ANNO M. D. LX.";;;;Basel;=AC45;;;;;;;;;treatise;alchemy, medicine;;;MDZ;MBS;;;;;;Paracelsus1560_Libri_quatuor_de_vita_longa_MDZ_MBS.pdf;
+De uita longa. DILIGENTIA ET OPERA Adami à Bodenstein recogniti, núncque primùm in lucem aediti. Ανεχο καὶ άπεχα. ANNO M. D. LX.";;;;Basel;=AC45;;;;;;;;;treatise;alchemy, medicine;;;MDZ;MBS;;;;;;Paracelsus1560_Libri_quatuor_de_vita_longa_MDZ_MBS.pdf;;14368
 Rupescissa, De consideratione quintae essentiae;100030;True;False;;;;False;;True;Rupescissa, Johannes;Jean de Roquetaillade;;;;True;;;False;;;;;;False;;;;;;;1561;True;;;;;De consideratione quintae essentiae;"IOANNIS DE RVPESCISSA QVI ANTE CCCXX. ANNOS VIXIT,
 de consideratione Quintae essentię rerum omnium; opus sanè egregium.
 ARNALDI DE VILLANOVA Epistola de Sanguine humano distillato. Raymundi Lullij Ars operatiua: & alia quaedam. Omnia ad selectissi¬
 mam materiam medicam, & morborum curationem, vitaeque conseruationem mirabiliter facientia;
 Nunc primùm in lucem data. ACCESSIT MICHAELIS SAVONAROLAE Libellus optimus de aqua Vitae, nunc valde correctior
-quàm ante annos 27. editur. BASILEAE.";;;;Basel;=AD45;;;;;;;;;treatise;alchemy, medicine;;;GB;Unknown;;;;;;Rupescissa1561_De_Consideratione_Quintae_essentie_rerum_GB.pdf;
+quàm ante annos 27. editur. BASILEAE.";;;;Basel;=AD45;;;;;;;;;treatise;alchemy, medicine;;;GB;Unknown;;;;;;Rupescissa1561_De_Consideratione_Quintae_essentie_rerum_GB.pdf;;56013
 Phaedro, De aquila;100031;True;False;;;;True;;True;Phaedro, George;;;;;False;;;False;;;;;;False;;;;;;;1562;True;;;;;Aquila coelestis;"GE. PHAEDRONIS RHODOCHEI MEDICI aquila coelestis siue correcta hydrar¬
 yri praecipitatio, ad lo. Chilianum solertiss. Othen¬
 rici Electoris Chemicum. SCRIPTA INGOLSTADII
-Anno à salutaribus Meschia natalitijs M.D. LXII.";;;;Ingolstadt;;;;;;;;;;treatise;alchemy, medicine;;;MDZ;MBS;;;;;;Phaedro1562_Aquila_coelestis_MBZ_MBS.pdf;
+Anno à salutaribus Meschia natalitijs M.D. LXII.";;;;Ingolstadt;;;;;;;;;;treatise;alchemy, medicine;;;MDZ;MBS;;;;;;Phaedro1562_Aquila_coelestis_MBZ_MBS.pdf;;2481
 Ventura, De ratione conficiendi;100032;True;False;;;;True;;True;Ventura, Lorenzo;Ventura, Laurentius;;;;True;;;True;;;;;;False;;;;;;;1571;True;;;;;De ratione conficiendi;"LAVRENTII VENTVRAE VENETI, ARTIVM ET MEDICINAE DOCTRINA DE RATIONE conficiendi Lapidis philosophici, liber Vnus. AD OTHONEM HENRICVM
 Principem Palatinum. Huic accesserunt eiusdem Argumenti loannis Garlandij Angli liber Vnus. Et ex Speculo magno Vincentij libri Duo. CVM PRIVILEGIO CAESAR. MAIEST.
-BASILEAE M. D. LXXI.";;;;Basel;=AE45;;;;;;;;;treatise, compendium;alchemy;;;MDZ;MBS;;;;;;Ventura1571_De_ratione_conficiendi_lapis_MBZ_MBS.pdf;
+BASILEAE M. D. LXXI.";;;;Basel;=AE45;;;;;;;;;treatise, compendium;alchemy;;;MDZ;MBS;;;;;;Ventura1571_De_ratione_conficiendi_lapis_MBZ_MBS.pdf;;110654
 Pseudo-Paracelsus, Centum quindecim curationes;100033;True;False;;;;True;;False;Pseudo-Paracelsus;;;;;True;;;False;;;;;;True;Penot, Bernard;;;;;;1582;True;;;;;Centum quindecim curationes;"PHILIPPI THEOPHRASTI AVREOLI PARACELSI VTRIVSQVE
 Medicinae doctoris celeberrimi, centum quindecim curationes experimentáque,
 e Germanico idiomate in Latinum versa. ACCESSERUNT QVAEdam praeclara atque vtilissima à B. .
 à Portu Aquitano annexa. Item abdita quaedam Isaaci Hollandi de opere vegetabili & animali adiecimus.
 Adiuncta est denuo Practica operis magni Philippi à Rouillasco Pedemontano.
 AB VNO, AD VNVM Excudebat Iohannes Lertout.
-M. D. LXXXII. Sum. Ioh. Georgij a Wexdenstein";;;;Lyon;=V45;;;Jean Lertout;;;;;;compendium, treatise;alchemy, medicine;;;MDZ;MBS;;;;;;Paracelsus1582_Centum_quindecim_curationes_MDZ_MBS.pdf;
+M. D. LXXXII. Sum. Ioh. Georgij a Wexdenstein";;;;Lyon;=V45;;;Jean Lertout;;;;;;compendium, treatise;alchemy, medicine;;;MDZ;MBS;;;;;;Paracelsus1582_Centum_quindecim_curationes_MDZ_MBS.pdf;;34418
 Penot, Tractatus varii;100034;True;False;;;;False;;False;Penot, Bernard;Penotus, Bernardus a Portu Aquintaine;;;;True;recipe collection;;False;;;;;;True;Penot, Bernard;;;;;;1594;True;;;;;Tractatus Varii;"TRACTATVS VARII, DE VERA PRAEPARATIONE ET VSV MEDICAMENTORVM CHYMICOrum nunc primum
 editi. AVTHORE ET COLLECTOre Bernardo G. Penoto à Portu S. Ma-
 ria Aquitano. QVE HOC LIBRQ DIVERSA tractantur, versa pagina exhibebit.
 OMNIA AB VNO. OMNIA AD VNUM. FRANCOFVRTI Apud loannem Feyrabend, impensis
-Petri Fischeri. M. D. LXXXXIIII.";;;;Frankfurt;=W45;;;Johann Feyrabend;;;;;;compendium, recipes;alchemy, medicine;;;MDZ;MBS;;;;;;Penotus1594_Tractatus_varii_MDZ_MBS.pdf;
+Petri Fischeri. M. D. LXXXXIIII.";;;;Frankfurt;=W45;;;Johann Feyrabend;;;;;;compendium, recipes;alchemy, medicine;;;MDZ;MBS;;;;;;Penotus1594_Tractatus_varii_MDZ_MBS.pdf;;39479
 Dorn, Lapis metaphysicus;100035;True;False;;;;True;;True;Dorn, Gerard;Dorneus, Gerardus;;;;False;;;False;;;;;;False;;;;;;;1570;True;;;;;Lapis metaphysicus;"LAPIS METAPHYSICVS, AVT PHILOSOPHICVS, QUI VNIVERSAsalis medicina uera fuit patrum antiquorum, ad omnes indifferenter morbos: etiam eos quos incurabiles uocarunt
 illi qui curare non potuerunt. Et ad metallorum tollendam lepram, fabricandos lapides preciosos, &c. Per GERARDVM DORN.
-M. D. LXX. ";;;;;=X45;;;;;;;;;treatise;alchemy, metaphysics;;;MDZ;MBS;;;;;;Dorn1570_Lapis_metaphysicus_MDZ_MBS_pdf.pdf;
+M. D. LXX. ";;;;;=X45;;;;;;;;;treatise;alchemy, metaphysics;;;MDZ;MBS;;;;;;Dorn1570_Lapis_metaphysicus_MDZ_MBS_pdf.pdf;;27861
 Vadis, Dialogus;100036;True;False;;;;True;;True;De Vadis, Aegidius;Duval, Robert;;;;False;;;False;;;;;;True;Penot, Bernard;;;;;;1595;True;;;;;Dialogus;"EGIDII DE VADIS. DIALOGVS INTER
 NATVRAM ET FILIVM PHILOSOPHIAE, ACCEDVNT ABDITARVM
 rerum Chemicarum Tractatus Varij scitu dignissimi vt versa pagina indicabit.
 Autore & Collectore BERNARDO G. PENOTO A PORTV S. Mariae Aquitano,
-Reipubl. FRANCKATALLENSIS D. Physico. VNO, OMNIA FRANCOFORTI, Apud Io. Saurium. Sumptibus Ioannis Regis. CIƆ IƆ XCV.";;;;Frankfurt;;;;Johann Sauer;;;;;;treatise;alchemy;;;IA;Wellcome;;;;;;Vadis1595_Dialogus_IA_Wellcome.pdf;
+Reipubl. FRANCKATALLENSIS D. Physico. VNO, OMNIA FRANCOFORTI, Apud Io. Saurium. Sumptibus Ioannis Regis. CIƆ IƆ XCV.";;;;Frankfurt;;;;Johann Sauer;;;;;;treatise;alchemy;;;IA;Wellcome;;;;;;Vadis1595_Dialogus_IA_Wellcome.pdf;;25851
 Duchesne, Ad Iacobi Auberti;100037;True;False;;;;True;;True;Duchesne, Joseph;"Du Chesne, Joseph; Quercetanus";;;;False;;;False;;;;;;False;;;;;;;1575;True;;;;;Ad Iacobi Auberti;"AD IACOBI AVBERTI VINDONIS DE ORTV ET CAVSIS
 METALLORVM CONTRA Chymicos Explicationem
 IOSEPHI QVERCETANI ARMEniaci, D. Medici breuis Responsio.
 EIVSDEM DE EXQVISITA Mineralium, Animalium, & Vegetabilium me¬
 dicamentorum Spagyrica praeparatione & vsu, perspicua Tractatio.
-LVGDVNI, Apud loannem Lertotium. M. D. LXXV.";;;;Lyon;=AH45;;;Jean Lertout;;;;;;treatise;alchemy;;;MDZ;Augsburg;;;;;;DuChesne1575_Ad_Iacobi_Auberti_MDZ_Augsburg.pdf;
+LVGDVNI, Apud loannem Lertotium. M. D. LXXV.";;;;Lyon;=AH45;;;Jean Lertout;;;;;;treatise;alchemy;;;MDZ;Augsburg;;;;;;DuChesne1575_Ad_Iacobi_Auberti_MDZ_Augsburg.pdf;;15201
 Anon, Artis auriferae;100038;True;False;;;;False;;False;;;;;;True;;;False;;;;;;False;;;;;;;1572;True;;;;;Artis auriferae;"AVRIFERAE
 ARTIS,
 QVAM CHEMIAM
@@ -203,7 +203,7 @@ TVRBA PHILOSOPHORVM.
 Cum priuilegio Caesar. Maiest.
 BASILEAE.
 APVD PETRVM PERNAM.
-M. D. LXXII.";;;;Augsburg;;;;Pietro Perna;Petrus Perna;;;;;compendium, treatise;alchemy;;;MDZ;Augsburg;;;;;;Auriferae_artisI1572_MBZ_Augsburg.pdf;
+M. D. LXXII.";;;;Augsburg;;;;Pietro Perna;Petrus Perna;;;;;compendium, treatise;alchemy;;;MDZ;Augsburg;;;;;;Auriferae_artisI1572_MBZ_Augsburg.pdf;;260249
 Pseudo-Democritus, Ars magna;100039;True;False;;;;False;;False;;;;;;True;;;False;;;;;;True;Pizzimentio, Domenico;;;;;;1572;True;;;;;Ars magna;"DEMOCRITVS
 ABDERITA
 DE ARTE
@@ -215,7 +215,7 @@ Dominico Pizimentio Vibonensi
 Interprete.
 PATAVII
 Apud Simonem Galignanum
-MD LXXIII.";;;;Padua;;;;Simone Gaglinano;;;;;;compendium;alchemy;;;MDZ;MBS;;;;;;Pseudo-Democritus1572_Ars_magna.pdf;
+MD LXXIII.";;;;Padua;;;;Simone Gaglinano;;;;;;compendium;alchemy;;;MDZ;MBS;;;;;;Pseudo-Democritus1572_Ars_magna.pdf;;30399
 Pseudo-Lull, Mercuriorum;100040;True;False;;;;True;;False;Pseudo-Lull;;;;;False;;;False;;;;;;False;;;;;;;1567;True;;;;;Mercuriorum liber;"RAYMVNDI LVLLI DOCTISSISIMI ET CELEBERRIMI PHILOSOPHI MERCVRIORVM
 liber iam tandem subsidio manuscripti exemplaris perfectè
 editus.
@@ -226,13 +226,13 @@ opuscula plane aurea.
 COLONIAE AGRIPPINAE
 Apud Iohannem Birckmannum,
 ANNO M. D. LXVII.
-Cum gratia & priuilegio Caes. Maiest.";;;;Cologne;;;;Johann Birckmann;;;;;;treatise;alchemy;;;MDZ;MBS;;;;;;Pseudo-Lull1567_Mercuriorum_liber_MDZ_MBS.pdf;
+Cum gratia & priuilegio Caes. Maiest.";;;;Cologne;;;;Johann Birckmann;;;;;;treatise;alchemy;;;MDZ;MBS;;;;;;Pseudo-Lull1567_Mercuriorum_liber_MDZ_MBS.pdf;;54645
 Senior, De chemia Senioris;100041;True;False;;;;True;;True;Ibn Umayyl;;;;;False;;;False;;;;;;False;;;;;;;1560;False;;;;;De chemia Senioris;"DE CHEMIA
 Senioris antiquisSIMI PHILOSOPHI,
 LIBELLVS, VT BREVIS, ITA
 artem discentibus, & exercentibus, utilissimus, & uerè aureus, nunc
 primum in lucem
-aeditus.";;;;Strasbourg;;;;;;;;;;;;;;MDZ;MBS;;;;;;Senior1560_De_chemia_senioris_MDZ_MBS.pdf;
+aeditus.";;;;Strasbourg;;;;;;;;;;;;;;MDZ;MBS;;;;;;Senior1560_De_chemia_senioris_MDZ_MBS.pdf;;23014
 Pseudo-Paracelsus, De summis naturae;100042;True;False;;;;True;;False;Pseudo-Paracelsus;;;;;False;;;False;;;;;;True;Dorn, Gerard;;;;;;1584;True;;;;;De summis naturae ;"AVREOLI
 THEOPHRASTI
 PARACELSI
@@ -245,7 +245,7 @@ Quorum nomina sequens pagella dabit.
 BASILEAE,
 EX OFFICINA PERNAEA
 PER CONR. VVALDKIRCH,
-CIƆ IƆ XXCIV.";;;;Basel;;;;Conrad Waldkirch;;;;;;treatise;alchemy, Paracelsianism;;;MDZ;MBS;;;;;;Pseudo-Paracelsus1568_De_summis_naturae_mysteriis_MDZ_MBS.pdf;
+CIƆ IƆ XXCIV.";;;;Basel;;;;Conrad Waldkirch;;;;;;treatise;alchemy, Paracelsianism;;;MDZ;MBS;;;;;;Pseudo-Paracelsus1568_De_summis_naturae_mysteriis_MDZ_MBS.pdf;;30781
 Duchesne, Sclopetarius;100043;True;False;;;;True;;True;Duchesne, Joseph;Du Chesne, Joseph, Quercetanus;;;;False;;;False;;;;;;False;;;;;;;1576;True;;;;;Sclopetarius;"IOSEPHI
 QVERCETANI
 MEDICI SCLOPETARIVS,
@@ -258,7 +258,7 @@ aduersus eosdem ictus.
 OMNIBUS SED PAVCIS LUCEO
 LVGDVNI,
 Apud Ioannem Lertotium.
-M. D. LXXVI.";;;;Lyon;;;;Jean Lertout;;;;;;treatise;Paracelsianism, medicine;;;MDZ;Augsburg;;;;;;DuChesne1575_Sclopetarius_MDZ_Augsburg.pdf;
+M. D. LXXVI.";;;;Lyon;;;;Jean Lertout;;;;;;treatise;Paracelsianism, medicine;;;MDZ;Augsburg;;;;;;DuChesne1575_Sclopetarius_MDZ_Augsburg.pdf;;40148
 Dorn, Theophrasti Germani ;100044;True;False;;;;True;;True;Dorn, Gerard;;;;;False;;;False;;;;;;False;;;;;;;1578;True;;;;;Theophrasti Germani Paracelsi;"THEOPHRASTI
 GERMANI
 PARACELSI, MEDICORVM ET PHILOSOPHOrum omnium, in vniuersum
@@ -275,7 +275,7 @@ QUI SVVS ESSE POTEST
 LVGDVNI,
 PRO IACOBO DV PVYS.
 M. D. LXXVIII.
-Cum priuileg. Caesareae ac Regiae maiest. ad decennium.";;;;Lyon;;;;Jacob Du Puys;;;;;;treatise;Paracelsianism;;;MDZ;MBS;;;;;;Dorn1578_Theophrasti_Germani_Principis_MDZ_MBS.pdf;
+Cum priuileg. Caesareae ac Regiae maiest. ad decennium.";;;;Lyon;;;;Jacob Du Puys;;;;;;treatise;Paracelsianism;;;MDZ;MBS;;;;;;Dorn1578_Theophrasti_Germani_Principis_MDZ_MBS.pdf;;63992
 Dorn, De naturae luce physica;100045;True;False;;;;False;;True;Dorn, Gerard;;;;;False;;;False;;;;;;False;;;;;;;1583;True;;;;;De naturae luce physica;"DE
 NATVRAE LVCE PHYSICA, EX GENESI DESVMPTA,
 luxta sententiam THEOPHRASTI PARACELSI, Germani Philosophi ac
@@ -288,7 +288,7 @@ GERARDO DORNEO
 autore.
 FRANCOFORTI,
 Apud Christophorum Coruinum.
-M. D. LXXXIII.";;;;Frankfurt;;;;Christophorus Corvinus;;;;;;treatise;Paracelsianism;;;MDZ;MBS;;;;;;Dorn1583_De_Naturae_luce_physica_MDZ_MBS.pdf;
+M. D. LXXXIII.";;;;Frankfurt;;;;Christophorus Corvinus;;;;;;treatise;Paracelsianism;;;MDZ;MBS;;;;;;Dorn1583_De_Naturae_luce_physica_MDZ_MBS.pdf;;92083
 Dorn, Commentaria;100046;True;False;;;;True;;True;Dorn, Gerard;;;;;False;;;False;;;;;;False;;;;;;;1583;True;;;;;Commentaria;"IN THEOPHRASTI
 PARACELSI
 Auroram Philosophorum,
@@ -298,7 +298,7 @@ COMMENTARIA,
 Cum quibusdam Argumentis:
 Per GERARDVM DORNEVM.
 FRANCOFORTI,
-Anno M. D. LXXXIII.";;;;Frankfurt;;;;;;;;;;treatise;Paracelsianism;;;MDZ;MBS;;;;;;Dorn1584_Commentaria_in_Archidoxorum_MDZ_MBS.pdf;
+Anno M. D. LXXXIII.";;;;Frankfurt;;;;;;;;;;treatise;Paracelsianism;;;MDZ;MBS;;;;;;Dorn1584_Commentaria_in_Archidoxorum_MDZ_MBS.pdf;;45735
 Portaleone, De auro ;100047;True;False;;;;True;;True;Portaleone, Abraham;;;;;False;;;False;;;;;;False;;;;;;;1584;True;;;;;De auro dialogi tres;"DE AVRO
 DIALOGI TRES
 In quibus non solùm de Auri in re Medica facultate, verum etiam de specifica eius, & caeterarum
@@ -308,7 +308,7 @@ Ad Serenissimum Dominum Dominum Gulielmum Gonzagam
 Mantuae tertium ac Montisferrati primum prudentissimumque Ducem.
 Cum licentia sanctae Inquisitionis, & Illustrissimi Senatus Veneti.
 CVM PRIVILEGIO.
-VENETIIS, Apud Io. Baptistam à Porta. 1584.";;;;Venice;;;;Johannes Baptista della Porta;;;;;;treatise, dialogue;alchemy;;;ONB;ONB;;;;;;Portaleone1584_De_auro_dialogi_tres_ONB.pdf;
+VENETIIS, Apud Io. Baptistam à Porta. 1584.";;;;Venice;;;;Johannes Baptista della Porta;;;;;;treatise, dialogue;alchemy;;;ONB;ONB;;;;;;Portaleone1584_De_auro_dialogi_tres_ONB.pdf;;28556
 Pseudo-Aquinas, De secreta alchemiae magnalia;100048;True;False;;;;False;;False;;;;;;True;;;False;;;;;;True;Daniel Brouchuis;;;;;;1579;True;;;;;De secreta alchemiae magnalia;"SECRETA ALCHIMIAE MAGNALIA D. THOMAE AQUINATIS, De Corporibus supercoelestibus, & quòd in rebus inferioribus inueniantur, quoque modo extrahantur: De
 Lapide minerali, animali, & plantali. Item Thesaurus Alchimiae secretissimus, quem
 dedit fratri suo Reinaldo. ACCESSIT ET IOANNIS DE RVPESCISSA LIBER
@@ -317,20 +317,20 @@ Opuscula studiosis artis secretissimae, vt summè necessaria, ita lectu iucundis
 Opera DANIELIS BROVCHVISII artium & medicinae Doctoris nunc primùm in lucem edita. cum
 Praefatione D. Ioannis Huernij. COLONIAE AGRIPPINAE,
 Excudebat Nicolaus Bohm-bargen.
-M. D. LXXIX.";;;;Cologne;;;;Nicolaus Bohmbargen;;;;;;compendium, treatise;alchemy;;;ONB;ONB;;;;;;Pseudo-Aquinas1579_Secreta_alchemiae_magnalia_ONB.pdf;
+M. D. LXXIX.";;;;Cologne;;;;Nicolaus Bohmbargen;;;;;;compendium, treatise;alchemy;;;ONB;ONB;;;;;;Pseudo-Aquinas1579_Secreta_alchemiae_magnalia_ONB.pdf;;17773
 Rossi, De destillatione;100049;True;False;;;;True;;True;Rossi, Girolamo;Hieronymus Rubeus;;;;False;;;False;;;;;;False;;;;;;;1585;True;;;;;De destillatione;"DE DESTILLATIONE, HIERONYMI RVBEI RAVBNN. LIBER.
 In quo Stillatitiorum liquorum, qui ad Medicinam faciunt, methodus ac uires explicantur:
 Et CHEMICAE artis ueritas, ratione, & experimento comprobatur. Iampridem ab innumeris men¬
 dis repurgatus, & in usum studiosorum editus.
 BASILEAE, PER SEBASTIANVM
-HENRICPETRI.";;;;Basel;;;;Sebastian Henricpetri;;;;;;treatise;alchemy, distillation;;;MDZ;MBS;;;;;;Rossi1585_De_destillatione_MDZ_MBS.pdf;
+HENRICPETRI.";;;;Basel;;;;Sebastian Henricpetri;;;;;;treatise;alchemy, distillation;;;MDZ;MBS;;;;;;Rossi1585_De_destillatione_MDZ_MBS.pdf;;69538
 Anon, Quadriga aurifera;100050;True;False;;;;False;;False;;;;;;True;;;False;;;;;;False;;;;;;;1599;True;;;;;Quadriga aurifera;"QVADRIGA AVRIFERA,
 Nunc primum à NICOLAO BARNAVDO a Crista-arnaudi Delphinate Gallo philosopho & medico in lucem edita.
 NIHIL SINE NVMINE.
 Ex Officina Plantiniana,
 APVD CHRISTOPHORVM RAPHELENCIVM,
 Academiae Lugduno-Bat. Typographum.
-MDIC.";;;;Leiden;;;;Christophorus Raphalencius;;;;;;compendium;alchemy;;;IA;UCM;;;;;;Barnaud1599_Quadriga_aurifera_IA_Madrid.pdf;
+MDIC.";;;;Leiden;;;;Christophorus Raphalencius;;;;;;compendium;alchemy;;;IA;UCM;;;;;;Barnaud1599_Quadriga_aurifera_IA_Madrid.pdf;;22461
 Ruland, Medica practica;100051;True;False;;;;True;;True;Ruland, Martin Sr;;;;;True;;;False;;;;;;False;;;;;;;1564;True;;;;;Medicina practica recens;"Medicina
 PRACTICA RECENS ET NOVA, CONTInens omnes totius humani corporis Morbos, per Alphabeticum ordinem collectos:
 quibus [GR]καθʼ ἕκαστον[/GR] sunt addita Medicamenta omnia Composita [GR]τὰ ἐυπόριστα[/GR], &
@@ -340,7 +340,7 @@ appensa.
 AVTHORE.
 MARTINO RVLANDO FRIsingensi, Medicinarum Doctore.
 Cùm Gratia & priuilegio.
-M. D. LXIIII.";;;;unknown;;;;;;;;;;compendium;medicine;;;MDZ;MBS;;;;;;Ruland1564_Medicina_practica_recens_MDZ_MDS.pdf;
+M. D. LXIIII.";;;;unknown;;;;;;;;;;compendium;medicine;;;MDZ;MBS;;;;;;Ruland1564_Medicina_practica_recens_MDZ_MDS.pdf;;38302
 Khunrath, Confessio;100052;True;False;;;;True;;True;Khunrath, Heinrich;;;;;False;;;False;;;;;;False;;;;;;;1599;True;;;;;Confessio de chao physico-chymicorum;"HENRICI KHUNRATH LIPS. UTRIUSQUE MEDIC.
 DOCT.
 CONFESSIO
@@ -355,7 +355,7 @@ Ad Calumniatorem:
 Non, si quid nescis, reliquis id scire negatum est.
 ARGENTORATI,
 Apud JOH. ALBERT. DOLHOPFE.
-Anno M DC XCIX.";;;;Strasbourg;;;;Johann Albertus Dolhopffe;;;;;;treatise;alchemy, theosophy;;;MDZ;MBS;;;;;;Khunrath1599_Confessio_de_chao_chymicorum_MDZ_MBS.pdf;
+Anno M DC XCIX.";;;;Strasbourg;;;;Johann Albertus Dolhopffe;;;;;;treatise;alchemy, theosophy;;;MDZ;MBS;;;;;;Khunrath1599_Confessio_de_chao_chymicorum_MDZ_MBS.pdf;;5479
 Mirandola, De auro;100053;True;False;;;;True;;True;Mirandola, Francisco Pico della;;;;;False;;;False;;;;;;False;;;;;;;1586;True;;;;;De auro;"IO. FRANCISCI PICI
 MIRANDVLAE ET
 CONCORDIAE DOMINI,
@@ -369,7 +369,7 @@ quàm facultatis Medicae arcanorum.
 CVM PRIVILEGIO.
 VENETIIS,
 Apud loannem Baptistam Somaschum.
-M DLXXXVI.";;;;Venice;;;;Somascho, Giovanni Battista;;;;;;treatise;alchemy, natural history;;;MDZ;MBS;;;;;;Mirandola1586_De_auro_libri_tres_MDZ_MBS.pdf;
+M DLXXXVI.";;;;Venice;;;;Somascho, Giovanni Battista;;;;;;treatise;alchemy, natural history;;;MDZ;MBS;;;;;;Mirandola1586_De_auro_libri_tres_MDZ_MBS.pdf;;30012
 Moffett, De iura et praestantia chymicorum;100054;True;False;;;;True;;True;Moffett, Thomas;;;;;False;;;False;;;;;;False;;;;;;;1584;True;;;;;De iure et praestantia chymicorum medicamentorum;"DE IVRE ET
 PRAESTANTIA CHYMICORVM MEDICAMENTORVM
 Dialogus apologeticus:
@@ -379,7 +379,7 @@ ACCESSERVNT ETIAM EPIstolae quaedam medicinales ad medicos
 aliquot conscriptae.
 FRANCOFVRTI
 Apud haeredes Andreae Wecheli,
-MDLXXXIIII.";;;;Frankfurt;;;;Inheritors of Andreas Wechelius;;;;;;treatise, dialogue;alchemy, medicine;;;MDZ;MBS;;;;;;Moffett_De_iure_et_praestantia_MDZ_MBS.pdf;
+MDLXXXIIII.";;;;Frankfurt;;;;Inheritors of Andreas Wechelius;;;;;;treatise, dialogue;alchemy, medicine;;;MDZ;MBS;;;;;;Moffett_De_iure_et_praestantia_MDZ_MBS.pdf;;19792
 Erastus, Disputatio de auro potabili;100055;True;False;;;;True;;True;Erastus, Thomas;;;;;False;;;False;;;;;;False;;;;;;;1578;True;;;;;Disputatio de auro potabili;"DISPVTATIO
 DE AVRO
 POTABILI, IN QVA
@@ -393,7 +393,7 @@ Cometarum, ex veris fundamentis & naturae
 principijs erutum.
 BASILEAE
 Apud Petrum Pernam
-Anno 1578.";;;;Basel;;;;Pietro Perna;Petrus Perna;;;;;treatise, dialogue;;;;MDZ;MBS;;;;;;Erastus1578_Disputatio_de_auro_potabili_MDZ_MBS.pdf;
+Anno 1578.";;;;Basel;;;;Pietro Perna;Petrus Perna;;;;;treatise, dialogue;;;;MDZ;MBS;;;;;;Erastus1578_Disputatio_de_auro_potabili_MDZ_MBS.pdf;;31724
 Claveus, Apologia crysopoeiae;100056;True;False;;;;True;;True;Duclo, Gaston;Gaston Claveus;;;;False;;;False;;;;;;False;;;;;;;1598;True;;;;;Apologia crysopoeiae et argyropoeiae;"APOLOGIA CRYSOPOEIAE ET ARGYROPOEIAE
 Aduersus Thomam, Erastum Doctorem
 & Professorem Medicinae.
@@ -403,7 +403,7 @@ AVTHORE GASTONE CLAVEO Subpraeside Niuernensi.
 Nunc primùm à BERNARDO G. PoNOTO A PORTV S. MARIAE
 Aquitano, cum annotationibus marginalibus edita.
 Apud haeredes Eustathij Vignon.
-MD. XCVIII.";;;;unknown;;;;Inheritors of Eustache Vignon;;;;;;treatise;;;;MDZ;MBS;;;;;;Claveus1598_Apologia_crysopoeiae_MDZ_MBS.pdf;
+MD. XCVIII.";;;;unknown;;;;Inheritors of Eustache Vignon;;;;;;treatise;;;;MDZ;MBS;;;;;;Claveus1598_Apologia_crysopoeiae_MDZ_MBS.pdf;;35839
 Hagecius, De cerevisia;100057;True;False;;;;True;;True;Hagecius, Thaddeus;;;;;False;;;False;;;;;;False;;;;;;;1585;True;;;;;De cerevisia;"DE CERVISIA,
 EIVSQVE CONFICIENDI RATIONE, NATVra, viribus, & facultatibus,
 opusculum: AVTHORE
@@ -411,7 +411,7 @@ THADDAEO HAGECIO
 ab Hayck.
 FRANCOFVRDI
 Apud heredes Andreae Wecheli,
-MDLXXXV.";;;;Frankfurt;;;;Inheritors of Andreas Wechelius;;;;;;treatise;;;;GB;ONB;;;;;;Hagecius1585_De_cervisia_ejusque_conficiendi_ratione.pdf;
+MDLXXXV.";;;;Frankfurt;;;;Inheritors of Andreas Wechelius;;;;;;treatise;;;;GB;ONB;;;;;;Hagecius1585_De_cervisia_ejusque_conficiendi_ratione.pdf;;12436
 Hagecius, Actio medica;100058;True;False;;;;True;;True;Hagecius, Thaddeus;;;;;False;;;False;;;;;;False;;;;;;;1596;True;;;;;Actio medica;"ACTIO MEDICA
 Thaddaei ab Hayck,
 Adversus
@@ -424,7 +424,7 @@ Generosos & Strenuos Dominos, Dominos Proceres
 & Patronos meos benignissimos.
 AMBERGAE.
 Ex Officina Michaëlis Forsteri.
-Anno M. D. XCVI.";;;;Hamburg;;;;Michael Forster;;;;;;treatise;;;;ER;UBB;;;;;;Hagecius1596_Actio_medica_ER_UBB.pdf;
+Anno M. D. XCVI.";;;;Hamburg;;;;Michael Forster;;;;;;treatise;;;;ER;UBB;;;;;;Hagecius1596_Actio_medica_ER_UBB.pdf;;17520
 Suavius, Compendium;100059;True;False;;;;False;;True;Suavius, Leo;Jacques Gohory;;;;True;;;False;;;;;;False;;;;;;;1568;True;;;;;Theophrasti Paracelsi Compendium;"THEOPHRASTI
 PARACELSI
 PHILOSOPHIAE ET
@@ -441,29 +441,29 @@ Catalogus operum & librorum.
 Cum Indice rerum in hoc opere
 singularium.
 BASILEAE,
-M. D. LXVIII.";;;;Basel;;;;Pietro Perna;Petrus Perna;;;;;treatise;Paracelsianism, alchemy;;;MDZ;MBS;;;;;;Suavius1567_Theophrasti_Paracelsi_Philosophiae_ONB.pdf;
+M. D. LXVIII.";;;;Basel;;;;Pietro Perna;Petrus Perna;;;;;treatise;Paracelsianism, alchemy;;;MDZ;MBS;;;;;;Suavius1567_Theophrasti_Paracelsi_Philosophiae_ONB.pdf;;77334
 Witestein, Disceptatio;100060;True;False;;;;True;;True;Witestein, Carolus;Karl Witestein;;;;False;;;False;;;;;;False;;;;;;;1583;False;;;;;Disceptatio philosophica;"CAROLI VVITESTEIN
 SEV A PETRA ALBA, SEREnissimae Margaritae ab Austria, Medici,
 Disceptatio Philosophica de Quinta Chymicorum Essentia.
 Accessit Alexandri Carerij Patauini Quaestio
 An metalla artis beneficio permutari possint.
 Cum Gratia & Priuilegio Caes. Maiest.
-BASILEAE, PER SEBASTIANVM HENRICPETRI.";;;;Basel;;;;Sebastian HenricPetri;;;;;;treatise;;;;MDZ;MBS;;;;;;Witestein1583_Disceptatio_philosophica_MDZ_MBS.pdf;
+BASILEAE, PER SEBASTIANVM HENRICPETRI.";;;;Basel;;;;Sebastian HenricPetri;;;;;;treatise;;;;MDZ;MBS;;;;;;Witestein1583_Disceptatio_philosophica_MDZ_MBS.pdf;;48284
 Moffett, Nosomantica Hippocratea;100061;True;False;;;;True;;True;Moffett, Thomas;;;;;False;;;False;;;;;;False;;;;;;;1588;True;;;;;Nosomantica Hippocratea;"NOSOMANTICA HIPPOCRATEA, Siue HIPPOCRATIS PROGNOSTICA CVNCTA, EX
 OMNIBVS IPSIVS SCRIPTIS MEthodicè digesta, à mendis atque tautologiis pe¬
-nè infinitis repurgata, & maiore quàm hactenus studio ordineque disposita: THO. MOVFETI LONDINATIS ANGLI opera & labore.";;;;Frankfurt;;;;Inheritors of Andreas Wechelius, Claudius Marnius & loannes Aubrius;;;;;;treatise;Paracelsianism, medicine;;;ONB;ONB;;;;;;Moffett1588_Nosomantica_Hippocrates_ONB.pdf;
+nè infinitis repurgata, & maiore quàm hactenus studio ordineque disposita: THO. MOVFETI LONDINATIS ANGLI opera & labore.";;;;Frankfurt;;;;Inheritors of Andreas Wechelius, Claudius Marnius & loannes Aubrius;;;;;;treatise;Paracelsianism, medicine;;;ONB;ONB;;;;;;Moffett1588_Nosomantica_Hippocrates_ONB.pdf;;49083
 Wimpfen, De concordantia Hippocraticorum et Paracelsistarum;100062;True;False;;;;True;;True;Wimpfen, Johann Albert;Johannes Wimpenaeus, Johannes Albertus;;;;False;;;False;;;;;;False;;;;;;;1569;True;;;;;De concordia Hippocraticorum et Paracelsistarum;"DE CONCORDIA HIPPOCRATICORVM ET PAracelsistarum libri Magni
 Excursiones Defensiuae, cum Appendice, quid Medico sit
-faciundum.";;;;Munich;;;;Adam Berg;;;;;;treatise;Paracelsianism, medicine;;;MDZ;MBS;;;;;;Albertus1569_De_concordantia_Hippocraticorum_et_Paracelsistarum_MDZ_MBS.pdf;
+faciundum.";;;;Munich;;;;Adam Berg;;;;;;treatise;Paracelsianism, medicine;;;MDZ;MBS;;;;;;Albertus1569_De_concordantia_Hippocraticorum_et_Paracelsistarum_MDZ_MBS.pdf;;18110
 Libavius, Rerum chymicarum epistolica I;100063;True;False;;;;True;;True;Libavius, Andreas;;;;;False;;;False;;;;;;False;;;;;;;1595;True;;;;;Rerum chymicarum epistolica I;"RERVM CHYMICARVM EPISTOLICA FORMA AD PHILOSOPHOS ET MEDICOS
 QVOSDAM IN GERMANIA excellentes descriptarum Liber primus,
 IN QVO TVM RERVM QVARVNDAM naturalium continentur explicationes ingeniosae; tum
 CHYMIAE disciplina pyronomica, sceuastica & Vocabularia cum quibusdam inter arcana habitis declaran¬
-tur fideliter.";;;;Frankfurt;;;;Johannes Saurius;;;;;;letters;alchemy, Paracelsianism;;;MDZ;MBS;;;;;;Libavius1595_Rerum_chymicarum_epistolica_liber_primus_MDZ_MBS.pdf;
+tur fideliter.";;;;Frankfurt;;;;Johannes Saurius;;;;;;letters;alchemy, Paracelsianism;;;MDZ;MBS;;;;;;Libavius1595_Rerum_chymicarum_epistolica_liber_primus_MDZ_MBS.pdf;;70697
 Trevisan, De chymico miraculo;100064;True;False;;;;False;;False;;;;;;True;;;True;Dorn, Gerard;;;;;True;Dorn, Gerard;;;;;;1583;True;;;;;De chymico miraculo;"TREVISANVS DE CHYMICO MIRACVLO, QVOD
 Lapidem Philosophiae appellant.
 DIONYS. ZECHARIVS Gallus de eodem. Auctoritatibus varijs Principum huius artis, DEMOCRITI, GEBRI, LVLLII,
-VILLANOVANI, confirmati & illustrati Per GERARDVM DORNEVM.";;;;Basel;;;;Inheritors of Pietro Perna;;;;;;treatise;alchemy;;;MDZ;MBS;;;;;;Trevisanus1583_De_chymico_miraculo_MDZ_MBS.pdf;
+VILLANOVANI, confirmati & illustrati Per GERARDVM DORNEVM.";;;;Basel;;;;Inheritors of Pietro Perna;;;;;;treatise;alchemy;;;MDZ;MBS;;;;;;Trevisanus1583_De_chymico_miraculo_MDZ_MBS.pdf;;50135
 Libavius, Neoparacelsica;100065;True;False;;;;True;;True;;;;;;False;;;False;;;;;;False;;;;;;;1594;True;;;;;Neoparacelsica;"ANDREAE LIBAVI HALENSIS SAX. MED. D.
 Po. Laur. Physici Rotenburgici ad Tubarim,
 NEOPARACELSICA. IN QUIBVS VETVS
@@ -471,7 +471,7 @@ MEDICINA DEFENDITVR aduersus τερετήσματα. Tum
 GEORGII AMVVALD. CVIVS liber de PANACEA excutitur; doceturque quid sit Panacea, quomodo paretur, & quae
 eius vires: Tum IOHANNIS GRAMANI, olim Theologi, nunc Pseudochymici: qui
 omnes Medicos acerbissima charta est insectatus. Seruata vera verae Chymiae
-laude.";;;;Frankfurt;;;;Johannes Saurius;;;;;;treatise;alchemy, Paracelsianism, medicine;;;MDZ;MBS;;;;;;Libavius1594_Neoparacelsica_MDZ_MBS.pdf;
+laude.";;;;Frankfurt;;;;Johannes Saurius;;;;;;treatise;alchemy, Paracelsianism, medicine;;;MDZ;MBS;;;;;;Libavius1594_Neoparacelsica_MDZ_MBS.pdf;;0
 Suchten, De secretis antimonii;100066;True;False;;;;True;;True;Suchten, Alexander;;;;;False;;;True;Forberg, Georg;;;;;False;;;;;;;1575;True;;;;;De secretis antimonii;"DE SECRETIS ANTIMONII Liber vnus
 ALEXANDRI ASVCHten verae philosophiae ac me¬
 dicinae Doctoris. Editus Germanicè quidem anno 1570: nunc au¬
@@ -479,19 +479,19 @@ tem in Latinum translatus sermonem
 per M. GEORGIVM FOR¬
 bergium Mysium. Cui additus est GEOR. PHAEDRONIS
 Medici AQVILA COELESTIS, siue correcta Hydrargyri prae¬
-cipitatio.";;;;Basel;;;;Pietro Perna;Petrus Perna;;;;;treatise;alchemy, Paracelsianism;;;ONB;ONB;;;;;;Suchten1575_De_secretis_antimonii_ONB.pdf;
-Wecker, De secretis;100067;True;False;;;;False;;True;Wecker, Johannes;;;;;False;;;False;;;;;;False;;;;;;;1582;True;;;;;De secretis;DE SECRETIS LIBRI XVII. Ex varijs authoribus collecti, methodiceque digesti.;;;;Basel;;;;;;;;;;treatise;alchemy, medicine, natural magic, secrets;;;ONB;ONB;;;;;;Wecker1582_De_secretis_ONB.pdf;
+cipitatio.";;;;Basel;;;;Pietro Perna;Petrus Perna;;;;;treatise;alchemy, Paracelsianism;;;ONB;ONB;;;;;;Suchten1575_De_secretis_antimonii_ONB.pdf;;18749
+Wecker, De secretis;100067;True;False;;;;False;;True;Wecker, Johannes;;;;;False;;;False;;;;;;False;;;;;;;1582;True;;;;;De secretis;DE SECRETIS LIBRI XVII. Ex varijs authoribus collecti, methodiceque digesti.;;;;Basel;;;;;;;;;;treatise;alchemy, medicine, natural magic, secrets;;;ONB;ONB;;;;;;Wecker1582_De_secretis_ONB.pdf;;230305
 Pseudo-Paracelsus, Aurora;100068;True;False;;;;False;;False;;;;;;True;;;False;;;;;;True;Dorn, Gerard;;;;;;1577;True;;;;;Aurora;"AVRORA THESAVRVSQVE PHILOSOPHORVM,
 Theophrasti Paracelsi, Germani Philosophi, & Medici prae cunctis
 omnibus accuratissimi. Accessit Monarchia Physica per GERAR¬
 DVM DORNEVM, in defensionem Paracelsicorum Principiorum, à suo Praeceptore positorum.
 Praeterea Anatomia uiua Paracelsi, qua docet autor praeter sectionem corporum, & ante mortem, patientiobus esse succurrendum.
-";;;;Basel;;;;;;;;;;treatise;alchemy, Paracelsianism;;;ONB;ONB;;;;;;Pseudo-Paracelsus1577_Aurora_Thesaurusque_Philosophorum_ONB.pdf;
+";;;;Basel;;;;;;;;;;treatise;alchemy, Paracelsianism;;;ONB;ONB;;;;;;Pseudo-Paracelsus1577_Aurora_Thesaurusque_Philosophorum_ONB.pdf;;36296
 Severinus, Idea medicinae;100069;False;False;;;;True;;True;Severinus, Petrus;Sorensen, Peder;;;;False;;;False;;;;;;False;;;;;;;1571;True;;;;;Idea medicinae philosophicae;"IDEA MEDICINAE PHILOSOPHICAE,
 FVNDAMENTA CONTINENS totius doctrinae Paracelsicae, Hippocraticae,
 & Galenicae. AVTHORE PETRO SEVERINO DANO
 Philosopho & Medico. AD FRIDERICVM II. DANIAE
-& Septentrionis Regem. ";;;;Basel;;;;Sixtus HenricPetri;;;;;;treatise;Paracelsianism, alchemy;;;GB;Noscemus;;;;;;Severinus1571_Idea_medicinae_MDZ_MBS.pdf;
+& Septentrionis Regem. ";;;;Basel;;;;Sixtus HenricPetri;;;;;;treatise;Paracelsianism, alchemy;;;GB;Noscemus;;;;;;Severinus1571_Idea_medicinae_MDZ_MBS.pdf;;6027
 Libavius, Alchemia;100070;True;True;;;;True;;True;Libavius, Andreas;;;;;False;;;False;;;;;;False;;;;;;;1597;True;;;;;Alchemia;"D. O. M. A.
 ALCHEMIA.
 ANDREAE LIBAVII MED. D. POET.
@@ -501,23 +501,23 @@ ceptis quibusdam operosè collecta, adhibitisque ratione & experientia, quanta p
 In integrum corpus redacta.
 Accesserunt Tractatus nonnulli Physici Chymici, item methodicè ab eodem autore explicati,
 quorum titulos versa pagella exhibet. Sunt etiam in Chymicis eiusdem D. LIBAVII epistolis, iam antè im¬
-pressis, multa, huic operi lucem allatura.";;;;Frankfurt;;;;Johannes Saurius;;;;;;treatise;alchemy;;;ER;Noscemus;;;;;;Libavius,_Andreas_-_Alchemia_Libavii__Frankfurt_am_Main_1597.pdf;
+pressis, multa, huic operi lucem allatura.";;;;Frankfurt;;;;Johannes Saurius;;;;;;treatise;alchemy;;;ER;Noscemus;;;;;;Libavius,_Andreas_-_Alchemia_Libavii__Frankfurt_am_Main_1597.pdf;;192751
 Pseudo-Lull, Testamentum;100071;True;False;;;;True;;False;;;;;;True;;;False;;;;;;False;;;;;;;1566;True;;;;;Testamentum;"RAYMVNDI LVLLI DOCTISSIMI ET CELEBERRI¬
 MI PHILOSOPHI TESTAmentum, duobus libris vniuersam
 artem Chymicam complectens,
 antehac nunquam excusum.
 ITEM EIVSDEM COMPENDIVM
 ANIMAE TRANSMVTATIOnis artis metallorum, absolutum
-iam & perfectum.";;;;Cologne;;;;Johannes Birkmann;;;;;;treatise;alchemy;;;MDZ;MBS;;;;;;Pseudo-Lull1566_Testamentum_MDZ_MBS.pdf;
+iam & perfectum.";;;;Cologne;;;;Johannes Birkmann;;;;;;treatise;alchemy;;;MDZ;MBS;;;;;;Pseudo-Lull1566_Testamentum_MDZ_MBS.pdf;;86208
 Andernach, De medicina;100072;True;False;;;;False;;True;Andernach, Johann Gunther;;;;;False;;;False;;;;;;False;;;;;;;1571;True;;;;;De medicina veteri et nova;"IOANNIS GVINTHERII ANDERNACI MEDICI
-CLARISSIMI, DE MEDICINA VETERI ET NOVA FACIVNDA COMMENTARIVS SECVNDVS.";;;;Basel;;;;HenricPetri;;;;;;treatise;Paracelsianism, medicine;;;MDZ;MBS;;;;;;Andernach1571_De_medicina_veteri_et_novi_MDZ_MBS.pdf;
+CLARISSIMI, DE MEDICINA VETERI ET NOVA FACIVNDA COMMENTARIVS SECVNDVS.";;;;Basel;;;;HenricPetri;;;;;;treatise;Paracelsianism, medicine;;;MDZ;MBS;;;;;;Andernach1571_De_medicina_veteri_et_novi_MDZ_MBS.pdf;;0
 Greverus, Secretum;100073;True;False;;;;True;;False;;;;;;True;;;False;;;;;;True;Balbian, Justus;;;;;;1599;True;;;;;Secretum;"IODOCI GREVERI PRESBYTERI
-SECRETVM; ET ALANI PHILOSOPHI DICTA De Lapide Philosophico. Item alia nonnulla eiusdem materiae, pleraque iam primùm edita, IVSTO A BALBIAN.";;;;Leiden;;;;Christophorus Raphalengius;;;;;;treatise;alchemy;;;MDZ;MBS;;;;;;Greverus1599_Secretum_MDZ_MBS.pdf;
+SECRETVM; ET ALANI PHILOSOPHI DICTA De Lapide Philosophico. Item alia nonnulla eiusdem materiae, pleraque iam primùm edita, IVSTO A BALBIAN.";;;;Leiden;;;;Christophorus Raphalengius;;;;;;treatise;alchemy;;;MDZ;MBS;;;;;;Greverus1599_Secretum_MDZ_MBS.pdf;;19995
 Hoghelande, De lapidis physicus;100074;True;False;;;;False;;True;Hoghelande, Theobald;;;;;False;;;False;;;;;;False;;;;;;;1595;True;;;;;De lapidis physicis conditionibus;"DE LAPIDIS PHYSICI CONDITIONIBVS
 LIBER. Quo duorum abditissimorum Auctorum GE¬
 BRI & RAIMVNDI LVLLII methodica continetur explicatio.
 ET Chymistarum omnium opera tanquam ad normam
-examinantur, virum in perfectionis via consistant, nec ne.";;;;Cologne;;;;Henric Falkenburg;;;;;;treatise;alchemy;;;MDZ;MBS;;;;;;Hoghelande1595_De_lapidis_physici_conditionibus_MDZ_MBS.pdf;
+examinantur, virum in perfectionis via consistant, nec ne.";;;;Cologne;;;;Henric Falkenburg;;;;;;treatise;alchemy;;;MDZ;MBS;;;;;;Hoghelande1595_De_lapidis_physici_conditionibus_MDZ_MBS.pdf;;61584
 Dorn, Fasciculus Paracelsicae;100075;False;False;;;;False;;False;;;;;;False;;;False;;;;;;True;Dorn, Gerard;;;;;;1581;True;;;;;Fasciculus Paracelsicae;"FASCICVLVS PARACELSICAE MEDICINAE VETERIS
 ET NON NOVAE, PER FLOSCVLOS CHIMICOS ET MEDICOS,
 tanquam in compendiosum promptuarium collectus.
@@ -529,4 +529,4 @@ Homunculi pygmei, ex Dampra nutrimenti sanguinis.
 CVM ELVCIDATIONIBVS HVIVS, ALIORVMQVE
 obscuriorum quorumcunque locorum atque dictionum
 inibi passim occurrentium.
-ET INDICE LOCVPLETISSINO. GERARDO DORNEO INTERPRETE.";;;;Frankfurt;;;;Johannes Spies;;;;;;treatise;Paracelsianism, alchemy, medicine;;;MDZ;MBS;;;;;;Dorn1581_Fasciculus_Paracelsicae_MDZ_MBS.pdf;
+ET INDICE LOCVPLETISSINO. GERARDO DORNEO INTERPRETE.";;;;Frankfurt;;;;Johannes Spies;;;;;;treatise;Paracelsianism, alchemy, medicine;;;MDZ;MBS;;;;;;Dorn1581_Fasciculus_Paracelsicae_MDZ_MBS.pdf;;71692

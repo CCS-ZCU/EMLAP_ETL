@@ -8,6 +8,7 @@
       <module fileurl="file:///srv/webserver/apps/amed_app/.idea/amed_app.iml" filepath="/srv/webserver/apps/amed_app/.idea/amed_app.iml" />
       <module fileurl="file://$PROJECT_DIR$/../corpus-corporum/.idea/corpus-corporum.iml" filepath="$PROJECT_DIR$/../corpus-corporum/.idea/corpus-corporum.iml" />
       <module fileurl="file:///srv/data/.idea/data.iml" filepath="/srv/data/.idea/data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dictionary-emlap/.idea/dictionary-emlap.iml" filepath="$PROJECT_DIR$/../dictionary-emlap/.idea/dictionary-emlap.iml" />
       <module fileurl="file:///srv/webserver/apps/iweems_app/.idea/iweems_app.iml" filepath="/srv/webserver/apps/iweems_app/.idea/iweems_app.iml" />
       <module fileurl="file://$PROJECT_DIR$/../latin-contextual-embeddings/.idea/latin-contextual-embeddings.iml" filepath="$PROJECT_DIR$/../latin-contextual-embeddings/.idea/latin-contextual-embeddings.iml" />
       <module fileurl="file://$PROJECT_DIR$/../latin-preprocessing/.idea/latin-preprocessing.iml" filepath="$PROJECT_DIR$/../latin-preprocessing/.idea/latin-preprocessing.iml" />
