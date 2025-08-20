@@ -4,170 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75201beb-1fa6-4e18-bc91-110abd07ddb8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../WEEMS/.idea/WEEMS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WEEMS/scripts/test.rmd" afterDir="false" />
+    <list default="true" id="91c6f1f3-a582-42a4-b39e-b15cfacd1d5b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../noscemus_ETF/scripts/_state-entities.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1621506/Pantheus1518_Ars_Transmutationis_Metallicae_BL_GB.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1621506/Pantheus1518_Ars_Transmutationis_Metallicae_BL_GB/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1624435/Bracesco1548_De_alchemia_dialogi_II_IA_Madrid.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1624435/Bracesco1548_De_alchemia_dialogi_II_IA_Madrid/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1625717/Bonus1546_Pretiosa_Margarita_Novella_ONB.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1625717/Bonus1546_Pretiosa_Margarita_Novella_ONB/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1625742/Pantheus1530_Voarchadumia_ONB.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1625742/Pantheus1530_Voarchadumia_ONB/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1638216/Ulstad1525_Coelum_philosophorum_IA_BIUSP_pdf.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1638216/Ulstad1525_Coelum_philosophorum_IA_BIUSP_pdf/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1638229/Pseudo-Lull1518_De_secretis_naturae_MDZ.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1638229/Pseudo-Lull1518_De_secretis_naturae_MDZ/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1638362/Savonarola1532_De_arte_conficiendi_aquam_vitae_ONB.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1638362/Savonarola1532_De_arte_conficiendi_aquam_vitae_ONB/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1652088/Vegius1518_Inter_inferiora_corpora_disputatio_ONB.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1652088/Vegius1518_Inter_inferiora_corpora_disputatio_ONB/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1654560/De_alchemia1541_MDZ_MBS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1654560/De_alchemia1541_MDZ_MBS/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1681622/Gessner1552_Thesaurus_Euonymi_Philiatri_ER_ZZ.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1681622/Gessner1552_Thesaurus_Euonymi_Philiatri_ER_ZZ/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1681867/Gessner1569_Thesaurus_Euonymi_Philiatri_Liber_Secundus_MDZ_MBS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1681867/Gessner1569_Thesaurus_Euonymi_Philiatri_Liber_Secundus_MDZ_MBS/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1698708/Toxites1567_Spongia_stibii_MDZ_MBS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1698708/Toxites1567_Spongia_stibii_MDZ_MBS/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1698709/Bodenstein1559_Isagoge_MDZ_MBS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1698709/Bodenstein1559_Isagoge_MDZ_MBS/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1698724/Ulstadt1526_De_epidemia_ONB.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1698724/Ulstadt1526_De_epidemia_ONB/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1698730/Dorn1569_Artificii_chymistici_MDZ_MBS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1698730/Dorn1569_Artificii_chymistici_MDZ_MBS/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1707526/Dorn1567_Clavis_totius_philosophiae_chymisticae_ONB_pdf.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1707526/Dorn1567_Clavis_totius_philosophiae_chymisticae_ONB_pdf/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1708682/Anon1550_De_alchemia_opuscula_MDZ_MBS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1708682/Anon1550_De_alchemia_opuscula_MDZ_MBS/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1731782/Paracelsus1553_Labyrinthus_medicorum_errantium_MDZ_MBS_pdf.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1731782/Paracelsus1553_Labyrinthus_medicorum_errantium_MDZ_MBS_pdf/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1731784/Fanianus1560_De_arte_metallicae_ONB_pdf.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1731784/Fanianus1560_De_arte_metallicae_ONB_pdf/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1731789/Dorn1570_Lapis_metaphysicus_MDZ_MBS_pdf.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1731789/Dorn1570_Lapis_metaphysicus_MDZ_MBS_pdf/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1731791/Pseudo-Lull1563_Codicillus_MDZ_MBS_pdf.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1731791/Pseudo-Lull1563_Codicillus_MDZ_MBS_pdf/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1746951/Garlandius1560_Compendium_Alchemiae_SLUB_pdf.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1746951/Garlandius1560_Compendium_Alchemiae_SLUB_pdf/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1762311/Pedemontanus1563_De_Secretis_MDZ_MBS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1762311/Pedemontanus1563_De_Secretis_MDZ_MBS/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1776984/Paracelsus1560_Libri_quatuor_de_vita_longa_MDZ_MBS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1776984/Paracelsus1560_Libri_quatuor_de_vita_longa_MDZ_MBS/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1779929/Penotus1594_Tractatus_varii_MDZ_MBS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1779929/Penotus1594_Tractatus_varii_MDZ_MBS/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1791205/Rupescissa1561_De_Consideratione_Quintae_essentie_rerum_GB.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1791205/Rupescissa1561_De_Consideratione_Quintae_essentie_rerum_GB/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1795813/Ventura1571_De_ratione_conficiendi_lapis_MBZ_MBS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1795813/Ventura1571_De_ratione_conficiendi_lapis_MBZ_MBS/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1837264/DuChesne1575_Ad_Iacobi_Auberti_MDZ_Augsburg.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1837264/DuChesne1575_Ad_Iacobi_Auberti_MDZ_Augsburg/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1837267/Vadis1595_Dialogus_IA_Wellcome.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1837267/Vadis1595_Dialogus_IA_Wellcome/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1837292/Paracelsus1582_Centum_quindecim_curationes_MDZ_MBS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1837292/Paracelsus1582_Centum_quindecim_curationes_MDZ_MBS/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1837293/Phaedro1562_Aquila_coelestis_MBZ_MBS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1837293/Phaedro1562_Aquila_coelestis_MBZ_MBS/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1868607/Pseudo-Paracelsus1568_Pyrophilia_vexationumque_ONB.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1868607/Pseudo-Paracelsus1568_Pyrophilia_vexationumque_ONB/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1878020/Ruland1564_Medicina_practica_recens_MDZ_MDS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1878020/Ruland1564_Medicina_practica_recens_MDZ_MDS/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1901148/Pseudo-Paracelsus1568_De_summis_naturae_mysteriis_MDZ_MBS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1901148/Pseudo-Paracelsus1568_De_summis_naturae_mysteriis_MDZ_MBS/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1901151/DuChesne1575_Sclopetarius_MDZ_Augsburg.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1901151/DuChesne1575_Sclopetarius_MDZ_Augsburg/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1976477/Pseudo-Lull1567_Mercuriorum_liber_MDZ_MBS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1976477/Pseudo-Lull1567_Mercuriorum_liber_MDZ_MBS/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1976483/Anon1550_Rosarium_philosophorum_Erara.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1976483/Anon1550_Rosarium_philosophorum_Erara/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1976502/Dorn1583_De_Naturae_luce_physica_MDZ_MBS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/1976502/Dorn1583_De_Naturae_luce_physica_MDZ_MBS/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/2257899/Pseudo-Democritus1572_Ars_magna.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/2257899/Pseudo-Democritus1572_Ars_magna/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/2257900/Pseudo-Aquinas1579_Secreta_alchemiae_magnalia_ONB.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/2257900/Pseudo-Aquinas1579_Secreta_alchemiae_magnalia_ONB/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/2329141/Barnaud1599_Quadriga_aurifera_IA_Madrid.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/2329141/Barnaud1599_Quadriga_aurifera_IA_Madrid/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/2599704/Dorn1578_Theophrasti_Germani_Principis_MDZ_MBS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/2599704/Dorn1578_Theophrasti_Germani_Principis_MDZ_MBS/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/2600663/Khunrath1599_Confessio_de_chao_chymicorum_MDZ_MBS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/2600663/Khunrath1599_Confessio_de_chao_chymicorum_MDZ_MBS/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/2683303/Hagecius1596_Actio_medica_ER_UBB.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/2683303/Hagecius1596_Actio_medica_ER_UBB/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/2934583/Portaleone1584_De_auro_dialogi_tres_ONB.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/2934583/Portaleone1584_De_auro_dialogi_tres_ONB/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/2934943/Auriferae_artisI1572_MBZ_Augsburg.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/2934943/Auriferae_artisI1572_MBZ_Augsburg/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/3032423/Claveus1598_Apologia_crysopoeiae_MDZ_MBS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/3032423/Claveus1598_Apologia_crysopoeiae_MDZ_MBS/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/3054123/Mirandola1586_De_auro_libri_tres_MDZ_MBS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/3054123/Mirandola1586_De_auro_libri_tres_MDZ_MBS/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/3054344/Moffett_De_iure_et_praestantia_MDZ_MBS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/3054344/Moffett_De_iure_et_praestantia_MDZ_MBS/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/3197805/Senior1560_De_chemia_senioris_MDZ_MBS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/3197805/Senior1560_De_chemia_senioris_MDZ_MBS/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/3228083/Hagecius1585_De_cervisia_ejusque_conficiendi_ratione.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/3228083/Hagecius1585_De_cervisia_ejusque_conficiendi_ratione/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/3245345/Erastus1578_Disputatio_de_auro_potabili_MDZ_MBS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/3245345/Erastus1578_Disputatio_de_auro_potabili_MDZ_MBS/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/3516935/Rossi1585_De_destillatione_MDZ_MBS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/3516935/Rossi1585_De_destillatione_MDZ_MBS/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/3830361/Suavius1567_Theophrasti_Paracelsi_Philosophiae_ONB.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/3830361/Suavius1567_Theophrasti_Paracelsi_Philosophiae_ONB/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/3830879/Witestein1583_Disceptatio_philosophica_MDZ_MBS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/3830879/Witestein1583_Disceptatio_philosophica_MDZ_MBS/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/3928465/Fanianus1576_De_arte_metallicae_MDZ_MBS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/3928465/Fanianus1576_De_arte_metallicae_MDZ_MBS/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/4630927/Wecker1582_De_secretis_ONB.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/4630927/Wecker1582_De_secretis_ONB/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/4956095/Severinus1572_Epistola_MBZ_MBS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/4956095/Severinus1572_Epistola_MBZ_MBS/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/4964476/Pantheus1519_Commentarium_Transmutationis_Metallicae_MDZ.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/4964476/Pantheus1519_Commentarium_Transmutationis_Metallicae_MDZ/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/emlap_raw_2025-03-10/log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1698730/Dorn1569_Artificii_chymistici_MDZ_MBS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1698730/Dorn1569_Artificii_chymistici_MDZ_MBS/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/mets.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/page/0001_Agnello1566_Espositione_EEBO_BL-0001.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/page/0002_Agnello1566_Espositione_EEBO_BL-0002.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/page/0003_Agnello1566_Espositione_EEBO_BL-0003.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/page/0004_Agnello1566_Espositione_EEBO_BL-0004.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/page/0005_Agnello1566_Espositione_EEBO_BL-0005.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/page/0006_Agnello1566_Espositione_EEBO_BL-0006.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/page/0007_Agnello1566_Espositione_EEBO_BL-0007.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/page/0008_Agnello1566_Espositione_EEBO_BL-0008.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/page/0009_Agnello1566_Espositione_EEBO_BL-0009.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/page/0010_Agnello1566_Espositione_EEBO_BL-0010.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/page/0011_Agnello1566_Espositione_EEBO_BL-0011.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/page/0012_Agnello1566_Espositione_EEBO_BL-0012.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/page/0013_Agnello1566_Espositione_EEBO_BL-0013.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/page/0014_Agnello1566_Espositione_EEBO_BL-0014.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/page/0015_Agnello1566_Espositione_EEBO_BL-0015.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/page/0016_Agnello1566_Espositione_EEBO_BL-0016.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/page/0017_Agnello1566_Espositione_EEBO_BL-0017.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/page/0018_Agnello1566_Espositione_EEBO_BL-0018.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/page/0019_Agnello1566_Espositione_EEBO_BL-0019.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/page/0020_Agnello1566_Espositione_EEBO_BL-0020.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/page/0021_Agnello1566_Espositione_EEBO_BL-0021.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/page/0022_Agnello1566_Espositione_EEBO_BL-0022.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/page/0023_Agnello1566_Espositione_EEBO_BL-0023.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/page/0024_Agnello1566_Espositione_EEBO_BL-0024.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/page/0025_Agnello1566_Espositione_EEBO_BL-0025.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/page/0026_Agnello1566_Espositione_EEBO_BL-0026.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/1708686/Agnello1566_Espositione_EEBO_BL/page/0027_Agnello1566_Espositione_EEBO_BL-0027.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/Trevisanus1567_De_alchemia_MDZ_MBS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/export_job_15222327.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/export_job_15222368.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EMLAP_ETL__backup/data/large_files/test_pdf+xml/log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WEEMS/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WEEMS/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WEEMS/.idea/noscemus_ETF.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WEEMS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WEEMS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEEMS/data/filtered_vocab_df.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WEEMS/data/filtered_vocab_df.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEEMS/scripts/1_vocabs&amp;lila-embeddings.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../WEEMS/scripts/1_vocabs&amp;lila-embeddings.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEEMS/scripts/2_noscemus-fasttext-training.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../WEEMS/scripts/2_noscemus-fasttext-training.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iweems_huggingface/.idea/iweems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../iweems_huggingface/.idea/iweems.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noscemus_ETF/.idea/noscemus_ETF.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../noscemus_ETF/.idea/noscemus_ETF.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../noscemus_ETF/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../noscemus_ETF/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../noscemus_ETF/scripts/.ipynb_checkpoints/1_reorganize-noscemus-directories-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../noscemus_ETF/scripts/.ipynb_checkpoints/1_reorganize-noscemus-directories-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../noscemus_ETF/scripts/.ipynb_checkpoints/4_metadata-aggregation&amp;cleaning-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../noscemus_ETF/scripts/.ipynb_checkpoints/4_metadata-aggregation&amp;cleaning-checkpoint.ipynb" afterDir="false" />
@@ -176,12 +22,8 @@
       <change beforePath="$PROJECT_DIR$/../noscemus_ETF/scripts/4_metadata-aggregation&amp;cleaning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../noscemus_ETF/scripts/4_metadata-aggregation&amp;cleaning.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../noscemus_ETF/scripts/archive/.ipynb_checkpoints/_lemmata-extraction-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../noscemus_ETF/scripts/archive/.ipynb_checkpoints/_lemmata-extraction-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../noscemus_ETF/scripts/archive/_lemmata-extraction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../noscemus_ETF/scripts/archive/_lemmata-extraction.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tomeviz/.idea/tomeviz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../tomeviz/.idea/tomeviz.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tomeviz/.ipynb_checkpoints/testing-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../tomeviz/.ipynb_checkpoints/testing-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tomeviz/.ipynb_checkpoints/tomeviz-checkpoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tomeviz/.ipynb_checkpoints/tomeviz-checkpoint.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tomeviz/nohup.out" beforeDir="false" afterPath="$PROJECT_DIR$/../tomeviz/nohup.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tomeviz/testing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../tomeviz/testing.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tomeviz/tomeviz.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tomeviz/tomeviz.py" afterDir="false" />
+      <change beforePath="/srv/webserver/apps/iweems_app/.idea/iweems_app.iml" beforeDir="false" afterPath="/srv/webserver/apps/iweems_app/.idea/iweems_app.iml" afterDir="false" />
+      <change beforePath="/srv/webserver/apps/iweems_app/CITATION.cff" beforeDir="false" afterPath="/srv/webserver/apps/iweems_app/CITATION.cff" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,8 +33,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -208,40 +50,30 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../dictionary-emlap" />
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file:///srv/webserver/apps/tomeviz/tomeviz-streamlit.py" root0="FORCE_HIGHLIGHTING" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../WEEMS" />
   </component>
   <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
 }</component>
-  <component name="ProjectId" id="2tamnsT4yb1yxmnxU4xgnv2lCh0" />
+  <component name="ProjectId" id="2zaBxV3Ho4CtIa2nAj07mNM42E6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/home/jupyter-vojta/notebooks/dictionary-emlap/scripts",
+    "last_opened_file_path": "/home/jupyter-vojta/notebooks/iweems_huggingface",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "com.intellij.jupyter.core.jupyter.connections.configuration.JupyterServerConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -249,102 +81,66 @@
     <layout>
       <window_info id="Bookmarks" side_tool="true" />
       <window_info id="Merge Requests" />
+      <window_info id="AI Playground" side_tool="true" />
       <window_info id="Backup and Sync History" />
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info id="R_Remote_Host" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.178125" />
-      <window_info id="Commit" order="1" weight="0.178125" />
-      <window_info id="Activity" order="2" weight="0.17951389" />
-      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NextEditPredictionSettingsToolwindow" />
-      <window_info anchor="bottom" id="R_Jobs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21423611" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
-      <window_info anchor="bottom" id="R_Console" />
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
       <window_info anchor="bottom" id="HfCacheToolWindow" />
+      <window_info anchor="bottom" id="Find" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
-      <window_info anchor="bottom" id="Problems View" order="2" weight="0.33055556" />
-      <window_info active="true" anchor="bottom" x="-1208" y="-573" width="3420" height="1415" id="Terminal" order="3" visible="true" weight="0.51166666" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.18611112" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
-      <window_info anchor="bottom" id="mopdf" order="6" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.100555554" />
-      <window_info anchor="bottom" id="Duplicates" order="8" weight="0.33041668" />
-      <window_info anchor="bottom" id="Find" order="9" weight="0.315" />
-      <window_info anchor="bottom" id="Jupyter" order="10" weight="0.33090279" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
+      <window_info anchor="bottom" id="Jupyter" order="7" weight="0.33055556" />
       <window_info anchor="right" id="PR AI Assistant" />
+      <window_info anchor="right" id="Endpoints" />
       <window_info anchor="right" id="cn.xcc.lock.gson.toolwindow.JsonAssistantToolWindowFactory" side_tool="true" />
-      <window_info anchor="right" id="R_Tools" />
-      <window_info anchor="right" id="documentation.v2" side_tool="true" />
       <window_info anchor="right" id="Coverage" side_tool="true" />
-      <window_info anchor="right" id="ElectroJunToolWindow" />
       <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Notifications" order="0" weight="0.2545139" />
-      <window_info active="true" anchor="right" id="AIAssistant" order="1" sideWeight="0.50102043" visible="true" weight="0.321875" />
+      <window_info anchor="right" id="Jupyter Variables" side_tool="true" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.11177325" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.3142361" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
       <window_info anchor="right" id="Plots" order="5" weight="0.1" />
-      <window_info anchor="right" id="Endpoints" order="6" weight="0.22881944" />
-      <window_info anchor="right" id="Jupyter Variables" order="7" sideWeight="0.4989796" side_tool="true" weight="0.23607144" />
     </layout>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../dictionary-emlap/data/large_files" />
-      <recent name="$PROJECT_DIR$/../dictionary-emlap/scripts" />
-      <recent name="$PROJECT_DIR$/scripts" />
-      <recent name="$PROJECT_DIR$/../latin-contextual-embeddings" />
-      <recent name="$PROJECT_DIR$/../EuPaC_shared/scripts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/data/archive" />
-      <recent name="$PROJECT_DIR$/../EuPaC_shared" />
-      <recent name="$PROJECT_DIR$/scripts" />
-      <recent name="$PROJECT_DIR$/data/large_files" />
+      <recent name="$PROJECT_DIR$/../WEEMS/data/large_files" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.122" />
-        <option value="bundled-python-sdk-880ecab49056-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.122" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.194" />
+        <option value="bundled-python-sdk-1d02c8f8a5de-29f63f91a358-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.194" />
       </set>
     </attachedChunks>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="75201beb-1fa6-4e18-bc91-110abd07ddb8" name="Changes" comment="" />
-      <created>1740598729694</created>
+      <changelist id="91c6f1f3-a582-42a4-b39e-b15cfacd1d5b" name="Changes" comment="" />
+      <created>1751959550059</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1740598729694</updated>
-      <workItem from="1740598730756" duration="10006000" />
-      <workItem from="1741162842680" duration="2364000" />
-      <workItem from="1741205025956" duration="24576000" />
-      <workItem from="1741559458667" duration="809000" />
-      <workItem from="1741560551970" duration="1258000" />
-      <workItem from="1741561846254" duration="2519000" />
-      <workItem from="1742062240826" duration="63000" />
-      <workItem from="1742719070116" duration="1497000" />
-      <workItem from="1743414171428" duration="26449000" />
-      <workItem from="1743665926670" duration="11917000" />
-      <workItem from="1743704354338" duration="70554000" />
-      <workItem from="1744220551047" duration="5638000" />
-      <workItem from="1744267832630" duration="20545000" />
-      <workItem from="1744808621140" duration="4252000" />
-      <workItem from="1745403533379" duration="9756000" />
-      <workItem from="1745916989730" duration="7281000" />
-      <workItem from="1746086324899" duration="1107000" />
-      <workItem from="1746092587825" duration="10655000" />
-      <workItem from="1746428787631" duration="2107000" />
-      <workItem from="1746773568799" duration="5697000" />
+      <updated>1751959550059</updated>
+      <workItem from="1751959551141" duration="84000" />
+      <workItem from="1751959648174" duration="14006000" />
+      <workItem from="1752179846162" duration="18131000" />
+      <workItem from="1753777879962" duration="27658000" />
     </task>
     <servers />
   </component>
