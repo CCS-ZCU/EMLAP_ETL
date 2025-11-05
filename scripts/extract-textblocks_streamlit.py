@@ -1,4 +1,9 @@
 #%%
+
+# run this app by:
+
+# streamlit run  extract-textblocks_streamlit.py --server.address localhost --server.port 8060 --browser.gatherUsageStats False
+
 import fitz
 import json
 import matplotlib.pyplot as plt
@@ -50,16 +55,17 @@ def check_footer(textblock, avg_width, avg_left_x, avg_right_x, footer_width_pro
         return True
     else:
         return False
-def check_title(textblock, avg_charn_density, textblock_char_density_ratio_max=0.75):
-    textblock_char_density = len(textblock[4]) / (textblock[2] - textblock[0])
+def check_title(textblock, avg_charn_density, textblock_char_density_ratio_max=0.65):
+    width = (textblock[2] - textblock[0])
+    if width <= 0:
+        return False  # or treat as non-title; avoids div-by-zero / infinities
+    textblock_char_density = len(textblock[4]) / width
+
     if avg_charn_density != 0:
         textblock_char_density_ratio = textblock_char_density / avg_charn_density
     else:
         textblock_char_density_ratio = 0
-    if textblock_char_density_ratio < textblock_char_density_ratio_max:
-        return True
-    else:
-        return False
+    return textblock_char_density_ratio < textblock_char_density_ratio_max
 #%%
 patch_color_dict = {"title" : "green",
                     "header" : "red",
@@ -114,8 +120,10 @@ def get_page_annots(textblocks, ax,
         avg_left_x = np.mean([rect[0] for rect in central_textblocks])
         avg_right_x = np.mean([rect[2] for rect in central_textblocks])
         try:
-            avg_charn = sum([len(textblock[4]) for textblock in central_textblocks]) / len(central_textblocks)
-            avg_charn_density = avg_charn / avg_width
+            valid = [tb for tb in central_textblocks if (tb[2] - tb[0]) > 0]
+            total_chars = sum(len(tb[4]) for tb in valid)
+            total_width = sum((tb[2] - tb[0]) for tb in valid)
+            avg_charn_density = (total_chars / total_width) if total_width > 0 else 0.0
         except:
             avg_charn_density = 0
         textblocks_annotated = []
@@ -206,17 +214,11 @@ params = {"header_width_proportion_max" : 0.8,
           "textblock_char_density_ratio_max" : 0.75}
 
 #%%
-source_dir = "/srv/data/tome/tome-corpus/emlap_raw_2025-04-08/"
+source_dir = "/srv/data/tome/tome-corpus/EMLAP_2025-10-31/pdfs_only/"
 
-#dest_dir = "/srv/data/tome/tome-corpus/emlap_annotated_textblocks/"
-dest_dir = "/srv/data/tome/tome-corpus/emlap_annotated_tests/"
-
-
-try:
-    os.mkdir(dest_dir)
-except:
-    pass
-
+dest_dir = "/srv/data/tome/tome-corpus/EMLAP_2025-10-31/annotated_textblocks/"
+#dest_dir = "/srv/data/tome/tome-corpus/emlap_annotated_tests/"
+os.makedirs(dest_dir, exist_ok=True)
 
 # Initialize session state if needed
 
@@ -236,17 +238,19 @@ if 'current_seed' not in st.session_state:
 if 'skipped_files' not in st.session_state:
     st.session_state.skipped_files = []
 
-# Get list of directories once
-dirs = list(os.listdir(source_dir))
+# Get list of PDF files once (stable + deterministic)
+if 'filenames' not in st.session_state:
+    st.session_state.filenames = sorted(
+        f for f in os.listdir(source_dir) if f.lower().endswith(".pdf")
+    )
+filenames = st.session_state.filenames
 
-if st.session_state.current_file_index < len(dirs):
+if st.session_state.current_file_index < len(filenames):
     main_container = st.container()
-
     with main_container:
-        dir = dirs[st.session_state.current_file_index]
-        if "." not in dir:
-            filename = [f for f in os.listdir(os.path.join(source_dir, dir)) if ".pdf" in f][0]
-            filepath = os.path.join(source_dir, dir, filename)
+        filename = filenames[st.session_state.current_file_index]
+        if ".pdf" in filename:
+            filepath = os.path.join(source_dir, filename)
             # Before processing anything
             # Check if already processed
             if os.path.exists(os.path.join(dest_dir, filename.replace('.pdf', '.json'))):
@@ -366,7 +370,7 @@ if st.session_state.current_file_index < len(dirs):
                         st.session_state.show_params_editor = False
                         st.rerun()
             # At the end, display skipped files
-            if st.session_state.current_file_index >= len(dirs):
+            if st.session_state.current_file_index >= len(filenames):
                 st.header("Skipped Files:")
                 for idx, skipped_file in enumerate(st.session_state.skipped_files, 1):
                     st.write(f"{idx}. {skipped_file}")

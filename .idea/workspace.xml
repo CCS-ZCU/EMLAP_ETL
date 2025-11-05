@@ -30,6 +30,10 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="486033" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -50,7 +54,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../iweems_huggingface" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../noscemus_ETF" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -61,22 +65,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "last_opened_file_path": "/home/jupyter-vojta/notebooks/WEEMS/figures/johd_submission-figures",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/jupyter-vojta/notebooks/dictionary-emlap&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;database.data.views.appearance&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
     <layout>
       <window_info id="Bookmarks" side_tool="true" />
@@ -85,53 +91,62 @@
       <window_info id="Backup and Sync History" />
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
-      <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info id="R_Remote_Host" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11293605" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="R_Jobs" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="R_Console" />
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
-      <window_info anchor="bottom" id="HfCacheToolWindow" />
-      <window_info anchor="bottom" id="Find" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Problems" order="1" />
-      <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.6124454" side_tool="true" visible="true" weight="0.24611111" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
-      <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" sideWeight="0.3875546" weight="0.17166667" />
       <window_info anchor="bottom" id="Jupyter" order="7" weight="0.33055556" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.33055556" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.33020833" />
+      <window_info anchor="bottom" id="HfCacheToolWindow" order="10" weight="0.33722222" />
       <window_info anchor="right" id="PR AI Assistant" />
       <window_info anchor="right" id="Endpoints" />
       <window_info anchor="right" id="cn.xcc.lock.gson.toolwindow.JsonAssistantToolWindowFactory" side_tool="true" />
+      <window_info anchor="right" id="R_Tools" />
       <window_info anchor="right" id="Coverage" side_tool="true" />
       <window_info anchor="right" id="SciView" />
       <window_info anchor="right" id="Jupyter Variables" side_tool="true" />
-      <window_info anchor="right" id="Notifications" order="0" weight="0.11177325" />
-      <window_info active="true" anchor="right" id="AIAssistant" order="1" visible="true" weight="0.20173612" />
-      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.33020833" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.33020833" />
+      <window_info anchor="right" id="Database" order="2" weight="0.15363371" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
       <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <window_info anchor="right" id="ElectroJunToolWindow" order="6" />
+      <window_info anchor="right" id="Tabnine Chat" order="7" weight="0.27534723" />
     </layout>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="/srv/webserver/apps/iweems_app" />
       <recent name="$PROJECT_DIR$/../WEEMS/figures/johd_submission-figures" />
       <recent name="$PROJECT_DIR$/../iweems_huggingface" />
       <recent name="$PROJECT_DIR$/scripts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../WEEMS/scripts/archive" />
       <recent name="$PROJECT_DIR$/../WEEMS/data/large_files" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.35" />
-        <option value="bundled-python-sdk-cfca122e0627-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.35" />
+        <option value="bundled-js-predefined-d6986cc7102b-75c7c973e13d-JavaScript-PY-253.27864.50" />
+        <option value="bundled-python-sdk-a9a34e35382e-30684d0e00d4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.27864.50" />
       </set>
     </attachedChunks>
   </component>
@@ -147,6 +162,15 @@
       <workItem from="1752179846162" duration="18131000" />
       <workItem from="1753777879962" duration="27658000" />
       <workItem from="1755617435833" duration="12493000" />
+      <workItem from="1758055489931" duration="18260000" />
+      <workItem from="1758544275481" duration="7826000" />
+      <workItem from="1758630900194" duration="13494000" />
+      <workItem from="1760086282474" duration="13537000" />
+      <workItem from="1760604292323" duration="34000" />
+      <workItem from="1761556479086" duration="1870000" />
+      <workItem from="1761919175473" duration="452000" />
+      <workItem from="1761919748928" duration="14101000" />
+      <workItem from="1762250503850" duration="3348000" />
     </task>
     <servers />
   </component>
