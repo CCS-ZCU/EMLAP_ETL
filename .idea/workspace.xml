@@ -54,7 +54,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../noscemus_ETF" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -93,7 +93,7 @@
       <window_info id="Pull Requests" />
       <window_info id="Learn" show_stripe_button="false" />
       <window_info id="R_Remote_Host" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11293605" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26979166" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="R_Jobs" />
@@ -102,6 +102,7 @@
       <window_info anchor="bottom" id="R_Console" />
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="PythonProcessOutput" />
       <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.6124454" side_tool="true" visible="true" weight="0.24611111" />
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Problems" order="2" />
@@ -138,6 +139,7 @@
       <recent name="$PROJECT_DIR$/scripts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scripts" />
       <recent name="$PROJECT_DIR$/../WEEMS/scripts/archive" />
       <recent name="$PROJECT_DIR$/../WEEMS/data/large_files" />
     </key>
@@ -145,8 +147,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-75c7c973e13d-JavaScript-PY-253.27864.50" />
-        <option value="bundled-python-sdk-a9a34e35382e-30684d0e00d4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.27864.50" />
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-PY-253.28086.55" />
+        <option value="bundled-python-sdk-43f194345aec-a8a68a0a8659-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.28086.55" />
       </set>
     </attachedChunks>
   </component>
@@ -171,6 +173,8 @@
       <workItem from="1761919175473" duration="452000" />
       <workItem from="1761919748928" duration="14101000" />
       <workItem from="1762250503850" duration="3348000" />
+      <workItem from="1762335932700" duration="1528000" />
+      <workItem from="1762413741554" duration="7579000" />
     </task>
     <servers />
   </component>
