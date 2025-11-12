@@ -1,9 +1,9 @@
-iohannes aurelius augurellius p. ariminensis chrysopoeia liber iius
- liber primus
-aurifer paruus animus uis artes quaero
+iohannes aurelius augurellius publius ariminensis chrysopoeia liber
+geronticon liber primus
+aurifer paruus animus uis ars quaero
 longus tempus pario
-res inuolucrum tantus euoluio moles possum
-clarus perhibeo carmen eusimus
+res inuolucrum euoluo moles possum
+clarus perhibeo carmen 
 musa commendo almus numerus facio prior
 opus autor
 nomen tutus pergo
@@ -12,13 +12,13 @@ res praeses dignus magnus
 uarius mens teneo
 
 ingratus dico
-tute aether altus missus adsum mundus fessus succurror res
+tute aether altum mitto assum mundus fessus succurro res
 bellum scelus fax
 incendium extinguo
 placidus pius spero quies do populus
 solidus aureus saeculum pax
 
-paruus compono magnus
+paruus licet compono magnus
 sanctus pes ars aureus tendo
 fides sacer coetus honor prosequor
 ueneror
@@ -29,47 +29,47 @@ permitto
 precor
 prodo
 
-detraho uelut uelamen uirgo nobilis uultus perfundo rubor
-incipio ostento decor
+detraho uelamen uirgo nobilis ingenuus uultus perfundo rubor
+occultum incipio ostento decor
 primus frons legens ostendo
 recludo detego arcanus
 mirus gratissimus pars legens nomen diuus offendo
 uanus colo uetustas dico
 renuo
-sacer bonus exerceo
+sacrum bonus exerceo
 uerus fides
 cultus tueor priscus consuetus uoco uates
 imitor
-adeo materies soleo conquiro supplex
-par cura uoueo uoco
+adeo materies soleo conquiro solus supplex
+par cura uotum uoco
 luna auxilium
 uulcania uolo arma uideo
 imploro fauor fas
-lico
+licet
 concessum
 uenia dignus pecco fateor
-quaesitum carmen numen
-prex uoco forte adsum
+quaero carmen numen
+prex uoco adsum
 praesens gratia caelum
 magnus carmen moses
-flagrans uectus aether currus mirascor uideo pater
-oculus sequuo aerum purus
-caelum discindier ora
+flagrans ueho aether currus miratus uideo pater
+oculus sequuo aera purus
+caelum discindo ora
 astrum globus aspicio mico
-uox porrcio indices prodeo uenisse auxilium mortalis agnus cano
+uox porrego index prodeo ueneo auxilium mortalis agnus cano
 uates mater aluus exultans
-puer desero fero pes
-pus lordanus unda dignao caput contingo lympha
+puer desero fero antrum pes
+pus lordanus unda dignatus caput contingo lympha
 proprius antiquus sanguis labo abluo
-scelus macula absterseo
-nomen mos auco desum fauor
+scelus macula abstersero
+nomen mos augeo desum fauor
 caelestis gratia
 meritum conscendo culmen possum
 iustus mundus rego habena
 magnanimus aequo proprius uirtus leo
 pontifex decus egregius reperio
 italia iniquus tempus
-christicolae discrimen desum
+christicolus discrimen desum
 dico facio potestas
 do loquor
 iubeo sanctus pater
@@ -86,10 +86,10 @@ nexus
 ordo consto
 acies
 soleo discerno
-mentis inspectus
-paruus dedignabo munus
+mens inspectus
+paruus dedignor munus
 paruus offero ars laboro
-humanus experio natura aemulus uirtus aurum facio
+humanus experior natura aemulus uirtus aurum facio
 fido ars
 modus
 animus quaero dico
@@ -100,20 +100,20 @@ homo experientia cura
 primus
 aurum tellus spargo
 uastus uena corpus condo sydereus succus plenus melior metallum
-phoebus adsum accelero passus aequus soror
+phoebus assum accelero passus aequus almus soror
 grauis argentum fatisco orbis
-summus ostento brachium terra candor gratus aethereus fuco color
-coipio cyllenus audax desum
+superus ostento brachium terra candor gratus aethereus fuco color
+coeptum cyllenus audax desum
 purus fons perennis riuulus argentum
-uulgo uiuo dico
+uiuo dico
 sufficio
 praesto primordium res
 pater ignipotens
 feruidus flamma antrum iuuo
-tens expresdo follis aura
-fornax incus liquefacio caminus massa aer duco aurum electrum recoco inuictus exerceo
-praesum artifex uates facio cano
-nihil solers ars incoho
+to exprimo follis aura
+fornax incus liquefacio caminus massa aer duco aurum electrum recoctum inuictus exerceo
+praesum artifex uates factum cano
+solers ars incoho
 eia ago sanctus coniunx pergo descendo numen efficio
 genero plenus potestas
 cursus natura auerto
@@ -122,12 +122,12 @@ ostendo consto
 principium
 ineo semita
 modus
-certus capio umor calor temperies
-perfundo uigor
+certus capio humor calor temperies
+suauis perfundo uigor
 foetus saeclum propago
 mollis gremium surgo uxor amatus ars par genitalis imitor ignis
 sublimis pendeo uas metallum
-tritum species puluis imus fundus haereo
+tritis species puluis inferus fundus haereo
 calefacio liquesco
 
 lentus pater almus calor intendo
@@ -136,16 +136,16 @@ remitto
 princeps opus
 carmen principium
 ferueo dulcis spiritus os exto
-eo uir os
-faueo aequissimus uotae priscus perpetuus saeclum decus heroinus
+eo uir uulcanus os
+faueo aequissimus uotes prisci perpetuus saeclum decus heroinus
 exulto laudo flumen nympha mincias
 phoebus chorus comitor iens
-foueo andinus recubo gramen mantus laeto nodo neptem soror
+foueo andinus recubo gramen mantus laeto nodus neptis complexo soror
 gradus cresco incipio secundus res series
 copia desum
 scribendus accedo gratia res
-primus caelum orbis simplex fero corpus
-corpus consto
+immensus primum caelum orbis simplex fero corpus
+corpus consto multiplex
 tendo sobolis profero
 
 possum
@@ -166,44 +166,44 @@ compositus consto
 fero uiuo
 proprius semen stirpes aedo
 foecundus ceres
-germen fertilis bacchium
+germen fertilis bacchus
 consimilis nascor animo gigno
 bellator equus
 bos iunctus aratrum
 homo proles mirus caelestis origo
 uario
 primordium res exto
-fruor uitalis forte nego
-medium fedo tellus metallum
+fruor uitalis nego
+medius fedo tellus metallum
 lateo mirus gratus fulgor lapillus
-genus sobolemue augeo puto semen
+genus  augeo puto semen
 aeuum torpeo annus
-uerus uiuo sentio
+uiuo sentio
 uita diuinus munus fungor
 orior contemplor
 augeo
 incresco cerno
-uarius patefacio nosco liceo
+uarius patefacio nosco licet
 sobolis educo
-uerto semet
+uerto
 causa
-spiritus materia abstrundo
-uita porrigo omnemus explico uis
-uiuidus promo homo uirtus denso mol lateo
+spiritus materia abstrudo
+uita porrigo  explico uis
+uiuidus promo homo uirtus denso moles lateo
 diffundo caelum aer terra latus marmor aequor ago refero anima
 uiuo mundus puto
 mundus duco uita
 anima corpus expers
 mundus
 mundus pars corpus consto
-spiritus medius fio
+spiritus medius facio
 corpus
 anima dico
 
 participo extremus reduco
 mare
 terra
-aer
+aes
 ignis uiuo
 augeo
 refero aueo
@@ -211,67 +211,67 @@ stirpes
 animo gigno
 perpetuus sequor saeculum proles
 fuluus detineo autus manus cupio artifex
-uincula soluo
+uinculum soluo
 proprius reddo uirtus possum
-propero ars uis
+propero ars uis explico
 tepidus incoquo ignis
 aspicio
-uisus mirabilis
-uita aurum impertio longus semen usus
+uideo mirabilis
+uita aurus impertio longus semen usus
 desum
 aurum procreo aurum
-
-credo dico inteno artifex
+consto
+duro credo dico intentus artifex
 res spero secundus
 pateo
 mons aurum natura efficio
-prodeo ars modo facio possum
+prodeo ars modus facio possum
 doceo
 
 quaero obsto
 adhibeo fides necesse
 soleo dico
-
+soluo
 ualidus gratus experientia signum impeto
 grauis sententia priscus uir deleo refero uideo parens oculus
 manus tango beatus
 incipio ordo pandus
-nil mirandus
-longus perago annus series genitalis semen coepio
+miror
+longus perago annus series genitalis semen coepo
 audeo momentum hora ars facio
 proprius natura uinco cursus
 uiscus
-summus seruo uestigium imus teneo spatium grandis terra ses
+superus seruo uestigium imus ou teneo spatium grandis terra sedeo
 anfractus
 caecus antrum
-necminus mirus primordium possum sceo
+necminus mirus primordium possum scio
 consto purigenus metallum
 compono
 aurum conficio ars mensura exaequo
 pondus libro
 meto natura
-pondero unus
+pondero
 locus
-possum fornax calor aequare
-exiguus circunduho caminus locus terra perfero
+possum fornax calor aequor
+exiguus circundugor caminus locus terra perfero
 peto alo tellus
 refero
 insero distendo tempus
-potis omniparentus apiscor munus natura
-uis mortalis
+potis omniparens apiscor munus natura
+uolo mortalis
 
-numen caelum deiico terra conor uello imus possum mons radix alo
-audeo sacer penetralis terra tendo
+numen caelum deiicero terra conor uellus imus possum mons radix alo
+inuita audeo sacrum penetralis terra tendo
 scrutor pius secerno parens
 addo
 uarius muto corpus forma natura patior
-uelox equibus  species piger
+uelox equibus indeo species piger
 parnasia laurus chaonia possum conuerto quercus
-aes purus  aurum
+aes purus commuto aurum
 queo creo
-caelum mitto ars conor indicium tenuare pusillus
-scio opus nosco pulchrus  gigno ultimus res principium
-lanx recipio  pondus
+caelum mitto ars conor indicium tenuo pusillus
+scio opus nosco pulcher  gigno ultimus res principium
+lanx recipio innumer pondus
 farreus tracto semen
 constituo far primordium quaero
 conuenio mensura pondus far
@@ -283,8 +283,8 @@ uis promo aurum
 principium primus conficio aurum
 nobilior
 praesto aurum
-contendo proprius molimen summus perficio artifex
-nomen elixir expers facio arabs
+contendo proprius molimen superus perficio artifex
+nomen elixir expers facio arabis
 uerus dedo indicium
 melior metallum duco
 infectus mirus depuro ars
@@ -294,20 +294,20 @@ caleo includo semen genitalis metallum
 fero specus tellus alo
 duco trames gressus natura secessus ars
 meta prospectus duco
-species uertus ars puto
-aere
+species uerto ars puto
+aer
 argentum duco uideo aurum
-priuus priuo facio aer argo aurum credo
-far ager infelix lolium sterilis nascor auenus
-bos uideo uiscus strido apes uterus rumpo efferuo costa
-sinus mollis ouum puella ro foueo
-tener pectus  palpito
+priuus priuo fio aes argeo aurum credo
+far ager infelix lolium sterilis nascor auena
+bos uideo uiscus strido apis uterus rumpo efferuo costa
+sinus mollis ouum puella rite foueo
+tener pectus bombix palpito
 lego nutrio frons uireo morior
 tenuis texo uellus orbis implico
-pes munitus alis papilio uermis pes uolito recedo
+pes munio ala papilio uermis pes uolito recedo
 subdo forma
-species perhibeo differo metallum
- impure
+species uulgus perhibeo differo metallum
+exto impure
 sordes infectus terrestris
 exuo ars lux
 purus nitesco aurum
@@ -317,8 +317,8 @@ causa
 sors metallum
 distinctus ortus
 arcanus terra descendo hiatus
-refero pes possum locus remetior
-queo for uideo os
+quisue refero pes possum locus teter remetior
+ueridicoue queo for uideo os
 musa
 nosco decet dico par
 diuus memoro prior dico
@@ -326,42 +326,42 @@ aureus uas sacerdos primus ferus
 aeternus aureus carmen duro
 lynceus
 fama
-uisus praelatus acuo
+uideo praelao acuo
 siculus culmen mons poeni portus oculus contendo possum
-numero uersao littus puppis
+numero uersor littus puppis
 oppositus moles
-aedo saxum insero mons acies penetro imus
-alo  specto uiscus terra
-aera purus uelutum
-uiotreasue unda liquidus quondam crystallum mitto uideo spectrum
+aeditus saxum insero mons acies penetro imus
+alo secretus specto uiscus terra
+aer purus
+uitreasu unda liquidus crystallum mitto uideo spectrum
 res respondeo imago
-patrius resideo rupes  trinacria speculor aetneum causa ignis motus uideo
+patrius resideo rupes pachynum trinacria speculor aetneum causa ignis motus uideo
 uis sentio cerno
 cuncto certus
 prouidus
 externus animus conuerto ora
 ratis certus plenus spes magnus uideo conscendo
-pelagus deus uoueo saluto
-sicanius uerus portus soluo
-fera tempestas caelum mas legens graius portus epyrum uerto urbs
+pelagus deus uotum saluto
+sicanius portus soluo
+fera tempestas caelum mare legens graii portus epyrum uerto urbs
 arethusa nymphe hortor marinus immitto
-nymphe adnitor imus misceo aequor
-metus thalamus uideo aequoreus possum inuado aequus
+nymphe adnitor inferus misceo aequor
+nan metus thalamus uideo aequoreus possum inuado aequus
 chorus obscurus septum caligo caelum tego
 nox nauta obduco ater
-aer propero eo proximus pindum culmen specto
+aer propero eo proximus pindus culmen specto
 longus tempus
 rhodopes
-hemi
-tomor cauerno fons irriguus uideo
-ora cerno terra penetralis
-pindus exorior adsum achelous sedes oculus imus uiscus lynceo
+hemius
+tomarus cauerno fons irriguus uideo
+os cerno terra penetralis
+pindus exorior adsum achelous sedes oculus inferus uiscus lynceus
 longus retineo taurinus recessus cornu
-exporgo immensus antrum occulo herculea metuo uerbus clauus
-lento  ceraune passus circueo
-uisus interior peto
+exporgo immensus antrum occulo herculeus metuo uerber claua
+lento praecelsus ceraunium passus circueo
+uideo interior peto
 graia uarius mons ora consido
-cauus rimor inhegeo specus
+cauus rimor inhereo obruo specus
 mirandus primus uideo
 memoro relinquo
 defero prodo
@@ -369,78 +369,78 @@ specto cupio
 altus pectus pallas insideo
 scitus pulcherrimus uerso
 principium locus sedes decerno metallum gigno
-terra imum immobilis uiscus marmorea mos patera mons altus excisu
+terra imum immobilis uiscus marmorea mos patera mons altus excido
 cauo fornix claudo
 radium penetro
-crebris fero sydereus innumerus fulgor ignis
+creber fero sydereus innumerus fulgor ignis
 colligo coquo humor
 iugis saxum rima locus uapor expleo
-continuus passus uapor calor consido
+continuus patior uapor calor consido
 secerno antrum uoluo
 immensus induresco annus
 haereo expleo uenio informis metallum
-liquor pars terra dispergo
+nan liquor pars terra dispergo
 ettenuus mixtus tenuis
 lento calor compositus
-quondam fugio pinguis ungo exeo uo fundus crater imus
-sulphur argentum ferueo immisceo perenniargentum fluo insignis uita aeuum duco
-quea primus gigno
+fugio pinguis unctus exeo uastus fundus crater inferus
+sulphur argentum ferueo immisceo perenniargendo fluo insignis uita aeuum duco
+queum primus gigno
 mater
 pater uis contineo
 suscipio
 pars praebeo calor
-fuluo species aurum pulcherrimus fulgeo
+fuluus species aurum pulcherrimus fulgeo
 niteo argentum candor
 rubeo aereus uena
-ferreum nigresco aperio
-plumbea palleo
-albico stannum facio imitor color argentum
+ferreus nigresco aperio
+plumbeus palleo
+albico stannum facies imitor color argentum
 pondus fero
 strido
 aequum cupidus mortalis aurum quaero ingens uarius labor
 laboro manifestus periculum uita
 fero indus
-regio uergo arcton
-tendo furor cumulus
-eggo aurum formica ingens manus
+regio uergo arctus
+tendo furatus cumulus
+eggero aurum formica ingens manus
 exeo
 sto
 fugio unguis rostrum lacero
-figo tergo aufugio celerigo camelus
+figo tergo aufugio quanuus celerigo camelus
 scrobis cura
-uastisue ruina hesperius impendo
-mons aurum 
+uastisuus ruina hesperius impendo
+mons aurum suerim
 ramentum fero fuluus tago
 expedio
 maior substineo subicio labor
 periclum innumerus
 uinco opus gigans
-sterilis magnus primum conamen mons excindo
+sterilis magnus conamen mons excindo
 peto
 do semita
 cuneus accendo uiscus lychnus
-imus  lux cauerno nox dies penetro
+imus phoebus lux cauerno nox dies penetro
 recessus exploro aditus
 humerum excido exporto
 trado longus ordo primus tenebra
-lux percipio eggo extremapondus ceruix recipio
-praedura silex moror
-poenus rupes offero hostis ferus aerius transcendo alpes
+lux percipio eggero extremapondus ceruix recipio
+praedurus silex moror
+poenum rupes offero hostis ferus aerius transcendo alpes
 ignis excoquo
 mollio acetum
 uoluo picea caligo fumus
-miser latito comprimo spiritus os obstruo
+mitto latito comprimo spiritus os obstruo
 uita opera fascis relinquo
 caedo ingens pondus fero
-uacuus summus resero tellus hiatus
+uacuus superus resero tellus hiatus
 uapor includo cuneus exhalo aperio
 mora
 requies
 fornix mons substineo
 maior perago pars opus
-caedo exterior fornix arcus
+caedo exter fornix arcus
 rima signum praebeo
- aerius mons resideo culmen sentio
+peruigil aerius mons resideo culmen sentio
 ictus
 clarus reuoco uox famula iubeo artifex
 deuolo mons cado
@@ -450,64 +450,64 @@ obtusus occupo auris
 incredibilis compleo flatus
 natura gaudeo specto ruina uictor
 educo aurum
-sciuio
+sciueo
 fodio
 spes inuictus casus
 labor
-
+esse
 periculum duco moror
 mirus supersum praetereo
-minor
+nihilum minor
 fessus studium labor
 expurgo immitto fons ruina
 summus praecelsus uertex mons
-supero
+reliquus supero
 centesimus separo lapis
 immitto canalis amplus flumen deduco curro tractus desero uallis
 inuius saxum
 rupes excido
 trabs insero cauo
 uarius concursus unda mare colligo uastus
-recludo erumpo uis torro
-secus traho
+recludo erumpo uis torrens
+traho
 latus terra prouoluo inaequo
 excipio tendo uarius fossa
 cauo
 sterno
-ulex frutex ros marinus persimilis
+ulex asper frutex ros marinus persimilis
 retineo creber stirpes aurum
 includo tabula latus
-suspendo
+altus suspendo
 praerumpo canalis pelagus tendo udus tellus lacuna
 supersum
 ramus innecto ulex aurum
 labor tenuis
 flumen tento
-grauis dis cribrum agito harena
+grauis dis cribrum agito arena
 operosus profero
-ffosdo puteus quaecunicus lateo  fundus
+ffossa puteus lateo ereo fundus
 tundo lauo uro
 tenuis molo diduco farina
-italus labor flumen
-
-ruina
+hiquus italus labor flumen
+puteosuus
+montisuus ruina
 italus pateo priscus exercito tellus
-pius lex interdico parco aurus sacer fames
-exhaureo metallum italia
-parcus prudens  uetuso
-regio foecundis
+pius lex interdico parco aurus sacrum fames
+exhaurio metallum italia
+parcus prudens patior uetustas
+regio foecundus
 fluo uenio aurum
 haurio annus
 mortalis discordia
 mars eo uexo immanis cor
-dito orbis rex curo
-populus dito fungiers orbis
+dito orbis rex cura
+populus dito fungo orbis
 pax opus
 uigeo inuenio ars ingenuus apto animus
-habeo digno locus puto
+habeo inferus digno locus puto
 grauidus scruto uiscus terra
-diues pateo latebra aurarius caecus
-ars metallum eruo
+diues pateo latebra aurarium caecus
+reliquus ars metallum eruo
 nomen praesto
 color inspicio gratus
 sydus fulgeo
@@ -523,15 +523,15 @@ sulphur ardor pono pinguedo causa perdo
 fluidus
 
 uaporo
-longus  tempus purus mundicia
-clarus  lux nitescio
-temperies summus  umor
+longus decoquo tempus purus mundicia
+clarus perfundo lux nitesco
+temperies superus humor
 calor exaequo
 color perspicuus fero
-argentum uiuus terra pars misceo aqua pars discrimen 
+argentum uiuus terra pars misceo prorsus aqua pars discrimen iungo
 calor argentum sulphur perspicuus denso corpusculum paruus locus
 color pondus resulto
-consto tempus nexus
+longus constans tempus nexus
 principium possum dignosco certus ordo
 disto metallum
 sulphur lutulentus
@@ -540,83 +540,83 @@ principium
 inficio gigno
 
 calor aequus concoquo
-iustus
-minor ue  persto coctura annus
+iustus maioruo
+minor duraro persto coctura annus
 uarius res forma
 nomen quondam
 
 graius dico metallum
-singulus proprius species sortiscor sero
+singulus proprius species sortior sero
 diuersus distinctus persto
 natura semen inheo
 genus species tueor
 disto feliciter exeo
-secus sordeo traho principium
-consto exuio
-mens sedeo sententia summus patronus
-lis dissoluo iudex quiuerit incassus conor
-proximus intuitus
+mitto sordeo traho principium
+constans exuo
+mens sedeo sententia superus patronus
+lis dissoluo iudex quiuero conor
+proximus uerum intuitus
 natura recedo
 abdo grauis penetralis res
-obiectum ratio ars responsum
+obiectum ratio ars respondeo
 laetus experientia uultus prodeo error expers
 nescius fallo
-seruio perhibeo uenio prometheum famula
+seruio perhibeo uenio prometheus famula
 polus deduco ars
 opus famulor usus
-uerus consenesco
+consenesco
 prudens uir fero morior linquo uolo
-doceo facilis periclum immuto ars metallum
+certus doceo facilis periclum immuto ars metallum
 
 uerus facio ars aurum
 argentumue exemptilis res
 lapis effodio syria pictor
 aurum pigmentum nomen dico
-frango attro specularis mos lapillus summus ostento aurum tellus color
-purgo 
+frango attritus specular mos lapillus summa ostento aurum tellus color
+purgo exco ignis
 anfractus longus
 duco redeo flamma uoluo
-caiium solertia princeps aurum facio
+caiius solertia princeps aurum facio
 obryzon sapiens graecia nomen praebeo res insero uirtus recipio
 purgo reddo ignis
 maculo sordes renideo
-pigmentum aurum
+pigmentum aurum amplus
 aurum
-lapis  simulo aura
-uideo priscus refero
+lapis auritantum simulo aura
+atne uideo priscus refero
 carmen propior cano
-incresco haereo cado crusta
+incresco haereo cadus crusta
 alba longus senesco tempus uinum
-euganeus gens schola decus imus accipio erado fundus
+euganeus gens schola decus inferus accipio erado fundus
 costa uetustus uas
-includo purgo fictilis olla medius
+includo purgo fictilis olla medium
 lutum testa circumlino
 obturo rima
 obstruo os
 ardeo iubeo fornax diurnus nocturnus calor coquo
 uitreus ferueo massa do uarius liquefacio figura
-uerus uideo calor uro
-mos
+satis uideo calor uro
+moris
 specto albo
 perpetuus
 demo frango
 tero uetus fex decoquo lyeus
 
-mirabilis uisus scintilla
+mirabilis uideo scintilla
 conspersus polus aureus signum
-argentum mirus candor uideo
+innumera argentum mirus candor uideo
 uisus moror
 relatus
 alienus premo uestigium tendo
-uideo tenuis argentum tabella spargo latus contritus puluis
-uiridis aer squama niueus perustus contundo mica salis iniungo iubeo
- grumus res aceruo
+uideo tenuis argentum tabella spargo latus contero puluis
+uiridis aer squama niueus peruro contundo micus sal iniungo iubeo
+puluereus grumus res aceruo
 ueto ratio
 ars refero
 sordeo uulgus uilesco usus
 caelo reuelo
-compositus angustus pixides lamnum subiiceo includo arctus flamma
-credo torro tartara sons
+compositus angustus pixis lamnae subiico includo arctus fornix flamma
+credo torreo tartarum sons
 sulphureus dirus premo aetna antrum
 ardeo caminus torreo dies nox
 demo massa ferueo
@@ -625,7 +625,7 @@ pars lima diduco acer exiguus
 phiala secerno pars loco artifex ingenium
 unda fundo
 argentum excerno aurum
-uiridis sensis latex liqueo uideo argentum uis compactus
+uiridis latex liqueo uideo argentum uis compactus
 imum uas aurum seiunctus grauis ramentum peto
 aqua uigor
 puluis uirtus
@@ -641,35 +641,35 @@ breuis consumo hora momentum
 tenuis effundo unda
 lympha species trado
 homo tellus metallum eruo duro manus tango creber contingo gutta
-mirabilis uisus
+mirabilis uideo
 minuo frustum
 tenuis ocyus unda dispergo
 liquidus doceo assuesco fluctus
-uis inficio aurum
-persto
-sordes  exeo
-estetiam lympha
+uolo inficio aurum
+persto incolumis
+sordes abluo exeo
+estetio lympha
 credo dignus
-mira
+mirus
 immemoro potestas
 purus labes metallum contingo
 argentum tremulus imago uiuus cogo species forma resoluo
-uetus stillo laccus
+uetus stillo lacchus
 fimus incoquo puter
 lento calor
-aethereus splendor uersus color accipio summus caelestus corpus nomen
-durus fero mollesco ductus corpus
-digno diana nomen
-mortalis res praepono instituo
-mensura pateo
+aethereus splendor uerto color accipio summus caeless corpus nomen
+durus fero certus mollesco ductus corpus
+phoebus digno diana nomen
+mortalis res praepono instituero
+prex mensura pateo
 
-quanuis
+quanuus
 immunis puto aurum
 humor fatisco
 acris aqua dirus uiolentia rodo
 tero
 liquidus uerto unda
-uerus exiguus lux rego sequor praetulerint
+exiguus lux rego sequor 
 uerum cerno culmen possum
 discutio tenebra industria duco
 quaero fons unda
@@ -679,76 +679,76 @@ aurum humesco
 uenio liquor auxilium
 proprius soluo unda
 ago
-summus perquiro laus diuinus artifex
+superus perquiro laus diuinus artifex
 poto caelum caelestis descendo aqua
 tueor robur proprius
 produco foetus similis
 aeuum extendo possum progenies
 fragilis duro annus
-uideo secus natura tenor consono
+uideo natura tenor consono
 modus genero comprobo
-nitens semen
+uis niteo semen
 seruio opus
-nago quiesco
+nanciscor quiesco
 bacchus tento opus
 cerealius misceo semen
 
 cero frumentarius quaero
-pinguis cecropia tracto plantaria diuus
+pinguis cecropia tracto plantaria diua
 ordea cor
 sero ordea
 par aurum primordium
 aurum semen aurum
-quanua abstrudo recedo longus
+quanuum abstrudo recedo longe
 quaerendus labor
-mas immensus reputo
-nubs aquosa
-fons similis
+mare immensus reputo
+nubes aquosus
+liquidus fons similis
 quaero lympha instituo
 
 obseruo memini
 inficio
-liquatua
+liquatuo
 spargo
 humecto
 uenio
-aridus puluis species prodeo
+aridus puluis species prodo
 imus uuidus contudo liqueo penetralis aurum
-uetus inteno unda inportus rego ratis felix auris
-ignarus uia medius fluctus obsto scopulus liquor nato
+uetus intentus unda inportus rego ratis felix auris
+ignarus uia medius fluctus obsto scopulus liqueo nato
 experior
 doceo
-insula diuinus baclear munus mitto almaor uir
+insula diuinus balear munus mitto almus uir
 mirus uelamen tego liquor
 madeo
 credo impello
-bacchus candeo limpidus umor principium abluo secretus ars
+bacchus candeo limpidus humor principium abluo secretus ars
 sentio
 dico primus facies uisus
 stillo uinum misceo
-praesto lentus urbs insubrus ternus resideo annus facio inexhaustus pondus praediuis aurum socius
+praesto lentus urbs insubri ternus resideo annus facio inexhaustus pondus praediuis aurum socius
 coniungo
 aequus diuido tenuis diuinus puluis offa
-imensus pars traduco aurum foro infengo metallum
+imensus pars traduco aurum infectus metallum
 cultus arabs uitreus fons liquor desero uallis
 praerumpo purus saxum duco
 nemus occulto umbra alo
 densus uepres horreo
 uena ostento
-uber emano inutilis umor
-uarius immensus auia res detineo intendo
-felix preteri unda
-manus quondam pura haurio soleo
+uber emano inutilis humor
+uarius immensus auius res detineo intendo
+felix pratio unda
+manus purus haurio soleo
 admisceo
 longus compositus paruus fornax coquo
-opus arcanus natura occulo recludo
-grates dium immortalis ago
+opus arcanus natura occultus recludo
+grates deus immortalis ago
 
-experior maximus res uisere decet summus quaero labor
+experior maximus res uiso decet summus quaero labor
 angustus iter rego trames
 ingredior declino
 desino opto
-liceo tango laetus exopto longus tempus finis
+licet tango laetus exoptatus longus tempus finis
 opus
 mortalis ars interpres res ostendo sanctus hermes
 lateo duco munus dignus
@@ -757,27 +757,27 @@ remotus res
 dignus
 terreo peto
 contingo possum
- probus accendo
+lam probus accendo
 quaero uolo scio
 deprehendo usus
-admoneo contentum pergo doceo artifex
-natura sequor certa premo stabilius uestigium signum
-humanus doceo corpus pello ualidus morbus facilis medela seruo nitido flos iuuenta senium placidus produco granda annus
+admoneo paucus contentus pergo doceo artifex
+natura sequor certus solum premo stabilis uestigium signum
+humanus doceo corpus pello ualidus morbus facilis medela seruo nitidus flos iuuenta senium placidus produco grandis annus
 sanctus uiolo fides
-fallo possum sacer patior medicamen utor
-possum dius adspirans utor
+fallo potens sacrum patior medicamen usus
+possum deus adspirans utor
 praesto deficio
 contemno
 seruantus aequum
 frux
 cura eludo inanis
-dis gradior ditissimus
+dis gradior diues
 pauperies simulo ouo
 benignus prosum
-miser latito succurro egenus
-gaudeo adsum
+mitto latito succurro egenus
+innocuus gaudeo adsum
 facilis duco momentum uita
-aurifer secretus pallas ars inuenio humanus quondam uirtus cogo credo ratio
+aurifer secretus pallas ars inuenio humanus uirtus cogo credo ratio
 experientia suadeo
 possum
 prudens tendo pergo
@@ -785,88 +785,89 @@ cano incipio
 dexter modus numen phoebus difficilis facio
 dico ars ingredior
 uerbum addo res honor
-ado cultus musa apollo pectus poeta
-dux secretus iter procedo queo
-pimpleus culmen cerno alo iugix
+assum cultus musa apollo pectus poeta
+dux secretum iter procedo queo
+pimpleus culmen cerno alo iugum
 deuius duco
 animus certus spes duco anhelo
 fido gradus cresco scando fama
-aeuiqua longus queo deleo auetustas primus niueus spargo candor lapillus quaero
-longus contero tempus puluis niueus liquidus uersus candor rubor
+aeuiquus longus queo deleo uetustas primus niueus spargo candor lapillus quaero
+longus contero tempus puluis niueus liquidus uerto candor rubor
 inficio tenuis pars mixtus metallum insero argentum
 mirabilis
 pondus
 species
-argentum fio proximus uiuus dedoceo fungor liqueo immobilis uita
+argentum facio proximus uiuus dedoceo fungor liquens immobilis uita
 ruber puluis preciosus aurum calefacio ignis
 uerto immensus pondus aurum
 artifex majus puto
-primus opus compono possum nosco
+primus opus compono possum
+nosco
 capio laboro
 natura praebeo minister sentio
- latebra nobilis semen profero lux solero
+eximo latebra nobilis semen profero lux solers
 tenebra reddo
-occulo seruo claudeo
-alimentum puter sensis do humidus massa
-agricola quondam tellus semen iacto spargo ros leuis sitio cultus
-necminus suggero ignis
+occultus seruo claudeo
+alimentum puter do humidus massa
+agricola tellus semen iacto spargo ros leuis sitio cultus
+necminus tepidus suggero ignis
 genitalis uis uis subeo foueo
 calor soleo exterior iuuo
 stomachus praetento manus praesto uigor ualeo
 aeger uis releuo caducus appono possum fomentum medens
 uarius species res admisceo
- iunco
+obsto iungo
 moueo
 tardus mens
 assuetus fallo artifex uarius res inanis ductus pectus
 durus mollis uinum metallum
-epulae
+apto epulae
 apto bibo suauissimus uinum
 leuis humanus mitto corpus sanguis
- roseus flo ceruix capillus
+labor roseus flo ceruix capillus
 oua
-lecno summus mons herba conuenio imus fosso mons aurum
+lego superus mons herba conuenio imus fosso mons aurum
 exprimo proelum torqueo uua accipio
-phiala pars repono
+phiala postremus pars repono
 extremus rostrum connecto os
 ignio cinis candeo caminus
-undosus latex ferueo aenus colloco
+undosus latex ferueo aenius colloco
 tenuis fero uapor
 haereo alo peto
-liquo eo fundo unda
+leuiter liquens eo fundo unda
 ardeo uoco lympha uita liquor
 uitreus rarus effundo fistula gutta
 uicis stillo
 colligo uarius seruo usus
 
-lentesco ignis
-fimus incoctus ars tepo
-fingo oblongo uitreus uas ductilis collum
-bina
+modicum lentesco ignis
+fimus incoctus ars tepens
+fingo oblongus uitreus uas ductilis collum
+binus
 exilis ansa
-brachium pendo concauus
+brachium pendeo concauus
 uenter uas flecto imum
-liquor includo summus os fero
+liquor includo superus os fero
 binus inclino auris
 ingredior
 repeto
-linquo imus fundus ferueo lympho
-refero super
-leuis quietus redeo uia
-mobilis uestigium confluo umor
+linquo inferus fundus ferueo lympho
+refero superus
+leuis quietus eo redeo uia
+mobilis uestigium confluo humor
 niueus denso offa
-tenuis lamnum compono aurum
+tenuis lamnae compono aurum
 coquo lento
 longus calor
-uerus
-pactum commisceo exquiro exerceo
+
+pactum commisceo (na exquiro cassus exerceo
 laboro
 species diuersus iungo curo
 impedio motus
 efficio
-possum tempus aedeo
+possum tempus aeder
 natura consto
-principium statua res
+nan principium statua res
 opus
 quaero
 humor
@@ -880,11 +881,11 @@ ago
 patior
 foemina
 mas agito
-pullus ouos cresco ago
-patior
-mitis foueo calor a diutus
+pullus ouum cresco ago
+patieo
+mitis foueo calor diuo
 exemplum credo
-iudex acrius inspecto
+iudex acriter inspecto
 reduco
 purus uarius sanguis pars elicio
 duco elementum uoco instituo
@@ -893,12 +894,12 @@ tango manus
 secerno esse
 includo
 uas penetro
-durus quanuus adamas perago
-simplex consisto corpus pars possum orbis uo
+durus quanuus adamas perago idfeo
+simplex consisto corpus pars possum orbis uastus
 proprius gaudeo sedes quiesco
 res
 tonsa pono elementum capillus
-natura possum segrego
+natura potens segrego
 misceo
 confundo frigidus commuto calidus
 humens siccus
@@ -906,23 +907,23 @@ corrumpo solidus
 diuido inpars
 seruo genitalis semen uis
 corrumpo corpus corpus gigno
-gigno
+nan gigno
 putruo
-conor quaesiti herba inualidus aufugio argentum sisto succus
+conor quaero herba inualidus aufugio argentum sisto succus
 gelo
 duro
 figo ars possum
 ictus mollis duco possum
 solidus facio
 ductilis
-quaero
+
 uideo possum prior aufero
 defectus induco forma
 pus species dono metallum
-sulphur memor longus detergo labor
-nitrum
+sulphur memoro longus detergeo labor
+
 purgo sal
-torreo lyeus longaeuis fex
+torreo lyeus longaeui fex
 atramentum caleo accensa effundo gutta uas rubeo
 soluo
 itero uicis
@@ -931,7 +932,7 @@ lauo
 tero
 figo tento
 calx uerto
-missus uapor fero tenuatus corpus aura
+missus uapor sublimus fero tenuatus corpus aura
 compositus uarius uideo lex caminus innumerus
 lutum lito uitreus uas
 uerto faber argentarius usus
@@ -939,13 +940,13 @@ exerceo cura
 arripio
 sordidior fabrilis ars insanio ascisco labor
 sulphur oleo
-facies fuligo tingo horrendus ater simulo imago larua
+facies fuligo tincio horrendus ater simulo imago larua
 miser affirmo ars
 externus alchimia uerbum dico
 obscurus tego ambages erro auia
 miser traho iniquus sequor
-eieco coecus barathrum relinquo
-uideo bonus praedium ciuis uendo
+eicio coecus barathrum relinquo
+uideo bonum praedium ciuis uendo
 patria domus
 merx repostus
 fornax uersor
@@ -959,7 +960,7 @@ difficilis coniunx moestus uita protraho
 illachrymo natis fio sordidus elautus
 ludus pateo fabula uulgus
 ago eximo tenebra cerno lux mortalis
-coecus uia auerto gressus
+coex uia auerto gressus
 prohibeo nefas
 depello uirus
 infectus uulgus iners possum ars diuinus misceo manus puto
@@ -967,13 +968,13 @@ abdo res ualeo causa specto lateo
 impurus manus fraudo auarus attingo
 decoctor
 fabrilis ars ualeo
-
+mollisuus
 perdo cor ocia
 uagus
 dedo urbs ciuis
 incumbo tellus aruum colendus
 animus magnus minor
-similis quaero  fraus malus
+similis quaero suetus fraus malum
 habeo amor
 sapiens
 superus primus colo
@@ -999,7 +1000,7 @@ compello ordo integer
 dico maior reuelo
 procedo
 ultimus res secerno inuenio
-natura perago oblecto
+queum natura perago oblecto
 gemmo par confingo ars
 dicendus supersum metallum
 gemma causa
@@ -1009,8 +1010,8 @@ mirabilis pars ualeo summa uario promo uis
 perspicuus tellus lympha commisceo purus fero gemmo
 caelimotus
 ardor
-situs certus  sedes gigno cano
-gemmeus  fulgor
+sidereus situs certus praescribo sedes gigno cano
+gemmeus irradio fulgor
 uario color
 taceo
 duricies inuictus
@@ -1020,80 +1021,80 @@ nitens distinctus mirus macula facio
 acathe acidus orno musa apollo felix
 natura parens
 motus ars prouenio
-paruus concludo gemma spons uolo proprius insignis orno
+diua paruus concludo gemma spons uolo proprius insignis orno
 medius consido phoebus depono mitis cornu cithara cano
-testatus signum mortalis
+testor signum mortalis
 numerus praesto honor
-felix digno munus pyrrhus
+felix dignor munus pyrrhus
 fortunatus licet uideo
-indomitum uirtus adamas refero debeo
-soli quondam rex 
+indomitis uirtus adamas refero debeo
+soli rex cognitus
 quaero aurum
 actus ferrum durus incus ictus respuo
 ferrum dissulto
 dissilio incus ictus ago
-praedura uis corrumpo recens sanguis
+praedurus uolo corrumpo recens sanguis
 calfacio hircus rumpo
-ictus crebro libro  iter inanis fero
+ictus crebro libro graus iter inanis fero
 lapis accessus magnes adamas oberro ferrum declino
 inhaereo abdico
-tero facio concipio 
+eo tero facio concipio uenenum
 pello mens metus adamantinus uirtus
-quondam fateor uideo uetustas credulus
+fateor uideo uetustas credulus
 experientia priscus certus arrideo
 ostendo queo
 genus aurum congenitus pateo
 
-falsus
+plerusque
 nomen dico artifex
 res aberro
 uetus scribo fateor
-dubius reuoco trado possum uiridis fas transeo smaragdus contendo manifestus signum
+dubium reuoco trado possum uiridis fas transeo smaragdus contendo manifestus signum
 indico
 color iucundior
 tellus hora genitalis annus uestio
 ostento uultus melior uireo
-magus uireo
+uireo
 compleo contueor oculus
 satio
-obscuro acies intendo aspectus uiridis claro recreo smaras gdus
-fulguro pingo uiolum carbunculus ignis cano
-uarius fulgeo laspa
+obscuro acies intendo aspectus uiridis claro recreo smara gdus
+fulguro pingo uiola carbunculus ignis cano
+uarius fulgeo laspis
 concolor fuluus radio topatius aurum
-species
-nomen diuersus coepio memoro carmen gemmo
-uerus tango uagor
+innumerus species
+nomen diuersus coeptum memoro carmen gemmo
+satis tango uagor
 monstro uia
 tendo pergo
-iuuo natura occulo subeo
+iuuo natura occultus subeo
 dulcis facio camoenus
 ago materia
 praesto ars natura
 expedio
-perfero labor incassus studeo
+perfero labor incassum studeo
 grandis uito detrimentum
 uesanio teneo artifex
 primus res aberro
 capio
 seruo decet
-lucus summus secreto uertex mons
+lucus summus secretus uertex mons
 fons decurro nitidus argenteus unda
-specus exesus tendo aperio antrum
+specus exedo tendo aperio antrum
 habeo praesto diuinus numen uirgo
-ruricola glaura nomen dico
-densus uepres angustus accliuis perduco callis iens
-uestibulum speluncus laeuus aequus planicies
+ruricola glaura priscus nomen dico
+densus uepres angustus asper accliuis perduco callis iens
+uestibulum spelunca laeuus aequus planicies
 amplus
 horreo umbra cingo
 fluuius ripa
-margo tophus
+margo tophum
 obduco uiridis muscus spissus corymbus
-ingredior siquis
+ingredior
 labo humanus
 mirabilis dico
-
+exuo
 pondus mortalis relinquo
-purus leuis facio spiritus
+purus leuis fio spiritus
 aditus lustro
 agilis fero cuneus
 medius sedeo aureus nympha
@@ -1101,7 +1102,7 @@ aureus thalamus
 renideo
 aurum tabula pes calco euntus
 aurum splendeo conflo supellex
-
+taruisius
 titubo mons antrum peto
 res primordium quaero
 uideo preciosus
@@ -1109,62 +1110,62 @@ eruo
 sumptus nimius
 parco labor
 uiuum sulphur
-tremulumue repono argentum
-undo defero uapor exeo putr inficio uena
+ repono argentum
+undo defero uapor exeo putris infectus uena
 purus purgo sordes metallum accipio
 secerno pars recedo spiritus
-crassus praessus mol uictitat
+crassus premo moles uictito
 soleo uinclum
 carcer coecus emitto expecto tenuis effundo aura
-inno subsido pondus moles
-leuis assentio superus contendo ora
+innatus subsido pondus moles
+leuis assentio supero contendo ora
 durus mollesco natura imitor ars eximius
 consuetus reuertor impero
-longus torpor recludo incluse semen
+longus torpor recludo inclusus semen
 uegeto mos
-arduus constans metuo uincula massa mirus ualeo uideo
-pullulo proprius uirtus uigor aurum perpetuus germen
+arduus constans metuo uinculum massa mirus ualeo uideo
+pullulo proprius uirtus uigor aurus perpetuus germen
 fero aura
-summus frutex tellus cacumen exeo
+superus frutex tellus cacumen exeo
 uis extollo
-istris accola felix stirpes herens capreolus mos natis circundo truncus
-saxum inuenio obedo
-agilis serpo hedera
-pererro amplexa later
- fatisco diruo
+istri accola felix stirpes herens capreolus mos natis circundo truncus
+implicitus saxum inuenio obedo
+agilis serpo edera
+pererro amplector later
+paries fatisco diruo
 ingressus rima radix
 frons
-pretergresdo latus obuia ramus
-topho insero cresco uiuidus aurum surculus
+pretergressus latus obuius ramus
+tophus insero cresco uiuidus aurum surculus
 pars exploro inanis
 egredior
 diffundo aura
-uarius summa complector ora
+summa complector ora
 teneo conspersus purus inauro
 
-uerso cura probo artifex
+uerso cura probatus artifex
 statuo
 seligo
 selectus pactum modero
 aedo
-possum soleo lento calor
+possum modicum soleo lento calor
 innumerus priscus inuoluo tenebra
-barbara occulo res coniungo uerbum dubius
+barbarus occulo res coniungo uerbum dubius
 statuo nomen
 incertus signo res
 modus
-lepidus quondam fingo poeta
-uerum uox nuncia uates profero
+lepidus fingo poeta
+sacrum uerus uox nuncia uates profero
 uicis interpres utor
 singulus expono
 insero libellus patefacio
 caelo ars opus
-uanus poetaeus figmentum illecebra uacuus capto mens commentum
-diuersus loquuns
-inenarrabilis munus diuinus humanus aduentus proles ora 
+uanus poeta figmentum illecebra uacuus capto mens commentum
+diuersus loquuo
+incomprhensus inenarrabilis munus diuinus humanus aduentus proles ora praefati
 paruus sentio ingens os magnus sono mysterium uates
 
-suadeo audo uanus fides teneo 
+suadeo audeo uanus fides teneo puto
 uarius iuuo caelo figura
 
 mollio metallum inuenio
@@ -1174,7 +1175,7 @@ incipio
 compleo
 occulto
 series abrumpo loquor rgum uestigo animus
-reperio
+reperio perperem
 excursus interpono uaco
 materia res deuius sumo
 regio do
@@ -1183,10 +1184,10 @@ mons spacio oreades altus
 cura seruo
 ingens munus
 uenio remitto participes
-manus pura pectus accedo
+manus purus pectus accedo
 dis pecten eburnus aureus depecto uellus nympha
-primus heros pubes ras sanctus peto
-timeo fluctus quaero summus dux dis lason hercules colchon
+primus heros pubes ratis sanctus peto
+timeo fluctus quaero superus dux dis laso hercules colchon
 inauro noto uertex pellis
 principium ostendo
 sumo possum
@@ -1200,10 +1201,10 @@ habilis reddo massa
 opus
 labor
 exerceo inanis artifex cura
-uarius nuga
+uarius nuga sui
 frustro iners
 uro latex
-liquor
+bacchiue liquor
 olidus misceo lympho
 menstruum appello
 
@@ -1216,28 +1217,28 @@ opus
 postulo
 simplex
 farrago res expleo
-alo continuus pus suffitus sulphur
+tellus alo continuus pus suffitus sulphur
 compar attigo uiuus conflo aurum
 praeparo
 modus
-res purus reduco uideo
+res purus reduco liquidus uideo
 relinquo
 ars
 natura imitor
 laboro
-consto natura tenor
+constans natura tenor
 artifex motus manus directus seruo
 nan compaciscor ualidus soluo ars
-expositum uenio uis do opus
-certus proles pateo
+expositus uenio uis do sui opus
+certus foecundum proles pateo
 supersum
 secerno sedes loco
-calor
+perpetuo calor
 longus tempus fotus exerceo
-sensis pabulum reddo
+pabulum reddo
 grauis decretum spatium tempus
 
-prodeo tempus exorior
+prodo tempus exorior
 perfectus circuo orbis
 uitalis profero lumen aura
 informis mater aluus foetus inaugesco
@@ -1245,58 +1246,59 @@ paruus fingo infans
 locus excipio dexter
 semen mando aureus
 produco foueo
-opto adolesco aedito fructus
+opto adolesco aeditus fructus
 ministro paruus cresco ignis principium
 humens
 corrumpo aptus
 temperies
-maria balneum dicto
+maria balineum dicto
 humor statuo calor
 fimum appello
-balneus
-tumitem proprius gigno tepor sufficio aequus
+balineum
+tumis proprius gigno tepor sufficio aequus
 deficio
 excedo calor
 medius seruo nequeo
 aiterno uario uicis
 prosum no
-nascendus tempus res
-materia res paruus pixides curo
-calor possum resoluo expromo uis
+certus nascendus tempus res
+materia concludo res paruus pixis curo
+modicum calor possum resoluo expromo uis
 opus
 beatus puluis existo compos
 opto
 compono
 augeo uenio usus
-pareo facio
+pareo facies
 clarus beatus signum do puluis
-manifestus habeo coipo
+manifestus habeo 
 uarius ostendo color
-ruber primus opto
+ruber primus quanuus opto
 albus excipio
 magnus pendo
 ater
 opus monstro principium magnus
 secretus hostia pando primus uia
-ignus uulgus anhelo
- callis diuerto os
-iter incoepo
-peraco medius ostendo
+ignarus uulgus anhelo
+uagus multiuius callis diuerto os
+iter incoeptus
+perago medius
+ostendo
 rubor indicium
 gaudeo uis humanus propinquus adsum opus
-perfeceo ars adiutus ops
+perficio ars adiutus ops
 possum ingenium perago
 sydus caelum suspicio
 obitus signum inspecto ortus
 conscendo polus gradus subnixus superbus
-mas terra tractus meto
+mare terra traho meto
 innumerus numerus compraehendo harena
-caelestis concentus uox refero ex doceo humanus
+caelestis concentus uox refero doceo humanus
 fides imitor canorus aethereus tento discrimen cantus
-arteo inueno lex ciuicus ius
- urbs consto clarus
+ars inuenio lex ciuicus ius
+ars urbs consto clarus
 sanctus senatus
- rego rex populus
+ars rego rex populus
 exercitus ars duco
 praesto dux impero ars
 ars corpus fessus diuinus ministro adiumentum
@@ -1307,65 +1309,65 @@ secerno cresco uinetum ulmus
 
 uersor
 tracto
-contemplor audeo adeo aedo tractus
+contemplor audeo adeo aedeo tractus
 reputo
 ars penis certus attribuo genus humanus
 dico
 facio rego lex requiro
-saluis homo praesens gratissimus cura ars grauis
-sanctus pallade nascor
+salueo homo praesens gratissimus cura ars grauis
+sanctus pallas nascor
 famula dica pallades primus
-fero proprius seruo pudor
-adamario lemnius heros
+nan fero proprius seruo pudor
+quanuus adamo lemnius heros
 disicio pater caput securis
 prodeo ferox patrius dea praeditus sensus
-saluis magnus parens
+salueo magnus parens
 foecundus uir opus
-sacer uates
+sacrum uates
 aequus gressus procedo riuus tantus causa res calligo teter par
-aonius conspergo lympha obduco
-ater detergeo sordes liquidus abluo aspergo fero nitor oculus
+aonium audeo conspergo lympha obduco
+ater detergeo sordes liquidus abluo aspergo fero nitens oculus
 depraehendo ars eximius series
 manifestus color signum
 longus spero promissum labor praemium
 diuinus munus puluis auripotens
 paruus metallum pars purus conuerto aurum
 cueluo modicus
-coagula desum
-caseus lympha resoluo ignis dstringo plenus mulctrarius lac
+coagulum desum
+caseus lympha resoluo ignis dstringo plenus liquidum mulctrarium lac
 cogo lac uerto forma
-argentum sacer puluis liquentia sisto
-aurum species dono
+ic argentum sacer puluis liqueo sisto
+sydereus aurum species dono
 praesto
-supeo aurum
+supero aurum
 itero opus expleo
-addo summus augeo puluis
+addo summa augeo puluis
 labor
-
-minimus puluis uiuus immensus argentum ualeo conuerto moles
-leuis pars solutus spiritus ingredior longus penetralis dendo corpus
+uis licet
+paruus puluis uiuus immensus argentum ualeo conuerto moles
+leuis pars solutus spiritus ingredior longus penetralis densus corpus
 uiscus misceo
 longus concoquo tempus puluis
 comprimo
-reduco 
+reduco insese
 proprius cogo denso uigor
 crocio exiguus purus flos spargo unda immodicus gratus diffundo odor color
-agito contraho puluis uirtus buium percurro locum metallum
-ratio homo depraehendo sagacus ingenium
-uis paruus semen
+agito contraho puluis uirtus buius percurro liquidus locus metallum
+ratio homo depraehendo sagax ingenium
+uolo paruus semen
 herculeus lapis requiro inuenio causa
-ferreus uincula necto
-traho abiuncio pondus inanis fero
+ferreus uinculum necto
+traho abiunco pondus inanis fero
 rego nauta
-uergo arcton specto paruus claudo pixides sidus
+uergo arctus specto paruus claudo pixis sidus
 tego sacer inuolucrum natura
- scio mortalis
- modus
+fas scio mortalis
+admiro
 uenero
 inquiro
 arcanus proximus
-inmanis scio putao
-praesens uerus
+inmanis scio puto
+praesentia uerum
 spero ars perdisco possum difficilis
 grauior
 percipio dica
@@ -1373,13 +1375,13 @@ alo tibimens reseruo
 scio possum
 puto cognosco
 ordo disco
-primus res cognosco causa  dubito
-fero quaero facilis
+primus res cognosco causa dubito
+fero quaero sui facilis
 uia rego reduco continuus gradus
 sisto do
 thalamus concludo possum maiestas uerum uenero recepto
 fingo primus metallum semen uiso
-coctura serendus diuersus  ultimus forma
+coctura serendus diuersus coniungo ultimus forma
 appareo ratio
 possum metallum uicis praebeo
 alienus fero imperium
@@ -1387,43 +1389,43 @@ aspicio
 gigno
 ars iuuo
 manus natura porrigo almus
-sensis madeo
+madeo
 mollis persto
 magnus opus
-credo
+credo operosior esse
 ars maximus iacto
 absum
 percipio
 uinclum iunctus teneo
 modus lens depraehendo ignis
 locus
-decet lapis mensura
-color opto puluis fusus
+decet lapis mensura futurum
+color opto puluis fundo
 modus augeo
 desum conditus
- tempus puluis
+duro tempus puluis
 laetus certus pateo
 res series longus seruo usus
-probus dedignabor dignus mereo persolueo grates
+probus dedignor dignus meritum persoluo grates
 ignarus linquo ludibrium uulgus iter ingredior duco arctus
 capio
 remitto incolumis
 creber lacer uepres refero
-alo rupes relinquo erro coecus flexus
+alo rupes relinquo erro coex flexus
 
-mortalisue manus miseror refero
+mortalisuus manus miseror refero
 dubito sinuosus erro antrum
-coeco rex filum uestigium
+coecus rex filum uestigium
 ostendo
 tutus fero
 tutus refero pes
 finis assequor beatus opto
-diuus ago gratia primus
+diuus ago gratia
 
 
 praesens consulo
-uerus contingo meta do supeor
-coepio sisto cursus opus
+uerum contingo meta do superus
+coeptus sisto cursus opus
 casus humanus laboro conditio
 falsum mendacium uulgus exagito
 erro cerno possum
@@ -1431,16 +1433,16 @@ primus
 moneo
 
 rarus contingo gratia caelum
-spero
-insinuo caro  sodalis
+nan spero
+insinuo caro fidoues sodalis
 resero
 nosco iacto
 scio
-uerus pectus seruo habeo
-arcanus
+uerum pectus seruo tecus habeo
+arcanus reuoluo
 suspicio probus ars inuideo inuideo cultor efficio ars
 mendax uagor
-pollicitus uanus
+pollicitum uanus
 rescisco
 nosco promptus
 rego
@@ -1448,8 +1450,8 @@ duco uia
 aberro
 insignis
 doceo uideo tracto
-pendeo magnus
-ignar probo ignobilis uulgus
+pendo magnus
+ignarus probo ignobilis uulgus
 
 derideo
 maximus turba
@@ -1466,21 +1468,21 @@ dico
 ars
 ingens nugae
 inanis mens insanus commentum manifestus uideo
-fragilis munitus robur pectus nonqueo resero taceo
+fragilis munio robur pectus nonqueo resero taceo
 prohibeo res prudentia for
 
 dico
 noceo
 tutus insidia uirtus tueor possum
-fero  condo paruus diuitia loculus ingens
+fero condo paruus diuitia loculus ingens
 rex regnum assurgo
 ops
 opulentus cedo
-unus minor
-thesaurus compono possum
+minor
+thesaurus compono siquis possum
 amicus silentium seruo
 facio
-desisto coipio moneo
+desisto coeptum moneo
 ops auctus uideo
 ostento beatus
 grauis
@@ -1489,91 +1491,91 @@ miser spero
 hostis mitis inuado terra barbarus
 longus seruo tempus pax perdo usqueadeo
 turbo iniquus
-inuado urbs
+licet inuado urbs
 diripio oppidum
 turpis praeda
-rapo nefandus audio
-miser inicio incendium uillus
-naruisiam tristis fleo musa bononius
+rapio nefandus audio
+miser inicio incendium uilla
+naruisia tristis fleo musa bononius
 turpo cultus
 uiolo foedus miles templum deus
 sceleras uro
 confundo diuinus humanus
-bellum nefas
+bellus nefas
 scelus parens discordia necto
 pectus dirus commoueo pauor
 concutio homo dies cerno
-agito flagellum
+dirus agito flagellum
 nouus trepido quaero sedes
-collcio ops proprius onero abeo
+collectus ops proprius onero abeo
 linquo patrius fero urbs regina
-magnus cingo amphitrita
-tutus foro caelum
-quondam fugio eligo recipio gens italus
+magnus cingo amphitrite
+tutus caelum
+fugio eligo recipio gens italus
 paruus scopulus seruo unda modicus
 immensus exuro ignis italia
-accensus scoeuus penis barbaria
+accendo scoeuus barbaria
 duro foueo annus
 ago fortuna subdo cerno
 bonum mendax mortalis nomen iacto
-aduersus uiolentus fulmen ictus metus pauidus inuado praesidium stabilis temet munio laboro
+uiolentus fulmen ico metus pauidus inuado praesidium stabilis munio laboro
 horrendus
 rex homo deus iniustus conuerto iustus hostis
 amicus commodus adsum
-nan diuinus secerno munus habeo
+nan diuinus munus habeo
 diues opulentus ala
 
 loculus
 labor pes
-tempus securus gesto commodus uita
+tempus tecum securus gesto commodum uita
 pax exopto reuiso
 
 uerimens auguro
 credo
 mitto eo
-potior queo tranquillus munus pax exercero
+potior queo tranquillus munus pax exerceo
 seria tracto
 cor lusus
 honesto uoluptas
 frux possum iustus obeo
-auaricio
+auariciens
 honor insanus cupido
-perturbo mortalis cor affectus
-uarius moueo
+perturbo relinquo mortalis cor affectus
+moueo
 ango
 cebra possum uinco
 praesidium
 placidus mens munimen tutus
 bellum dirimoo
-pax alma quies moneo quaero causa res obscuro
+pax almus quies moneo quaero causa res obscuro
 ops
-commodus
+commodum
 perpetuus uolo sequor
-uerus moueo
+moueo
 munus dignus euado
 maximus possum intimus ingentum primordium res nosco
 natura creo
-nosco adiuuo ars
+notus adiuuo ars
 scio queo
 felix queo
 opto relinquo
 inuenio posthabeo
 laetus uolo facio minor
 mens arcanus contentus recludo gaudeo pars bonus
-requiro uerus  infero alo
-opto opuleo puluis ortus exequor
-solertis sumo pars artifex
+requiro uerum secessus infero alo
+opto opulentus puluis ortus exequor
+solers sumo pars artifex
 animus uerso uolo
 maximus grauis miraculum res
-audeo
-ars ordo summus ignis
+ingens audeo
+ars ordo superus ignis
 spacium
 numerus
 pondus dica
 magnus labor
 par gloria
 respicio placidus praesens lumen diuus
-insequor ardeo accendo uoluntas
+insequor ardens accendo uoluntas
 difficilis res experientia turbo
 dico nouitas ingratus retardo
 
@@ -1584,43 +1586,43 @@ uotum uoco nympha
 sacer custodia fons
 extremus opus desero cura
 oro
-maximus cano uates orno tellus foueo
+maximus cano uates orno tellus complexo foueo
 contemno induco animus
 imitor
-imprimo uestigium signum pono internus scrutas uiscus terra
-altus despicio refur
-uideo parilis figo sors conor paruus uado grandis passus
-eo aeternus pura unda mincius
+imprimo uestigium signum pono internus scrutor uiscus terra
+altum despicio refuro
+uideo siquis parilis figo sors conor paruus uado grandis passus
+eo aeternus purus unda mincius
 tener praetexo arundo ripa
 principium spons proprius
 semoueo cura
-uita tranquillo ocia duco
+uita tranquillo ocium duco secretus
 latito
 cura
 amplus
-commodus tractans domus
+commodum tractandus domus
 abiunctus recedo
 locus habeo secerno cubiculum certus
 aditus pateo
- famulus infero minister
-gesto norum
+iussero famulus infero minister
+gesto nosco
 usus
-breuis aestiuo spacians porticus aura
-modicus excipio brumalis tempus seruo a
-contineo
+breuis aestiuo spacio porticus aura
+modicus excipio brumalis tempus seruo
+contineo domus
 paruulus absum hortus
 uacuus exerceo annus
 dedo insto
 semen olus propero seligo unguis
- tellus condo mando
+excultus tellus condo mando
 animus
 oculus pasco floreo herba
 dulcis admitto amicus
-dissimulo ago
-gratus sodalis detineo lusus
+dissimulo domus ago
+gratus sodalis detineo lusus capio
 suauis lepor
 occultum sino
-aurigerus  cesso calor semen
+aurigerus loco cesso calor semen
 proprius aeuum compleo orbis
 ignis
 labor abstrusus uenio aurum perquiro tento
@@ -1628,50 +1630,50 @@ res
 quaero fidelis munus egregius socius
 longus labor
 interior domus pars recondo
-uicis partio onus curandus ministro
-beatus artifex ratio
+uicis partior onus curandus ministro
+postremus beatus artifex ratio
 commendo
 dion opus aeternus
 numen diuus uenio
-adispiro liceo
+adispiro licet
 deus studeo adsum precor
 
 tenuis carmen tento pando
-musa facio pius uoueo
+musa facio pius uotum
 prex intendo manus supplex
 pectus purus
-insolio caelum adspiro fauor
+insolitus caelum aspiro fauor
 nouus carmen surgo uis sentio
 alo collis
-auius fero nemus incertus uideo
+auium fero nemus incertus uideo
 duco auens mens
 fatum fero
 primus amoenus helicon sacer refero frons corona
-primus aoniis intexus flos aram
+primus aonius intexus flos aram
 tener erigo annus phoebus
 phoebus chorus
 genius possum
-sto mare adriacus littus duco adculmen
+sto mare adriacus secerno littus duco adculmen
 placidus fero ariminus unda
-rapio torrens uastum uiolentus aequor
- pons monumentum uetustus praetereo
+rapio torrens uastus uiolentus aequor
+inclytus pontes monumentum uetustus praetereo
 dulcis unda permisceo amarus
 incoeptus ars
-opus labor titus ectum fero diuus
+opus labor ectus fero diuus
 tenuis follis aura prosequor indico
 fumo capto
-liquidus distendo aer caminus
+liquidus distendo aes caminus
 clycops fremitus audio uideo cominus ingens
 caelum incus ago murmuro
-longus calybus stridor liquentum insolitus resono mugitus aetna
+longus calybus stridor liquentus insolitus resono mugitus aetna
 sementis facio quaerito aurum
 argentum primordium posco
-nosse gradus uarius spreeo ignis
+ gradus uarius spreuo ignis
 
 procedo
 oportet
 
-natura aemulus tranquilla
+natura aemulus tranquillus
 uiolentus conuenio ars
 nitor opus immensus uis trudo semen solidum innecto mirus compages aurum
 
@@ -1682,27 +1684,27 @@ puter
 
 ualidus patior ignis
 exhalo tumeo
-fero
- foueo
+sublimus fero
+exemptus foueo
 excedo aduro uirtus calor opus
-frigo permitto
+frigeo permitto
 compono
 
 proprius perfectus spons repono
 compositus dedo mens minister
 magnus refero
 for commodus expedio
-priscus barbarum turba subticuo
+priscus barbarus turba subticuio
 caelo uolo credo
 uerbum nescio potentior utor
 lingua illustro latinus audeo
 numerus addo conor
 gratus doceo uenio mitto auris
-primus aurum lamna
- pus accipio
+primus aurum lamno
+ramentaue pus accipio
 creber contundo ictus
-puluis mos tritum
-fluuialis harena diminuo
+puluis mos tero
+fluuialis arena diminuo
 longus teres
 puter humor resoluo liquesco
 prosum largus infundo ros semen proprius
@@ -1711,14 +1713,14 @@ doceo
 misceo labor
 queo connecto
 addo
-sparsum res insum
+spargo res insum
 similis gaudeo similis puto
 similis iuuo
 natura natura requiro
-paro contrarius recuso
+amplector paro contrarius recuso
 digitus
-plectrum 
-moueo forte fido
+plectrum pello
+moueo forte fidus
 fides assono ico
 concors consonus uox
 ungo res concordia polleo
@@ -1727,67 +1729,67 @@ pigeo
 quaero compar
 lateo
 mons abdo imus
-mas eruo scopulus
-fons haereo inmedium
-altus produco olympo
+mare eruo scopulus
+fons haereo inmedius
+altus produco olympus
 pateo
 pars abscondo
 
- orbis corpus misceo
+orbis corpus misceo
 praeualidus uis compactus resoluo
 humesco
 angustus uas altus fundus compono ordo
-nan aequus maneo dispando necesse
-calor aequus penetro fero
+aequus maneo dispando necesse
+calor aequum penetro fero
 compello pars uapor
 
 excipio res compono possum
 instituo
 uas
-perfero calor immensus opus aurum peraco
-genus indomo mirus tellus
-iberus fossor uitreus italus transmitto ars
-argilla fingo uitrarius olla uitrum liquo ferueo
-liquentia nox dies longus depuro ignis
+perfero calor immensus opus aurum perago
+genus indomitus mirus tellus
+hiberus fossor uitreus italus transmitto ars
+argilla fingo uitrarius olla liquo ferueo
+liqueo nox dies longus depuro ignis
 creta compono tenax
 figulus curro rota surgo profero uasculum
 pergo gratus induco forma
 euganeus tellus collis ater
-sulphureus fons apo semita duco
+sulphureus fons aponius semita duco
 effodio puteus subalbus eruo
 marmor refero uetustus
 coniungo curo
 opus
 manus misceo
 possum induco massa
-scyphi species oblongus simulo fingo poculum
-quea paruus circundo zona os summum studeo
+scyphus species oblongus simulo fingo poculum
+queum paruus circundo zona os summum studeo
 apto uitreus uas tenuis captura uapor
 minor cura caminus
 ualidus accendo ignis
-accensus summus foueo industrius ars
+accensus superus foueo industrius ars
 duplex munio paries firmus
-compositus limo
-displiceo uinclum praecingo aer
-silex intego dura
-tegmen fero fortis
-uis perfero ignis
+compositus limo duco
+displiceo uinclum praecingo aes
+silex intego durus
+tegmen fero fortior
+melior uis perfero ignis
 foramen compleo
 uasculum possum loquor
-opus
+opus satis
 labor
 compositus
 accendo ignis
 estuo claudo rapidus fornax
-ferio uas
+ferio uas rego inferior
 ignesco cogo
-proprius quondam species madefactus liquor aureus
+proprius species madefactus liquor aureus
 credo
-uideo pereo
+uideo peritus
 soluo
 spondus uas adhaereo
-peto sensis uitrum conuexus uideo
-durus quondam
+peto uitrum conuexus uideo
+durus
 denso
 grauis
 mollis hebeo
@@ -1795,83 +1797,83 @@ uolito leuis
 rarus fatisco
 niueus candor fuco renideo principium
 caeruleus pallor
-tuiolo tingo perfundo
+tingo perfundo
 astrum caelum imitor color fulso
 aurum fuluus persto aura
 indicium facio
-obseruo sapor
- os percipio amaror
-indicium sonus obtusus
+licet obseruo sapor
+haeso os percipio amaror
+indicium sonus obtudo
 auris deprehendo facilis
 odor grauis
-sulphur spirauo ater
+sulphur spiro ater
 
-liquidus fundo unda psus uideo
-repseo offa
-aurum uisum
- fero grauis pondus aura
+liquidus fundo unda uideo
+repso offa
+grandis muto aurum uisus
+supero fero grauis pondus aura
 liquor
-tempus lectus
-bina ministerium praesto
+certus tempus lectus
+binus ministerium praesto
 
 aurum proprius liquor semen infundo
-soluo primus coepio
+soluo coepio
 primus contero ars
 
-immisceo umor
-adueho indo littus
+immisceo humor
+adueho indo littus bacca
 senium obduco palleo uideo
-restituo quondam proprius candor nitor
+restituo proprius candor nitens
 ars nouus
 cupido facio incedo
 fingo possum perspicuus inuenio purus liquor
 sequor res pulcherrimus
-gregis meditor opus
+gregium meditor opus
 compono uolo
-pulchrus
-mirabilis possum deligo
-humanus itus ars
+pulcher
+mirabilis possum deligio
+humanus ito ars
 ludo natura creandus
 summus pando marmor concha
-genitalis annus stimulaueo hora
+genitalis annus stimulo hora
 impleo leuis conceptus ros hio
 grauidus certus aedo tempus foetus
-aetherius facio candeo unio partus
+aetherius fio candeo unio partus
 animaduerto
 roscidus induo species similis concipio ortus
-nan ros purus cupidus influxeo
+nan ros purus cupidus influo
 conspicio diffundo corpus candor
 turbidus foetus sordesco cogo
 uideo caelum palleo minor
 consto
-caelum magnus insum uis
+caelum magnus insum uolo
 mare
 uario
 luror nubilus color
 lux serenus
-foueo albus seni tithonium cubile
-pasco cerno
+foueo albus senex tithonus aurora cubile
+pascor cerno
 saturo
 grandesco foetus
 comprimo
 fulguro
 concha paueo
 resto minor ieiunus timendus
-uerus intono
+intono
 comprimo paueo inflo uentus species
 corpus gigno
-concha perhibeo abortus
+concha uere perhibeo abortus
 cutis multiplex sanus consto fero
 solidus compleo corpus partus
 
 callum reputo corpus
-sal permultus soleo purgo pereo
+sal soleo purgo peritus
 mirus
 caelum gaudeo serenus
 sol rubeo
 candor perdo
 custodio merso pelagus
-radium ualeo contingo
+radium ualeo contingo phoebus
 flauesco
 ruga traho senectus
 consto uigor
@@ -1887,24 +1889,24 @@ comprimo operio ops
 gnarus peto
 praeuenio acies proscindo acuo manus
 poena decipio sumo hostis
-solers summus prudentia uates apis rex miror
+solers superus prudentia uates apis rex miror
 obseruo fero concha
-grandus aeuum impero
+grandis aeuum impero
 pastus praecallidus duco
 capio
-urinor curo
+urinor cura
 contingo
-palor includo rete
+palor includo reliquus facilis rete
 incolumis magnus fiducia rex
 capio subeo inconstantia magnus
-squeadeo ductor amitto magnus
-dos
-aequissimus orbis
+u squeadeus ductor amitto magnus
+praecipuus dos
+aequus orbis
 candor aethereus
 limpidus laeuor
 magnus iustus corpus pondus
 
-nequis uideo contendo summus uir
+nequis uideo contendo superus uir
 pario uireo
 langueo tempus laus
 certo uenio uanus cupido
@@ -1916,10 +1918,10 @@ seruo usus
 nan spargo palleo unio candeo
 nouus efficio
 compono curo caeterus
-curo maior paro
+cura nihilum maior paro
 refero
-aego scribo doceo
-possum inuenio refero artifex
+aegeo scribo doceo
+possum quaerentum inuenio refero artifex
 res scruto
 erro
 alienus sequuo
@@ -1927,17 +1929,17 @@ peto
 mirandus
 cognosco inuenio
 fruor uita reperio
-uarius imitor gemmo efficio
-nitrum sal iniungo lympha alumen primus
+uitrum uarius imitor gemmo efficio
+sal iniungo lympha alumen primus
 seiungo aurum doceo metallum
 ostendo color
 purpureus
 uiridis
 caelestis tectum pingo mico
 creber ignis ardeo
-florifer tranquillo tempus uera laeto mas summa spargo galathea unda
-facio eximius cupio ars color
-natura ministro inuenio scaber rupes
+florifer tranquillo tempus uer laeto mare summa spargo galathea unda
+ouis facio eximius siquis cupio ars color
+nan natura ministro inuenio scaber rupes
 prouenio pars
 ars
 caerulus placidus refero neptunium pons
@@ -1945,18 +1947,18 @@ caerulus placidus refero neptunium pons
 profero
 detego aureus cyaneus conspiro aura color
 floreo mirus mos rubigo aurum suspendo os olla candeo acetum
-marmoreus completus puluis primus
+marmoreus completus puluis
 fimus puter
-humor 
+iugiuis humor reposta
 
 enumero color longus
 tabula simulo repono pictor
 uideo contingo
-priscus mirus exprimo
+prisci mirus exprimo
 pingo minor
-ingenium cunctus imitor ars iulius
+ingenium imitor ars iulius
 effingo natura expono diuersus oculus
-surgo mons
+surgo mons aerius
 imus subsido ualles
 collis protendo hiatus aspicio
 uacuus findo rima
@@ -1967,65 +1969,65 @@ maria
 lacus
 uiridis gramen fons
 nympha
-
+satyrus
 monticola siluanus conuenio
 caelum sol fruor
-uarius inteno lusus
+uarius intentus lusus
 
-ars pudet utor proprius
-immisceo metallum pergo manus
-spiro quondam aera 
+ars pudeo ut ceu proprius reliquus
+siquis immisco metallum pergo manus
+spiro aera myrhon
 excudo crispus certo fingo praesto fundo
 construo
 admisceo
-sufficio ignis doceo
-credo arcanus medito ars
-genus tormentum aer peraco horrendus miser aedo mortalis
+suffico ignis doceo
+credo arcanus meditor ars
+genus tormentum aes perago horrendus miser aedo mortalis
 alo murus apex quatio
-grauis pondus machina terribilis iaculor aer bombus
+grauis pondus machina terribilis iaculor aes bombus
 tellus tremo assulto
-oppidum  dirus strepitus
+oppidum ictus dirus strepitus
 fulmen
 horreo
 attono stupidus percipio auris littus uenetus
-pataui magnus urben rex sedeo
+pato magnus urben rex sedeo
 latus diuersus miles campus occupo
 uenetus exercitus contineo
 uarius arceo terror hostis
 for diuersus uenio
 ago
-uerto ferus mauors
- contendo
-absum
+uerto ferus mars
+pierides contendo
+unquam absum
 ausum
 munus ingratus paro
 iubeo
 lubens praesto laboro
-aequus quanui labor
+aequus quanuus labor
 gloria dispar
 ago continuus calor
 secretus ignis
 foueo reficio uis semen
 
-tempus sacer genialis hymenaeus
+tempus sacer genialis hymenaei
 perpetuus almus succendo cubile thedus coniunx
 uerus uenio dico amor
-nix uitrum derado auro hyalis paruus uas repono
+nix uitrum derado aurio hyalis paruus uas repono
 modicum ferueo os obstruo uitrum
-lapis  formo caminus
-lutum fictus
+lapis excido formo caminus
+lutum fingo
 studeo
 subdo lampas ardeo assiduus produco tepor
-superimpositus dense cinis aureus seruo semen
-fundus phiala claudo imus
+superimpositus cinis aureus seruo semen
+fundus phiala claudo inferus
 uitreus uas concludo coquo
 ostendo primus uarius frons color
-quaero ater undenus soleo nox ago
+nan quaero ater undenus soleo nox ago
 color candeo educo ars
 ater candeo exto necesse
-specto medius contrarius sensis appario
+specto medius contrarius appareo
 natura requiro
-conuenio
+conuenio concors
 
 decurro spacium extremus teneo
 do pars uidendus
@@ -2033,98 +2035,98 @@ traho aduersus sol splendor color ira
 terra caelum incuruo recumbo
 leuis motus uario uideo collum refero auis
 iuno iungo currus uolucer digno
-superbus centum argon uolo praetexo lumen penna
-fusco perfudeo color massa
+superbus argon uolo praetexo lumen penna
+fusco perfudo color massa
 puto proprius sufficio tepor
-femella mas suauis complexo foueo 
-sensis instillo amor foueo amo
+femella mas suauis complexo foueo ingremius
+instillo amor foueo amo
 dulcis langueo connubium
 dis profero partus
 pullus depono uestis incipio
 palleo obduco palla
 dies palleo
-cesso momentum tempus innumerus conspersus color uicissum
-albeo maturo foedus coniugium iunctus
+cesso momentum tempus innumerus conspersus color
+albere maturo foedus coniugium iunctus
 resoluo putruo
 uis recreo resumo
-summoueo ignis
+tepidus summoueo ignis
 genitalis uis uis subeo foueo
-ales tepidus incubo ouus
+ales tepidus incubo ouum
 nascendus adhibeo pullus intentus uigor
 mos seruo memini
 
 phoebus uerto orbis
-plurimus exigo comprehendo tempus candor
+exigo comprehendo tempus candor
 tangendus duro meta
 equus soluo
 termino aequor
 cursus teneo laeto labor tantus
-fero
+longus fero
 acia tempus adsum
-felix praemia sumo debeo
+felix premium sumo debeo
 sudor paro
-accipio uiuus mos subactum argentum pondus
-uas repono
-calefacio soleo immitto metallum liquor
+accipio uiuus mos subacio argentum pondus
+triquetrus uas repono
+calefacio soleo immitto metallum liqueo
 medium uas apto ignis
 coepero missus feruesco fumo
-puluis exiguus perfectus pars
-tens succendo follis ignis
-nan
+puluis exiguus perfectus proiicio pars
+to succendo follis ignis
+
 miror
 liquesco argentum species
 fundo canalis angusto gracilis uideo duresco uirga
 sisto
-eia ago longus ingressus
+ago longus ingressus
 pergo cura strenuus
-quondam felix perficio cursus
+felix perficio cursus
 do uicium
 condo claustrum natura resero
 inutilis humanus genus profero uideo
 
 aurum ditesco uolo
-facio possum ratio doceo tento
-abstrusus natura imus mons occulo
+fio possum ratio doceo tento
+abstrudo natura imus mons occulo
 gens humanus peto patiens exanclo labor
-precium modus summus teneo mortalis
+precium modus summa teneo mortalis
 mutatio res aequior
-uarius commertia gens apto
+uarius commertium gens apto
 certus produco ars lux
 pergo usus
-
+facio
 preciosus uilis puto
- ars
-extulo caput indefessas
-forte pater cura acuo mortalis cor
-grauis passus torpeo ueternus
-scelero genus  humanus species muto decor
+excido reliquus ars
+effero caput indefessus
+pater cura acuo mortalis cor
+grauis patior torpeo ueternus
+scelero genus  humanus species muto decus
 
 uarius agito periclum auctor scelus
 detrudo orcus fulmen
 celsus religo rupes perennis aeternus poena cogo do
-os superpono
-pelion ossa coeus lapetus saeuus typhoeus  horreo louus ira
+olympus ossa superpono
+pelion ossa coeus lapetus saeuus typhoeus fingo horreo louus ira
 fulmen dignus
-aethereus subduco sedes ignis caucasea meritum uolucer rupes promethea
+aethereus subduco sedes ignis caucaseus meritum uolucer rupes prometheus
 
 imprudens aurum inuulgo ars
 dignus poena multo
 caueo princeps res claudius
-flexibilis facio mirandus examen uitrum
-detraho praecia imposta metallum
+flexibilis fio mirandus examen uitrum
+detraho precia impono metallum
 uideo inferior longus tempus caesar
 ars perdo artifex uolo
 iubeo exuro liber aggero cumulus
 peragro miles compositus aegyptus ditissimus regnum
 timeo imperium romanus prouidus ars
 ops paro
-phaunus picus 
+phaunus picus sero
 iuppiter almus nepos
 mereo fero laus
-primus hesperius specus deprompseo altus argentum uena
-primus aurum aditus tellus reclusereo imus
-conditio uilesco ars
-uerus ago
+primus hesperius specus  altus argentum uena
+primus aurum aditus tellus reclusero imus
+conditio siquis uilesceo ars
+ago
 scribo
 uulgus pars perosus ludo
 certus arceo profanus
@@ -2135,43 +2137,43 @@ artifex
 
 scruto opus natura
 dico
-uix pateo magnus percipio labor
- dignus uoco
-uolo indico relinquo nonnullus
+pateo magnus percipio labor
+moneo dignus uoco
+uolo indico relinquo
 dico scelus nefandus
 caecus ambages inuoluo
-parce facio spargo falsus
+parco facio spargo falsus
 credo uerus refero
-ars secerno duco tento usus
+ars secerno dux tento usus
 
 pactum experientia promo
-prodo  perplexa lex ars
+prodo addico perplector lex ars
 natura uis aperio
-ars decerno
+ars assecla decerno
 primus
 
 ostendo
-uerus occurro
+uer occurro
 percipio
 ducendus usus
 
 ars modus doceo uisus
 pateo facio documentum
-fo sententia
+for sententia
 nescio furor incido
-faueo numen tero  alo culmen pieridus
+faueo numen tero  calleo alo culmen pierides
 laetus inuiso collis fons haurio sacer
 carpo frons spero
-docno praemia frons honesto
+doctus premium frons honesto
 adamo
 quaero annus
 sollicitus inhibeo solatium cura
 amor
 uacuus teneo oblectatio mens
 gratia
-animus uoluptas expleo
+animus complexo uoluptas expleo
 percurro gaudium pectus
-gaudium castalidus donum concessus soror
+gaudium castalides donum concessus soror
 digredior edico
 ignis moueo
 rego
@@ -2182,14 +2184,14 @@ perfero tango manus artifex
 moueo uis excedo calor
 iugum aequus p erduro
 laeto natura sequor
-
+rgo
 pergo
 mora retardo
-desino profero nitor spero candor adipio
+desino profero nitor speratus candor adipiscor
 propero obsto patientia fidus comes
 longus moror dies
 facio
-tempus pario breuis spero
+tempus pario spero
 conquiro possum
 quaerendus
 opto relinquo
@@ -2204,7 +2206,7 @@ duro annus
 ruber ostendo coepi
 alo perspicuus floreo
 uiola rubeo assimilis
-nito tyrius hyacinthus
+nitor tyrius hyacinthus
 sisto
 pergo
 rego
@@ -2213,15 +2215,15 @@ aberro
 mens uenio
 suadeo
 immuto ignis
-parumper intendo
+intendo
 fero tango possum
-libeo
+libet
 illesus
 meta
 modus
 seruo tempus credo
-natura imitabio
-
+natura imitor
+caeterus
 pecco
 relinquo
 corrigo
@@ -2230,7 +2232,7 @@ prohibeo
 animaduerto
 quaero
 desisto
-uis intermorior igneus
+uolo intermorior igneus
 foetus fomes pasco
 ago
 
@@ -2238,17 +2240,17 @@ desino ignis
 ruo
 reparo ars
 tento fulcio ruina
-uerus studeo augio calor 
+studeo augeo calor impatiens
 pigeo mora
 amitto
 longus tempus quaero
 adsisto opus bombicinus lychnus impono filum contorqueo trilicus
-oleum demitto leuo
+oleum demitto leuis
 retorqueo profero acus
 puter contundo forceps fungus
 contemplator
 muto aer
-uis tempestas aequo
+sumo uis tempestas aequo
 medius
 par
 torreo aestas calesco
@@ -2258,16 +2260,16 @@ nolo sedo ignis
 
 frigus
 addo primus filum sapiens accingo
-spero
-aestas superimmineo aestus
+spero satis
+aestas superimmino aestus
 occurro
 demo celer adiungo
 latus attenuo amplus caminus
 gracilis sponda apto laboro
 
-tenuis pario malignus admitto rima frigus
-limo latus crassus
-possum iussum conseruo arta tepor
+tenuis paries malignus admitto rima frigus
+limo latus crassus duco
+possum iubeo conseruo arte tepor
 pudeo cribro cinis agito
 ampulla tenuis apto tepo
 uideo inolesco foetus
@@ -2276,9 +2278,9 @@ tertius uenio aestas
 praetereo demo perfectus labor
 simulac plenus color effero purpureus
 cuncto
-puluis beatus demo
+puluis uas beatus demo
 uarius seruo usus
-caeterus uelis aurum muto metallum
+caeterus uolo aurum muto metallum
 libet afficio mortalis auxilium
 tristis depello morbus
 computo annus
@@ -2293,7 +2295,7 @@ specto
 ratio
 causa pateo
 longus spacium duco ortus
-fecerit breuus
+facio breuis
 septimus aedo mensis
 fallax homo partus
 
@@ -2307,12 +2309,12 @@ sapiens pars probo
 facio similis natura uideo
 coepero
 seruo tenor
-incoipio diuersus refuto
+incoeptus diuersus refuto
 totus perago
-orbis
-integrus
+circumago orbis
+integer
 moneo
-sperno annus obseruo res tempus
+sperno annus  res tempus
 
 studeo audio
 uer incipio
@@ -2322,9 +2324,9 @@ arcanum compono tenor dux
 moneo
 calleo relinquo
 rego discedo tento
-conflo iubeo
+uitrum conflo iubeo
 formo lutum apto caminus
-deseeo hyems
+deseuo hyems
 impedio aestas
 quanuus ualidus pertracto cominus ignis
 numerus quaero
@@ -2332,14 +2334,14 @@ pondus res
 constituo
 opus perficio
 
-uerus reputo
+reputo
 primordium
 
 
 uideo
 
-triplex consto aurum
-comprehendo pondus disto iunctus
+solus triplex consto aurum
+comprehendo pondus nihilum disto iunctus
 alterno permuto pondus pondus
 tracto
 tenuis numerus subduco curo
@@ -2350,22 +2352,22 @@ templum uoco
 templum facies praesto circundo uitrum
 pes modulus construo decet
 tenuis penetro uis spiritus
-erigo bilanx praeceps immotus persto
+erigo bilanx preceps immotus persto
 argentum massa
-contineo aurum infusus
-drachmans capio
+contineo aurum infundo
+ capio
 acuo incido ferrum
-medius acris diffundo latex pars
+medius acer diffundo latex pars
 uireo particula aurum linquo resoluo unda
 proprius niger fundus grauitas fero
 excipio
 paruus lanx recipio
 subduco
-pars  exiguus leuis pondus
+pars reperio exiguus leuis pondus
 pendo
 aurum
 artifex mirus solertia ductus computo
-reperio summus resulto
+reperio summa resulto
 numerus
 opus
 utor minuo
@@ -2384,29 +2386,29 @@ nosco
 modicus contentus pars labor
 fingo
 tracto
-figura eitulum loquor
-longus obduco ambages aedus
-quondam artifex caelo fateor
+figura loquor
+longus obduco ambages aeda
+artifex caelo fateor consulto
 uetus mandatum sybilla
 extremus prudens cedo labor
-breuis ars minimus
+breuis ars paruus
 diues usus
-primus fuluus confundo metallum conficio medicamen
-beatus puluis actutum  uis fero uideo
-grauidus purus semen aurum facilis extruto colligo arta
+primus fuluus confundo metallum confeco medicamen
+beatus puluis  uis fero uideo
+grauidus purus semen aurum facilis colligo arte
 modus
 exigo
 exto exprimo
 for par
 purpureus pars puluis aequus immisceo
 lentus succendo calor
-geminus excoo mensis
+geminus exco mensis
 series spacium prodeo color peruideo
 ternus miror annus uideo
-breuis sumo
+sumo
 maximus longus tempus quaero sedulus ars
 facio
-peracueo
+perago
 uis
 puluereus exaucto cumulus
 ocyus cresco
@@ -2416,67 +2418,67 @@ credo uanus
 priscus auctor auctus
 tenuis proicio pars unda aequor
 argentum uiuum aequor
-immensus uertus mare possum aurum
-neptunus diuus ditus fio
-stratum ludo nereides aurum eo
-purus sicco sol capillus caerulea
-color aurum haereo
-aethereo conuenio aurum
+immensus uerto mare possum aurum
+neptunus diuus diues facio
+stratum ludo nereides aurus eo
+purus sicco sol capillus caeruleus
+color aptus aurum haereo
+aethereus conuenio aurum
 aurifer inuidus ars cano
 ferus ausonia populus ago motus
 rapio resideo longus pax quietus arma
 immanis uulnus caedes
 horrendus facinus
-misceo ignobilis uulgus 
+misceo ignobilis uulgus principibu
 res permitto potestas
 praecipito
 stupidus nex mortalis ater ingero
 grauior mors labor
 augurellus tempus tutus habeo adriacus baccor sinus furor barbaricus
-magnus primoris urbs uersantem
+magnus primoris urbs uersao
 studium musa uaco
 carmen fides apto canorus
-doceo sal sermo spargo pura tento
-rego audeo lambus aedeo
+doceo sal sermo spargo purus tento
+rego audeo lambus aeder
 ludo somnus excio arctus
 datum porta gemino
 somnium seruo
 corneus pateo
-eburnus missus cano falsus insomnis uerbum
+eburnus mitto cano falsus insomnium uerbum
 cor musa
 carmen cura
-
+caeterus
 uacuus teneo gaudium mens
 semoueo
 refero uoluptas dulcis sensus percipio gratus secerno pono aram
 hedera laurus
-amoenus uireta apricus collis
+amoenus uirete apricus collis
 myrtea silua
-ueneri sacer lucus
-gratus lyeoor mitis absum pendeo spissus racemus
-primus sterno aurum
-coepo solidus surgo adamas columna
-impono consisto tectum eternus dendo uincio compages aer
+uenus sacer lucus
+gratus lyeo mitis absum pendeo spissus uua racemus
+primus sterno aurum area
+coeptus solidum surgo adamas columna
+impono consisto tectum eternus densus uincio compages aer
 instituo gemma orno grandis
-necto uetustas
+necto uetustas offeo
 ualidus conatus obsto
 sto medium diua
 templum teneo
-coetus uates comitatus honesto donum ferus
-consuesco offero
+coetus uates comitatus honesto don ferus
+uulgo consuesco offero
 res rarissimus nobilis
-sepono summus eligo numerus possum poeta
-ado gens lipomanus dignus propago etrara iuuenis uirtus mos eximius
-summus caelum sedes prŏfectus euenio
+sepono superus eligo numerus possum poeta
+assum gens lipomanus dignus propago etrara iuuenis uirtus mos auctus eximius
+superus caelum sedes prŏfectus euenio
 rego soleo mens repono
-uacuus da
+uacuus do
 pectus purus
-sacer adhibeo
-opto
+sacrum adhibeo
+fungier opto
 committo paro
-humerum uestis candeo albus induio
-accingo res
-adsistens pura fons haurio diuinus latex
+humerum uestis candeo albus indeo
+mecum accingo res
+adsistens purus fons haurio diuinus latex
 manus capio lilium plenus
 colligo uarius cespes flos
 late
@@ -2486,8 +2488,8 @@ suauis compleo uapor
 phoebus
 numen sanctus soror habeo
 diuus paean canendus aeternus spargo mortalis aura
-uigeo sumo dius carmen uires spiritus
-summus deduco aether uates
+uigeo sumo dius carmen uis spiritus
+deduco aether uates
 haustus fas spero precor
 animus primus famulor annus
 candeo taurus niueus iuuenca constituo musa sacer
@@ -2498,83 +2500,83 @@ do
 longus luceo aetas foueo
 ratus nutus facio benignus
 precor
-supplex uoueo prex iuuenis
-superior maior reseruo
-insinuo temet diuinus
-res ago
-deus omen certus annuo
-liquidus  altarium flamma
-conor
-promissum pars persoluo queo
-sanctus quondam facio pater
-occupo detineo auris libellus ineptus
-arcana quanuis aedeo dedala natura
+supplex uotum prex iuuenis
+super maior reseruo
+insinuo diuinus
+rite ago
+deus omen certus annesco
+liquidus  altar flamma
+mecus conor
+uoluo promissum siquis pars persoluo queo
+sanctus facio pater
+occupo detineo paruulus auris libellus ineptus
+arcana quanuus aedo dedalus natura
 ars praepotens munus
 facio uisus
 mirus confido uecors
 uideo possum mirus
-humanitas supragressus modus humanus pareo facio
-humilesimumuus cogito
-superior sedes adeo gradus
+humanitas supragredior modus humanus pareo facio
+ cogito
+supremus sedes adeo gradus
 diuus ineo terra uicis
 
 insto
-pergo tuus faueo concitas numen ordior
+pergo tuus faueo concito numen ordior
 
 pollico
 reddo
 queo
-spiritus caelum possum afflo pusillus
+spiritus caelum potens afflo pusillus
 serenus uideo mens precor
 soleo offero
-abnuo impendo mora
+abnuo impendeo mora
 intueor
 inspicio rego tendo arduus
 ineo asscensus
 iter
 
 secus dico insanus
-deus excors mens
+deus excors impus mens
 expers consilium
 ratio
 pietas indigeo
 sapiens mens concipio
-uox clamo splendidus facio
-possum dexter tenere
+uox clamo splendidus facio sum
+possum dexter eos tenere
 rego
 nutus facio
 tempero
 sum
 impero singulus
-uerus leuis uideo scando gradus
+leuis uideo scando gradus
 animus uerso
 tendo
 possum uis mortalis conor fero
-supernus caelitus  aura
+supernus caelitus spiraro aura
 fauor praesto
 perquiro dicendus
-furor perceo
+furor percio
 pauor tremor
 comes reuerentia
 magnus
 premo
 admoneo paruulus
-pondus grauis impar humus subeo
-uerus amor  inaccessus facio peruius
+pondus grauis impar humerum subeo
+uerum amor potens inaccessus facio peruius
 spes fides prodeo
 hortor
-penis cogo ingredior ratio intimus latens iter
+cogo ingredior ratio intimus latens iter
 ago impero deus
 rex
 hero
 uideo
 spiro queo
 iubeo dominus
-lubo
-experiar
+lubeo
+experior
 
 precor
-coepio faueo
+coeptum faueo
 uolens adsum
 iubeo praesum
 superbio precatio
@@ -2584,63 +2586,63 @@ enarro polus orbis gloria
 supernus suspicio
 uecors rudis
 cogito
-uoluo secus stupeo
+uoluo stupeo
 
 uideo
 orbis fero
 uicissitudo seruo ratus consequor tempus tenor
-lex casus do iussus
+ casus do iussus
 aequo prouidentia benignus distribuo munus
-orbis caeterus pars uideo
+orbis pars uideo
 uersus
-desino mirarier terra pateo subiacens ambitus
-fundo aer
+desino miror terra pateo subiacens ambitus
+fundo aes
 terra margo fundo mare
 exorno
 uita perago
 stirps genus tollo humus
 uestio tellus almus aemulus gemma
-multiformis uagor animo proles amplus spargo tractus terra mar cresco
+multiformis uagor animo proles amplus spargo traho terra mare cresco
 uis fero
 possum
 natura proprius impetus do
-addo liquor lucidus fons fluxus
+addo liqueo lucidus fons fluxus
 altus amnis cursus uades ripa amoenus
-collis aprica
+collis apricus
 herba suauis uireo campus
 imus mons subsido ualles
 alo erigo conuallis mons imus
-limpidus sterno lacus uirentus rupes cacumen
+limpidus sterno lacus uirens rupes cacumen
 serenus mens praeditus
 miror
 miraculum immensus marius littus uastitas
 insula uarius gratus situs
-reddo seruo decet orno orbis pulcherrimus
+reddo seruo decet ornatus orbis pulcher
 
 
 aestimo
 mundus sentio
-opus summus opifex munus scio
-deus imago similitudo aedio 
+opus superus opifex munus scio
+deus imago similitudo aeditus nosco
 diuinitas capax
-sapientia mor particeps
+sapientia mens particeps
 dos exto animus corpus ualeo
 dignitas sedeo
 sto
 ambulo
-ora uenustas agilitas uultus gratus sum
+oris uenustae agilitas uultus gratus
 uis insum animus
 celeritas mens
 uigor
 solertia
 suggero discutio
-
+siquis
 inquam
 secus puto
-emitto uox uates summus gens caneo
+emitto uox uates summus gens cano
 magnifico opus rex rex
 sapientia creo singulus
-sentio uerus lego
+sentio uerum lego
 diuinus
 uideo queo
 possum considero conspicio
@@ -2650,7 +2652,7 @@ magnus do scando moses
 cerno facio
 facio
 
-facio opifex summus pater efficereor
+facio opifex summus pater efficio
 facio
 perdo immensus
 incomprehensibilis
@@ -2663,8 +2665,8 @@ homo do
 uita supersum
 facies deus quaero auidus inspicio
 uocem audio dico
-facies uideo quiuus
-caua rupes locus sisto
+facies uideo quiuor
+cauus rupes locus sisto
 manus protego
 transeo
 aufero petra manus
@@ -2673,49 +2675,49 @@ uideo posterior possum
 assequor sensus nequeo
 diuinus quaerito
 rimor
- immensus maria
+uasculum claudo immensus maria
 indico consto
 quaero maximus res scrutator
-altus littus mar undisonus tendo inquiro grauis sensus
+altus littus mare undisonus tendo inquiro grauis sensus
 amplus trinitas ambitus aurelius
 
 solus uaco
 cogito
 exitus
 habeo inuenio anxius
-dulcis uisus infantulus tenellus sustineo concha manus
+dulcis uisus infantulus paruus tenellus sustineo concha manus
 uasti lympha marmor compleo scrobis
 pronus facio soli digitulus paruulus nixus
 cerno
 inquam
-cogito puellus aequor fluctus cauo tellus ist concludo
+cogito puellus aequor fluctus cauo tellus concludo
 puer
 facio leuis puto
 
 contineo
 uilo contineo
-expeto  capax
+expeto fio capax
 dico
 nubes alo prodeo
 euanesco
-congruus modus intellego
+congruus modus intelligendus
 pars queo
 deus
 
 facio
 sensus capio
-mens sensus sequace tantus creator unicus sentio
+mens sensus sequax creator unicus sentio
 credo
 complector
 amo
 caritas uinculo teneo adstrico
-aeternum mereo consequor confido
+aeternus meritum consequor confido
 adscensus
-creo magnus orbis conditor
+creo magnus orbis uniuersus conditor
 uita praesum sensus
 mens eo sensatus
 uisus cognosco exordium
-uireo arbor terra comes orno
+uireo arbor terra coma orno
 floridus herba sterno
 uber fructus do
 mando
@@ -2723,9 +2725,9 @@ uita primus datum
 unda
 aeraue
 aridus animo compleo
-sensus appetitus aungo uis reddo
+sensus appetitus augeo uis reddo
 solers ultimus mirus genus facio homo
-mens ualeo efficio
+mens ualens efficio
 usus remotus
 do
 iussus declaro
@@ -2733,7 +2735,7 @@ deus
 inquam
 cor diligo
 uita
-fons ceu
+fons
 fluo
 anima
 sensus
@@ -2743,19 +2745,19 @@ mens
 praesto terra colo
 uiuo
 sentio
-creo summus conditor
+creo summus uniuersus conditor
 acies mens cerno
-sequo assequo semita clemens
+sequor assequor semita clemens
 misericors
 praesens deus
 cognosco reddo
 
-
-precor supplix
+siquis
+precor supplex
 duco
 
 potissimus
-excors eo humanus genus mando quondam
+excors eo humanus genus mandatus
 inquino seclum committo scelus
 sempiternus luctus tueor maximus caelum pater poeni destino crimen
 immensus moueo caritas copia
@@ -2763,44 +2765,45 @@ natus salus mitto
 efficio
 benignitas
 misericors clementia
-uersus homo
+uersus nobiscus homo
 ignarus deus homo
-summus pater testis
- ueritas
+superus pater testis
+foro ueritas
 semita
 tendo supernus patria
 testis excello
 res ago
-i;la orbis pando singulus
-sanctitas uita
+i;la
+orbis pando singulus
+sanctitas uita actus
 serendus uulgus uox
 frux comparo bonus
 doctrina scribo
-mysticus sensum magnus eruo sacrarius
-uolo sanguis uita pius fundo cruciatus ductus
+mysticus sensus magnus eruo sacrarius
+etqui uolo sanguis uita pius fundo cruciatus ductus
 labor angustia
 altus pectus gero
-amor arctum colligo uinculo
+amor arctus colligo uinculo
 expeto
 testor mirus
 facio pater praedicandus nomen
 inscius terus dica
-secundum prosequor
+prosequor
 magnus
-excedo humanitas singulus capio relinquo inscius parens nascor annus nobilis peritus sedeo templum puer
+excedo humanitas singulus capio relinquo inscius parens natus annus nobilis peritus sedeo templum puer is
 mirus
 peto audio
 nuptia mirandus facio
-uinum permuto
+uinum permuto aqua
 precor regulus dico
 
-i nascor uiuo
+eo nascor uiuo
 morbus hora sospes relinquo
 
 sequor
 dico
 mirus
-surgo uoco aegroto senex
+surgo uoco illicus aegroto senex
 fero sanus lectulus perambulo
 caecus
 uideo
@@ -2808,30 +2811,30 @@ uideo
 panis
 piscis iesus sequutus reddo uulgus satur
 puella saxum uerbero publica detineo summus libero iudex
-pecco
+pecco amplus
 putridus excito morior
 homo
 
 uersus sedeo
-
+eo
 loquor
 audio
 esurio
 sitio
 uiuo facio
 facio
-uerus infans loquor
-pius maximus coetus uir explio plenus os 
+infans audeo loquor
+pius maximus coetus uir expleo plenus os queo
 finis
 peccator miser pergo loquor
 mors passio ultimus impius mysterium
 redemptor
-quaenam paueo suppeto uox
+paueo suppeto uox
 fero concieo terra tremor
- lumen abditus
+lunus lumen abditus
 sol do tenebra
-condio pater suresses monumentum
-sanctus uenisse ciuitas
+conditus pater monumentum
+sanctus uenio ciuitas
 appareo sequor gloria
 subigo mors
 oculus lachryma do
@@ -2841,9 +2844,9 @@ do
 inquam
 lachryma
 imus procido pedes fleo
-solutus lauo pedeo
- fleo abluo uulnus
-infligo sanctus corpus
+solutus lachryma lauo pedes
+exosculer fleo abluo uulnus
+infligo sanctus nefandus corpus
 do
 ostendo
 uerus emano liquor uita
@@ -2855,15 +2858,15 @@ doceo
 laeto
 do
 
-committo fleo da pater
+committo fleo do pater
 oro
-seruius
+seruio
 complector
 puto
 concedo mens iussus seruo
 iniquus exeo semita ostendo
-sedulus solum sequo emancipo unicus
-egomet abnego
+sedulus sequo emancipo unicus
+abnego
 tollo crux ostendo
 laeto
 do
@@ -2880,7 +2883,7 @@ uia ostendo salus
 praesens do
 nox promptus dies sum
 supplex uolo
- remitto tempus pungo nomen
+remitto tempus pungo nomen
 exto nomen
 ardeo iesus caritas prosequor
 animus pendeo
@@ -2889,33 +2892,33 @@ ignoro
 compono mens
 continuus fluctuo anxio cura
 progredior iter
-bonum sepono
-distantia cerno
+bonus sepono
+disto cerno
 differo
-uarius ambages breuium attendo uita momentum caducus
-inuoluo
+uarius ambages breuis attendo uita momentum caducus
+implicitus inuoluo
 ingero
 produco
 propero
 sisto aeternus opus
 recedo
-bonus facio praemia accipio
-sons uitium pendeo poena
+bonus factum premium accipio
+sons uitium pendo poena
 refero perfero imus manus
 aeternus ignis
 frigus dirus
-maior tormentum liceo
-uerus horrendus ignis
-iactura grauus
+maior tormentum licet
+horrendus ignis
+iactura grauis
 uisus hora opifex res
-uisus sanctus fruor pectus
+uideo sanctus fruor pectus
 terra ualidus tollo nixus possum
 superus recondo coetus
 dubito opus conscius spes
 fretus ualeo mereo
 dubito
 cupio rex damnum
-quondam
+
 bonus pius
 facio assimilo
 ater ingressus nebula
@@ -2925,62 +2928,62 @@ erro aspicio
 durus ludibrium mors perfero omnipotens
 splendidus uita lumen praefero
 erro licet
-possum insisto calleo
-ago iunctus manus concedo supplex audeto
+certus possum insisto calleo
+ago iunctus manus concedo supplex audetum
 uenio expecto
 amplus gremium accipio
 pergo
 committo fateor incipio
-delinquo doleo peniteo
+delinquo doleo penitet
 ratio expurgo
 promptus luo crimen poena
-exprimo pectus uox effundo
-gratia moxaderitus
+inferus exprimo pectus uox effundo
+gratia moxaderio
 amplector
 caelum gaudium
 maior supersum
-grato contingo  uitium superus caelestis regnum
+grato contingo conuersus uitium superus caelestis regnum
 
 sanctissimus uita terra
-supero conuexus fero
+conuexus fero
 dies
 res condo auctor
-lingua animus faueo
-laetus laudee laeto cano carmen
+eo mecum lingua animus faueo
+laetus mecus laus laeto cano carmen
 rex caelum reddo grates
 pater sanctus primus
 religio
-uerus fides obseruo cor
+uerus fides obseruantia cor
 pergo dies laetus solennis duco pompa munus immensus plenus caelestis honor
 soleo
 regalis ornatus pectus purus prosequor
-cunco complector cultus christicola procer
+cunctus complector cultus christicola procer
 medius fidelis concilium
 lectus praecello ordo pater
-sat tristis do tempus luctus
-scelus
+lachryma tristis do tempus luctus
+scelus satis
 crimen
-iugis defleo os
+iugum defleo os
 prex addo
 clemens exaudio redemptor credo
 fessus homo parco res
-miser quondam uiolao iniquus turba modus
-tulo pius ludibrium sentio
+miser uiolo iniquus turba modus
+fero pius ludibrium sentio
 soleo memoro
 uideo
-elengo
-discipulus fugio
+elengero
+discipulis fugio
 saeuus latro rabies septum
 durus reuincio nexus
 procer compitum rapio
 uulgus uesanus rideo
-conspueritus
+conspeo
 flagrum afflixo
-profanum ritus diuinus corpus
+profanus uexaro ritus diuinus corpus
 haurio sanctus scriptor
 largus fletus compleo
-grauis mens affecta promo cor dolor
-sublo crux uideo omnipotens auctor res perfero dolor
+grauis mens affectus promo cor dolor
+tollo crux uideo omnipotens cunctus auctor res perfero dolor
 durus mors cruciatus
 perfero terra
 sentio
@@ -2991,25 +2994,25 @@ maneo
 
 nutus moueo
 ministro
-preterio celebro dies
+ celebro dies
 tero seruo
 pius permisceo dolor
-lachryma hilor perfundo mens laetitia opus
+lachryma hilaris perfundo mens laetitia opus
 uultus praefero serenus gaudium
 cedo
 maximus
-deludo passus mortalis aeger occido caedes infandus
+deludo patior mortalis aeger occido caedes infandus
 mors subigo
 conditio homo supero
 postis horcus perfringo
-uictor super conuexus redeo uolo
+uictor superus conuexus redeo uolo
 confero
 deus
 uetus homo
 mortalis
 
 
-diuinus inhereo mortalis
+diuinus inhero mortalis
 uideo praebeo
 dubius supersum
 lucas resurgo
@@ -3021,12 +3024,12 @@ surgo
 uitus transitus summus apex uirtus relligio
 caelestis superus
 patria supernus
-causa saupera sedes proficiscor adeo genus humanus
+causa superus sedes proficiscor adeo genus humanus
 duco secus possum alacer
 eo uolo
 sino socius desero uagor locus fero
 tenebrosus antrum consero uepres
-saxum duco
+asper saxum duco
 uarius perplexus error uia exerceo
 premo
 fatigo
@@ -3035,151 +3038,151 @@ uagus fallax trames sisto
 doceo eo uia presens
 aequus reduco
 
-reuoco soleo primus co tryphon
-parumper deuius rego declino uideo
+reuoco soleo primus carus tryphon
+deuius rego declino uideo
 ordior
 paruus possum carmen uis
 aethereus secerno uestigium cantus pono sequor
 afflo profero os cithara uates
 imitabilis carmen
 homo capio
-cano fateor ueri commoueo numen phoebus
+cano fateor uerus commoueo numen phoebus
 uox
-sacer limen tendo suspicio
-humilis pronus adoro tento fauor praebeo prex creber onero
+sacrum limen tendo suspicio
+humilis pronus adoro tento siquis fauor praebeo prex creber onero
 affectus motus
 proprius benignus assentio
 munus mens
 spes persto
 
-quondam cano
+cano
 
-linquo lex praeceptum  lego grauis auctor
-uersor gratus foro
+linquo lex praeceptum uetustus lego grauis aucti
+uersor gratus
 apto senilis annus
 nescio tenuis dulcedo capio
 aetas soleo iuuenilis ludus
 permitto inanis duco
 
-studium conuenientia offendo purgo auris
+studium conueniens offendo purgo auris
 concentus cesso adhibeo prior
-solitus laus probo subdo celer curro ictus
+soleo laus probo subdo celer curro ico
 hortor
 
 
-moneo
+moneo instituo
 
 possum
 pius cogo munus
 gratissimus
-ultimus seruo
+musa ultimus seruio
 optatus culmen tendo
-pius mirus conamen mor sacer teneo
+pius mirus conamen mens sacer teneo
 par ueneror honor
 ago
 posco possum decet
 tento
-aspiro ardeo canor
+aspiro ardens canor
 modulor
 aether aptus laudes
 fero honor
-intuitus rex rex rex cano
+imtuitus rex rex rex cano
 prior
 sequor
 amicus mitto
 intermitto uoco
-
+tryph
 desolo coepio gaudium pater
 dispergo pauor horribilis aego
- fleo
+defunctus fleo
 exeo sepulchrum uideo mirus percello cor stupor
-
-prosternatus coepio gaudium mater
-pauidus hilor uultus nuncius offero aethereo caelum culmen mitto
+aurel
+prosterno coepio gaudium mater
+pauidus hilaris uultus nuncius offero aethereus caelum culmen mitto
 tristis placidus mulceo pectus dico
 tremor inuado terra
-reuulsus
-custos conicio agmen terror
+reuuldo
+titus custos conicio agmen terror
 tumulus haereo firmus tegmen
 saxum
-strepitus fugio malus tartara manes
+aulus strepitus fugio malus tartara manes
 praeuenio sentio lumen
 possum minimus tegmen condio
-uerto bonus sensus oculus dominus
+titus uerto bonus sensus oculus dominus
 res pater deus
-expecto longus tempus christus
-alacer ueneo limen lucas aeternus praetento dux uexillum sequuo
+expectao longus tempus christus
+aulus alacer uenio limen lucas aeternus praetento dux uexillum sequuo
 sons mereo miser liqueo tenebra
 desino
 bonus certus paro premia uideo sedes beatus
-terra liquor caducus mortalis pondus
-uis labor dolor agito
+terra liqueo caducus mortalis pondus
+uolo labor dolor agito
 timor
 fraus
-dolum
+dolus
 dirus uoluptas innumerus error comitor tumultus
 mortalis uexo
 ango
-admoueo propinquo
+caeterus admoueo propinquo
 securus quies
 exercito cura uita maneo
-bonus indiga
-uiuo contentus saeculum uisus
+bonus indigus
+uiuo contentus solum saeculum uisus
 requies do uideo
-summus quies
-beatus p aeuum finis fruor
-caelestis fauor incipio secundo
+summa quies
+beatus p erpetuus aeuum finis fruor
+titus caelestis fauor incipio secundo
 carmen cano uideo
 aurelius studium desero cantus
-
-modulor do adiumentum tryphon
+aulus
+modulor do adiumentum tryphos
 fugio trado
 repeto
 afflo honor manus addo ebur decus
-quondam supero gratia carmen
- rapio flumen nympham
-fluito equus teneo lora
+superao gratia carmen
+silides rapio flumen nympha
+fluito equus teneo lorum
 consilium compos ualeo discerno
 pars rego
 terreo maior fluentum
 obsto coenosus palus lento tenax
 quadrupes possum ungula uello
 
-uector duco amnis
+uector uis duco amnis
 timor
-gurges altus mergo
-expes fero unda
+gurges altum mergo
+expo fero unda
 spes
 certus fidelis auxilium ratio
 ingens plenus pauor
 expono manifestus periclum
-graius quondam fingo poeta
-lyra plectrum teneo ueho ario auxilium possum ostendo delphin
-no exiguus conteno flumen ripa immanis tollo guttur cetus decimus 
-uates mirus  coepio hiantus uastus uenter recondo
+graium fingo poeta
+lyra plectrum teneo ueho arion auxilium possum ostendo delphin
+no exiguus contendo flumen ripa immanis tollo guttur cetus eglutio
+uates mirus lona coepio hiantus uastus uenter recondo
 deus parens moneo
-iubeo urbs peto niniues
+iubeo urbs peto niniue
 mandatum fero horrendus
 tharsi declino
 deus
 cerno
 lateo
-naues conscendo pauidus
+nauis conscendo pauidus
 imum gubernaclum recipio
 pauito recondo
 magnus misceo murmur pontus incipio
 exhorreo nauta
 timeo magister
-socius supplex uoueo precor
+socius supplex uotum precor
 tempestas subitus perquiro causa conor
 sors iacio
-oro lonus
+oro lona
 sors persedeo
-aequus consulo
+aequum consulo
 saluber consilium do aio
-cunctus agmen facio mare praeceps iacio
-nomen incommodum fero
-iussus deus perfeco amens
+agmen facio mare praeceps iacio
+nan nomen incommodum fero
+iussus deus perficio amens
 
 trepidus seruo potestas offero
 rapio sublimo
@@ -3195,7 +3198,7 @@ caelum lumen cerno
 supersum sapiens expedio
 oro supplex uenia peto
 deus impero
-leuis siccus expono illaesus
+leuis siccus expono alga illaesus
 trux detineo aluus triduum terni nox
 populus urbs res possum iussus adeo
 profero minitor uerbum
@@ -3204,42 +3207,42 @@ iussus facesso
 scelus deus expurgo remitto
 parco subicio nosco pater
 pius humanus genus committo parco
-immeritus leo crimen poena
+immeritus luo crimen poena
 mors adeo
-ternus dies iaceo sepulchrum substinuitus
+ternus dies iaceo sepulchrum substineo
 gens salus affero
-uia saupera conuexus recludo
+uia superus conuexus recludo
 locus
 tempus magnus
-paruus uelis
+paruus uolo
 cura
 possum arceo periclum
-caelestis fauor afforo
+caelestis fauor afforeo
 deus
-antonius
+mecus antonius
 precor
-uonicus
-prudens mens uoluo
+uonicus uideo
+prudens mens uolutus
 angustus agito
 assisto iuuenis
 fluentum prosilio ouo
-ripa contineo sedulus
-ferio dexter capio
+ripa contineo alter sedulus
+ferio dextera capio
 reno auris
 
 metuo
 inquam
 procedo
 eo mitis
-equus
+asper equus
 ripa propinquo
 manus expono placidus
 resisto
 incolumis siccus tellus repono
 alacer abeo
-reddo conor superus mereo pectus grates
+reddo conor superus mereo inferus pectus grates
 memini regio uideo
-uiseo
+uideo
 contingo uideo
 requiro scio habitus
 uiridis floreo iuuenta
@@ -3247,21 +3250,21 @@ medius praesens haereo unda
 altus
 eques aequo eundus
 latus ingens humerum incedo heros
-attentum ripa margo dico expecto
+attentus ripa margo dico exspecto
 manus praebeo rogo
-agilis agendus aptus res
+agilis dexter agendus aptus res
 uultus praesto honor
-geminus pollux castora iacto prisca aetas
-praesens auxilium
+geminus pollux castor iacto prisca aetas
+multus praesens auxilium
 fingo diuus facies uirtus licet
 commentor amicus
 deus succurro res
 pius affligo homo miseror aeger
-mereo benefago rependo
+meritum benefactum rependo
 epulae inuito amicus
-nosco agolans teneo
+nosco agolas teneo
 gusto necesse
-confero uelis prandium
+confero uolo prandium
 moneo facio
 praeuius
 gustus exacuo
@@ -3273,32 +3276,32 @@ uis humanus possum fero
 laboro tendo
 animus studium expleo beatus
 humanus nomen digno
-lingua trado notus
+lingua trado nota
 maneo grandis caeterus
-uerdo
-sedulus unus incumbo
+uerto
+sedulus incumbo
 satur reuertor expleo
 conuiua sagax ingenium uideo
-epulus odor gusto immunis expers sapor
-praestantia
+epulae odor gusto immunis expers sapor
+reliquus praestantia
 cupio
 quaero mortalis cor
-uerus
+
 lux malignus tendo
 uarius circunfundo tenebra inuenio
-similis uerus  dico possum casus
+similis uerum reperio dico possum casus
 ratio opto quaero
-proprius tento indago mor
-sapiens sophia deduco caelum terra dico
+proprius tento indago mens
+satis sapiens sophia deduco caelum terra dico
 contemplo relinquo
 assuo perquiro auens uis
 edoceo specto proximus
 uirtus amplector
-uitium insectariers
+uitium insector
 perpetuus uita compono lex
 
 
-melior 
+melior sequo
 possum confero
 res inanis res contendo umbra
 
@@ -3308,11 +3311,11 @@ studium addico uacuus teneo
 
 tempus exto
 incipio sector
-caepera
+caepo
 inquam
 plenus
 amplector sector
-impello cassellius conscendo cum comes
+impello cassellius conscendo tecum comes
 aequalis oro bononius adopto
 dulcia
 cano
@@ -3320,31 +3323,31 @@ superus conuerto carmen laudes
 grauis diuerto semita uates
 uonicus antonius almus assiduus lex manus uerso puto uir
 lego
-uiderit expleo falsus inanis
+uideo expleo falsus inanis
 
 iacto
 cognitio magnus
-animus nempe capax
+animus capax
 
 caelestis
 capto
 fas scio
 liber corporeus uinclum caecus carcer mens
-uolo
+uolo licet
 frequens suspicor affectus
 requiro mens
-amor possum
+amor potens
 
 relinquo terra socius fruor species fides
-aeuum eligo comitor olympus
-amoena petrus uideo uagus locum puto uanus uideo somnium
+aeuum eligo demos comitor olympus
+amoena petrus uideo uagus locus puto uanus uideo somnium
 uideo
-alo lubricus prospicio
- canora
+alo inanis lubricus prospicio
+auo canorus
 arbor leuis coma
 acer murmur insono frons
 moueo fauonius
-canes aequus feruido
+canis aequus feruidus
 fugax lepus
 puella flos uincio nouus caput
 amor laetus uagor leuis puer
@@ -3356,7 +3359,7 @@ ops
 ager
 domus
 uanus
-habeo integer
+habeo sui integer
 possum
 firmus
 consonus
@@ -3364,18 +3367,18 @@ forma
 robur
 decor ualeo
 honor fero
-queo  aether uideo
+queo aeditus aether uideo
 caducus
 fluo
 
-almus munus do deus expeto gratia tu
+almus munus do deus expeto gratia
 
 
-do ualer mens
-mens modo uigeo
+do ualus mens
+mens uigeo sum
 humus grauis relinquo pondus
 sacro polus perennis leuis uolo domus
-fruor aureus uicis uigor
+fruor aureus pueo uicis uigor
 salus intimus
 uigor
 salus
@@ -3387,24 +3390,24 @@ imus colo
 caput tueor
 promptus exero
 grauis moror
-explico leuis altus alio penna
+explico leuis altus alo penna
 caelum mens
 solutus corpus
 peto
-uita perfectus uiri beatus
-fruor queo
+uita perfectus uir beatus
+fruor paucus queo
 sustineo dico colendus primus sacerdos affecto
-sperno
+spons sperno
 mundus uis peto
-unus sequor
+sequor
 complector
 altus mons lateo patria
 amicus
 carus haereo
 possum
-studeo placo
+studeo placeo
 dedico
-urbs dego percio sons metus solor
+urbs dego percitus sons metus solor
 audio
 excito
 terreo
@@ -3413,16 +3416,16 @@ hortor
 promoueo mirus modus uicia relinquo decet
 fas
 
-ius miser conuenio mortalis
-expeditus pius cultus traho ipse uolo
+miser conuenio mortalis
+expeditus pius cultus traho uolo
 alo dirigo specto
-mens honusta corpus torpor allucinor suspicio
+mens honusta corpus torpor allucino suspicio
 
 
 secundus sedes debeo
 tertius
 paro sanctus lex compello
-seruar mos
+seruo mos
 abstineo fraus
 uacare cupiditas
 inanis gloria
@@ -3434,15 +3437,15 @@ labo
 uagus uarius cursus incido noxius
 infirmitas aproporto
 ingero humanitas persecutor impius
-conscius opifex res deus acerbus mors quondam subsfero
+conscius opifex res deus acerbus mors subsfero
 immensus infinitus prouidentia extinguo
 iuuenta  serenus
-malus contagio contaminatus orbis ingruo
-labo mos improbus secus traho
+malus contagio contaminas orbis ingruo
+labo mos improbus traho
 lugeo parens carus pignus abripio uarius dolendus casus
 amor coniunx uir
-uio dicissis coniunx tenellulus fletus
-
+uir coniunx tenellulus fletus
+lachryma
 pius ululatus dies nox expeto
 quaero
 uoco misellus
@@ -3461,16 +3464,16 @@ durus sentio procreo robur
 natura exto insero dolor
 dolo fas uicis carissimus
 perpetior luctus
-dolor iustus uis resedo
+dolor iustus uis resendo
 finis
 sinus recipio
 cogito
 receptus caneo
 commodum fero
 uideo sentio decet
-sanctis exeo iussus caritas terminus
+sanctus exeo iussus caritas terminus
 uideo
-
+alloquor
 uiuus fruor uolo
 coniunx proles do carus
 ops utor
@@ -3487,33 +3490,33 @@ terra quaerendus
 assequor possum
 elaboro
 magnus facio probo
-anxius terra mare
+terra mare
 domus
-fio
+facio
 peto periculum
 dignus honor
 error mens uanus do
 paro
-molestia
+molestia prŏfectus
 iucunditas affero
 secus actus puto
 iuuenta profero
 uideo
 inquam
-mortalis acerbum casus
+mortalis acerbus casus
 uoluntas affero malignus
-potestas acrus
-fero possum aequus uirtus
+potestas acer
+fero possum aequus uirtus unquam
 labor labor connexus superuenio
-concio quies do labor malus fluctus
+concio quies do labor malum fluctus
 
 priuo
 publicus
-incommodum
-patria fero tempus
+uniuersus incommodum
+iniquus patria fero tempus
 sentio
 coelitus uaco chorus
-diuus ambulo feliciter
+diuus ambulo
 beata perfruor gaudium suspicor possum
 dico audeo minuo uersus
 
@@ -3524,77 +3527,77 @@ certo contendo uates
 sacer appropero haurio liquor
 queo caput opto uincio corona
 perpetuus uireo puto uertex laurus
-cerno nonnullus mons imus radix fero
+cerno mons imus radix fero
 radix moror contero aeuum pars melior
-alo specto contineo culmen
+alo specto contentus culmen
 diuinus latex ualeo contingo summus os
 ramus felix arbor almus
 refero
 repto laboro sors frons lego cado
 medius septum magnus conamen rupes
-admitto
- locus queo uideo
+pauci admitto
+locus queo uideo
 pono audeo contemno
 tollo
-summus scando sisto
+summus scando uertex sisto
 laurus
-limen fons  musa ara phoebus sacerdos
+limen fons constituo musa ara phoebus sacerdos
 affor diuus audio uideo felix
 conuallis propinquus uersor do
-opto
+fortunate opto
 opera do
 demo assuesca
 diuinus tueor
-profero pes tardo senectus
+profero pes tardo senectus audeo
+satis
+pes claudus infero lutulentus salebrosus uia
+priscus uenio uolo
 
-pes claudus infero lutulentus salebrosa uia
-priscus ueneo uolo
-
-seriades ostendo nympha digno dux comes dedo
+seriades ostendo nympha dignates dux comes dedo
 pergo
-iugis peruenio alo culmen
+iuuo iugum peruenio alo culmen
 uis
-praesto iuuenta uida possum adeo
+praesto iuuenta uidus possum adeo
 fero labor
 nan agito
 animus reuoluo
 
-manifesto lumen pando
-uanus ludo puella 
-nexus extrico
+lumen pando
+uanus ludo puella pierides
+mirus nexus extrico
 doceo fingo serica uideo filum manus propero
-internecteo
-quea implico
-uolo pergo circundo 
-oriio uates committo alo formandus uideo omen certus
-attonitus duxo altarium circum
+internecto
+queum implico
+uolo pergo circundo bombix
+oreo uates committo aleo formo uideo omen certus
+attonitus duco altar
 ternus cingo chorea
-actutus fulsero flamma
+fulgeo flamma
 ludus bellus simulacrum cieo doceo dico possum
 uerus mars strepitus signum tubo audio
 uideo
 horreo fero agmen concedo
-fero orbis aequo quondam certamen prelium cantus
+plenus fero orbis aequo certamen prelium cantus
 ago perpetuus primus origo carmen
 mens concipio
 aedis
-scelus info gens audeo impius res pater deus
-primus mandatum doceo audio auidus
+scelus infandus gens audeo impius cunctus res pater deus
+primus mandatus doceo audio auidus
 uideo mirus perago
 mortalis nan haurio oculus auris
 praesto
 diuinus fero
 terra uagitus profero infans maximus
 deus
-inuiso altus demitto caelum
+inuiso altus demissus caelum
 uilis tectum
 paruus iaceo praesepe
-uideo insolio radia fulgeo astrum
+uideo insolitus radius fulgeo astrum
 caelestis sentio cano
 flexus genu ueneror bruta
-rex diuersus orbis sequutus sicder exorior cursus
+rex diuersus orbis sequutus sider exorior cursus
 donum fero
-memor sanctissimus uita acio
+caeterus memoro sanctissimus uita ago
 confiteor deus testor
 maneo
 submoneo relligio
@@ -3604,16 +3607,16 @@ faueo conscius aether
 aeternus paro uenio saeculum nomen
 
 fors gratia tango
-exiguus tantus opus sumo pars conor orno uis
-inualidus nequeo humus pondus fero promo affectus
-debeo mor munus descendo
-replebos do carmen uires
-figo clauus planta
+exiguus opus sumo pars conor orno uis
+inualidus nequeo humerus pondus fero promo affectus
+debeo mens munus descendo
+lachryma replebus do carmen uis
+figo clauis planta
 pectus aperio
 caput imprimo confodio sentis almus
-imprimo simon luerendo
+imprimo simon luerensis
 cautum
-impressor uenetiis
+impressor ueneteus
 ditio uenetus opus imprimo
-mercator ubiuis impressum  locus quinquennium uendo
+nemue mercator ubiuus impressus locus quinquennium uendo
 duernus ternus

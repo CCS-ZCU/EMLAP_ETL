@@ -1,4 +1,5 @@
 *.pdf filter=lfs diff=lfs merge=lfs -text
+data/sents_data_jsons_dicts/*.json filter=lfs diff=lfs merge=lfs -text
 data/sents_data_jsons_dicts_backup/100085.json filter=lfs diff=lfs merge=lfs -text
 data/sents_data_jsons_dicts_backup/100100.json filter=lfs diff=lfs merge=lfs -text
 data/sents_data_jsons_dicts*/*.json filter=lfs diff=lfs merge=lfs -text
