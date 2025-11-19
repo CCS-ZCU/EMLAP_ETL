@@ -54,7 +54,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../noscemus_ETF" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -103,7 +103,7 @@
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
       <window_info anchor="bottom" id="PythonProcessOutput" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.6124454" side_tool="true" visible="true" weight="0.17166667" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.6124454" side_tool="true" visible="true" weight="0.24944445" />
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Problems" order="2" />
       <window_info anchor="bottom" id="Problems View" order="3" />
@@ -178,6 +178,7 @@
       <workItem from="1762520158735" duration="4186000" />
       <workItem from="1762879975840" duration="12429000" />
       <workItem from="1762977485519" duration="82000" />
+      <workItem from="1762981335671" duration="8349000" />
     </task>
     <servers />
   </component>
