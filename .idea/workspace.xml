@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91c6f1f3-a582-42a4-b39e-b15cfacd1d5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../noscemus_ETF/scripts/_state-entities.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WEEMS/data/filtered_vocab_df.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WEEMS/data/filtered_vocab_df.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WEEMS/scripts/1_vocabs&amp;lila-embeddings.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../WEEMS/scripts/1_vocabs&amp;lila-embeddings.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WEEMS/scripts/2_noscemus-fasttext-training.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../WEEMS/scripts/2_noscemus-fasttext-training.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iweems_huggingface/.idea/iweems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../iweems_huggingface/.idea/iweems.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../noscemus_ETF/.idea/noscemus_ETF.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../noscemus_ETF/.idea/noscemus_ETF.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../noscemus_ETF/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../noscemus_ETF/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../noscemus_ETF/scripts/.ipynb_checkpoints/1_reorganize-noscemus-directories-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../noscemus_ETF/scripts/.ipynb_checkpoints/1_reorganize-noscemus-directories-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../noscemus_ETF/scripts/.ipynb_checkpoints/4_metadata-aggregation&amp;cleaning-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../noscemus_ETF/scripts/.ipynb_checkpoints/4_metadata-aggregation&amp;cleaning-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../noscemus_ETF/scripts/1_reorganize-noscemus-directories.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../noscemus_ETF/scripts/1_reorganize-noscemus-directories.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../noscemus_ETF/scripts/2_noscemus-spacy-preprocess.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../noscemus_ETF/scripts/2_noscemus-spacy-preprocess.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../noscemus_ETF/scripts/4_metadata-aggregation&amp;cleaning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../noscemus_ETF/scripts/4_metadata-aggregation&amp;cleaning.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../noscemus_ETF/scripts/archive/.ipynb_checkpoints/_lemmata-extraction-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../noscemus_ETF/scripts/archive/.ipynb_checkpoints/_lemmata-extraction-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../noscemus_ETF/scripts/archive/_lemmata-extraction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../noscemus_ETF/scripts/archive/_lemmata-extraction.ipynb" afterDir="false" />
-      <change beforePath="/srv/webserver/apps/iweems_app/.idea/iweems_app.iml" beforeDir="false" afterPath="/srv/webserver/apps/iweems_app/.idea/iweems_app.iml" afterDir="false" />
-      <change beforePath="/srv/webserver/apps/iweems_app/CITATION.cff" beforeDir="false" afterPath="/srv/webserver/apps/iweems_app/CITATION.cff" afterDir="false" />
-    </list>
+    <list default="true" id="91c6f1f3-a582-42a4-b39e-b15cfacd1d5b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +34,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../latin-preprocessing" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -65,25 +45,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "last_opened_file_path": "/home/jupyter-vojta/notebooks/latin-preprocessing",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "database.data.views.appearance",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/jupyter-vojta/notebooks/latin-preprocessing&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;database.data.views.appearance&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
     <layout>
       <window_info id="Bookmarks" side_tool="true" />
@@ -94,7 +74,7 @@
       <window_info id="Pull Requests" />
       <window_info id="Learn" show_stripe_button="false" />
       <window_info id="R_Remote_Host" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32805234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2204861" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="R_Jobs" />
@@ -104,7 +84,7 @@
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
       <window_info anchor="bottom" id="PythonProcessOutput" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.6124454" side_tool="true" visible="true" weight="0.24965277" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.6124454" side_tool="true" weight="0.24944445" />
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Problems" order="2" />
       <window_info anchor="bottom" id="Problems View" order="3" />
@@ -181,6 +161,10 @@
       <workItem from="1762977485519" duration="82000" />
       <workItem from="1762981335671" duration="8349000" />
       <workItem from="1763724122611" duration="824000" />
+      <workItem from="1763973589361" duration="343000" />
+      <workItem from="1763973977188" duration="8651000" />
+      <workItem from="1763996988021" duration="1160000" />
+      <workItem from="1764014771844" duration="9203000" />
     </task>
     <servers />
   </component>
