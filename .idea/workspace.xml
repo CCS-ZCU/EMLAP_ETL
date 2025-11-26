@@ -34,7 +34,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../latin-preprocessing" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -74,9 +74,10 @@
       <window_info id="Pull Requests" />
       <window_info id="Learn" show_stripe_button="false" />
       <window_info id="R_Remote_Host" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2204861" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20859376" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Activity" order="3" weight="0.2204861" />
       <window_info anchor="bottom" id="R_Jobs" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -84,17 +85,16 @@
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
       <window_info anchor="bottom" id="PythonProcessOutput" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.6124454" side_tool="true" weight="0.24944445" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Problems" order="2" />
-      <window_info anchor="bottom" id="Problems View" order="3" />
-      <window_info anchor="bottom" id="Services" order="4" />
-      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
-      <window_info anchor="bottom" id="Python Console" order="6" sideWeight="0.3875546" weight="0.17166667" />
-      <window_info anchor="bottom" id="Jupyter" order="7" weight="0.33055556" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.33055556" />
-      <window_info anchor="bottom" id="Find" order="9" weight="0.33020833" />
-      <window_info anchor="bottom" id="HfCacheToolWindow" order="10" weight="0.33722222" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Services" order="3" />
+      <window_info anchor="bottom" id="Python Packages" order="4" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="5" sideWeight="0.3875546" weight="0.17166667" />
+      <window_info anchor="bottom" id="Jupyter" order="6" sideWeight="0.45628333" weight="0.25034723" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.33055556" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.33020833" />
+      <window_info anchor="bottom" id="HfCacheToolWindow" order="9" weight="0.33722222" />
       <window_info anchor="right" id="PR AI Assistant" />
       <window_info anchor="right" id="Endpoints" />
       <window_info anchor="right" id="cn.xcc.lock.gson.toolwindow.JsonAssistantToolWindowFactory" side_tool="true" />
@@ -102,7 +102,7 @@
       <window_info anchor="right" id="Coverage" side_tool="true" />
       <window_info anchor="right" id="SciView" />
       <window_info anchor="right" id="Jupyter Variables" side_tool="true" />
-      <window_info anchor="right" id="Notifications" order="0" weight="0.33020833" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.28923613" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.33020833" />
       <window_info anchor="right" id="Database" order="2" weight="0.15363371" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
@@ -110,6 +110,7 @@
       <window_info anchor="right" id="Plots" order="5" weight="0.1" />
       <window_info anchor="right" id="ElectroJunToolWindow" order="6" />
       <window_info anchor="right" id="Tabnine Chat" order="7" weight="0.27534723" />
+      <window_info anchor="right" id="Terminal" order="8" sideWeight="0.54371667" weight="0.2893229" />
     </layout>
   </component>
   <component name="RecentsManager">
@@ -165,6 +166,7 @@
       <workItem from="1763973977188" duration="8651000" />
       <workItem from="1763996988021" duration="1160000" />
       <workItem from="1764014771844" duration="9203000" />
+      <workItem from="1764162601147" duration="4369000" />
     </task>
     <servers />
   </component>
