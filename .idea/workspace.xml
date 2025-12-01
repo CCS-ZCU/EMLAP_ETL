@@ -74,7 +74,7 @@
       <window_info id="Pull Requests" />
       <window_info id="Learn" show_stripe_button="false" />
       <window_info id="R_Remote_Host" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27604166" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.121875" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Activity" order="3" weight="0.2204861" />
@@ -85,7 +85,7 @@
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
       <window_info anchor="bottom" id="PythonProcessOutput" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.54371667" side_tool="true" visible="true" weight="0.21611111" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.54371667" side_tool="true" weight="0.19833332" />
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Problems" order="2" />
       <window_info anchor="bottom" id="Problems View" order="3" />
@@ -129,8 +129,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-PY-253.28294.166" />
-        <option value="bundled-python-sdk-aa308119b56d-b1aafe368c7f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.28294.166" />
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-PY-253.28294.256" />
+        <option value="bundled-python-sdk-f79232025321-b1aafe368c7f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.28294.256" />
       </set>
     </attachedChunks>
   </component>
@@ -166,7 +166,8 @@
       <workItem from="1763973977188" duration="8651000" />
       <workItem from="1763996988021" duration="1160000" />
       <workItem from="1764014771844" duration="9203000" />
-      <workItem from="1764162601147" duration="26469000" />
+      <workItem from="1764162601147" duration="38082000" />
+      <workItem from="1764599878391" duration="21972000" />
     </task>
     <servers />
   </component>
