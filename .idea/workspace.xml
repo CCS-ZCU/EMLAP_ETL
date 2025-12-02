@@ -74,7 +74,7 @@
       <window_info id="Pull Requests" />
       <window_info id="Learn" show_stripe_button="false" />
       <window_info id="R_Remote_Host" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12951389" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19201389" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Activity" order="3" weight="0.2204861" />
@@ -167,7 +167,7 @@
       <workItem from="1763996988021" duration="1160000" />
       <workItem from="1764014771844" duration="9203000" />
       <workItem from="1764162601147" duration="38082000" />
-      <workItem from="1764599878391" duration="26935000" />
+      <workItem from="1764599878391" duration="29941000" />
     </task>
     <servers />
   </component>
