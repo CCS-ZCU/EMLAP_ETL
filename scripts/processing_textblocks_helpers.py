@@ -30,9 +30,6 @@ import spacy
 from spacy.tokenizer import Tokenizer
 from spacy.util import compile_prefix_regex, compile_suffix_regex, compile_infix_regex
 
-
-
-
 greek_nlp = spacy_stanza.load_pipeline("grc")
 de_nlp = spacy.load("de_core_news_sm")   # or md/lg if you prefer
 fr_nlp = spacy.load("fr_core_news_sm")
@@ -188,8 +185,8 @@ def _clean_block_with_mapping(text: str, page_idx: int, tb_idx: int, tb_tag: str
       - clean_text  (for nlp_latin)
       - char_src    { clean_index → metadata }
 
-    KEY FEATURE (FIX): S-placeholders (multi-char SYMBOL_PLACEHOLDER)
-    are emitted as *one logical unit* — every char receives identical metadata.
+    S-placeholders are emitted as *one logical unit* — every char
+    receives identical metadata.
     """
 
     raw_tags = extract_language_tags_from_block(text)
@@ -198,18 +195,16 @@ def _clean_block_with_mapping(text: str, page_idx: int, tb_idx: int, tb_tag: str
     char_src = {}
 
     # ---------------------------------------------------------
-    # NEW: Multi-character emitter (fix)
+    # Multi-character emitter (for SYMBOL_PLACEHOLDER)
     # ---------------------------------------------------------
     def emit_string(s, tags_here=None, symbol_text=None):
         if tags_here is None:
             tags_here = set()
         base = len(clean_chars)
 
-        # extend the clean text
         for ch in s:
             clean_chars.append(ch)
 
-        # uniform metadata for EVERY character of the placeholder
         meta = {
             "page_idx": page_idx,
             "textblock_idx": tb_idx,
@@ -220,13 +215,10 @@ def _clean_block_with_mapping(text: str, page_idx: int, tb_idx: int, tb_tag: str
         if symbol_text is not None:
             meta["symbol"] = symbol_text
 
-        # write identical metadata into mapping for all emitted chars
         for offset in range(len(s)):
             char_src[base + offset] = meta.copy()
 
-
-
-    # retained for normal chars
+    # single-char emitter
     def emit_char(ch_out, tags_here=None):
         if tags_here is None:
             tags_here = set()
@@ -240,14 +232,10 @@ def _clean_block_with_mapping(text: str, page_idx: int, tb_idx: int, tb_tag: str
         if tags_here:
             meta["tags"] = sorted(tags_here)
         char_src[clean_idx] = meta
-    # ---------------------------------------------------------
-    # Interpret S tags using emit_string()   (FIX APPLIED HERE)
-    # ---------------------------------------------------------
+
     def emit_symbol(sym_text):
         sym_text = sym_text or SYMBOL_PLACEHOLDER
         emit_string(SYMBOL_PLACEHOLDER, tags_here={"S"}, symbol_text=sym_text)
-
-
 
     i = 0
     n = len(text)
@@ -264,7 +252,7 @@ def _clean_block_with_mapping(text: str, page_idx: int, tb_idx: int, tb_tag: str
                 continue
 
             content = text[start_inner:end_tag].strip() or SYMBOL_PLACEHOLDER
-            emit_symbol(content)   # <--- FIXED multi-char placeholder
+            emit_symbol(content)
 
             i = end_tag + len(S_CLOSE)
             continue
@@ -273,7 +261,7 @@ def _clean_block_with_mapping(text: str, page_idx: int, tb_idx: int, tb_tag: str
             i += len(S_CLOSE)
             continue
 
-        # --- language tags: removed ---
+        # --- language tags: removed here ---
         if ch == "[":
             m = TAG_REGEX.match(text, i)
             if m:
@@ -289,201 +277,26 @@ def _clean_block_with_mapping(text: str, page_idx: int, tb_idx: int, tb_tag: str
         if GREEK_RE.match(ch):
             tags_here.add("GR")
 
-        latin = not (tags_here & SUPPORTED_LANGUAGE_TAGS)
-
         # whitespace
         if ch == " ":
             emit_char(" ", tags_here)
             i += 1
             continue
 
-        # Latin OCR fixes
-        if latin:
-            if ch == "ß":
-                emit_char("s", tags_here)
-                emit_char("s", tags_here)
-                i += 1
-                continue
-
-            if ch == "i" and i + 1 < n and text[i + 1] == "j":
-                emit_char("i", tags_here)
-                emit_char("i", tags_here)
-                i += 2
-                continue
-
-            if ch == "v":
-                emit_char("u", tags_here)
-                i += 1
-                continue
-
-            if ch == "V":
-                emit_char("U", tags_here)
-                i += 1
-                continue
+        # NO MORE Latin OCR fixes here: they are now done in sanitization
 
         ch_out = unicodedata.normalize("NFC", ch)
         emit_char(ch_out, tags_here)
         i += 1
-        # --- OPTIONAL: remove leading space safely ---
-# =============================================================================
-# 3. CLEAN TRANSDUCER (SANITIZED → CLEAN), INLINE S INTERPRETATION
-# =============================================================================
 
-def _clean_block_with_mapping(text: str, page_idx: int, tb_idx: int, tb_tag: str):
-    """
-    Convert a *presanitized* textblock string to:
-
-      - clean_text  (for nlp_latin)
-      - char_src    { clean_index → metadata }
-
-    KEY FEATURE (FIX): S-placeholders (multi-char SYMBOL_PLACEHOLDER)
-    are emitted as *one logical unit* — every char receives identical metadata.
-    """
-
-    raw_tags = extract_language_tags_from_block(text)
-
-    clean_chars = []
-    char_src = {}
-
-    # ---------------------------------------------------------
-    # NEW: Multi-character emitter (fix)
-    # ---------------------------------------------------------
-    def emit_string(s, tags_here=None, symbol_text=None):
-        if tags_here is None:
-            tags_here = set()
-        base = len(clean_chars)
-
-        # extend the clean text
-        for ch in s:
-            clean_chars.append(ch)
-
-        # uniform metadata for EVERY character of the placeholder
-        meta = {
-            "page_idx": page_idx,
-            "textblock_idx": tb_idx,
-            "textblock_type": tb_tag,
-        }
-        if tags_here:
-            meta["tags"] = sorted(tags_here)
-        if symbol_text is not None:
-            meta["symbol"] = symbol_text
-
-        # write identical metadata into mapping for all emitted chars
-        for offset in range(len(s)):
-            char_src[base + offset] = meta.copy()
-
-
-
-    # retained for normal chars
-    def emit_char(ch_out, tags_here=None):
-        if tags_here is None:
-            tags_here = set()
-        clean_idx = len(clean_chars)
-        clean_chars.append(ch_out)
-        meta = {
-            "page_idx": page_idx,
-            "textblock_idx": tb_idx,
-            "textblock_type": tb_tag,
-        }
-        if tags_here:
-            meta["tags"] = sorted(tags_here)
-        char_src[clean_idx] = meta
-    # ---------------------------------------------------------
-    # Interpret S tags using emit_string()   (FIX APPLIED HERE)
-    # ---------------------------------------------------------
-    def emit_symbol(sym_text):
-        sym_text = sym_text or SYMBOL_PLACEHOLDER
-        emit_string(SYMBOL_PLACEHOLDER, tags_here={"S"}, symbol_text=sym_text)
-
-
-
-    i = 0
-    n = len(text)
-
-    while i < n:
-        ch = text[i]
-
-        # --- S-tags: [S]content[/S] → single SYMBOL_PLACEHOLDER span ---
-        if text.startswith(S_OPEN, i):
-            start_inner = i + len(S_OPEN)
-            end_tag = text.find(S_CLOSE, start_inner)
-            if end_tag == -1:
-                i += len(S_OPEN)
-                continue
-
-            content = text[start_inner:end_tag].strip() or SYMBOL_PLACEHOLDER
-            emit_symbol(content)   # <--- FIXED multi-char placeholder
-
-            i = end_tag + len(S_CLOSE)
-            continue
-
-        if text.startswith(S_CLOSE, i):
-            i += len(S_CLOSE)
-            continue
-
-        # --- language tags: removed ---
-        if ch == "[":
-            m = TAG_REGEX.match(text, i)
-            if m:
-                tag  = m.group("tag")
-                etag = m.group("etag")
-                # skip all non-S tags
-                if (tag and tag != "S") or (etag and etag != "S"):
-                    i = m.end()
-                    continue
-
-        # --- normal characters ---
-        tags_here = set(raw_tags.get(i, set()))
-        if GREEK_RE.match(ch):
-            tags_here.add("GR")
-
-        latin = not (tags_here & SUPPORTED_LANGUAGE_TAGS)
-
-        # whitespace
-        if ch == " ":
-            emit_char(" ", tags_here)
-            i += 1
-            continue
-
-        # Latin OCR fixes
-        if latin:
-            if ch == "ß":
-                emit_char("s", tags_here)
-                emit_char("s", tags_here)
-                i += 1
-                continue
-
-            if ch == "i" and i + 1 < n and text[i + 1] == "j":
-                emit_char("i", tags_here)
-                emit_char("i", tags_here)
-                i += 2
-                continue
-
-            if ch == "v":
-                emit_char("u", tags_here)
-                i += 1
-                continue
-
-            if ch == "V":
-                emit_char("U", tags_here)
-                i += 1
-                continue
-
-        ch_out = unicodedata.normalize("NFC", ch)
-        emit_char(ch_out, tags_here)
-        i += 1
-        # --- OPTIONAL: remove leading space safely ---
-    # --- OPTIONAL: remove leading space safely ---
+    # --- OPTIONAL: remove leading space safely (unchanged) ---
     if clean_chars and clean_chars[0] == " ":
         clean_chars.pop(0)
-
-        # shift mapping keys down by 1
         new_src = {}
         for k, v in char_src.items():
             if k == 0:
                 continue  # dropped leading space
             new_src[k - 1] = v
-
         char_src = new_src
 
     return "".join(clean_chars), char_src
@@ -888,9 +701,16 @@ def doc_to_sent_dicts(doc, work_id):
             # CORRECTED: lemma / pos logic
             # --------------------------------------
             tags = list(t._.tags) if t._.tags else []
+            tag = ""
+            if len(tags) > 0:
+                if "GR" in tags:
+                    tag = "GR"
+                else:
+                    tag = tags[0]
+
             ml = t._.ml_data or {}
 
-            is_symbol = ("S" in tags) or ("symbol" in ml)
+            is_symbol = (tag == "S") or ("symbol" in ml)
 
             if is_symbol:
                 # REAL ORIGINAL SYMBOL OR fallback
@@ -912,8 +732,11 @@ def doc_to_sent_dicts(doc, work_id):
             # absolutely never allow placeholder as lemma
             if lemma == PLACEHOLDER:
                 lemma = SPECIAL_SYMBOL_CHAR
-            if len(lemma) > 1:
-                lemma = lemma[0] + lemma[1:].lower()
+            if pos in ["ADJ", "VERB", "NOUN", "PROPN"]:
+                if len(lemma) > 1:
+                    lemma = lemma[0] + lemma[1:].lower()
+                if len(token_text) > 1:
+                    token_text = token_text[0] + token_text[1:].lower()
             tok_dict = {
                 "token_text": token_text,
                 "lemma": lemma,
@@ -921,7 +744,7 @@ def doc_to_sent_dicts(doc, work_id):
                 "ref": {
                     "page": list(t._.pages) if t._.pages else [],
                     "textblock": list(t._.textblocks) if t._.textblocks else [],
-                    "tags": tags,
+                    "tag": tag,
                     "blocktype": t._.block_type or "text",
                 },
                 "char_start": start,
