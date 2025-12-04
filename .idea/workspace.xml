@@ -85,7 +85,7 @@
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
       <window_info anchor="bottom" id="PythonProcessOutput" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.54371667" side_tool="true" visible="true" weight="0.019583333" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.4997326" side_tool="true" visible="true" weight="0.14041667" />
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Problems" order="2" />
       <window_info anchor="bottom" id="Problems View" order="3" />
@@ -93,7 +93,7 @@
       <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
       <window_info anchor="bottom" id="Python Console" order="6" sideWeight="0.3875546" weight="0.17166667" />
       <window_info anchor="bottom" id="Jupyter" order="7" sideWeight="0.45628333" weight="0.25034723" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.33055556" />
+      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.5002674" weight="0.14041667" />
       <window_info anchor="bottom" id="Find" order="9" weight="0.33020833" />
       <window_info anchor="bottom" id="HfCacheToolWindow" order="10" weight="0.33722222" />
       <window_info anchor="right" id="PR AI Assistant" />
@@ -104,7 +104,7 @@
       <window_info anchor="right" id="SciView" />
       <window_info anchor="right" id="Jupyter Variables" side_tool="true" />
       <window_info anchor="right" id="Notifications" order="0" weight="0.28923613" />
-      <window_info anchor="right" id="AIAssistant" order="1" weight="0.33020833" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.2893229" />
       <window_info anchor="right" id="Database" order="2" weight="0.15363371" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
@@ -122,6 +122,7 @@
       <recent name="$PROJECT_DIR$/../iweems_huggingface" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/large_files/tokens_df" />
       <recent name="$PROJECT_DIR$/scripts" />
       <recent name="$PROJECT_DIR$/../WEEMS/scripts/archive" />
       <recent name="$PROJECT_DIR$/../WEEMS/data/large_files" />
@@ -173,6 +174,7 @@
       <workItem from="1764744558948" duration="11393000" />
       <workItem from="1764760059592" duration="2599000" />
       <workItem from="1764780282503" duration="2181000" />
+      <workItem from="1764863794599" duration="6697000" />
     </task>
     <servers />
   </component>
