@@ -639,6 +639,12 @@ def doc_to_sent_dicts(doc, work_id):
                 txt = SPECIAL_SYMBOL_CHAR
             else:
                 txt = raw.replace(PLACEHOLDER, SPECIAL_SYMBOL_CHAR)
+            # -----------------------------------------------------------
+            # NEW: apply same word-normalization as lemma/token_text
+            # -----------------------------------------------------------
+            if txt and txt.isalpha():  # only alphabetic tokens, not symbols or numbers
+                if len(txt) > 1:
+                    txt = txt[0] + txt[1:].lower()
 
             if not txt.strip():
                 continue
@@ -732,7 +738,7 @@ def doc_to_sent_dicts(doc, work_id):
             # absolutely never allow placeholder as lemma
             if lemma == PLACEHOLDER:
                 lemma = SPECIAL_SYMBOL_CHAR
-            if pos in ["ADJ", "VERB", "NOUN", "PROPN"]:
+            if pos not in ["NUM"]:
                 if len(lemma) > 1:
                     lemma = lemma[0] + lemma[1:].lower()
                 if len(token_text) > 1:
