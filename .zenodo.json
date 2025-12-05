@@ -1,0 +1,70 @@
+{
+  "title": "EMLAP",
+  "upload_type": "dataset",
+  "description": "EMLAP is a corpus of Early Modern Latin Alchemical Prints",
+  "creators": [
+    {
+      "name": "Hedesan, Delia Georgiana",
+      "orcid": "0000-0002-8648-8451",
+      "affiliation": "University of Oxford",
+      "type": "DataManager"
+    },
+    {
+      "name": "Huber, Alexander",
+      "orcid": "0009-0009-4812-2035",
+      "affiliation": "Czech Academy of Sciences, Institute of Philosophy; Charles University",
+      "type": "DataCurator"
+    },
+    {
+      "name": "Ředinová, Jana",
+      "orcid": "0009-0004-4870-4231",
+      "affiliation": "Czech Academy of Sciences, Institute of Philosophy; Charles University",
+      "type": "DataCurator"
+    },
+    {
+      "name": "Kříž, Ondřej",
+      "orcid": "0009-0002-5062-8923",
+      "affiliation": "Czech Academy of Sciences, Institute of Philosophy; Charles University",
+      "type": "DataCurator"
+    },
+    {
+      "name": "Kubíčková, Jindra",
+      "affiliation": "Czech Academy of Sciences, Institute of Philosophy; Charles University",
+      "type": "DataCurator"
+    },
+    {
+      "name": "Kaše, Vojtěch",
+      "orcid": "0000-0002-6601-1605",
+      "affiliation": "University of West Bohemia; Czech Academy of Sciences, Institute of Philosophy",
+      "type": "DataManager"
+    },
+    {
+      "name": "Pavlas, Petr",
+      "orcid": "0000-0001-9848-4995",
+      "affiliation": "Czech Academy of Sciences, Institute of Philosophy; University of West Bohemia",
+      "type": "ProjectLeader"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-sa-4.0",
+  "grants": [
+  {
+    "id": "10.13039/501100001823::TOME ERC CZ LL 2320"
+  }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/CCS-ZCU/EMLAP_ETL/tree/v0.5",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "keywords": [
+    "Early Modern",
+    "Latin",
+    "alchemy",
+    "EMLAP",
+    "dataset"
+  ],
+  "language": "lat"
+}
