@@ -27,13 +27,6 @@ EMLAP consists of:
 5. A catalogue of metadata describing individual works (bibliographic, prosopographic, spatial, and thematic information): https://ccs-lab.zcu.cz/emlap_corpus_public/emlap_metadata.csv  
 6. Scripts used for automatic cleaning, preprocessing, and preliminary explorations of the transcriptions (`./scripts/`).
 
-1. Manually curated digital transcriptions of works forming the corpus, in the form of an OCR layer over public-domain PDFs of the works, available via a dedicated GUI: https://emlap.flu.cas.cz  
-2. Raw, machine-readable text of individual works in the form of TXT files: https://ccs-lab.zcu.cz/emlap_corpus_public/emlap_txts/  
-3. Token-level morphologically annotated data for each work, available in a TEI-XML compatible format: https://ccs-lab.zcu.cz/emlap_corpus_public/emlap_lemmatized_xmls/  
-4. Token-level morphologically annotated data for the whole corpus in a single file: https://ccs-lab.zcu.cz/emlap_corpus_public/emlap_tokens_df.parquet (see below)  
-5. A catalogue of metadata describing individual works (bibliographic, prosopographic, spatial, and thematic information): https://ccs-lab.zcu.cz/emlap_corpus_public/emlap_metadata.csv  
-6. Scripts used for automatic cleaning, preprocessing, and preliminary explorations of the transcriptions (`./scripts/`).
-
 For a more extended rationale behind the corpus and its design, see: https://emlap.flu.cas.cz/about.
 
 In its current form, EMLAP covers 100 works and approximately 6.5 million tokens in total.
