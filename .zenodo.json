@@ -47,11 +47,6 @@
   ],
   "access_right": "open",
   "license": "cc-by-sa-4.0",
-  "grants": [
-  {
-    "id": "10.13039/501100001823::TOME ERC CZ LL 2320"
-  }
-  ],
   "related_identifiers": [
     {
       "identifier": "https://github.com/CCS-ZCU/EMLAP_ETL/tree/v0.5",
