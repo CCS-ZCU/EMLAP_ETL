@@ -3,3 +3,4 @@
 /data/large_files/
 /venv/
 /owncloud_creds.json
+/data/emlap_corpus_public/emlap_tokens_positions_df.parquet
