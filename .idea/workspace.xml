@@ -17,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -122,8 +122,8 @@
       <recent name="$PROJECT_DIR$/../iweems_huggingface" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/data/large_files/tokens_df" />
       <recent name="$PROJECT_DIR$/scripts" />
+      <recent name="$PROJECT_DIR$/data/large_files/tokens_df" />
       <recent name="$PROJECT_DIR$/../WEEMS/scripts/archive" />
       <recent name="$PROJECT_DIR$/../WEEMS/data/large_files" />
     </key>
@@ -175,7 +175,9 @@
       <workItem from="1764760059592" duration="2599000" />
       <workItem from="1764780282503" duration="2181000" />
       <workItem from="1764863794599" duration="16932000" />
-      <workItem from="1764939040102" duration="2297000" />
+      <workItem from="1764939040102" duration="3732000" />
+      <workItem from="1764951299824" duration="833000" />
+      <workItem from="1764952443695" duration="1186000" />
     </task>
     <servers />
   </component>
