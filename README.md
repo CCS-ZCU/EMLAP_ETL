@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17834734.svg)](https://doi.org/10.5281/zenodo.17834734)
+
+
 # EMLAP: Early Modern Latin Alchemical Prints
 
 ---
