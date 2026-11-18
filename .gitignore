@@ -4,3 +4,15 @@
 /venv/
 /owncloud_creds.json
 /data/emlap_corpus_public/emlap_tokens_positions_df.parquet
+
+# --- workflow housekeeping: IDE + notebook artifacts (not tracked) ---
+.idea/
+.idea_modules/
+.fleet/
+*.iml
+*.iws
+*.ipr
+.ipynb_checkpoints/
+# --- workflow housekeeping: bulk data is never committed ---
+large_files/
+large_data/
